@@ -1,0 +1,810 @@
+,company,headline,date,overall_rating,author_position,pros,cons
+0,Laurentian Bank,Good,2022-04-10,5.0,Fraud Analyst,it’s a great place to work in very efficient,nothing to mention about this for now
+1,Laurentian Bank,Outdated technology but great working environment,2022-04-09,4.0,Commercial Underwriter,"- Great working environment
+- Good salary
+- New CEO with a great vision
+- Smaller company means a lot of possibility for you to climb up","- Bad technology
+- Smaller company so lower salary/benefits compared to competitors
+- Smaller brand name makes it harder to compete in the market"
+2,Laurentian Bank,Learning,2022-04-03,4.0,Customer Service Representative,"Inclusive environment, Good culture
+Good pace, not too busy not too slow","Less prospects for growth
+Less clarity about career opportunities"
+3,Laurentian Bank,Great team,2022-03-24,5.0,Commercial Underwriter,"- Great team to work with
+- Great management.
+- Great culture",- Average pay for the position/responsabilities
+4,Laurentian Bank,Decent to gain experience,2022-03-24,4.0,UAT Analyst,Cultural and people of work place,Salary and opportunity to advance your career
+5,Laurentian Bank,Work Ethics,2022-03-24,4.0,Customer Service Officer,Senior Management staff is most helpful.,At time work is really stressed up.
+6,Laurentian Bank,Learning team,2022-03-15,3.0,Learning And Development Specialist,"Manager was good but not all managers are good
+Remote","slow to change
+low pay
+Learning culture is low"
+7,Laurentian Bank,Great employer,2022-03-12,3.0,Client Advisor,"Good pay, great pearks, possibility of avencement, excellent place to debute in the financial world and work from home.","Most of the clients are old, future of the compagnie is uncertain."
+8,Laurentian Bank,A little lost,2022-03-10,3.0,Financial Advisor,good people in the branches,the company  just seems lost.  their is so much time wasted.
+9,Laurentian Bank,DevOps Engineer,2022-03-07,5.0,Devops Engineer,"Chef, Ansible, Jenkins, Maven, CI/CD, Docker, kubernetes, AWS, Terraform, SonarQube, Python, Bash, Shell Scripting, GIT, Splunk, SonarQube, Nexus, Windows, and LINUX","•	Actively involved in architecture of DevOps platform and cloud solutions.  
+•	Responsible for User Management, Plugin Management and END-END automation of Build and Deploy using Jenkins.  
+•	Created Jenkins pipeline jobs using Groovy Jenkins file. Pipeline provides Build as a code option to perform end to end process of source code, building and deployment in different environments. 
+•	Implemented Chef Cookbooks for OS component configuration to keep AWS server's template minimal and written recipes and cookbooks for configuring server side through Chef.  
+•	Written Chef Cookbooks for various DB configurations to modularize and optimize end product configuration, converting production support scripts to Chef Recipes and AWS server provisioning using Chef Recipes.  
+•	Used Ansible to manage Web applications, Environment’s configuration Files, Users, Mount points and packages.  
+•	Used Ansible as a configuration management tool to manage the software configuration and created new infrastructure on AWS. 
+•	Automated Splunk infrastructure for Logging and Monitoring the team through Ansible Playbooks.  
+•	Created AWS Infrastructure using VPC, EC2, S3, Route 53, EBS, Security Group, Auto Scaling, and RDS in Cloud Formation and Terraform.  
+•	Utilized AWS Cloud Watch to monitor the performance environment instances for operational and performance metrics during load testing.  
+•	Implemented Terraform modules for deployment of applications across multiple cloud providers.  
+•	Created nightly builds with integration to code quality tools such as SonarQube.  
+•	Integrated GIT repository with Jenkins and added webhooks and build triggers to automate build and deployment of applications on application server.  
+•	Integrated Docker container orchestration framework using Kubernetes by creating pods, config Maps and deployments. 
+•	Used Kubernetes to load balance, scale and manage Docker containers."
+10,Laurentian Bank,Good Place to Work,2022-03-03,5.0,Bilingual Credit Administration Officer,"Good support from the manager, great co-workers, good salary.","High volumes during peak RRSP season, but I enjoyed the intensity."
+11,Laurentian Bank,working at b2b,2022-02-21,3.0,Customer Service Representative,"Great managers, a lot of valuable information to learn.",lack of organization in the company
+12,Laurentian Bank,Good employer,2022-02-21,3.0,Customer Service Representative (CSR),Overall good employer to work for,Disjointed systems in place and takes longer to figure out answers
+13,Laurentian Bank,"good environment , friendly managers but tech need to be upgraded",2022-02-15,3.0,Collections Officer,"- CEO and top management doing their best to carry out the company to a high standards.
+- Flexibility 
+-Job work /life balance 
+- Many opportunities available to work remotely especially post pandemic.
+-","- Missing communication between Depts. leads waste of time.
+- software and apps outdated and need to be upgraded.
+-"
+14,Laurentian Bank,Good place to work overall,2022-02-09,4.0,Office Administrator,"It has a Comfortable office, convenient location, friendly environment.",No possibility to change role to full-time status.
+15,Laurentian Bank,Layoffs,2022-02-02,1.0,Programmer Analyst,There are no pro for working at this company,"It is a bank that have a very disorganized culture.
+Lots of layoffs"
+16,Laurentian Bank,So far so good,2022-02-02,4.0,Bilingual Credit Administration Officer,"Work Flexibility;
+Multiculturalism, inclusion and diversity;
+Not much stress.","Some incompetent employees are praised, and kept while bright ones are let go of."
+17,Laurentian Bank,Ok,2022-02-02,1.0,Head of Department,Great great great great great great great great great great great great great great,Bad time to drop off the phone with you to the meeting to discuss deployment of the certificates and I
+18,Laurentian Bank,good for a first Canadian experience,2022-02-01,2.0,Credit Administration Officer,It gives you a chance to start a career in Canada,"Huge work load
+Low salary 
+Poor Management"
+19,Laurentian Bank,Overall better,2022-01-31,4.0,Learning Specialist,"Good hours 
+Remote
+New leadership
+Stable
+Nice people","Slow to change
+Hippo
+Old methodologies
+Input not always consideted"
+20,Laurentian Bank,Terrible work culture,2022-01-18,1.0,Senior Financial Analyst,They try to paint a positive picture about the organization culture,Old systems and lack of vision and direction
+21,Laurentian Bank,Worklife balance,2022-01-09,5.0,Collections Officer,"Amazing growth opportunities
+Great management team",None so far that I can think of
+22,Laurentian Bank,Good Job,2022-01-06,4.0,Portfolio Manager,It pays well in comparison with other banks,"Very strict 
+stressful
+ not remote"
+23,Laurentian Bank,Good company,2021-12-22,4.0,Bilingual Collections Agent,"Great management, nice work environment and possibility to work from home",No career growth opportunities here
+24,Laurentian Bank,Good place to start,2021-12-16,3.0,Anonymous Employee,Good place to start the 1st job at financial institution sector. Colleagues are good.,Not much room to advance further if don't speak French
+25,Laurentian Bank,An OK Company,2021-12-16,4.0,IT Systems Administrator,"Fair Pay
+Friendly Team
+Reasonable Managers
+Flexible work schedule when I needed it - at least in my department","Outdated technology
+Lack of company provided training
+Overwhelming work load after the work from home started - at least in my department"
+26,Laurentian Bank,Poor work environment,2021-12-15,2.0,Anonymous Employee,"Flexible hours, work while studying possibilities","Lack of training, toxic work environment"
+27,Laurentian Bank,Learning opportunity,2021-11-28,3.0,Manager,"Exposure to all lines of business.
+Access to senior management. 
+Diverse work environment.","Technology - old hardware, slow systems and outlook issues"
+28,Laurentian Bank,Good team and work culture,2021-11-23,4.0,Anonymous Employee,Great team work and good company culture,Lots of overtime work which takes up to late evening
+29,Laurentian Bank,Great Company to start your career,2021-11-17,4.0,Investment Analyst,"The work environment is nice, managers are super helpful. Good company if you are just starting out.","If you want to move ahead in your career, the choice is very limited here and pay rate is low."
+30,Laurentian Bank,Salary,2021-11-08,3.0,Customer Service Representative,"Nice people
+Great opportunities for growth",The training is not particularly structured
+31,Laurentian Bank,aaah,2021-11-02,3.0,Senior Business Process Analyst,this is a great place to work,currently don't have any to say
+32,Laurentian Bank,Mixed bag,2021-10-25,3.0,Anonymous Employee,"Good team, for my time at least","Weaker pay scale, not much flexibility"
+33,Laurentian Bank,Nice job and well balanced lifestyle,2021-10-21,4.0,Senior Adminitrative Assistant,"Helpful colleagues and team spirit
+Good managers
+Able to handle work life balance","Pay is not attractive
+Must Increase interaction with higher management
+With the new CEO it's changing"
+34,Laurentian Bank,Bad company,2021-10-18,1.0,Outsourcing,"Nothing 
+Cakes 
+Pizzas 
+Ice creams 
+Location","No recognition
+Salaries 
+Management 
+Vacation 
+No event"
+35,Laurentian Bank,Nice job but a lot of workarounds to get the job done because the core system isnt fully functionable.,2021-10-07,3.0,Commission Analyst,"- Most of people there are nice.
+- Good place to work if you are new graduated or newcomer.
+- Most managers are great persons.","- Salaries aren't competitive compared with other companies.
+- Old and slow computers (PC's).
+- Tech support almost never can fix a bug.
+- Benefits are not good."
+36,Laurentian Bank,Administrative,2021-10-03,5.0,Anonymous Employee,Great place to learn new things. Great training.,Sometimes high volume with work.
+37,Laurentian Bank,Bilingual Senior Administrator,2021-09-30,5.0,Anonymous Employee,"Good experience, close to management and client","A lot of overtime , difficult life work balance"
+38,Laurentian Bank,Financial Services Representative,2021-09-26,5.0,Anonymous Employee,"Flexibility, Salary, Team spirit, Management","Shift during the weekend, work from home"
+39,Laurentian Bank,review,2021-09-18,3.0,Account Manager,great opportunity for college students that are looking for great job skills,overall ok company to work for
+40,Laurentian Bank,Good work environment,2021-09-09,4.0,Credit Administration Officer,"Great work ethics, good training",No Cons to mention for this company
+41,Laurentian Bank,NA,2021-08-30,4.0,Administrative Officer,Good work life balance and management,Nothing bad about this place
+42,Laurentian Bank,Acceptabla for a first job,2021-08-25,2.0,Customer Service Representative,Money is okay but not great,Shifts are scheduled and you can not do anything about thar...
+43,Laurentian Bank,OK for a few months,2021-08-24,3.0,Senior Bilingual Administration Officer,"Nice location, pretty cool work atmosphere and international environment.","No career plan, very few opportunities to grow up internally, super repetitive tasks."
+44,Laurentian Bank,Structured but tedious work,2021-08-15,3.0,Analyst,"If you're a fan of procedures and processes in place, then this is the place for you.","Not much room for ""out of the box"" thinking. Workload can get repetitive"
+45,Laurentian Bank,Pretty good place to work at,2021-08-06,5.0,Recovery Officer,Management is good and it is a nice environment to work in as a team. There is also an opportunity to advance further.,"Benefits are not that great
+
+IT department is pretty lax
+
+Overall, you will face many issues with the outdated systems used."
+46,Laurentian Bank,"Good management, not very challenging job",2021-08-04,4.0,Collection Officer,Coworkers and management are great and very helpful. If it wasn't for the team a lot would have already left,"It's a call center, very repetitive tasks, every one is new so we are pretty much all learning together"
+47,Laurentian Bank,Credit risk management,2021-07-22,4.0,Principal Advisor,"Work life balance, scale of enterprise allows for broad exposure to projects and proximity to higher management.",Strategic project sometimes executed too aggressively.
+48,Laurentian Bank,Good,2021-07-20,4.0,Front End Developer,"Nice teamwork, friendly nature and motivation",There are not many Cons
+49,Laurentian Bank,Horrible place to work,2021-07-19,1.0,Bilingual Administration Officer,Great place to start your career at junior level - no one talented stays here,"No career growth 
+Paid under market
+Long hours 
+No resources
+Behind all business practices
+Behind all technology advancements"
+50,Laurentian Bank,average,2021-07-19,2.0,Residential Underwriter,"good people
+management is ok
+great location","archaic system
+need to invest in new technology"
+51,Laurentian Bank,Ok for entry level,2021-07-12,1.0,Accounting Analyst,"flexibility, good for first experience.","Low Salary, career development nonexistent."
+52,Laurentian Bank,Company Review,2021-07-06,3.0,Analyst,good salary and nice colleagues,Traditional way of doing business
+53,Laurentian Bank,Good team spirit average pay,2021-07-01,4.0,Advisor,Great team spirit - great atmosphere in the department.,Average pay given the demanding work.
+54,Laurentian Bank,Credit Administration officer,2021-06-30,2.0,Bilingual Credit Administration Officer,"Canadian experiences, knowledge in bank industry","salary increase, professionnal opportunities linked to your background"
+55,Laurentian Bank,Very bad,2021-06-30,1.0,Anonymous Employee,Everything bad. Very bad experience,Don't go there. You will waist your time
+56,Laurentian Bank,Great team atmosphere,2021-06-16,5.0,Manager,"Appreciative management, lots of acknowledgement, helpful and supportive colleagues, varied work, not stuffy, new executive looking to progress and improve","hectic, old technology, dated processes, lots of change"
+57,Laurentian Bank,Laurentian bank is a great place to work at but there is not growth perpespective base on my experience.,2021-06-16,3.0,Bilingual Customer Service Officer,management is very understanding and supervisors are open to dialogue,limited growth for the employee
+58,Laurentian Bank,"Rough condition, nice colleagues",2021-06-08,3.0,Accounting Analyst,"-Unlimited overtime
+-Nice office
+-Good colleagues
+-Amazing learning opportunity","-55 hours / week required to finish job
+-No good work-life balance"
+59,Laurentian Bank,Amazing employer,2021-05-31,5.0,Anonymous Employee,"- Hierarchy who knows you and really care about your wellbeing.
+- Great life work balance
+- You will be listened to, and your idea will drive positive change
+- if you want to develop yourself, this is the place to be",the training is a work in progress and the numerous tools used can make daily work challenging
+60,Laurentian Bank,Most awesome tremendous freaking fantastic place,2021-05-28,5.0,"Senior Manager, Finance","Most amazing place to work in the whole universe. Feel like working in heaven, without the pain of listening to St-Peter's speech.",Laughing too hard can give you a heart attack.
+61,Laurentian Bank,Do not work here,2021-05-13,3.0,Marketing Manager,Met some really great people whom I still keep in touch with,Its a very stressful environment. No room for advancement
+62,Laurentian Bank,To much change,2021-05-11,2.0,Marketing Analyst,Work on a lot of different projects,Management is changing every 6-12 months so no real vision and direction
+63,Laurentian Bank,Great place to work,2021-05-07,5.0,Bilingual Recovery Officer,Great people and great support from managers,Nothing negative to say at all about this bank
+64,Laurentian Bank,Review Telebanking Customer Service Representative,2021-05-02,3.0,Telebanking Customer Service Representative,"good supervisor
+good deals for mortgages when employee","old clients that are needs more assistance and can be tiring
+too many calls 
+not good technical support"
+65,Laurentian Bank,Fair review,2021-04-30,3.0,Customer Service,"Good salary, good working conditions, but very bureaucratic.","No growth, they always prefer, poor management."
+66,Laurentian Bank,"Nice colleagues and staff, but complicated",2021-04-25,3.0,Manager,"Proximity, teammates, benefits, salary, work/life balance","Disconnected leadership, little or no concrete vision, hard to work there, stressfull. Little or no carreer growth"
+67,Laurentian Bank,Satisfactory,2021-04-17,3.0,Customer Service Representative,Good experience and opportunity for lateral movement,Unorganized company and difficult to move up
+68,Laurentian Bank,"Good work environment, team oriented",2021-04-03,4.0,Financial Advisor,"Good management 
+Positive environment 
+Strong team culture
+Stock options
+Great investment product offering","Non competitive mortgage rates
+Transitioning business 
+Out of date processes 
+Convoluted mid and end year evaluations
+Talent goes unnoticed or unacknowledged"
+69,Laurentian Bank,Good overall,2021-04-02,4.0,Cash Manager,"New leadership, good working environment","Lack advancement possibilities, mid salaries"
+70,Laurentian Bank,Company in great transition,2021-03-30,4.0,Lead Advisor,Complete new leadership. Be part of the change,It's in transition so wait and see
+71,Laurentian Bank,nice place to work,2021-03-28,3.0,Branch Manager,work life balance - family environment,a lot of follow up to get things done
+72,Laurentian Bank,Great company,2021-03-27,4.0,Senior Commercial Analyst,"Experience, salary, remote working, team, pay","Not well structured, poor managers, non-inclusive, poor team communication, old system"
+73,Laurentian Bank,If you're ambitious and want to make moves - this company isn't the place.,2021-03-25,3.0,Administration,"Very stable, old-school management practices.","They got a swamp of old managers and executives that are currently making the culture nonexistent at the corporate level. They are all afraid to make decisions or perhaps aren't given ownership to make any. At least that's how I see it for the back office side. It feels like a thankless, repetitive and archaic job. Banking administration has so much room to improve yet nothing happens? WHY?"
+74,Laurentian Bank,Good for career start,2021-03-23,3.0,Administrative Officer,growth within company is good.,salary is too low. contracts hardly get permanent status
+75,Laurentian Bank,Financial Advisor,2021-03-22,2.0,Financial Advisor,"Salary, benefits, paid holiday, small bank",Changes and vision not aligned with strategy and management decisions
+76,Laurentian Bank,Client Service Representative (B2B bank),2021-03-15,3.0,Customer Service Representative,"WFH since April 2020, decent Benefits, ESPP, undervalued Bank","B and below rated clients, allot of unnecessary Escalations, Tech investment is required in comparison to other Banks and Lenders. UI investment required, get clients online."
+77,Laurentian Bank,Administration Officer,2021-03-15,5.0,Administration Officer,All colleagues are nice. Love this company,Everything is good. No cons
+78,Laurentian Bank,Not good,2021-03-12,2.0,Financial Advisor,Good benefits and good commissions,Unrealistic objectives and inability to offer basic banking services to clients
+79,Laurentian Bank,Salary,2021-03-11,3.0,Commercial Banking Analyst,Good management with strong leadership,Long hours and lower pay
+80,Laurentian Bank,Pretty good,2021-03-10,4.0,Account Manager,Good team environment for new workers,Hard to develop a good career
+81,Laurentian Bank,Great company to grow,2021-03-05,4.0,Administrative,"Fast pace environments, lot of opportunities","Stressful environment, long hours, lot staff change"
+82,Laurentian Bank,Good,2021-03-02,5.0,Financial Analyst,"Good bank, good team, pleasant work for",No reason not to work there
+83,Laurentian Bank,Good place to work at,2021-02-27,5.0,Executive Assistant,Nice and super helpful colleagues,Salaries and benefits not good enough
+84,Laurentian Bank,Ok Company,2021-02-24,3.0,Agent Call Center,"Decent salaries,
+Kind of good location","Not really professional,
+Very old technologies,
+Complacent environment"
+85,Laurentian Bank,Decent,2021-02-24,3.0,Business Development Manager,"Great pension plan, decent wages, decent management","Not necessarily in touch with what markets are asking for, a little archaic"
+86,Laurentian Bank,analyst,2021-02-23,4.0,Anonymous Employee,"great company, good staff and management","nothing yet, new to state"
+87,Laurentian Bank,Bad experience,2021-02-21,1.0,Analyst,"Difficult to find, but my colleagues were ok.","Poor management, absolutely no vision."
+88,Laurentian Bank,Great Experience,2021-02-19,4.0,Mortgage Advisor,I Had Really Excellent Managers.,A Very Tightly Structured Environment
+89,Laurentian Bank,Great place and great family environment,2021-02-18,4.0,Senior Analyst,"Great Salary and bonus compensation
+Learning","Hard to have a sens of direction where the bank is going. 
+Huge rotation
+Hire a lot of consultants instead of relying on internal expertise. FOMU ( fear of messing up)"
+90,Laurentian Bank,Work Ambiance,2021-02-16,3.0,Financial Planner,Pleasure of working with amazing people and cleints,"Everything, constant management change, pressure, constant business plan change"
+91,Laurentian Bank,average job,2021-02-13,2.0,Account Manager,normal banking industry work life balance,no opportunities for growth outside of montreal HQ
+92,Laurentian Bank,Good job,2021-02-13,3.0,Debt Collection Agent,"Good staff
+Decent pay
+Good work benefits","Repetitive work
+Lots of calling
+No company culture"
+93,Laurentian Bank,n/a,2021-02-11,4.0,Commercial Account Manager,not applicable for this field,behind when it comes to technology
+94,Laurentian Bank,Good to work with experienced Team,2021-02-10,4.0,Applications Support Analyst,Best places for enhancing professional development.,Slow salery and benefit growing rate.
+95,Laurentian Bank,Great place to start your career,2021-02-08,4.0,Commissions Analyst,"Good opportunity for growth, friendly staff","Office politics, okay benefits, lower salary"
+96,Laurentian Bank,Good,2021-02-08,5.0,Credit Administration Officer,Good office environment. Calm and relaxed,Low pay compared to others
+97,Laurentian Bank,Great Job,2021-02-07,5.0,Account Manager,"Great team, great task, good entry level to commercial banking.","Learning curve, covid-19 makes the experience less interesting"
+98,Laurentian Bank,Mms,2021-02-06,5.0,"Senior Engineer Testing, NSN Gurgaon",I’m a hard dedicated worker who thrives to be successful,I don’t have much work experience considering I haven’t got work experibce
+99,Laurentian Bank,Good for a start,2021-02-06,3.0,Bilingual Senior Administration Officer,Good start to gain Canadian experience,Low salary - not much opportunity for growth
+100,Laurentian Bank,Good,2021-02-04,4.0,Senior Analyst,"Good ambiance, good work condition","a lot of job, poor performance"
+101,Laurentian Bank,👍🏽,2021-02-04,5.0,Administrative Officer,Great place to work really.,No bad things to say.
+102,Laurentian Bank,Good team spirit but very bad management,2021-02-04,3.0,Bilingual Administration Officer,"2 breaks (15 min) , one in the morning and one afternoon, 1h lunch 9am -5pm schedule
+Overtime is paid 150 %
+Good team spirit, good colleagues! I made a lot of friends there","So much work that you are obliged to do overtime whereas they can recruit...
+Management is not good at Toronto location :
+They check everything you do every 2 hours, it's exhausting
+A disagreement is very badly taken, for them french people are arrogant"
+103,Laurentian Bank,My experience in B2B BANK,2021-02-02,4.0,Administration Officer,Good workplace to work there.,Salary negotiations might be tough.
+104,Laurentian Bank,not the best job,2021-01-26,1.0,Senior Administration Officer,Weekly work and not overnight shift,"No evolution
+Few trainings 
+No help from the management"
+105,Laurentian Bank,Average,2021-01-21,3.0,Senior Administrative Officer,"1. Paid Overtime
+2. Great location
+3. Friendly higher management","1. Some teams have unhealthy culture/work environment
+2. Some managers lean towards favouritism
+3. Since the work involves completing mortgages cases related to payment, payout, discharges, etc. Managers are only concerned about finishing higher number of cases everyday. 
+Not appreciated enough by managers"
+106,Laurentian Bank,Enjoyable Place to Work,2021-01-21,4.0,Financial Analyst,Enjoyable place to work. Interesting work and the team was quite friendly.,Often the daily tasks were very similar. A lot of repeatable work
+107,Laurentian Bank,NO,2021-01-20,2.0,Senior Office Administrator,"They pay your salary in Time.
+Diverse workforce but for all of the wrong reasons, they only hire newcomers because they know they do not have another choice than get a job.","Everything else, It's a mess and there is a deep lack of values, morals and human being respect. You forget for a second that you are in Canada"
+108,Laurentian Bank,not fun,2021-01-12,1.0,Account Manager,coffee is free and nice people,You don't have help and too stressfull
+109,Laurentian Bank,n/a,2021-01-06,1.0,Associate,Small team environment and boutique mentality,Homogenous leadership demographics + must be Quebec French
+110,Laurentian Bank,Great,2021-01-06,4.0,Personal Banker,a lot of great people working at CDW,I do not have any cons to share
+111,Laurentian Bank,good,2021-01-04,5.0,Bilingual Customer Service Representative,Nothing to submit for this employer,high rate of turnover as the employees are not valued.
+112,Laurentian Bank,Devops Engineer,2020-12-14,4.0,Devops Engineer,"•	Implemented automated build and deployment process for applications and re-engineering set up for better user experience and leading up to building a continuous integration system.
+•	Developed and implemented Software Release Management strategies for various applications according to the agile process. 
+•	Involved in Configuring, monitoring and multi-platform servers by defining Chef Server from workstation to manage and configure Chef Nodes. 
+•	Development of Chef Recipes using Ruby Script to create Chef Cookbooks to manage systems configuration. 
+•	Involved in infrastructure as code, execution plans, and resource graph and change automation using Terraform. Managed AWS infrastructure as code using Terraform. 
+•	Maintained the user accounts IAM Roles, VPC, RDS, Dynamo DB, SES, SQS and SNS services in AWS cloud. 
+•	Managed AWS Cloud Formation templates to create custom sized VPC, EC2 instances, ELB and Security Groups. 
+•	Used Ansible to automate Configuration management and Applications. 
+•	Written Ansible playbooks to configure deploy and maintain software components of the existing infrastructure. 
+•	Used Git as source code repositories and managed Git repositories for branching, merging, and tagging. 
+•	Used Maven as build tool for the development of build artifacts on the source code. 
+•	Configured and maintained Jenkins to implement the CI/CD pipeline. 
+•	Automated deployment of builds to different environments using Jenkins. 
+•	Creating a fully automated Build and Deployment Platform by coordinating code builds promotions and orchestrated deployments using Jenkins. 
+•	Integrated Jenkins with various DevOps tools such as Nexus, SonarQube, Maven, and developed Jenkins jobs to automatically manage, test and deploy code and applications.","Chef, Ansible, Docker, Kubernates, Terraform, AWS (IAM Roles, VPC, RDS, Dynamo DB, SES, SQS and SNS, VPC, EC2 instances, ELB, Security Groups), Nexus, SonarQube, GIT, CI/CD, Jenkins, Python, Ruby, Shell Script, SQL, PL/SQL, JBoss, Agile and Windows."
+113,Laurentian Bank,ok place to work,2020-12-10,3.0,Vice President,"Nice people
+Great potential as a bank","Leadership could get more aligned
+Could invest more into nurturing existing staff"
+114,Laurentian Bank,OK place to work at,2020-12-08,2.0,Administrator,"- Downtown core
+- Friendly coworkers
+- TTC/GO nearby
+- Free Lunches sometimes
+-Offers OT sometimes","-Managers are bossy
+- OT is exhausting
+- Favouritism
+- Mentally draining
+- Unable to move higher"
+115,Laurentian Bank,to much pression,2020-12-02,3.0,Customer Service,"people are great to work with, you might create friendship with your colleague","Not bonus, no appreciation of what your doing and a lot sales pression"
+116,Laurentian Bank,Racist institution,2020-11-27,1.0,Financial Analyst,only because it is a financial institution,Poor experience ever lack of professionalism from the whole management
+117,Laurentian Bank,Great team,2020-11-26,5.0,Administrative Assistant,"Flexible schedule, good benefits, care for the employee",Maybe health benefits could be better.
+118,Laurentian Bank,an entry-door to the banking sector,2020-11-15,2.0,Bilingual Senior Administration Officer,"no work on weekends, fixed work time 9-5, good training and support from management and colleagues, internal career opportunities after 6 months","repetitive tasks, unflexible time, not the best work culture from my experience, stressful/high-pressure job, careless about employees' mental health"
+119,Laurentian Bank,WORSE place to WORK,2020-11-11,1.0,Administrative,None I can think of.,"A disorganized company with two differing mentalities
+No cohesiveness between teams
+Some areas are understaffed and that adds a burden to other areas
+Some people do not speak French while others don’t speak English"
+120,Laurentian Bank,Progressive organization,2020-11-10,4.0,Executive Assistant,"Teamwork/support
+Room for growth
+Employee Assistance Plan
+Gym reimbursement 
+Busy environment","Disorganized company with two differing mentalities
+No cohesiveness between teams
+Some areas are understaffed and that adds a burden to other areas 
+Some people do not speak French while others don’t speak English"
+121,Laurentian Bank,good place to work,2020-11-08,3.0,Financial Advisor,"flexibility, autonomy, great management, interesting portfolio",operations / heavy admin / too many changes
+122,Laurentian Bank,Pros and Cons,2020-11-04,3.0,Financial Service Advisor,"Good for starting job, career opportunity","Low salary compared to others, lack of management knowledge"
+123,Laurentian Bank,"Nice co-workers, management needs to chill out",2020-11-03,3.0,Tax Coordinator,"-Great co-workers and location. 
+-Friendly enviroment","-Low pay
+-Micro-management 
+-Low growth opportunities"
+124,Laurentian Bank,"Good opportunity to learn in this job, since you sell investment and financing products",2020-10-17,4.0,Branch Advisor,Good employee benefits and salary,"Pressure for sales, too much focus on figures"
+125,Laurentian Bank,Great place to work,2020-10-13,5.0,Manager Compliance,"Great people, culture and benefits","Growth opportunities, lack of vision"
+126,Laurentian Bank,Bank,2020-10-09,2.0,Senior Bilingual Administration Officer,Good location and good Environment as well.,The company is not open to changes and not well coordinated with processing between nother departments
+127,Laurentian Bank,Would recommend for experience,2020-10-09,5.0,Bilingual Senior Administration Officer,Good work culture and good management,Lots pf work for the pay
+128,Laurentian Bank,Great place to work,2020-10-09,5.0,Bank Teller,"Good work/life balance
+Nice people 
+decent benefits","technology needs improvement, but they are working on it."
+129,Laurentian Bank,"Home away from home, great work environment",2020-10-05,5.0,Lending Specialist,"Amazing work environment 
+Management is open and accessible for all levels of employees
+Open communication on changes needed to become better
+From VP to Manager, always ready to give personal touch to your birthdays to Christmas celebrations
+Good salary package
+Lots of room for growth","Not the best bonus package
+Some managers might seem favorable to older employees
+Lack of career or education advancement
+Constant pressure to do more than required, offsetting the work/life balance"
+130,Laurentian Bank,Laurentian Bank Review,2020-10-01,2.0,Customer Service Representative,If you work hard it is easy to have advanced to a better position since it is a small bank,Supervisors dont know anything about management
+131,Laurentian Bank,Very nice company,2020-09-29,4.0,Senior Bilingual Administration Officer,"Good atmosphere, team work, good career opportunities",The training is needs to be improved
+132,Laurentian Bank,Need improvement,2020-09-28,2.0,Administrative Officer,Office located near a subway station. Workstation is nice and spacious.,Management has no idea was their team is doing and is not helpful. HR does not pay employees when they are sick with a doctor’s note and don’t reply to employe’s emails. Benefits are not good. Management does not listen to their employees and refuse every proposition to make the work better (too conservative).
+133,Laurentian Bank,Bank Teller,2020-09-23,5.0,Bank Teller,you get to meet newpeople,there can bealot ofpeoplecomplaing often
+134,Laurentian Bank,B2B Bank,2020-09-17,5.0,Business Development Representative,Great team to work with; Leaders who are forward thinking and are receptive to feedback.,Executive level politics and top-down approach
+135,Laurentian Bank,Nothing,2020-09-16,3.0,Mutual Fund Administrator,"Central location, free coffee, friendly staff","Low pay, hard to advance"
+136,Laurentian Bank,It was very comfortable and the management was very supportive also the benefits were amazing,2020-09-16,5.0,Customer Service Officer,It helped me growing fast.,Few staff members are mean.
+137,Laurentian Bank,Great Place to Learn,2020-09-16,5.0,Business Analyst Intern,Very welcoming staff who want you to learn and do well,not much room for upwards growth
+138,Laurentian Bank,Nice job for students,2020-09-15,4.0,Recovery Analyst,Highly paid for a student job,Dealing with clients in hard situations some times
+139,Laurentian Bank,excellent,2020-09-11,4.0,Devops Engineer,great benefits and collegues.excellent work culture,should be involved in too many projects
+140,Laurentian Bank,Good place to work as a graduate,2020-09-09,5.0,Recovery Associate,Friendly environment to work and job stability,Pay could be better for the work
+141,Laurentian Bank,bad treatment,2020-09-05,1.0,Senior Administrative Assistant,no pros at all nothing,"tell me about it , they use till your last day so much pressure"
+142,Laurentian Bank,Devops engineer,2020-08-28,5.0,Devops Engineer,Great company with good knowledge to learn,nothing negative about this company.
+143,Laurentian Bank,salary,2020-08-15,3.0,Underwriter,"Great vacation, location and some good management","Low salary, hard to grow career"
+144,Laurentian Bank,Bad mgmt,2020-08-06,2.0,Manager,Good potential to compete and grow,Poor management in certain departments who won't listen
+145,Laurentian Bank,Good stepping stone,2020-07-28,3.0,Senior Administration Officer,"Your coworkers 
+Location of the building",The department I am with is very disorganized. No procedures or seniors to request assistance from.
+146,Laurentian Bank,Great Workplace,2020-07-14,5.0,Bilingual Customer Service Representative,"Great for entry level, you learn a lot",Nothing that i can think of
+147,Laurentian Bank,Positive environment,2020-06-16,4.0,Customer Service Manager,"Friendly environment, lots of autonomy in your position","Hard to share opinions, leadership slow to adapt to problems and changes"
+148,Laurentian Bank,Laid Back (as long as you produce),2020-06-13,4.0,Senior Manager,If you’re producing best place to work,Training and internal delays long
+149,Laurentian Bank,Good experience,2020-06-07,3.0,Administrative Assistant,"Great working environment, great co workers.","Not too organized, company in shambles"
+150,Laurentian Bank,It was ok,2020-06-06,3.0,Mortgage Loan Officer,Great work environment and coworkers make you feel welcomed.,No evolution or advancement within the compagny.
+151,Laurentian Bank,Place to start and have a first experience,2020-06-02,3.0,Administrative Officer,"friendly, acceptable, not abusive, a good place for first experience","not for a long time career path,"
+152,Laurentian Bank,Amazing workplace!,2020-06-02,5.0,Collections Specialist,"Great working environment
+Open door policy",No cons that I can think of
+153,Laurentian Bank,Great Company!,2020-06-01,5.0,Collections Officer,"Amazing work culture!
+Good growth opportunities!","Overtime not always available
+No other cons"
+154,Laurentian Bank,Unethical,2020-05-31,1.0,Manager,Stay away from working here not even worth to search for job at such a horrible place,"Stressful work environment
+Greedy managment 
+No team work
+Toxic work environment
+No work /life balance
+No values
+No.job security"
+155,Laurentian Bank,Nice place to work,2020-04-23,4.0,Banker,"- got a raise every year for past 4 years. 
+-bonus system is awesome where you are 100% in control of your bonus which can be very significant. 
+-great management team and coworkers.","- back office not very efficient. 
+- procedures need to be optimized and simplified. 
+- health and dental benefits are bare minimum."
+156,Laurentian Bank,I hated that,2020-04-09,1.0,Customer Service Representative,The associate make sure the employer respect breaks so at least you have nice break,"The managers were terrible, real bullies, yelling ... I'm still traumatised from them and I needed to reach out for help. I hate them so much for what they did to me. Managers discourage to be nice between co workers so ambiance sucks."
+157,Laurentian Bank,Good start but don't stay too long,2020-03-29,2.0,Senior Administration Officer,"Benefits, Sick days, Nice people","Poor salary, No growth, Poor Management, Extremely Micromanaging, not enough opportunities for unilinguals"
+158,Laurentian Bank,Pathetic Company,2020-03-24,1.0,Anonymous Employee,People who are influential can make it big and get what they want,"Improper Staff handling, partiality, Lack of growth options"
+159,Laurentian Bank,Good place to start your career,2020-03-23,3.0,Office Administrator,Friendly helpful staff; Good training for new members,Remote working option is not available
+160,Laurentian Bank,Great place to work,2020-03-03,4.0,Financial Analyst,Nice people and friendly workspace,Small business being pushed aside by competition
+161,Laurentian Bank,no sorry,2020-03-02,1.0,Bilingual Senior Administration Officer,"no, sorry no comment thanks","Bad environement, stressfull and management zero"
+162,Laurentian Bank,good,2020-03-01,5.0,Bilingual Senior Administration Officer,It is a nice experience overall.,No specific cons in this job.
+163,Laurentian Bank,Too much favouritism by the VP,2020-02-29,1.0,Mortgages,"downtown location
+Managers are nice
+Free coffee",Why cant they employ Canadian instead of people from France? Its a bad company where I saw favoritism for female foreigners and a manager who go to bars after hours with the VP to get promotions and accolades.
+164,Laurentian Bank,Terrible Compliance Leadership,2020-02-29,1.0,Assistant Vice President,The only reason you would want to work here would be if you couldn't find anything else.,The Leadership in general is out of their depth and the Compliance and Risk Management leadership is manipulative and dishonest.  You will be brought in at one level then they will fire someone who is your peer and give you their work and then judge you if you can't handle two jobs.  What a terrible approach!
+165,Laurentian Bank,Excellent experience,2020-02-28,4.0,Senior Administration Officer,Stable job with good benefits,Micro management is not preferred
+166,Laurentian Bank,Not bad place,2020-02-27,4.0,Credit Administration Officer,Quiet laid back easy going,"No opportunies to advance, not taken seriously"
+167,Laurentian Bank,Just OK Place to work,2020-02-13,2.0,Senior Manager,"Good pension, but you have to stick it out for 2 years to get vested.  Bonuses are good and based on company performance.",Benefits are awful.  Very structured in terms of hours and no opportunity to work remotely.  Dress code not professional. Issues with call centre and contract workers.  Challenging to work with unionized staff in Montreal.
+168,Laurentian Bank,Advisor,2020-02-10,3.0,Anonymous Employee,"Chill environment, Good work atmosphere","Not challenged enough, employer doesn't do much for their employees"
+169,Laurentian Bank,Helpdesk Support,2020-01-24,1.0,Production Analyst,Not much as far as positive other then my coworker,Management slow and incompetent with poor knowledge of IT implementation and basic ITIL knowhow and skills
+170,Laurentian Bank,Deposit Department,2020-01-15,1.0,Bilingual Senior Administration,Location in Downtown. Nice colleagues,Don't work in this department if your origin isn't from the same country as the Assistant Manager. Completly unfair... The turn over is high especially for people not from this country. They just want to leave...
+171,Laurentian Bank,Company culture,2020-01-13,3.0,Credit Officer,I really appreciated the fact that people are all from diverse background no matter the position in the company. It is a real sign of inclusion. B2B bank also  make their employees at ease with a fun corporate culture and events making employees to meet each other,too much short term contracts
+172,Laurentian Bank,would recommend this company,2019-12-26,3.0,Credit Administrator,Very good work-life  balance,many employees are in contract
+173,Laurentian Bank,financial analyst salary,2019-12-11,5.0,Financial Analyst,managers are very easy going,lots of changes and reorganization
+174,Laurentian Bank,Act before they think,2019-11-27,3.0,Learning And Development Specialist,"People are nice, and work hard. They try innovate which is great, but way too ambitious for their own good.","Lot of turnover, high and many times unrealistic expectations, lot of incompetent managers, limited room for growth, lot of politics and favouritism. Poor project managment and change management. Very reactive environment."
+175,Laurentian Bank,B2B Bank - Dealer Services Role,2019-11-27,2.0,Dealer Services Representative,No sales pressure and good training program,"Always tries to keep employees in contract. If you are bilingual you have a better
+ chance then  to stay longer in the company"
+176,Laurentian Bank,Recovery agent,2019-11-18,2.0,Recovery Agent,You don't have to do overtime,You have to work with incompetent people sometime
+177,Laurentian Bank,Not excellent,2019-11-09,3.0,Senior Administrative Officer,"Laid back environment ,
+Unlimited sick days",No growth opportunity no education encouragement
+178,Laurentian Bank,A,2019-11-08,4.0,Private Banking Associate,"Pretty good, flexible, nice team","Its an ok job to start, no advancement"
+179,Laurentian Bank,Poor organization and management incompetencies,2019-11-08,1.0,Financial Advisor,Open to young employees who are eager to learn,Very closed minded/ poor management skills and organization/ if you are knowledgeable and have experience you will be very unhappy and disappointed here. Despite what they say they do not like it if you know more than the management....sadly most of the employees know more than the managers
+180,Laurentian Bank,Place of Work,2019-10-30,4.0,Automation QA Analyst,nice place to work and improve skills,slow implementation need more resources
+181,Laurentian Bank,service delivery manager,2019-10-28,5.0,Anonymous Employee,Clear clarity in the vision and  strategic planning,retention policies for employee of the company
+182,Laurentian Bank,Sales,2019-10-26,1.0,Anonymous Employee,A good place to start,Pay is lower than street. Seems to be held by band aids and rubber bands.
+183,Laurentian Bank,average as employer,2019-10-21,4.0,Credit Analyst,Laurentian Bank has good financial benefits,Health insurance is below average
+184,Laurentian Bank,Sad that the company is taking the direction it is taking,2019-09-22,4.0,Customer Service Underwirter,"Challenging, loved the experience, learnt and have grown","It is a bank, very bureaucratic"
+185,Laurentian Bank,Human ressources Advisor,2019-09-22,4.0,resources humaines,"- Promity with managers
+- nice environment 
+- new offices","- nothing to signal, have been working there for many years and I am happy."
+186,Laurentian Bank,Great team,2019-09-19,4.0,Assistant,Nice people and great location,Pay is less thank other banks
+187,Laurentian Bank,Call center,2019-09-14,4.0,Customer Service,Good salary and nice employees,You have to sell a lot of credit card if you’re a part time
+188,Laurentian Bank,Nice work environment but ..,2019-09-02,2.0,Bilingual Senior Administration Officer,Great work ambiance and nice colleagues,Low salary and no possibility of evolution
+189,Laurentian Bank,Stay Away.,2019-08-28,1.0,Customer Service,"if you are bilingual, there are tons of career advancement","no career advancement for the rest
+no team builds
+only care about numbers
+don't learn anything new"
+190,Laurentian Bank,Low work-life balance,2019-08-20,3.0,Senior Manager,Competitive compensation is given and perks,Long work hours and no work from home option
+191,Laurentian Bank,CSR,2019-08-13,3.0,Customer Service Representative,pay is decent for what the job is,management and change is very slow
+192,Laurentian Bank,An ‘okay’ job to start in Banking Industry,2019-07-31,1.0,Administrative Officer,Location - Diversity  -Path -Downtown -Union Station,"Lots of overtime
+Favouritism 
+Inefficient system
+No room for growth
+Management (AVP and up)
+High staff turnover for lower levels
+No recognition"
+193,Laurentian Bank,Borken,2019-07-08,2.0,Senior Account Manager,- Fun people to work with,"- Salaries below average
+- Nothing works properly
+- Overzealous compliance department"
+194,Laurentian Bank,retails sales products-coaching-goals -,2019-07-08,3.0,Manager Sales and Councelling,money - hard worker-  Hours- dedicated-services,life - hours- sales- bonus- paperwork
+195,Laurentian Bank,Good company,2019-06-29,3.0,Assistant Manager,Nice environment. Manager and colleagues are very friendly.,No flexible hours. Salary is low compared to other banks. Professional development is very limited
+196,Laurentian Bank,Interview,2019-06-18,5.0,Anonymous Employee,"Nice work environment, Nice colleague","No opportunity for growth, Benefits are not that attractive"
+197,Laurentian Bank,HR,2019-05-14,2.0,Anonymous Employee,"Great location (Union Station), heart of downtown Financial district. Friendly and supportive coworkers. Seasonal treats (breakfasts and holiday events)","Micro-Management runs the HR. despite being experienced and knowledgeable my boss never allowed me to make any decisions without his approval. Great place to work and learn but not long term esp in HR, no growth, trust, no systems to support our needs."
+198,Laurentian Bank,Business Analyst,2019-04-25,4.0,Business Analyst,"Corporate Culture, lateral growth opportunities",high turnover and low fexibility
+199,Laurentian Bank,Many opportunities to learn new skills,2019-04-23,4.0,Anonymous Employee,Many opportunities in advancing career,Several departments work in silo
+200,Laurentian Bank,not the best climate,2019-04-20,1.0,Anonymous Employee,job location was well situated.,no possibilities for advancement and salary wasn't competitive
+201,Laurentian Bank,"Great Culture, Helpful co workers",2019-04-15,5.0,Credit Administrator,"Good Benefits, Great management, Amenities","Location, Bureaucracy, Performance permanently monitored"
+202,Laurentian Bank,Analyst conformite,2019-04-04,2.0,Anonymous Employee,Social advantage and work environment,"Salary, a lot of pressure"
+203,Laurentian Bank,Product Manager,2019-03-28,3.0,Anonymous Employee,Good exposure to digital transformation of a bank,Ongoing digital transformation of the bank
+204,Laurentian Bank,Company going through major overhaul,2019-02-28,3.0,Anonymous Employee,"The company is making major investments and has a good vision of where it should go, it's also making effort to diversify business portfolio and maximizing shareholder return","Lots of change coming at once, hard to control cost, union issue is still concerning and technology transition is not smooth - technological tools does desperately need upgrade but too many moving parts make it very difficult to control."
+205,Laurentian Bank,Advisor,2019-02-12,5.0,Anonymous Employee,"Amazing colleagues and great access to leaders. 
+Nice premises with complementary hot beverages. 
+Great digital transformation underway...Proud to be part of it!",The MTL office has no underground access to STM network.
+206,Laurentian Bank,Not bad for beginner In the banking field  but low salary and benefits.,2019-01-24,3.0,Bilingual Credit Administration Officer,"Close to downtown 
+Good atmosphere 
+Not very stressful or challenging 
+Easy task","Low salary
+Low benefit
+No career evolution 
+No training 
+Very repetitive task"
+207,Laurentian Bank,customer service representative call center,2019-01-22,4.0,Call Center Representative,"pay, training, atmosphere and co-workers","repetitive task, managers and employee turnover"
+208,Laurentian Bank,good bank,2019-01-04,5.0,ASAC,Good work atmosphere and good quality of work with career advancement possibilities,the size of the firm is not at his biggest and uncertainity concerning the worker union
+209,Laurentian Bank,Account Manager,2018-12-23,3.0,Anonymous Employee,-Close to high executives and management,-Bad paycheck and bad management
+210,Laurentian Bank,Management Style and Culture from the 70s and 80s,2018-12-22,2.0,Anonymous Employee,"Exposure to a variety of different activities
+Nice office","These are some of the bigger issues:
+* (current direct) Senior Management and colleagues who are not knowledgeable about the activities associated with their position (despite required by regulation)
+* Threatening and bullying behaviour that is not questioned but allowed to continue
+* year-end review poorly handled and no reward for hard-work - just telling you what you did wrong (which is usually a one-off and not critical but perception)
+* Current area has no strategy - random, fire-fighting mode that will continue to exist which is difficult to get things done because of the one-off haphazard approach in the current environment
+* Extreme micro-management
+* Constantly providing  management with details so they can sound ""knowledgeable"" when meeting with senior level colleagues in the industry
+* Opinion doesn't matter
+* hours are extremely long and consistently so - expected (and told this) that at our level we are required to work weekends and late into the evening.
+* No support for training/certification requirements.  Need to beg to obtain money for training and time even though it is required for the position and the reason for being hired."
+211,Laurentian Bank,"Overall, a fairly good place to work.",2018-12-21,4.0,Coordinator,"People are friendly and welcoming, pay is fairly competitive, free parking, cafeteria, good vacation time to start, management is flexible with work hours.","Currently in transition period which is a bit stressful, benefits aren't great, no formal training/onboarding programs in place for employees as HR is exclusively out of head office in Montreal."
+212,Laurentian Bank,Terrible,2018-12-05,1.0,Bilingual Administration Officer,No reasons to work there,"Incompetent management. Disrespectful, no training provided. This is a sinking ship."
+213,Laurentian Bank,"Analyst, Commercial Real Estate Financing",2018-11-28,4.0,Anonymous Employee,Close to senior management since it is a small bank,Not a lot of career opporunities within the department
+214,Laurentian Bank,nice place to work at,2018-11-23,5.0,Investment Associate,"good pay out, good ambiance. lot s of good people around","compliance is excessive, phones are terribles....it s a business where we need to use the phones."
+215,Laurentian Bank,RUN RUN FOR YOUR LIFE AND FUTURE - FOR BILINGUAL FRENCH and ENGLISH.,2018-11-16,1.0,Bilingual Credit Administrator,"This company has one of  the BEST CEO in Canada, he truly cares and inspires, but the lower management is clueless and unprofessional.","**I wish there was a NEGATIVE star, the company does not even deserve ONE star**
+•	If you are looking to build a career this company is NOT for you. Go somewhere start even at a call center with a real chance to growth. This company has NO internal career plan where you can be supported to grow INTERNALLY. 
+•	A Year and half ago, I was hired and was told by the hiring managers and HR there will be A REAL CHANCE to grow within the company if I work hard. I did my part and I am still doing the same thing every day. I should really have listened to the reviews, BIGGEST MISTAKES I ever made is to join this company. Please listen and save yourself time and regret."
+216,Laurentian Bank,SENIOR ADMINISTRATIVE ASSISTANT,2018-10-30,3.0,Anonymous Employee,Location : in the heart of financial district,"Very very long work hours,"
+217,Laurentian Bank,Analyst,2018-10-25,3.0,Analyst,"Entrepreneurial mindset
+The bank is in the process of modernizing and upgrading its facilities and software programs
+The work is challenging",Lack of training and mentorship opportunities.
+218,Laurentian Bank,adjustements,2018-10-19,3.0,Account Liaison,nothing  but great culture,"no growth at all
+you will make the same money even if you stayed there years"
+219,Laurentian Bank,don't go there,2018-10-08,1.0,Anonymous Employee,accessible to transit such as subway and go train,"Executive and Management in fighting, back stabbing, dishonest - will do anything to make themselves look good.  Military culture of command and control.  Worst culture ever.  I would discourage anyone from working there."
+220,Laurentian Bank,DON'T GO HERE unless you need part time money meanwhile you are looking for another job,2018-10-03,1.0,Anonymous Employee,"It's close to subway (king station), and you can enjoy various food courts. Colleagues are mostly nice, available for help, jean day every day. You can leave 5pm sharp. They do not ask you to stay late as a mandatory. Depending on your performance, you can get a bonus at the end of the year.","You can't work at home. You can't leave early even though there is NO work.
+
+Management has a serious issue. They do not know what they are doing at all, I was surprised  that those people can become managers. So irresponsible, if they have some issues/ projects, they ask us to work on it suddenly with very small amount of information about it, then blame us if we make a mistake. How the work is done here at this bank is incredibly inefficient and not smart at all. Customers will never get what they want at one call, it will take at least 1-2 weeks to receive response and 50% of the answers are to re-send documents because something ridiculous is missing that can be verified over the phone or via email. 
+
+Moreover, it depends on the department, but in my department, management wants to know every single details about what you do / how much time were spent (in minutes) when you work on something not using a computer. This was the MOST STRESSFUL thing i've ever experienced at this bank, and the individual efficiency record will affect my bonus in the end of the year! Management think you worked hard ONLY when you processed lots of cases fast. They don't care what kind of cases you worked on or the difficulty of them. It's sad that I still have tons of things to say about this workplace I've worked for 2 years, but this is the truth.
+
+Oh their salary is low. So, please reconsider."
+221,Laurentian Bank,Cash Management Admin,2018-09-30,2.0,Anonymous Employee,"Easy and simple accounting knowledge.
+Great team to work with","Workload not distributed evenly
+No where to advance to"
+222,Laurentian Bank,good,2018-09-20,4.0,Credit Administrator,"the training is good, and the environment also",this is difficult to be permanent.
+223,Laurentian Bank,Administrative Officer,2018-09-14,4.0,Anonymous Employee,"flexible work schedule, good learning platform",a lot of work and low pay
+224,Laurentian Bank,Administration,2018-09-08,2.0,Administrative Officer,You work with some great and passionate people,"Bad management, favouritism, manager who only care about playing politics get promoted, hard working people don’t get recognized if not on manager’s good list. Drives good people away"
+225,Laurentian Bank,Analyst,2018-08-27,2.0,Anonymous Employee,"Good team to work with, the company is expanding so lots of room to grow",Terrible hierarchy and management.  Business processing is ancient and hasn't changed in 20 years.
+226,Laurentian Bank,Manager,2018-08-09,5.0,Manager,"- The organization is in the middle of a transformation and there exists a multitude of interesting opportunities for driven individuals 
+- Hard work is recognized and rewarded
+- Proximity to upper management unlike elsewhere
+- Clear communication regarding strategy and plan for the upcoming years
+- Extremely motivating and visionary leaders 
+- Employees have a voice in decision making and direction",- Fast paced and continuously evolving which could be seen as a negative for some
+227,Laurentian Bank,Growing bank with opportunities,2018-07-25,4.0,Anonymous Employee,"- great colleagues
+- lots of open opportunities
+- given a lot of chances to shine","- poor pay 
+- poor compensation incentive
+- seniority over performance"
+228,Laurentian Bank,Credit,2018-07-23,3.0,Anonymous Employee,"Good people, good worklife balance",Due to current problems no growth
+229,Laurentian Bank,LBC is humiliating people,2018-07-10,2.0,Development Counsellor,Most of the employees are helping each other.,"When you are working from home on a production issue from 5 am, and advise them that you will be late, because of this issue - the management sue you for being late.
+If you are a consultant, you don't have right for work from home, or, even, for take the sick days. You are sued for every sick days you have taken.
+Systems are old, and the employees are about 5 years beside the current sytems versions."
+230,Laurentian Bank,The Best Place I Have Worked,2018-06-27,4.0,Recruitment Specialist,"Managers really care about employees and do their best to retain them as well as getting them in to new roles within the bank.
+Work environment is bright, open concept, and clean. Location is very easy to get to by any means of transportation.
+Lots of opportunities for development.","No work from home policy.
+While the bank is growing and changing, these changes can take a long time to make an impact on the average employee's day to day work."
+231,Laurentian Bank,Ok place to work for,2018-05-23,2.0,Officer,"Proximity to Union station, good employee lounge n company events.","Been here over 8 years but have not moved much  even though company grew and new opportunities became available. No career or growth plan for employees. Any upgrade in qualifications through courses is not considered. A strong contract employee culture and then same contract people get full time position.
+Absurd vacation day policy where one has to take blocks of 5 days and approval given by a special team, not immediate manager. Non flexible work hours and forced 8.30-5pm for Operations staff. ZERO consideration for GTA employees who have to rush to pick up children from day cares which close at 6pm."
+232,Laurentian Bank,B2B bank,2018-05-18,4.0,Bilingual Administration Officer,"Great company culture, mostly relaxed environment, salary is okay, open to learning, good stepping stone into industry","Not too open to new and even better way of doing things, limited opportunities for promotion or advancement"
+233,Laurentian Bank,Administrative Officer,2018-05-11,4.0,Administrative Officer,"- great managers
+- pay is reasonable
+- generous vacations
+- great team","- pay could be better
+- training could be more standardized or thorough"
+234,Laurentian Bank,Good work life balance,2018-05-10,4.0,Financial Advisor,Managers are easy going and the commission scale is good.,"Bank is restructuring so there is a lot of change every day. But change in procedures, but for the better!"
+235,Laurentian Bank,Not special,2018-05-07,3.0,Anonymous Employee,Not a stressful environment for someone that is efficient in its work,"company is mismanaged, losing clients day by day, employees are not working efficiently, management is absent"
+236,Laurentian Bank,Low pay,2018-05-02,1.0,Equity Research Associate,Work with some very smart people,Not a good industry to be in at the moment with declining commissions and MFID ii in Europe coming in. Better luck on the buyside
+237,Laurentian Bank,Employee,2018-04-18,5.0,Credit Analyst Officer,"Best employer. Recommend it, work & life balance & nice people","Recommend it, work & life balance & nice people"
+238,Laurentian Bank,Stay away !,2018-04-17,1.0,Administrative Officer,"-	Convenient location (Commerce Court/PATH/King subway station)
+-	Free coffee","-	Contract, contract, contract… It takes a while to get a permanent position (at least 2 years).
+-	No work-life balance during RSP/Mortgage season(s).
+-	High turn over 
+-	No talent management / No promotion / Poor career development
+-	Poor leadership / Micro-management / Management by fear 
+-	Manipulative or jealous peers
+-	Salaries below industry average
+-	There is always an excuse to let people go. Every 2 years, there is 1 employee who is fired in each team. It is political… and they always find an excuse (organization change, work efficiency, etc.). You can get your bonus, as well as a good annual performance evaluation for 3-4 years, and magically - 6 months after- you get fired. This is REALITY. 
+-	STAY AWAY (!) as the company bad reputation makes it hard to leave it."
+239,Laurentian Bank,Admin Officer,2018-03-20,4.0,Anonymous Employee,"Flexible, convenient, good culture, free coffee","Mostly Contract jobs, Hard to get permanent"
+240,Laurentian Bank,Overall hood place,2018-02-20,4.0,Underwriting,Great team environment and direct managers were kind and supportive.,Some processes like reports tracked were a major waste of time and not a good use of manpower. Administration management wasn't the best and there was high turnover among that team.
+241,Laurentian Bank,Not bad,2018-01-26,3.0,Anonymous Employee,"Nice coworkers
+ability to move up","Salary
+Not a lot of benefits"
+242,Laurentian Bank,Working here,2018-01-25,4.0,Anonymous Employee,"- Stimulating environment 
+- Lost of Learning opportunities 
+- Good management",- Boring Christmas parties.
+243,Laurentian Bank,Senior Software Developer,2018-01-19,3.0,Anonymous Employee,"helpful colleagues, good work location",No Work from Home at all
+244,Laurentian Bank,fair and pleasant,2018-01-14,4.0,,"good start, good network, healthy environment",little movement within the company
+245,Laurentian Bank,"not bad, hard to change old ways though",2018-01-12,3.0,,"Great people, pay isn't bad and most people in this position are students. Room for growth and constant feedback","Work can be very tedious and repetitive
+If entered as a contract employee, it's hard to change to part-time 
+People stay on contract for over 2 years sometimes"
+246,Laurentian Bank,Customer Service is our top priority,2018-01-10,3.0,Customer Service Representative,New innovative system and great people to work with.,Benefits could be improved as a whole
+247,Laurentian Bank,There are better places to work,2018-01-06,1.0,Manager,a paycheque and not much else,"Poor leadership, micro-management, management by fear, noisy, distracting open office environment, employee policies catering to the lowest common denominator."
+248,Laurentian Bank,teller,2018-01-03,3.0,Anonymous Employee,"good working houres, close to home, friendly coworkers","a lot of pressure to sell credit cards, not a good training,  not a good management"
+249,Laurentian Bank,Not a great place to work.,2017-12-07,1.0,Anonymous Employee,"They are driven to succeed, but unfortunately at any cost.","Care about bottom line, not there employees. Poor leadership and direction.  No work life balance. Not a supportive or empowering culture."
+250,Laurentian Bank,Financial settlements analyst,2017-11-23,3.0,Financial Settlement Analyst,good learning opportunities and management,lack of leadership from the direction and no recognizations
+251,Laurentian Bank,Marketing/Business Development,2017-10-21,1.0,Anonymous Employee,The peer group is fantastic. People really want to grow and achieve great things.,Huge vision with little communication regard for how to actually reach the goals.
+252,Laurentian Bank,Amazing Company,2017-10-11,5.0,Administration Officer,Great time working there.  Nice boss.,No  con s working at B2B.
+253,Laurentian Bank,Short Stay,2017-09-22,3.0,Anonymous Employee,Some lovely team members here.,Where to begin.  One too many.
+254,Laurentian Bank,decent place to work,2017-09-14,4.0,,great  location and great managers,work gets very monotonous and repetitive
+255,Laurentian Bank,Account Manager - Commercial Banking,2017-09-13,5.0,Account Manager,"- Great work environment
+- Aggressive bonus structure
+- Opportunity for growth",- Old technology (they still have windows XP running)
+256,Laurentian Bank,HR Management,2017-08-15,1.0,,Convenient location from Union Station and located in the heart of downtown in Commerce Court.  It was an interesting experience working in HR at B2B Bank.,"In my short time at the Bank (less than 2 years) the department had 10 people resign.  It’s unfortunate that the recruitment team is unable to find the best suited candidate and the HR management team is unable to retain the talent.  The HR management team is ineffective, particularly the management in Employee Relations.  Although situated in the HR department and leading the Employee Relations  team there is a significant skill gap to be working with “humans”.  For those that are interested in gaining experience and having an organization like B2B Bank on your resume, it’s a good starting point.  However, this organization is not suited for long-term career growth."
+257,Laurentian Bank,Senior Administrator,2017-08-13,2.0,Anonymous Employee,Nice location. Right besides Union Station,Extremely Micromanage . No potential opportunities to move up
+258,Laurentian Bank,Get ready to WORK,2017-07-18,3.0,Assistant Manager,"Growing company. Lot's of opportunities.
+Good place to obtain new experiences.
+The office is very clean and neat. The location is also excellent.","There's absolutely no work-life balance. They push you until you break. When you break it's your fault. Every year there's a new excuse to explain the additional tasks and accountabilities.
+Salaries below industry average."
+259,Laurentian Bank,Sales,2017-07-04,1.0,Sales,"Some great peers, nice facilities.","Terrible place to work. No support, unrealistic expectations, below par compensation."
+260,Laurentian Bank,Good as temporary or student job,2017-06-14,3.0,Administration,"Friendly management, steady job, open office",Will keep you in temporary status permanently to reduce their employment costs if they can
+261,Laurentian Bank,Customer service,2017-06-14,4.0,Anonymous Employee,"Nice atmosphere, management opened to your input, near metro, good student job since you can work part time or weekends","Pressure to sell, choices for schedule and promotion are mainly decided by seniority since employees are syndicated, salary is lower than other banks because of it, bank under restructuration, high turnover"
+262,Laurentian Bank,"Interesting challenges, but outdated management practices",2017-05-20,2.0,Anonymous Employee,Many challenges at the same time makes it an interesting environment formpeople who like change.,Only a select few are allowed to make decisions which creates organization paralysis. No development of the second and third layers of management.
+263,Laurentian Bank,Customer Service Rep,2017-05-10,3.0,Customer Service Representative,"Good working environment, nice people to work with",Old school way of working. Resistance to change
+264,Laurentian Bank,Private banking associate,2017-05-09,4.0,,"the team was great, so was the working environment","a big work load, always short staff"
+265,Laurentian Bank,Decent Pay,2017-05-08,5.0,,"Good pay
+Friendly environment
+Good location
+Free coffee","No benefits
+Very big company
+No upward mobility
+No work/life balance
+Be ready to work alot"
+266,Laurentian Bank,Financial Analyst,2017-05-04,4.0,,Lots of opportunities to learn,Compensation is not competitive compare to other banks
+267,Laurentian Bank,Bank teller,2017-05-02,3.0,Teller,"Good  experience to start career
+Friendly coworkers","Office politics
+Outdated system 
+Old school way of thinking"
+268,Laurentian Bank,Work,2017-04-24,5.0,Client Service Representative,"Best place to work.
+Work life Balance.
+Great Management.",Nothing much.  Less Aggressive but very kind to clients.  On growing bank but progressive.
+269,Laurentian Bank,Financial Advisor- Retail Banking/Conseiller Services aux particuliers,2017-04-16,3.0,,"Good benefits, stability of income, additional income potential, sales structure in place, new management is emphasizing need for more advisors and investing in technology.","Stressful work environment, tension between union and management. Unpaid overtime for managers and employees, shortage of personnel, outdated technology, friction between branch and call centre personnel created by dept. objectives."
+270,Laurentian Bank,Branch manager,2017-04-15,4.0,,"Opportunities to grow internally, easy access to big managers","No internet app, really old IT system."
+271,Laurentian Bank,Mutual funds representative,2017-04-12,3.0,Anonymous Employee,"Work environnement is great, wonderful colleagues and many social benefits.",Lots of pressure from management to get results and salary is not very competitive.
+272,Laurentian Bank,Mortgage officer,2017-04-12,2.0,Anonymous Employee,"I was lucky to have a great manager, and my team had a great dynamic. Opportunities to move around the company - open career opportunities.",Part-time hires are let go at any point. It's very political.
+273,Laurentian Bank,My experience,2017-04-03,4.0,,"Nice team work, flexibility, growth opportunity, managers listen to our needs","it's a small bank, which may be an inconvenient for some people but not for me."
+274,Laurentian Bank,Great opportunity,2017-04-03,3.0,Anonymous Employee,"You will learn a lot about all the financial products offered in the industry. 
+Great teams.
+Good training.
+Overall young and fun energy.","Stressful, fast paced environment.
+They are in transformation, you must adapt to different structures and procedures often."
+275,Laurentian Bank,Intermediate Process Analyst,2017-03-03,4.0,Intermediate Process Analyst,Great team and management.,No working from home policy
+276,Laurentian Bank,Administrative Officer,2017-02-26,4.0,,Very good for students to work.,If you are on contract you will not get any benefits even if you are working there from long time.
+277,Laurentian Bank,Senior administration officer,2017-02-17,3.0,,"Made some great friends , get to learn a lot about financial institutions and instruments, location is good.","Mutual funds department if you did good it would be a group thing but if you messed up everybody would take a step back and point fingers, management changed in the middle of my contract became very high school like micromanaged they would senior management would stand outside office to see if ppl would leave before 5 even 5 minutes before and get called out, they started doing round at 8.30am to see if anybody was late and if so would be called out again. 
+Felt like my department had no growth ppl in my team were in the same position for 10 years or so."
+278,Laurentian Bank,"Great people, modern office, downtown location, lots of growth!",2017-02-04,5.0,Anonymous Employee,"Chance to be part of the transformation of a bank that is still quite young. 
+Part time opportunities available for those pursuing other commitments. 
+I have never enjoyed the company of my colleagues as well as I have here, we work hard and are there to help each other at every step.",Contract opportunities sometimes lead talented staff to move to full-time roles elsewhere.
+279,Laurentian Bank,Account Manager,2017-01-24,4.0,Account Manager,Small company so you are able to be in direct contact with VPs of most departments,Branding and Visibility is at a minimum compared to the competition
+280,Laurentian Bank,Administration Officer,2017-01-12,3.0,,Good pay for contract work,The work given was mindless work. Finished early and was dispatched to a different department.
+281,Laurentian Bank,bad idea to work here,2017-01-05,3.0,Client Service Representative,Get to know the clients.,The bank doesnt see us in the company in the next couple of years and treats us accordinly.
+282,Laurentian Bank,Company with an unlikely future,2016-10-24,1.0,Assistant Manager,"Good location downtown, new office with new furniture","Horrible management, they display open contempt for their staff and try to reduce everything to stats based on a system that doesn't work  AT ALL.  They need to upgrade software desperately, their workflow system is the absolute worst piece of crap ever invented.  People who learn to manipulate it get great reviews, people who work hard and take on the difficult cases get screwed.  When you explain this to your manager, they insist you follow the numbers even though you know they're telling the wrong story.  They like to pretend that the staff review system is fair and unbiases but nothing could be further from the truth.  I exceed expecations for 2 straight years, then I get a new manager and all of a sudden I'm a ""needs to improve"" even though I hit every one of my assigned targets.  Not biased? It's a bad joke, and I'm so glad I left, the atmosphere was way too toxic for my liking."
+283,Laurentian Bank,System Analyst,2016-10-24,4.0,,Great team and mangers to work with. A very close knitted family environment.,They do not allow work from home
+284,Laurentian Bank,Business analyst,2016-10-23,1.0,,Good pay and good location,Management was really bad not listening
+285,Laurentian Bank,Dealer relations,2016-10-13,2.0,,opportunity given to you i guess.. advancement surely on who you know not what you know.,Contract..contract .. does not know how to retain employees hence why upper managment gets axed! need to focus more on how to relate with employee rather then 5S!
+286,Laurentian Bank,Zero Culture,2016-10-12,2.0,Sales Manager,"good work life balance, decent pay","no culture, boring work, politics,"
+287,Laurentian Bank,employe review,2016-09-18,4.0,Recovery Agent,"i love my job, its not to far, it take me 45 minutes to go to work, people are nice too, so that's a plus",I don't have a lot of cons.  it would be mostly material but that will be remedy when we move in 2018
+288,Laurentian Bank,Opportunities!,2016-09-16,4.0,Manager,"- Growth opportunities - ever changing environment.
+- The people - The teams make it a pleasure.
+- Management / Executives - Approachable, open and never make you feel stupid when you ask a question.
+- We are very busy and there is a lot to do - affords us the chance to try something new and gain new skills.","Currently going through culture change - If you have a positive attitude and open to change, this will not be a concern"
+289,Laurentian Bank,Customer Service Officer,2016-09-13,4.0,Anonymous Employee,Great organization to work with. Organization takes care of employees. Managers and Colleagues are helpful. Nice location and good pay.,"2 week training seemed short, considering the amount of knowledge needed. Also need more senior members on internal helpline to assist agents."
+290,Laurentian Bank,Credit Admin,2016-09-11,3.0,,"Good and valuable experience
+Bank significantly growing
+No micro-management","Poor career development
+Lack of professionalism from higher management"
+291,Laurentian Bank,Great bank,2016-09-05,4.0,Customer Services Agent,"The manager, the team and the branch hours","Fees, System, No a lot of branch, using a lot of papers"
+292,Laurentian Bank,Advisor visa section,2016-09-03,3.0,Anonymous Employee,"Good place to start, many thing to learn","Employees are overused, it's not easy to grow"
+293,Laurentian Bank,not good,2016-08-15,2.0,Anonymous Employee,"lookin hard for any pros, I guess it pays the bills","toxic environment, hr is useless (except in firing people ), favoritism, etc, no advancement, employees are awesome, management is not, keep yo blood pressure low, stay away.."
+294,Laurentian Bank,Senior Administration Officer,2016-07-28,1.0,,"-Close to Union Station
+-Easy to commute by subway or GO.","I was with B2B Bank for almost 4 years. When I started the journey at B2B Bank, I truly believed that I will be part of the management team at B2B Bank. I am a hard worker, 3 out of the 4 years, I was given superior performance rating. I believed that going beyond what is required will lead me to personal career growth and development. My goal was to start my journey with the Banking and Deposits and eventually move to Finance team. I have been to several interviews with the same managers for multiple different roles. I strongly believed that I did well in the interviews. Also, I have the education background in Accounting and was pursuing my Accounting designation. Unfortunately I wasn’t given the opportunity to join the Finance team. I waited patiently and was hopeful that one day I will get that opportunity. Each year went by my hope to join the Finance team faded away. That’s when I started to look for opportunity for personal growth and development outside of B2B Bank. This has lead me to leave B2B Bank.
+ 
+ 
+Currently I have successfully completed all my examination for my Chartered Accountant designation. As I leave B2B Bank, I am starting my journey to obtain my full Chartered Accountant designation. As my career develops and progress, I will always pause and consider the opportunity that I wasn’t given to join the B2B Bank Finance team. Every step that I will move up, I will prove to the Finance team managers at B2B Bank that they made a mistake of not giving me an opportunity. I am very determined to succeed in my career goals.
+ 
+ 
+I really hope that when an individual is trying to move to a different department, hiring managers will take into consideration of the individual’s performance rating in the previous department. Hiring managers should take into consideration of the performance rating, contact the previous manager’s for reference and education background before making the final decision for candidates. Decision should not be made based on the hiring manager’s preference for candidates. I really hope that talented individuals will stay with the B2B Bank and given the opportunities to grow, prevent individuals from leaving to the competitors."
+295,Laurentian Bank,A great place to work!,2016-07-28,5.0,Anonymous Employee,"- great work life balance, promotes you to take lunch breaks
+- awesome culture, everyone has a lot of knowledge, ideas and experience to share
+- everyone is humble and hard workers
+-  always looking to attract new talent",There are no Cons. B2B Bank has a lot to offer.
+296,Laurentian Bank,Awesome,2016-07-27,5.0,Managements,Great progress.   This amazing company continues to persevere,There are none.  Great changes ahead.
+297,Laurentian Bank,Believe the negative reviews,2016-07-24,1.0,Anonymous Employee,"* Location to GO train and TTC
+* Two company hosted parties a year","No organization is perfect.
+
+However, in my 10+ years career, I’ve never witnessed or experienced workplace bullying like I see here. Those who deign to challenge the status quo are whipped into line quickly and if they resist they are swiftly shown the door. The prevailing attitude of the senior leadership team is if you don’t like it then leave. And many have.
+
+I have had the “pleasure” of going in front of the executive team MANY times and walking into that room I could see the division in the group, so it’s no wonder they take their frustrations, with their peers, out on the employees below them. 
+
+The middle managers -  a talented group of people, actually get the job done, but are constantly held down by self-serving AVPs and VPs above them. 
+
+No matter where you go in the organization, there are lots of whispered conversations from groups of people who are so unhappy that are plotting their escape routes. Whether Client Service, Operations, Underwriting, Compliance, Sales, Marketing and HR. Everyone wants to get out and it’s no wonder when bullying, micromanagement and public humiliation are dealt in spades, with faint praise given to a select few. 
+
+If B2B Bank calls, no matter how desperate don’t take this job. The grass is not greener over here and there are many snakes in the grass."
+298,Laurentian Bank,analyst,2016-07-12,3.0,Anonymous Employee,you get to work with a great team!,"low salary
+no flexible schedule
+barely any growth opportunities"
+299,Laurentian Bank,Consider Your Options Carefully,2016-06-14,1.0,,"- A great team of people to work with
+- So many nice and good people","- Outdated policies and practices
+- no flexible work arrangements whatsoever
+- no work/life balance as it is all about work
+- Senior management in HR operates on bullying tactics and intimidation and could care less about doing what is right
+- Service from HR is horrible and unprofessional and the solutions they provide offer no value at all.  They tell you that they will get back to you but they never do.  There use to be some good people working in HR but they have all left.  The department is like a revolving door and no one knows anything.
+- Clear lack of leadership and direction from Senior Management.
+- If I have to hear how we are so ""awesome"" one more time from the CEO, I think I will puke!  Time to get a new line!"
+300,Laurentian Bank,Contractor,2016-06-13,5.0,,"A lot of room for growth , being company is less than 1000 employees individuals make a impact on companies direction and voice is heard",No work from home policy
+301,Laurentian Bank,STAY AWAY!!!!,2016-05-25,1.0,,The location is centrally located in the financial district core.,"Too many to list!
+
+1)  Very poor senior management.  Favourism is extremely heavy.  They pick and choose who they promote based on who they like, management filters and senior management has no clue what is going on even if a specific individual is not good at the job.  They promote people not because of their skills, but because of politics.
+
+2)  Low pay.  The pay at B2B is on the lower end compared to a lot of similar size companies.  I know many companies who offer over $50K higher for the same position.  The base salary sucks, the bonus is minimal, there is no incentive to go the extra mile when you know others are making more than you.   The pay for lower level employees are higher than higher levels, the work load taken on does not equivalent to the pay you get. Many employees have left due to incompetitive pay structure.
+
+3)  Horrible work life balance.  There IS no work life balance.  Many companies now a days offer work-from-home options, or flex hours (ie coming in 1 hr earlier and leaving 1 hr earlier).  Unfortunately this company does not have any of these options.  So if your schedule is 8:30am-5:00pm, you cannot leave even 10 minutes earlier - even if you came in 30 minutes earlier and worked through your lunch.  They do not value the effort and the time employees put in, but if they see you leave even just 5-10 minutes earlier, they want you to make up for it.  Other companies in the industry offer work from home to allow flexibility, not saying everyday, but at least 1 day a week, nope, no option.
+
+4)  No career growth.  Employees in the company usually end up leaving the company because they have no where to grow within.  The managers basically want you to stay at your position because you can do it, they do not want you to grow because their mentality is if you can do it, stay there.  For example, in customer service, many CSRs stay there for over 5 years because there is no where to grow within the company.  A lot of companies I know promote within and help people move up the ladder.  This company would love you to stay where you are - forever.
+
+5)  Poor HR hiring practise and poor employee ethics.  Most employees in this company do not care about customer service.  As a lot of back end administrative tasks effect the end customer, every single employee should be customer service oriented.  Unfortunately, because this company hires a lot of contract workers who have no experience, or just came from another country, and then give them insufficient training (ie. 1-2 days in class training, then job shadowing and expect you to do the job yourself), there is clearly a knowledge gap.  They then promote the wrong people - again not for their capability but for favourism.  These people do not care about the impact to end clients.  Their performance is not measured based on being customer service oriented or helpful either.  Performance is simply based on statistics which do not reflect the truth. And, most people who have been here a long time, are just here just because they are comfortable, not because anything is good about this company.  I talked to many people who have been here for a long time, everyone is bitter."
+302,Laurentian Bank,Conseiller aux Particuliers,2016-05-13,2.0,,Can have a good team and coworkers depending on the branch.,Sales targets are quite high taking into account uncompetitive products and services
+303,Laurentian Bank,Very poor Senior Management Team,2016-04-27,1.0,Anonymous Employee,There are no pros for this company.  The only good thing to say is the new office space is ok,"This list is almost endless.  To begin with there is absolutely no 'work\life balance' They expect you in your chair at all times, schedule meetings outside of working hours (even on weekends) with very little if any notice.  Senior management doesn't even understand the limitations of their technology or really look at alternatives available in the market that are more efficient and more cost effective.
+I wouldn't work here as a janitor they are so bad."
+304,Laurentian Bank,Good employer... but,2016-04-26,3.0,Anonymous Employee,"Salaries and advantages are not bad.
+Location is okay
+Work - Life balance is great
+New culture of honesty is great... new values also.","Too many restructuring, I had 7 different managers in the past 3 years.
+I’ve seen better insurance plan.
+Too much politics / boys club"
+305,Laurentian Bank,Need stronger leadership,2016-04-23,3.0,Anonymous Employee,Good sales staff and managers.,Senior management is clueless. Don't seem to have a sense of direction the company should take. Obviously never been in sales and don't know what it takes to run a successful team and to answer needs of clients.
+306,Laurentian Bank,administrative assistant,2016-04-18,4.0,Administrative Officer,"great team and environment , lots to learn","no promotions , mostly on contract basis with no renewals"
+307,Laurentian Bank,Credit Analyst,2016-04-10,3.0,,Lot to learn. Build solid understanding of lending practices. Learn to deliver in fast pace busy environment. Friendly people and management.,Mid size company. No career progresion. Management is very aggressive in decision making. Lots of work load and stress.
+308,Laurentian Bank,credit administrator,2016-04-07,3.0,,"nice people, the ambiance is joyful",long hours during RRSP season
+309,Laurentian Bank,Worst place I've ever worked at in my entire life.,2016-04-05,1.0,Anonymous Employee,Some really nice people who work long hours and are treated badly by management. Free coffee. Not many other pros to speak of.,Manage people through manipulation and fear. HR is totally incompetent and all about cya tactics.  Good managers leave the organization.  Terrible benefits.
+310,Laurentian Bank,decent,2016-04-05,3.0,,fun team good work atmosphere sometimes,too much sales pressure everyday
+311,Laurentian Bank,It was OK...,2016-03-27,3.0,,"I liked the CEO, although he has moved to Laurentian Bank of Canada.
+Bilingual organization in Toronto is nice.","HR department is not on the ball, and professional development is hard to come by if you didn't luck into working for one of their good managers (there were many bad ones)."
+312,Laurentian Bank,Ok,2016-03-24,1.0,Anonymous Employee,"Good place to learn, they have a strong follow the law and procedure which makes for a strong foundation and work ethic","The salary is below average and it is hard to generate commissions, they are trying to find a way out of the union by hiring contract employees"
+313,Laurentian Bank,Growing company.,2016-03-14,3.0,,"Relax environment, casual dress code 
+Growing company so space to move up (I think) 
+Close to union station 
+Looking for bilingual people","Moving up can sometimes take long 
+Growth company pain
+Salaries are a mistery 
+Organizational structure is confusing and rules can be messy"
+314,Laurentian Bank,"Good work environment, for a bank",2016-03-09,4.0,Developer,"All managers had to actually take management lessons as part of their training
+Good work performance review process, you write your own goals and combine them with those of your manager. You can choose your own training.
+Nice and respectful people","Overall low tech company
+Slow to make any change, very hard to improve existing processes
+Each department is run like a mini-company, they bill each other so it impedes cooperation"
+315,Laurentian Bank,Pretty Diverse and vibrant place,2016-02-13,4.0,Administration Officer,Great working environment ....laid back work space,Not enough opportunities Full time to grow in the company
+316,Laurentian Bank,N/A,2016-01-24,2.0,,"Location is convenient, close to Union, subways & streetcars.  Office is beautiful.  The company parties are always done well.","Management does not inspire development, there is no real, tangible opportunities for growth. There is a lot of micro-managing done by senior management and often times it feels stifling."
+317,Laurentian Bank,"great learning environment, lower salaries",2016-01-10,3.0,,Ambitious growth plans generate lots of activities thus creating unique learning opportunities. A great environment to acquire financial services/ banking experience.,"Although benefits package as a whole is fair, salary is noticeably lower than industry average and professional development fund allocation is minimal."
+318,Laurentian Bank,CS,2016-01-05,1.0,,B2B- Conceptually a great organization!,"Extremely Inflexible employment conditions making success, unattainable."
+319,Laurentian Bank,Lending Specialist,2015-12-02,2.0,Lending Specialist,Flexible hours as it included shift work. Ability to work on Saturday and take the next Friday off. Good co-workers.,Micromanagement. Childish Manager. Not able to voice opinions.
+320,Laurentian Bank,good experience,2015-12-01,3.0,Customer Service Specialist,good work-life balance. good people,nothing to refer . good experience
+321,Laurentian Bank,bottom tier company - don't waste your time,2015-11-24,1.0,Anonymous Employee,"Company doesnt have a lot of competition so they can really make a GREAT name for themselves.  They have Made some changes in the HO level - but is that enough?
+
+There are some good employees but I'm sure they are looking to jump this sinking ship as well.","I wish I knew about this site Otherwise I would not have started.
+
+Managers are too distracted with proving their job has value than focusing on improving company overall. They would easily throw their staff under a bus to save their own behind. There is a lot of tension between departments heads - to the point where managers are gossiping about other managers with their staff.  It's pretty much like high school.
+
+It's the corporate culture - It says a lot when the former President (Francois) starts telling people a corporate dinner that he has made a list of  everyone who has ""wronged him"" in the past and when he takes over Laurentian Bank,  he will fire them.
+
+They have hired new people for a fresh start  but there are still some from the old regime.  Like it said in another review, Any suggestion that may hurt the Francois' ego is immediately shut down. Everyone has to suck up to him, otherwise they are fired.
+
+The processing is archaic. Documents tend to get lost, the right hand never talks to the left.
+
+The customer service team (while improving) still needs a lot of work.  Even to B2B colleagues, they are condescending and rude/apathetic"
+322,Laurentian Bank,What a joke of an HR Department.,2015-10-18,1.0,Human Resources,"Talented, knowledgeable training department. HR and Compliance top management at all levels are horrible leaders with big egos. Dont plan on learning anything. Blind leading the talented. These are the pros.","Absolutely horrible. Dont get fooled by the recruiters. The operational departments throughout the bank have great managers and talented people. Do not. I repeat do not work in Talent Acquisition, compliance or HR. You will regret it."
+323,Laurentian Bank,Stay Away,2015-10-08,1.0,,Office space is nice.  Company parties are well done.,"Hard to find much positive to say about working at B2B.  The company is poorly run and has very outdated policies and practices (i.e., no flexibility to work flex hours, absolutely no work from home, many manual processes, etc).  Not very many happy employees there.  Culture of mistrust toward employees and a manage-by-fear mentality instilled in all managers.  Even in a professional level role you will be treated as if a student in highschool (not allowed to have brief personal conversations in the workplace, i.e., will be asked to ""get back to work"", regardless of whether there is any valid concern regarding your time management).  
+
+The HR department is the most troubled I have seen in my career- is hell bent on practicing out dated people management practices with little understanding towards employees' circumstances and absolutely zero flexibility.  Even when there is no business reason, rules that don't make sense in 2015 are applied for ""consistency"".  The entire company is ruled by a punch-clock mentality (if you have to miss any company time for personal reasons, i.e., to pick up a sick child from daycare, you will be asked to make up the time).  However, they do not pay their employees for overtime worked and when employees claim overtime they will deny to pay saying that the overtime was not approved in advance).  Most good people there are looking for their way out.  Running joke among staff is that B2B is like working in a salt mine.  Next to no career development, you will be lucky if you get objectives from your manager.  B2B needs to make a lot of changes in order to improve as an employer.  It's a shame because there are many good people there, but unless Senior Management commits to making significant changes, unfortunately I would not work there again."
+324,Laurentian Bank,Politics over competence,2015-10-08,2.0,Anonymous Employee,Career opportunities/advancement if you can deal with office politics (which I was).,Overall lack of resources (technical and staff). Company constantly changes direction and loses the most competent people along the way.
+325,Laurentian Bank,Toxic Environment,2015-10-07,1.0,Sales Manager,There are no Pros associated with this company,"Where can I start? Everything is micro managed. The company tells you that the work hours are 8:30 am-5:00 pm. However, if you actually leave at 5:00 pm, upper management uses this against you. The management committee will send people around as snoops each day to see who is leaving at 5 and who is still there after 5. Then when it comes time to meet and decide on budgetary cuts, they will use this as an excuse to bad mouth other departments because their staff actually leaves on time.   The company uses bullying tactics in forcing people to do overtime and forces all the managers to rate a few people as ""Needs Improvement"" even if they are good workers who are meeting job requirements just so they could force staff to leave the company and avoid paying out a bonus. 
+
+Management does not care if staff are not happy, in their minds, if you are not happy, get out and we can always find someone else.  The  Dinosaurs who head up management do not believe that anyone should be able to have a life outside of work nor should they be permitted to have a family.  People stay late not because they are really that busy,  it is done purely for show.    On top of that, they charge clients excessive fees to transfer out their accounts and charge them annual management fees regardless of how much money they may have with the company. 
+
+When there is a potential big snowstorm or transit strike, HR sends out an e-mail telling staff that they must make every effort to get to the office no matter how bad the situation is. This does not make staff feel like they are important.  That's why in the last 20 months there has been a mass exodus in the HR department, with the amount of people who have left the HR department these last 20 months, you could field an entire football team!! 
+
+However, they don't care how staff is treated. These individuals who do not permit a work life balance are probably not very successful when it comes to relationships in real life, so they feel the need to punish others. Many investment dealers are also upset with all the fees and all mistakes being made with regards to service delays, mistakes made with customer mortgages, investment loans. I would not be surprised if more and more dealers move their business to another service provider. Managers of various departments will stoop to childish levels to complain that someone from another team has was hanging around in the halls or leaving on time and use that as justification for another department to cut staff instead of his/her own department."
+326,Laurentian Bank,Assistant Vice-President,2015-09-28,5.0,Anonymous Employee,Growth mode. New products and management. They treat people very well.,Not the biggest bank but the best in Canada
+327,Laurentian Bank,Reporting Analyst,2015-09-01,2.0,,"clean, nice office location. very organized social committee, pretty decent company parties.",poor management. does not value human resources.
+328,Laurentian Bank,Was fun to work at before the merger.,2015-09-01,3.0,Problem Resolution Analyst,Lots of good people. Occupies an interesting niche as an intermediary (I.e not a regular deposit taking bank),Could feel a little b-list at times. Lacks the glamour of other financial companies
+329,Laurentian Bank,OK experience,2015-08-25,3.0,,"sense of family, challenging workload","Little support, poor management, pay is subpar."
+330,Laurentian Bank,Admin,2015-07-19,4.0,Anonymous Employee,"Ideal location, great people, nice offices, a lot of space","Low salaries, lack professionalism especially among senior management, big egos, low moral."
+331,Laurentian Bank,good starting a career mode,2015-07-02,3.0,,"Good company.Good co-workers, good location",The Hrs and HR management are very scare with employeees. They dont provide a quick response to your concern. As well as pay
+332,Laurentian Bank,Financial Company,2015-06-30,4.0,,"All Staff/Employees At B2B Bank DS are hard working individuals, working to ensure the work is completed by the end of the day..",Can not think of anything negative at this time.
+333,Laurentian Bank,Senior Mortgage Administrator,2015-06-17,3.0,,"the job is easy, 1 hour lunch, two 15min break, 9-5, lots of overtime opportunity which pays well.","the work environment is not good, coworkers are not friendly, or most of them old enough to have kids so no socializing after work."
+334,Laurentian Bank,Senior manager,2015-06-11,4.0,,"Good work challenges,possibility to adapt quickly and change direction","A smaller bank in Canada, so continuous changes are applied to improve process requires high tolerance of adaptability to change"
+335,Laurentian Bank,Good experience,2015-05-30,4.0,Bank Teller,"Good environnement, nice team that would help each other. Overall I had good experience.","Outdated system.
+Don't give many hours 15-24h/ week.."
+336,Laurentian Bank,worst employer ever,2015-05-09,1.0,Anonymous Employee,"Nice salary, near the subway","If you enjoy working in an open environment with rude, arrogant, ignorant and dumb people (for example, management), this is a wonderful place to work."
+337,Laurentian Bank,Micro Management galore,2015-05-07,1.0,,Close to Union station so transit is accessible,Poor management and poor work life balance
+338,Laurentian Bank,account admin,2015-04-15,1.0,Anonymous Employee,nothing positive  to say about b2b.,"Stressful place and worst management team. If you are a good person with good education background, this is not the place for you, do not ever waste your life here, they will kick you out anyway. because management is low, you can not be smarter than them.
+They do not care your education level or your person, as long as you can obey like a slave whatever your boss said, you can stay longer. They do not need your productivity or your skills."
+339,Laurentian Bank,An absolutely horrible place to work,2015-03-24,1.0,Anonymous Employee,"Because engagement is so low, there's a feeling that ""we're all in this together"". Misery loves company I suppose. Non-management staff is great group of people.","Where do you begin? I guess at the top. The problem with this place unequivocally is senior management, the antiquated policies they mandate, and the culture of fear that they instil down to their teams. They micro manage absolutely everything because they don't trust that anyone below them can do the job right. Their philosophy is, take a simple task and over complicate it. Make a decision about something, and then change it at the last minute. Waste effort and then don't communicate reasons why. You wonder why motivation and engagement is low? This is why people. Partly. The other reason is because the company's policies are brutal. Your kid is sick? Take a vacation day. Have a doctor's appointment? Take a vacation day. Blizzard outside? Make sure you get to work on time (safely, of course). Family Day off? Even though ""we"" don't HAVE to give it, we guess you can have it off. Leave early on Christmas Eve? How about 4:00? 
+
+Get the picture? Employees have lives outside of work and need flexibility. This company doesn't get that."
+340,Laurentian Bank,Market Risk and Valuation Analyst,2015-02-24,4.0,Market Risk and Valuation Analyst,Human size bank. You're not just a number and you easily get to know other employees at different levels in other departments.,Mobility is possible but looked slow to me.
+341,Laurentian Bank,business analyst,2015-01-23,4.0,,meduim company size friendly people possibily of rapid promotion,needs to promote more the integration of new employee
+342,Laurentian Bank,Needs a lot of improvement,2015-01-12,1.0,,The people are great and location as well.,"Too many at upper management level pretending they know what they're doing, lack professionalism, structure but most importantly, lack respect for the employees' rights. Stop working people to the bone. Focus on retention and making your employees happy. Once done, B2B will truly prosper on all levels. Get rid of the amateurs and higher C-level managers with a wide range of experience; they can bring  A LOT more to the table. And the ""You're Awesome"" slogan got old the moment they thought it was ""Ok"" to hang on the walls. Quite frankly it lacks creativity. What makes them awesome? Show staff, tell staff. Make them awesome!"
+343,Laurentian Bank,Great company to work for!,2014-12-31,4.0,,"Great colleagues, decent wage scale + benefits.",???? Company can be slow to promote from within.
+344,Laurentian Bank,The place is a nightmare to work at.  Lot of politics. They are always hiring because they can't hold on to good people,2014-11-22,1.0,Operations,Convenient to the train station,"Open concept, call centre type work environment throughout the whole organization.  No privacy at all, including for managers.  The work environment is not for everyone, unless you like to mind other peoples' business."
+345,Laurentian Bank,Keep your options open,2014-10-16,3.0,Manager,Lots of opportunities to grow if you have the right attitude and skills. Great place to start a career and stay if you like the people.,Salary not as competitive when compared to other banks. Even internally individuals with same skill set and position get paid different.
+346,Laurentian Bank,very very very bad!,2014-09-18,1.0,Customer Representative,"good working hours - monday to friday (but full time job is only 32h per week), pay is ok, most coworkers are friendly.","understaffed, very stressfull, big lines of customers all the time, manager never teach a thing, a lot of presser to sell credit cards, you have to learn new things by yourself during the work. computers offten are out of order. everybody are stressed around."
+347,Laurentian Bank,Great for Career Growth,2014-09-14,4.0,Anonymous Employee,There is a tremendous amount of opportunity to learn and develop both functionally and personally. The learning opportunities are really good.,The structure of the bank is really different from other banks and financial institutions. Head Office is in Quebec and all the other offices/branches are satellite offices. This presents a different set of challenges logistically.
+348,Laurentian Bank,Old ways of banking.,2014-08-17,2.0,Business Analyst,People are generally willing to support you if they know.,They are stuck to very old ways of banking. There are too many technology out there for the bank to stay at the level they are.
+349,Laurentian Bank,financial analyst,2014-07-31,4.0,,"Smaller firm, gives opportunity to see and do more, relaxed atmosphere. Good work-life balance, good training policies","some collegues prove difficult to work with, complacent mentality, low morale"
+350,Laurentian Bank,Good school to learn as a rookie in the financial industry. But run as soon soon as you can!!!,2014-07-29,1.0,Account Manager,Nice schedules for life balance. Unionised.,Difficult to attract new clients as the institution is seen as second class bank. Under funded. Hardly any budget for anything. Misery is the moto.
+351,Laurentian Bank,Power through aggression!,2014-05-29,1.0,Management,"Pension plan, vacation, location and colleagues","Incessant workplace bullying.  Major cause:  Insecure and fearful management instigates confusion and unaccountability within the workplace - mostly incited by HR management.
+
+A typical work day includes repeated incidents of behavior that is intended to intimidate, offend, degrade and humiliate a particular person."
+352,Laurentian Bank,"Very Dissatisfied with the way the company has ""grown"".",2014-05-19,1.0,Credit Analyst,There are no pros that make this company stand out from working anywhere else. The pay and benefits are on the low end. Vacation days are better than average to start.,"You will be hard pressed to find a more depressing company to work for. The ""management team"" is as motivating as a Monday morning in February. The way they handled the recently mergers - from firing long time employees to forcing staff to do ridiculous hours of OT - has been nothing short of embarrassing. You'd think that it would make sense to keep existing staff who know how to do the work, instead of spending money on training new staff (and them firing them anyway when they make mistakes)."
+353,Laurentian Bank,Abysmal,2014-05-10,1.0,Account Manager,Good entry level job but not a place you want to stay at for too long. You get experience dealing with difficult people and situations.,"- Poor leadership.
+- Outdated systems.
+- Political work environment.
+- High turnover."
+354,Laurentian Bank,A toxic environment where you every key stroke was measured in terms of productivity.  Very 1984.,2014-05-04,1.0,Don't Want to Say,"If you don't mind having ""moles"" watching every bathroom break or God forbid you have a death in the family and don't need time off then you're just fine.  If you don't mind an overly sterile (read white) work station the size of a post it note where it's dictated what drawer you ""may"" use for personal items then you're just fine.","HR's mantra was always ""let's see who we can get rid of"".  If you're a long-term employee you're toast even if you do a great job.  If you have your PhD you might get a job as a CSR but don't expect anything more that $35 K."
+355,Laurentian Bank,used to be a great place,2014-05-04,1.0,Anonymous Employee,B2B Bank which is a subsidiary of Laurentian Bank of Canada used to be a great place to work.  When I started there it as LBC and then B2B Trust and the president Francois as thought to be a wonderful president who thought of his employees,"Now, it is a toxic place to work  layoffs, promises of no layoffs, layoffs, people work there becuase there are no other jobs out there  When there are away they do.  The changes since I started the company when from people thinking the company is a wonderful and lets get to work every day to oh no I have to go in today  Salaries are not great and when they took over new companies B2B employees were laid off not MRS or AGF employes and guess who made more MRS and AGF employees so old B2B employees are doing the ame work as the MRS and AGF and making less that is untill B2B employees are let go  Did B2B take over MRS and AGF or did they take us over ... good questions"
+356,Laurentian Bank,Toxic environment. People are treated as numbers,2014-04-27,1.0,Assistant Manager,Location- downtown on the path,"Culture is toxic, your opinion doesn't count. Unnecessarily challenging and difficult. No respect for work life balance and no respect for the experience."
+357,Laurentian Bank,Uninspiring.,2014-04-27,1.0,,They hire just about anybody...,"Below average pay scale.
+Poor benefits compared to competitors.
+Evaluations set up so 15% of staff will ""fail"" and get no bonus.
+Minimal bonus.
+Very little chance for growth thanks to mergers and politics.
+Lack of transparency from upper management.
+Very poor leadership skills from managers.
+Lots of nepotism.
+Lots of layoffs."
+358,Laurentian Bank,"Contract after contract. Good first job, not a long-term play.",2014-04-21,3.0,,"-The majority of the work period was casual days (jeans and a shirt). Only a few weeks of the year was dress shirt + dress pants). 
+-Bonuses for recruiting your friends (bigger bonus for bilinguals). 
+-Two paid 15 minute breaks + 1 hour lunch.
+-Performance bonuses for full time employees.
+-Quarterly corporate meetings where CEO speaks. Also other events around the year.","-Pay remains the same. You may be on contract for 3 years and still make less than a new employee, despite having greater responsibilities + job duties.
+-Very few full time opportunities. Job postings require a ton of experience + qualifications (make sure to get your CSC if you want any shot of a full time gig)."
+359,Laurentian Bank,Petty senior manager who creates a toxic environment.,2014-04-14,1.0,,There is nothing I like about working at this place. I am planning to leave as soon as I get another job offer.,"This company is heavily micromanaged - they watch the time you come in to work, time you leave and how long your breaks and lunches are. They try to control your life outside of working hours too...they force you to do overtime, attend these boring company meetings which is just a PR show by the president, and they are even trying to enforce shifts now (no more standard 8:30-5).
+
+Don't expect to be treated like a human being here - I've seen so many of my friends get let go and then emails sent out saying ""don't let these people into the office premises"" - once they let you go they talk about you like you meant nothing. Its not only disrespectful to those that were let go but also to their friends who are still at the company. I've seen people who were here for over 18 years get let go and without any valid reason - ""business decision"". I cant wait to get out of here..."
+360,Laurentian Bank,Good bunch of people,2014-04-09,3.0,Anonymous Employee,"Loads and loads of over time allows you to save a lot 
+Nice environment to work in good offices modern downtown 
+Average pay run of the mill like any other bank in Toronto 
+Good Christmas party and free gifts 
+Really good people to work with",Just like any other bank there are always problems that happen but nothing really too major
+361,Laurentian Bank,Vive le Quebec Libre !,2014-04-02,1.0,Contract Employee,"the best reason one could come up with for working here, would be if one were tasked with  having to complete  an Organizational Behaviour study on Toxic environments.. especially those that operate under the   heavy hand of a Quebec  parent company , Laurentian Bank of Canada (LBC)","the list is too long to be considered fully comprehensive, but a sampling would be:
+
+a culture that over-emphasizes the dangers of risk and does so by building incredibly time-consuming and redundant processes that are sold as 'checks and balances'
+
+a top heavy org structure that operates like a 1950's firm- do as we say, not as we do
+
+a holding company ( LBC) that plants its own former execs at the top  and who then  act as emissaries for LBC, doing what and how LBC tells them , seemingly questioning little or nothing  ( as in ""Dear Employees, please welcome LBC's Audit team....again !"
+362,Laurentian Bank,Don't know what is around the corner!!,2014-04-01,2.0,Anonymous Employee,Great benefit plan and pay is okay and vacation flexibility is okay.,"Disconnect between departments and no one taking responsibility to assisting advisors, the customers.  Employees want to help, but not given flexibility.  Not taking advantage of knowledge of employees.  Micromanaged by President.  High staff turnover in key positions."
+363,Laurentian Bank,Overly stressful,2014-03-31,2.0,Anonymous Employee,Close to Union station.  There exists a core group of long term  staff that care about what once were 3 great companies.  They try to do what is right.,It is an unnecessarily challenging environment made unnecessarily difficult  by continuously changing targets that only serve one purpose: create the illusion of stability and strength.
+364,Laurentian Bank,average,2014-03-31,2.0,,"location, colleagues, cleanliness, recycling, security","superiors, workload, punctuality, sufficient OT opportunity, cross training"
+365,Laurentian Bank,Incompetent leadership - expect to hate working here,2014-03-24,1.0,Anonymous Employee,Staff are heroes that try to hold an incompetent executive from persistently trying to push this company into a state of complete failure and dissolution. 3 weeks vacation to boot if not on contract.,"Random layoffs are par for the course. Your opinion not only does not matter but could get you included in the next round. Keep your head down, bite your lip and know your role. However, this is no guarantee of safety as good people are let go all the time.
+
+Executive decisions never address real problems and instead tend to create new ones, which forces staff into the most uncomfortable of positions apologizing for their mistakes and/or inaction, or staff working beyond measure trying to play catch-up within a flawed system that is filled with so many redundancies that makes doing so almost impossible. 
+
+Do not expect a promotion from within. You will be a lifer in the position you get hired into. This organization prefers external candidates rather than dipping into their own. If you are on contract, begin looking for work about a month before it expires. 
+
+In terms of upper management, do not not expect change or empathy for an acid environment. Throw others under the bus and you will be fine.
+
+If you are a talent of any value, I suggest reading the rest of the posts on glassdoor if you need to confirm what I have posted here. It pains me to write all this criticism, but it has to be said for change to be forced on this organization."
+366,Laurentian Bank,A very family oriented company.  Management is professional and helpful.  HR continuously trains staff.,2014-03-22,4.0,Manager,Very enjoyable.  I learned a tremendous amount about the industry.  They are open to new ideas for improvements.,Management reporting on productivity got into the way of actual ability to produce.
+367,Laurentian Bank,"Awesome, Awesome, Awesome....or really ?!",2014-03-18,1.0,Assistant Manager,"Nothing good for this company from structure, leadership to people management",Not treated people well and all the managers are not speaking up for their staff
+368,Laurentian Bank,Great place to work in Québec,2014-03-02,4.0,Financial Advisor,"Good benefits as employee (health insurance, maternity)
+After 5 years of services increase 4 weeks holidays
+Discount for mortgage rate, banking plan, line of credits.","Bank based more in Québec.
+Small bank with no really publicity in medias. Sometimes difficult to find new clients."
+369,Laurentian Bank,Not a good place to work.,2014-03-01,1.0,Client Services Representative,If you are good at throwing others under the bus and sucking up to your seniors you will climb the ladder very quickly. The only real advantage of working here is their vacation days.,"In my experience, the pay was sub-standard and the job was not very challenging. The mentality in this company is: you are a cog in the big machine. You come in, do your job and don't question your seniors. Most of the ""lifers"" here are ""yes men"" who will do whatever their bosses tell them and throw each other under the bus to save their own jobs. This is a reflection of the president and his management team who use intimidation to get what they want out of you. If you choose not to do overtime or attend company meetings you will need a valid reason!"
+370,Laurentian Bank,Company growth at what cost?,2014-02-17,2.0,Manager,Their objective is to grow their market share and become more competitive,Growth of the company has come at a cost to clients(service) and staff(value)
+371,Laurentian Bank,Change is good...when done correctly.,2014-02-06,1.0,Senior Manager,Used to be a good company to work for back in the day before all the mergers. Not anymore (see below).,"Lots of changes due to merger, and with it a lot of layoffs. Managers throwing each other under the bus to save their jobs and wasting time on politicking. Newer staff are all hired contract and extended so the company can avoid giving them benefits and get rid of them as needed. There is too much work and not enough people so they cut corners and hope for the best. If (when!) anything goes wrong, heads roll. The whole HR policy of the company is questionable - whether they are asking you to avoid being late to work due to an upcoming winter storm or attend the company meeting (after work hours, unpaid), they always seems to find a way to make their emails seem semi-threatening."
+372,Laurentian Bank,Not for the faint at heart......,2014-02-04,1.0,Anonymous Employee,"- wonderful colleagues (non-management)
+- clean bathrooms","Where do I start? This company lacks direction mostly because of its ""leader"" can not differentiate between a good, honest hard working employee from the sycophants he employs in his immediate circle of management. Contrary to his belief, the company was built on the strength of its passionate employees, not just through the efforts of one man. Working here is not for the faint at heart. I care for my co-workers because they are good at what they do, and we all give an honest effort each and every day. But the longer we stay, the harder it is to put up with the decisions that come down from the top. Morale is at an all time low and it doesn't appear that it will improve anytime soon. I love what I do but it's getting harder and harder to come to work every day considering some of us are on the front line having to defend this company to our advisors."
+373,Laurentian Bank,"Poor leadership, schoolyard bullying and intimidation and arbitrary decision making.",2014-01-27,1.0,Administration,Close to TTC. Some great people work here (non managers),"The president tells his management team how to think and what to say. They in turn regurgitate this message to their staff. The managers are all the same, you can tell they have been brainwashed. You are bullied into doing overtime and going for these company meetings where all the president does is boast about how great his bank is (yes, its HIS bank and he makes sure you remember that). You dont get paid to go for these meetings btw. A lot of decisions are made without seeking consensus - and then when mistakes are made people are fired. I hate going into work - having to watch what I do and say as it seems your every move is being watched."
+374,Laurentian Bank,not the best but not the worst,2013-12-02,2.0,Financial Administration Officer,good people to work with. good parties. good benefits. good location.,"very, very poor management. short sighted policies. poor hiring practices. extremely low morale. bullying and intimidating practices. totally untransparent. unrealistic work expectations. average salaries for most of the bank. extremely high salaries for undeserving managers. divide and rule mentality- setting up one employee against another- managers are very good at this. overloaded top management. gotten rid of some of the best managers from the original b2b trust cadre (people who actually helped shape and build b2b trust) and replaced them with a lot of ninnies."
+375,Laurentian Bank,In the dark ages...,2013-10-01,1.0,Manager,"the people I work with and department manager are fabulous, committed and conscientious individuals.","No work from home policy, STRICTLY enforced. Micro-managed by the President (it's called ""Frank's Bank"" internally), middle and senior management have to be yes men in order to keep their jobs. There's no acknowledgement or trust in an individual's expertise. Management doesn't communicate its strategy and what we're working towards, we're supposed to read the President's mind."
+376,Laurentian Bank,Overall it is a great company,2013-05-29,4.0,Client Services Representative,"The company size is just right - not too big, not too small, but is a growing company (we have acquired 2 companies within 2 years).  Location is great, you can walk to work from Union Station within 5-10 minutes (we are located at York/Adelaide, but are moving to Commerce Court West at Bay/King next year).  Culture is great too - multicultural, casual environment.","Because the company is going through changes now, there are a lot of contract workers (their contract gets extended every 2 months, with low wages).  There is a lot of laying off.  But I'm sure this will improve after all the conversion settles down with AGF."
+377,Laurentian Bank,Obedience before competence.,2013-04-24,1.0,Manager,"Nice people to work with but misery loves company.
+Good Work/Life Balance.
+Job security","Way too political. Don't value competence.
+Nonexistent career opportunities.
+Management motto : cover my own ass and put my freinds in the right spot despite their incompetence. . 
+Extraordinary number of  VP's with no legitimacy or value added..
+No growth,
+Low wages compared to the average of the industry."
+378,Laurentian Bank,Sinking ship,2012-09-26,1.0,Account Manager,Unionized and trailer fee commissions for advisers,"Ancient computer system, many (if not majority) of advisers know little if anything at all about finance and economics. Ridiculous amount of turnover in the branches. Constantly short staffed. Union protects many employees from being accountable for their actions."
+379,Laurentian Bank,very good,2011-11-24,4.0,Investment Advisor,respectful environment and liberty in work development,it is a small firm lack of inside ressources

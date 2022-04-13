@@ -1,8 +1,17 @@
 ,company,headline,date,overall_rating,author_position,pros,cons
-0,Marqeta,Great company culture and people!,2022-03-17,5.0,Anonymous Employee,"Amazing, smart people to work with and learn from
+0,Marqeta,Loved my time at Marqeta,2022-04-01,5.0,Anonymous Employee,"Awesome colleagues
+Making a difference
+Free lunches
+Nice view of Lake Merrit
+Remote friendly 
+Cool CEO","Low Compensation 
+Nepotism
+Growing pains of a start up"
+1,Marqeta,Great company culture and people!,2022-03-17,5.0,Anonymous Employee,"Amazing, smart people to work with and learn from
 People team works hard to maintain company culture even remotely through fun virtual events and employee benefits","Undergoing some growing pains as a newly-public, rapidly-growing company"
-1,Marqeta,Good place to work,2022-03-10,5.0,"Senior Manager, Operations","Marqeta is a great place to work if you are looking for a fast paced environment where you can be a contributor to the growth of the department . The pace is fast, but the people you work and collaborate with are the best of the best. I've been given numerous opportunities for growth and to partner with different teams. This is truly an environment of collaboration. Leadership from Jason Gardner is genuine and he truly cares about the culture and the people of the company.","Work/Life balance can be improved. Working in this environment is good, but long hours and working through the weekends needs to improved."
-2,Marqeta,"Always room for improvement, but this company is amazing!",2022-01-13,5.0,Senior Software Engineer,"1. Culture
+2,Marqeta,Good place to work,2022-03-10,5.0,"Senior Manager, Operations","Marqeta is a great place to work if you are looking for a fast paced environment where you can be a contributor to the growth of the department . The pace is fast, but the people you work and collaborate with are the best of the best. I've been given numerous opportunities for growth and to partner with different teams. This is truly an environment of collaboration. Leadership from Jason Gardner is genuine and he truly cares about the culture and the people of the company.","Work/Life balance can be improved. Working in this environment is good, but long hours and working through the weekends needs to improved."
+3,Marqeta,Constant Change and Shaky C-Suite Leadership,2022-03-23,2.0,Anonymous Employee,They over pay for talent due to incompetencies.,This company has no true vision or leadership strategy. It’s truly pathetic.
+4,Marqeta,"Always room for improvement, but this company is amazing!",2022-01-13,5.0,Senior Software Engineer,"1. Culture
 
 The company in general has a very upbeat, transparent, and engaging culture. It commits to its values. Since I started working here, I have witnessed a sincere push to make things better, including our products, internal processes, communications, and working environment. These are things which are never perfect, and I feel that most people at Marqeta, including upper management, consistently strive to adapt and improve all areas of the business. In my experience, most people respond well to respectful, critical feedback. Standard procedure is to approach problems in a blameless and constructive manner. 
 
@@ -41,24 +50,23 @@ The reality of working with critical production software that never sleeps is th
 Team support works wonders here. My group has been excellent about trading schedules and giving team members a break when its needed. I'm not sure if that behavior is widespread throughout the company, but it absolutely needs to be.
 
 That said, as more of our outstanding tech debt is tackled, the breadth and severity of fires is improving. Our team's on-call shifts have, thankfully, seen far fewer incidents over the past several weeks. As the company matures, and our processes, procedures, and codebase improves, I suspect on-call shifts will continue to improve as well."
-3,Marqeta,"Natural pain points, but definitely worth it!",2022-01-12,5.0,Senior Program Manager,"- Company culture and true investment in its people
+5,Marqeta,Modern Card Issuing & Processing,2022-02-06,5.0,Senior Director,Passionate and collaborate team members,Competing priorities and many opportunities
+6,Marqeta,Too political,2022-02-21,1.0,Engineering Manager,It’s a steady job at least,"Lots of political dealings, and high c suite turnover."
+7,Marqeta,"Natural pain points, but definitely worth it!",2022-01-12,5.0,Senior Program Manager,"- Company culture and true investment in its people
 - We are here to build something, together
 - Critical opinions for business decisions and initiatives matter
 - Perks and HR benefits are top-notch
 - Diversity and inclusion is not just a passion but a mindset for the organization, always willing to learn and grow","- With growth, sometimes can lead to ""too many cooks in the kitchen."" 
 - A clear ladder for individual contributors versus managers./leads is needed
 But I know both management and specific teams are working to remedy these cons, so I'm glad they're listening to its employees."
-4,Marqeta,Constant Change and Shaky C-Suite Leadership,2022-03-23,2.0,Anonymous Employee,They over pay for talent due to incompetencies.,This company has no true vision or leadership strategy. It’s truly pathetic.
-5,Marqeta,Truly a positive company culture experience,2021-10-07,5.0,Manager,"1. THE PEOPLE AND ATTITUDES: This is my first time at a start up, but in comparison to typical corporate cultures, it's very refreshing to be part of such a motivating and supportive culture. I feel like I can speak freely and all input (regardless of level) is valued.
-
-2. LEADERSHIP AND VISION: the company has some kinks (what company doesn't?), but leadership holds themself accountable and focus is on how to improve the business (not on blaming people). The company goals are challenging but realistic and I'm excited to see where Marqeta grow/progress.","In the past, writing up the cons is the easy part but I'm struggling this time, which is a good thing. The main challenge I see is being short on resources, which is creates a significant backlog. However, that's a standard problem across industries right now and we continue to hire new Marqetans!"
-6,Marqeta,Modern Card Issuing & Processing,2022-02-06,5.0,Senior Director,Passionate and collaborate team members,Competing priorities and many opportunities
-7,Marqeta,Exciting workplace but frustrating at times,2021-11-01,4.0,Senior Data Analyst,"- High ceiling for company growth
-- Smart & hardworking employees
-- Challenging and exciting projects","- Overwork high performers
-- Lack clear growth opportunities for young ICs
-- High pressure for deadlines self-inflicted by management"
-8,Marqeta,Great Product and overall company but a lot of politics on certain teams,2021-12-20,3.0,Analyst,"great product/innovative customers 
+8,Marqeta,Company with great potential but need to work on Sr leadership,2022-01-12,4.0,Engineering,"- Great business and growth potential can grow and go really far if senior leadership is fixed.
+- Amazing people, engineers and great attitude in product engineering.
+- Lots of flexibility
+- Good Pay Master, not best but not bad.","- Lots of politics.
+- Some VP's and directors don't deserve to stay there and completely spoiling the engineering culture.
+- Worst PX engineering team, not produced anything in past 2 years."
+9,Marqeta,Run,2022-01-25,1.0,Senior Analyst,People are great very collaborative,Leadership is unorganized and constantly putting out fires. Chaos is a daily occurrence
+10,Marqeta,Great Product and overall company but a lot of politics on certain teams,2021-12-20,3.0,Analyst,"great product/innovative customers 
 wonderful ceo
 flexibility","top/brass heavy
 very large inefficiencies
@@ -68,22 +76,31 @@ people stepping on each other toes
 no room for taking on more leadership responsibility (once again pov from the team i was on)
 a lot of other executives are all talk and no action
 lots of politics on certain teams and the organizational structure is downright terible"
-9,Marqeta,Company with great potential but need to work on Sr leadership,2022-01-12,4.0,Engineering,"- Great business and growth potential can grow and go really far if senior leadership is fixed.
-- Amazing people, engineers and great attitude in product engineering.
-- Lots of flexibility
-- Good Pay Master, not best but not bad.","- Lots of politics.
-- Some VP's and directors don't deserve to stay there and completely spoiling the engineering culture.
-- Worst PX engineering team, not produced anything in past 2 years."
-10,Marqeta,"Supportive culture, excellent benefits",2021-04-14,5.0,Technical Writer,"When I joined Marqeta fulltime in January, I of course had no idea that I would be hospitalized for COVID for two weeks in March. I've been on short term disability for weeks now, and PeopleOps has been nothing but supportive. Also, prior to this disability leave, the health insurance failed to authorize my husband's primary medication and PeopleOps helped resolve that too. The performance of the PeopleOps team is representative of the culture at large which emphasizes competency, emotional intelligence, and healthy culture. Marqeta is working hard on diversity and inclusion through dozens of identity groups such as Black Card and Women in Technology. Leadership attempts during all hands meetings to acknowledge that we are all doing our best working from home during COVID and it is okay to not do that perfectly. It makes you want to show up and do your best. I think the benefits which include pet insurance for one animal are fantastic, so if you are a candidate, be sure to ask for details including whether your position is bonus eligible.","It's not really a con but rather an adustment. Marqeta is focused more on goals than dates and the new hire impacts their job description as the position begins. Think about it - wouldn't that be great, to help shape a role to your unique talents? It can feel a bit squishy at first."
-11,Marqeta,Busy with Tons of Growth Potential and Supportive Management,2021-09-20,5.0,Senior Information Security Analyst,"Leadership is appreciative and acknowledges the workloads. There is constant reminders to exercise work life balance and to take time off if needed. Much growth potential and opportunities to build who new systems and programs. Folks listen to each other and want to collaborate to build a stronger company. A lot of support and encouragement to take the lead and listen to ""outside the box thinking"".","Heavy workloads, quick turnarounds and not enough folks to do the work (scaling and hiring but the job market is tight). Scaling to adjust to a public company status and a lot of priority shifting while still growing."
-12,Marqeta,Very positive and welcoming experience,2021-10-18,5.0,Software Engineer,"- great and smart people, always willing to make time for you if you need help
+11,Marqeta,Awesome Inclusive Comapny,2021-11-26,5.0,Anonymous Employee,"Inclusive, progressive, culture, people, growth","Needs improve organizational alignment, but getting there"
+12,Marqeta,Exciting workplace but frustrating at times,2021-11-01,4.0,Senior Data Analyst,"- High ceiling for company growth
+- Smart & hardworking employees
+- Challenging and exciting projects","- Overwork high performers
+- Lack clear growth opportunities for young ICs
+- High pressure for deadlines self-inflicted by management"
+13,Marqeta,Good company,2021-10-27,5.0,Anonymous Employee,It is a great place to work!,I do not have anything negative to say.
+14,Marqeta,Very positive and welcoming experience,2021-10-18,5.0,Software Engineer,"- great and smart people, always willing to make time for you if you need help
 - exciting work and lots of opportunities to start new initiatives
 - great management and people put in efforts to establish cross-team relationships 
 - very transparent and open company
 - strong culture despite working in a distributed and remote setting
 - incredibly diverse team (from all backgrounds, levels, and roles)","- recruiting pipeline is still being established
 - company is in a transition phase, going from a private to a public company so all processes and standards are not necessarily set"
-13,Marqeta,A company experiencing heavy growth with great opportunities,2021-09-26,5.0,Senior Operations Manager,"I have been working for Marqeta for three months, geographically remote. This company is transitioning away from start up culture with the recent IPO in Summer 2021. There is plenty of opportunity to make your mark here by establishing new processes and helping to steer the company to handle exponential growth in the FinTech industry, worldwide. 
+15,Marqeta,Best company I’ve ever worked for,2021-10-17,5.0,Anonymous Employee,"Awesome culture, truly caring manager, supportive team mates, innovative work where what I contribute matters and is recognized, many opportunities to train and grow in my career, amazing benefits, very competitive salary. I have really nothing negative to say about this company",I have nothing negative to say about this company.
+16,Marqeta,"In my opinion, there is a toxic culture in the Legal Department",2021-10-18,2.0,Anonymous Employee,"The company is innovative and has a bright future;
+There are a lot of really smart people that are laser focused on doing the best work of their lives;
+Pay and benefits are above average; 
+The CEO is a visionary and strong leader.","In my opinion:
+ There are senior leaders in the Legal Department that are creating a toxic culture;
+These leaders do not have the required skills or experience to adequately perform their duties;"
+17,Marqeta,Truly a positive company culture experience,2021-10-07,5.0,Manager,"1. THE PEOPLE AND ATTITUDES: This is my first time at a start up, but in comparison to typical corporate cultures, it's very refreshing to be part of such a motivating and supportive culture. I feel like I can speak freely and all input (regardless of level) is valued.
+
+2. LEADERSHIP AND VISION: the company has some kinks (what company doesn't?), but leadership holds themself accountable and focus is on how to improve the business (not on blaming people). The company goals are challenging but realistic and I'm excited to see where Marqeta grow/progress.","In the past, writing up the cons is the easy part but I'm struggling this time, which is a good thing. The main challenge I see is being short on resources, which is creates a significant backlog. However, that's a standard problem across industries right now and we continue to hire new Marqetans!"
+18,Marqeta,A company experiencing heavy growth with great opportunities,2021-09-26,5.0,Senior Operations Manager,"I have been working for Marqeta for three months, geographically remote. This company is transitioning away from start up culture with the recent IPO in Summer 2021. There is plenty of opportunity to make your mark here by establishing new processes and helping to steer the company to handle exponential growth in the FinTech industry, worldwide. 
 
 Pros:
 - Great onboarding process
@@ -101,66 +118,39 @@ Work/Life balance is important to leadership based on the following:
  - bi-weekly Focus Friday (no meetings)
  - Freedom to set working hours (within reason to ensure business continuity)
  - However, this is a company in extreme growth phase, so expect to work a lot of hours. This is a potential con for some candidates, but not for those looking for a challenge and the opportunity to build something new."
-14,Marqeta,Too political,2022-02-21,1.0,Engineering Manager,It’s a steady job at least,"Lots of political dealings, and high c suite turnover."
-15,Marqeta,"Amazing People, Great Culture, Exciting Work, and First-Class Benefits",2021-06-01,5.0,Senior Revenue Analyst,"Incredible work/life balance; constantly finding yourself surrounded with brilliant people; everyone is bought-in to the mission and goals of the company; transparent communication between all levels and departments; industry-leading perks and benefits, and family-first mentality",A handful of fragile egos to watch out for; slight growing pains; so many different potential expansion directions that it seems there's sometimes difficulty deciding (although this could easily be a pro as well).
-16,Marqeta,Best company I’ve ever worked for,2021-10-17,5.0,Anonymous Employee,"Awesome culture, truly caring manager, supportive team mates, innovative work where what I contribute matters and is recognized, many opportunities to train and grow in my career, amazing benefits, very competitive salary. I have really nothing negative to say about this company",I have nothing negative to say about this company.
-17,Marqeta,Very mixed feelings,2021-08-26,2.0,Anonymous Employee,"- People are generally friendly and willing to help
-- Product has great product market fit and the company outlook is looking positive
-- Leadership seems mature, not a ton of politics from what I can tell
-- They preach and have had success promoting from within and care a lot about your longevity at the company","- Culture is pretty meh. It may be because the company was heavy on in-person before but there isn't a lot done to keep employees engaged remotely
-- Manager level is really junior. They need a lot more training in unconscious bias and having more empathy
-- Lack of documentation and organization. For a mature and public company, it seems pretty messy"
-18,Marqeta,Awesome Inclusive Comapny,2021-11-26,5.0,Anonymous Employee,"Inclusive, progressive, culture, people, growth","Needs improve organizational alignment, but getting there"
-19,Marqeta,Positive Work Environment,2021-09-21,4.0,Anonymous Employee,"Positive, welcoming, engaging culture. Teams are supportive and encourage you to do your best work. People are recognized for their work. Leadership listens and connects with employees to better understand how to improve business processes and product delivery. Quality of work is valued, not just deploying new product/features by the day.","Recent operational and personnel changes due to IPO, resulting in uneven workloads and long hours for certain teams. However, the turnover seems typical of a growing company."
-20,Marqeta,"Place to grow, make change, make an impact",2021-10-11,4.0,Software Engineer,"There's a lot of encouraging resources for employees, from benefits to career growth to community oriented events to keep us connected
+19,Marqeta,"Place to grow, make change, make an impact",2021-10-11,4.0,Software Engineer,"There's a lot of encouraging resources for employees, from benefits to career growth to community oriented events to keep us connected
 It's exciting to be a part of an up-and-coming newly-IPO'ed company that's a leader in it's corner of the market
 The company is still small enough that you can genuinely make changes - whether it be through ERG work, directly impacting the direction of technology and product, or shaping company culture through a number of committees etc. Although growing, it's still family-sized and very open to change","Hard work and fast paced
 Things are constantly changing - even how we plan our roadmap quarter to quarter!"
-21,Marqeta,"In my opinion, there is a toxic culture in the Legal Department",2021-10-18,2.0,Anonymous Employee,"The company is innovative and has a bright future;
-There are a lot of really smart people that are laser focused on doing the best work of their lives;
-Pay and benefits are above average; 
-The CEO is a visionary and strong leader.","In my opinion:
- There are senior leaders in the Legal Department that are creating a toxic culture;
-These leaders do not have the required skills or experience to adequately perform their duties;"
-22,Marqeta,Run,2022-01-25,1.0,Senior Analyst,People are great very collaborative,Leadership is unorganized and constantly putting out fires. Chaos is a daily occurrence
-23,Marqeta,Good company,2021-10-27,5.0,Anonymous Employee,It is a great place to work!,I do not have anything negative to say.
-24,Marqeta,You want to work at a place like this,2021-09-13,5.0,"Director, Strategy","A real focus on getting stuff done!
+20,Marqeta,Busy with Tons of Growth Potential and Supportive Management,2021-09-20,5.0,Senior Information Security Analyst,"Leadership is appreciative and acknowledges the workloads. There is constant reminders to exercise work life balance and to take time off if needed. Much growth potential and opportunities to build who new systems and programs. Folks listen to each other and want to collaborate to build a stronger company. A lot of support and encouragement to take the lead and listen to ""outside the box thinking"".","Heavy workloads, quick turnarounds and not enough folks to do the work (scaling and hiring but the job market is tight). Scaling to adjust to a public company status and a lot of priority shifting while still growing."
+21,Marqeta,Growing,2021-09-24,3.0,Legal Counsel,"High company growth over recent years
+Good market fit
+Lots of potential","Disorganized
+Work-life balance is not great
+Growing pains to go with the growth"
+22,Marqeta,People company,2021-09-15,5.0,Senior Product Designer,"Between all organizational levels at Marqeta, you can find a high level of:
+• Transparency 
+• Constant communications 
+• Constructive collaborations
+• strong mindset to improve everyday",All uncertainties that comes with being a startup.
+23,Marqeta,You want to work at a place like this,2021-09-13,5.0,"Director, Strategy","A real focus on getting stuff done!
 Meaningful Equity
 Good Salary
 Top Notch Benefits
 Transparent Culture","Fintech is hard
 Very Demanding Pace"
-25,Marqeta,"Good company in growth phase, uniquely positioned to disrupt market",2021-03-31,5.0,Software Engineer,"* Marqeta is uniquely positioned to disrupt the issuers processor market, especially with it entering the Credit space
-* Modern tech stack (Microservices, AWS, gRPC, Spring Boot, Open API), good engineering teams, excellent collaboration within the remotely located teams, organically remote friendly (before COVID stuck)
-* Great deal of transparency from leadership, open discussions around business and technical problems being faced and the approaches towards them
-* Diversity and Inclusion is at its core. Quite natural, working with people from diverse backgrounds, I just loved it on first impression. 
-* Pay in lines with what one would expect from cash component at FAANGMULA (equity is paper money for now)
-* Company is currently in growth phase - so whole lot of scalability and resiliency challenges. Exciting times, exciting problems.
-* Great from work life balance perspective, no undue pressure","* Perks are good at-best, could be better."
-26,Marqeta,People company,2021-09-15,5.0,Senior Product Designer,"Between all organizational levels at Marqeta, you can find a high level of:
-• Transparency 
-• Constant communications 
-• Constructive collaborations
-• strong mindset to improve everyday",All uncertainties that comes with being a startup.
-27,Marqeta,"Good Company with Great Product,high Growth and well planned Roadmap",2021-02-16,5.0,Software Engineer,"- High base salary and they let you work remotely from anywhere
-- Good work life/balance with quite a bit of holidays every year. 
-- Good tech talks which are not limited to just software but also on fintech industry or crypto.
-- Co-workers are helpful and friendly even outside team.
-- Transparent management which communicates often and holds Q&A meetings.
-- Lot of growth opportunities if you are in sales","- The software development was setup for rapid iteration but has not scaled well. It takes a while to see features deployed. The management is aware of it and at a team level effort is being made to rectify this.
-- There is heavy ops which affects sprint tasks."
-28,Marqeta,Overall great company!,2021-07-30,5.0,Anonymous Employee,"- Fast paced and high growth means a lot of opportunities to learn and find the right path for yourself, your skills, and your interests
--Progressive culture that values input from all employees","My personal experience doesn't include many cons at all. There are the usual growing pains of a fast-paced start up, but that's to be expected, and leadership seems very invested in continuous improvement."
-29,Marqeta,"Amazing culture, amazing humans",2021-06-08,5.0,Talent Acquisition,"Marqeta truly cares about their employees, they encourage everyone to take a step back and focus on being healthy while doing the best work of our lives.
-
-Great benefits and we get a nice additional perk to help cover working from home expenses.
-
-Marqeta offers a competitive salary and great equity which helps reduce the distractions of looking for a higher paying job.","401K match could be more, but its great they offer a match"
-30,Marqeta,A CEO that truly cares for his employees,2021-08-15,5.0,Anonymous Employee,"- The company is finding ways to lessen the ""burnout"" from having to work fully remote
+24,Marqeta,Positive Work Environment,2021-09-21,4.0,Anonymous Employee,"Positive, welcoming, engaging culture. Teams are supportive and encourage you to do your best work. People are recognized for their work. Leadership listens and connects with employees to better understand how to improve business processes and product delivery. Quality of work is valued, not just deploying new product/features by the day.","Recent operational and personnel changes due to IPO, resulting in uneven workloads and long hours for certain teams. However, the turnover seems typical of a growing company."
+25,Marqeta,Nice People,2021-09-15,4.0,Software Engineer,Everyone that works here is super nice!,Don't pay for gym memberships.
+26,Marqeta,A CEO that truly cares for his employees,2021-08-15,5.0,Anonymous Employee,"- The company is finding ways to lessen the ""burnout"" from having to work fully remote
 
 - The transparency they provide to the company through All-Hands",Not any I could think of right now
-31,Marqeta,"Great Vision, Strong Leadership",2021-07-13,5.0,Senior Product Manager,Marqeta knows exactly what they want to be in the Payments space and has hired a strong biz dev team that forwards that vision. Marqeta's product is solid and its engineering team top-notch. The future is bright for this company.,Office politics and a meeting-heavy culture can make some days seem longer and may put undue stress on non-working hours to stay caught up.
-32,Marqeta,Classic growing pains,2021-08-19,2.0,Senior Software Engineer,"The product is fantastic and there are really smart engineers here working on fascinating problems. Top-level culture seems strong and opinionated in ways I believe in. Time off policies are remarkably flexible and I don't feel laden with guilt when I need to use it.
+27,Marqeta,Very mixed feelings,2021-08-26,2.0,Anonymous Employee,"- People are generally friendly and willing to help
+- Product has great product market fit and the company outlook is looking positive
+- Leadership seems mature, not a ton of politics from what I can tell
+- They preach and have had success promoting from within and care a lot about your longevity at the company","- Culture is pretty meh. It may be because the company was heavy on in-person before but there isn't a lot done to keep employees engaged remotely
+- Manager level is really junior. They need a lot more training in unconscious bias and having more empathy
+- Lack of documentation and organization. For a mature and public company, it seems pretty messy"
+28,Marqeta,Classic growing pains,2021-08-19,2.0,Senior Software Engineer,"The product is fantastic and there are really smart engineers here working on fascinating problems. Top-level culture seems strong and opinionated in ways I believe in. Time off policies are remarkably flexible and I don't feel laden with guilt when I need to use it.
 
 Remote work has been surprisingly painless and my teammates have been fantastic to work with. The company cares about effectively balancing COVID concerns with in-office work and has not forced back-to-office mandates.
 
@@ -169,40 +159,106 @@ The company's overall success is also definitely a perk. There's an air of posit
 In a similar way, my work is constantly being reprioritized. Work I was told I would get to do the next quarter has, without failure, been changed to a different, usually less desirable project. I also haven't been given me the time to learn any systems at depth (many of which are rife with the usual tech debt) before swapping off a project. Again, this is largely out of necessity and not malice, but still drags on me.
 
 What's most concerning is there doesn't seem to be an end in sight. The company is continuing to expand at this rapid rate, and the hiring pipeline for managers seems to be bottlenecked. The new CTO has brought even more repriotization and reorgs, which will hopefully result in more stability, but I'm not holding my breath."
-33,Marqeta,Great Company to work for,2021-07-18,5.0,Sales Development,"The culture at Marqeta is Grade A. Learning payments is tough but everyone is willing to help. The perks are obviously great but beyond that, you're encouraged and motivated to do your best work, and once you've done your best it's acknowledged which is a lost cause within so many different companies. Career growth is wonderful also.",None from my perspective just yet.
-34,Marqeta,Love it here. Get ready to work,2021-08-05,5.0,Business Development Director,"Supportive, interesting, and challenging work.","The hours are tough, be prepared to put out fires at all times. Difficult if you have a family or firm obligations outside of work (I don't). A lot of pressure to perform."
-35,Marqeta,Best professional and personal years of my life,2021-05-28,5.0,Current Employee,"I've had the privilege of bearing witness to Marqeta's evolution from 2014 to present.
-
-Open, welcoming, supportive environment where in general people operate with great humility and positive intent is assumed. One of our mantras is being a place where ""people do the best work of their lives."" This is a galvanizing sentiment, and cross functional engagement has evolved positively over time.",There can be role and purpose ambiguity at times that may be unsettling as we rapidly scale.
-36,Marqeta,Great Culture,2021-07-20,5.0,Operations Manager,"-Great working culture
--Comprehensive support for remote employees
--Great benefits
--Smart people
--Strong community circles and bonds
--The company's employees authentically care for the local Oakland community",-Normal growing pains of a rapidly growing FinTech firm. The company is making all efforts to build out systematic processes
-37,Marqeta,Great company,2021-08-02,5.0,Anonymous Employee,"- perks
+29,Marqeta,Love it here. Get ready to work,2021-08-05,5.0,Business Development Director,"Supportive, interesting, and challenging work.","The hours are tough, be prepared to put out fires at all times. Difficult if you have a family or firm obligations outside of work (I don't). A lot of pressure to perform."
+30,Marqeta,Great company,2021-08-02,5.0,Anonymous Employee,"- perks
 - work life balance 
 - growth opportunities 
 - transparency with ET
 - innovation","- advertising 
 - could move faster in some tech areas"
-38,Marqeta,Lots of learning opportunities at a high growth company,2021-06-18,4.0,Senior Software Engineer,"+ Great peers within my team
+31,Marqeta,Overall great company!,2021-07-30,5.0,Anonymous Employee,"- Fast paced and high growth means a lot of opportunities to learn and find the right path for yourself, your skills, and your interests
+-Progressive culture that values input from all employees","My personal experience doesn't include many cons at all. There are the usual growing pains of a fast-paced start up, but that's to be expected, and leadership seems very invested in continuous improvement."
+32,Marqeta,Great people,2021-08-04,4.0,Senior Manager,Amazing team and mentors. Great benefits.,Compensation is not better than industry average
+33,Marqeta,Great Culture,2021-07-20,5.0,Operations Manager,"-Great working culture
+-Comprehensive support for remote employees
+-Great benefits
+-Smart people
+-Strong community circles and bonds
+-The company's employees authentically care for the local Oakland community",-Normal growing pains of a rapidly growing FinTech firm. The company is making all efforts to build out systematic processes
+34,Marqeta,Great Company to work for,2021-07-18,5.0,Sales Development,"The culture at Marqeta is Grade A. Learning payments is tough but everyone is willing to help. The perks are obviously great but beyond that, you're encouraged and motivated to do your best work, and once you've done your best it's acknowledged which is a lost cause within so many different companies. Career growth is wonderful also.",None from my perspective just yet.
+35,Marqeta,"Great Vision, Strong Leadership",2021-07-13,5.0,Senior Product Manager,Marqeta knows exactly what they want to be in the Payments space and has hired a strong biz dev team that forwards that vision. Marqeta's product is solid and its engineering team top-notch. The future is bright for this company.,Office politics and a meeting-heavy culture can make some days seem longer and may put undue stress on non-working hours to stay caught up.
+36,Marqeta,Respectable CEO,2021-06-24,5.0,Software Engineer,"Diverse talent, Race, skills and more importantly, thought",Expanding too fast while decision is slow to arrange
+37,Marqeta,wonderful place to work at,2021-06-24,5.0,Project Management Intern,love the place a lot,"nothing, great place to work at"
+38,Marqeta,Marqeta is a great place to work,2021-06-21,5.0,Product Manager,"Great product, great people, strong leadership","Compensation needs to catch up to market rates
+Parental benefits are fine, but not amazing"
+39,Marqeta,Lots of learning opportunities at a high growth company,2021-06-18,4.0,Senior Software Engineer,"+ Great peers within my team
 + Lots of opportunities to learn about payments (specifically card payments) - no one limits your learning except yourself
 + Given the chance to build products from ideation to GA","- As with any company in a hyper growth phase there can be misalignment across different teams, sudden re-prioritizations of projects and frequent re-orgs. These are not necessarily all bad and are sometimes needed to ensure the best long term outcomes."
-39,Marqeta,Marqeta is a great place to work,2021-06-21,5.0,Product Manager,"Great product, great people, strong leadership","Compensation needs to catch up to market rates
-Parental benefits are fine, but not amazing"
-40,Marqeta,Highly recommend Marqeta!,2021-05-06,5.0,Employee Experience,"-exceptional teammates across different functions
+40,Marqeta,"Amazing culture, amazing humans",2021-06-08,5.0,Talent Acquisition,"Marqeta truly cares about their employees, they encourage everyone to take a step back and focus on being healthy while doing the best work of our lives.
+
+Great benefits and we get a nice additional perk to help cover working from home expenses.
+
+Marqeta offers a competitive salary and great equity which helps reduce the distractions of looking for a higher paying job.","401K match could be more, but its great they offer a match"
+41,Marqeta,"Amazing People, Great Culture, Exciting Work, and First-Class Benefits",2021-06-01,5.0,Senior Revenue Analyst,"Incredible work/life balance; constantly finding yourself surrounded with brilliant people; everyone is bought-in to the mission and goals of the company; transparent communication between all levels and departments; industry-leading perks and benefits, and family-first mentality",A handful of fragile egos to watch out for; slight growing pains; so many different potential expansion directions that it seems there's sometimes difficulty deciding (although this could easily be a pro as well).
+42,Marqeta,Good place with interesting work,2021-06-21,4.0,Senior Data Engineer,"- Interesting problems to solve
+- Feels fairly stable",- Management is a bit disorganized
+43,Marqeta,Best professional and personal years of my life,2021-05-28,5.0,Current Employee,"I've had the privilege of bearing witness to Marqeta's evolution from 2014 to present.
+
+Open, welcoming, supportive environment where in general people operate with great humility and positive intent is assumed. One of our mantras is being a place where ""people do the best work of their lives."" This is a galvanizing sentiment, and cross functional engagement has evolved positively over time.",There can be role and purpose ambiguity at times that may be unsettling as we rapidly scale.
+44,Marqeta,Highly recommend Marqeta!,2021-05-06,5.0,Employee Experience,"-exceptional teammates across different functions
 -very strong and positive culture
 -the office is in a great location
 -high transparency from the executive team","-normal growing pains at the stage in which the company is at and where it's headed
 -niche industry, takes a huge effort to get people familiar with the world of digital payments"
-41,Marqeta,Growing,2021-09-24,3.0,Legal Counsel,"High company growth over recent years
-Good market fit
-Lots of potential","Disorganized
-Work-life balance is not great
-Growing pains to go with the growth"
-42,Marqeta,Respectable CEO,2021-06-24,5.0,Software Engineer,"Diverse talent, Race, skills and more importantly, thought",Expanding too fast while decision is slow to arrange
-43,Marqeta,Phenomenal growth playing in an interesting space to disrupt in payments,2020-08-27,5.0,Director,"While Stripe, Adyen, Braintree have done much to disrupt the Acquiring side of payments, Marqeta is still largely the first to disrupt the Issuing side and is a few years ahead of Stripe. Proof points, contracts with Uber, Square, Instacart, Affirm, Doordash, JP Morgan... any many other companies with market caps much larger than that of Marqeta.
+45,Marqeta,A real fintech rocketship!,2021-04-26,5.0,Group Product Manager,"- Career growth
+- Company's Potential
+- Global Presence",- Very faced paced environment leading to rapid changes
+46,Marqeta,"Supportive culture, excellent benefits",2021-04-14,5.0,Technical Writer,"When I joined Marqeta fulltime in January, I of course had no idea that I would be hospitalized for COVID for two weeks in March. I've been on short term disability for weeks now, and PeopleOps has been nothing but supportive. Also, prior to this disability leave, the health insurance failed to authorize my husband's primary medication and PeopleOps helped resolve that too. The performance of the PeopleOps team is representative of the culture at large which emphasizes competency, emotional intelligence, and healthy culture. Marqeta is working hard on diversity and inclusion through dozens of identity groups such as Black Card and Women in Technology. Leadership attempts during all hands meetings to acknowledge that we are all doing our best working from home during COVID and it is okay to not do that perfectly. It makes you want to show up and do your best. I think the benefits which include pet insurance for one animal are fantastic, so if you are a candidate, be sure to ask for details including whether your position is bonus eligible.","It's not really a con but rather an adustment. Marqeta is focused more on goals than dates and the new hire impacts their job description as the position begins. Think about it - wouldn't that be great, to help shape a role to your unique talents? It can feel a bit squishy at first."
+47,Marqeta,Great place to work,2021-04-06,5.0,Production Support Engineer,"Great work culture, motivated people, new technology, Transparency from management",Not able to think much...
+48,Marqeta,Amazon experience !,2021-04-20,4.0,Senior Product Designer,Great leadership. Strong sense of community.,In the middle of maturing to a mid size company.
+49,Marqeta,great place to work,2021-04-05,5.0,"Manager, IT Client Services",Marqeta has done a great job sustaining and growing the business despite the pandemic. The company has pivoted to a temporarily fully remote workforce and places an emphasis on making everyone feel welcome and empowered to do their best work.,"The pace of growth is fast. At times, this exposes the need to mature some business processes so the company can successfully scale."
+50,Marqeta,"Good company in growth phase, uniquely positioned to disrupt market",2021-03-31,5.0,Software Engineer,"* Marqeta is uniquely positioned to disrupt the issuers processor market, especially with it entering the Credit space
+* Modern tech stack (Microservices, AWS, gRPC, Spring Boot, Open API), good engineering teams, excellent collaboration within the remotely located teams, organically remote friendly (before COVID stuck)
+* Great deal of transparency from leadership, open discussions around business and technical problems being faced and the approaches towards them
+* Diversity and Inclusion is at its core. Quite natural, working with people from diverse backgrounds, I just loved it on first impression. 
+* Pay in lines with what one would expect from cash component at FAANGMULA (equity is paper money for now)
+* Company is currently in growth phase - so whole lot of scalability and resiliency challenges. Exciting times, exciting problems.
+* Great from work life balance perspective, no undue pressure","* Perks are good at-best, could be better."
+51,Marqeta,If it seems to be good to be true....,2021-04-18,2.0,Anonymous Employee,Very smart people who are fun to work with.,"Leadership are not as ""woke"" as they seem"
+52,Marqeta,"Good Company with Great Product,high Growth and well planned Roadmap",2021-02-16,5.0,Software Engineer,"- High base salary and they let you work remotely from anywhere
+- Good work life/balance with quite a bit of holidays every year. 
+- Good tech talks which are not limited to just software but also on fintech industry or crypto.
+- Co-workers are helpful and friendly even outside team.
+- Transparent management which communicates often and holds Q&A meetings.
+- Lot of growth opportunities if you are in sales","- The software development was setup for rapid iteration but has not scaled well. It takes a while to see features deployed. The management is aware of it and at a team level effort is being made to rectify this.
+- There is heavy ops which affects sprint tasks."
+53,Marqeta,Interesting environment,2021-03-14,2.0,Partner Management,"Lots of press, momentum from clients/partners",Some Exec team members quite clueless
+54,Marqeta,"Fast paced, innovative, and promising",2021-02-25,5.0,Program Management,"Jason Gardner (CEO) preaches that he wants Marqeta to be where we do the best work of our lives. My initial reaction was that statement was ""CEO speak""/lip service, but looking back at my tenure at Marqeta, I realized that I had bought in. It's not difficult when the company is in hyper growth and you're surrounded by enthusiastic people.","Growing at such a rapid pace has some cons. Pay ranges vary drastically, assuming this is tied to hyper growth. Goal setting and career development can be confusing and unclear at times."
+55,Marqeta,Best company I have ever worked at,2021-02-10,5.0,Marketing,"-Explosive business growth given great product market fit
+-Strong executive leadership with clear strategy & vision
+-Genuine company culture where employees care about building an amazing company
+-Top brand customers (Square, Instacart, JPMorgan, Goldman Sachs, Affirm, Klarna etc.)
+-Talented employees who support each other",-None beyond the standard growing pains that come with hyper-business growth as a business scales rapidly
+56,Marqeta,Couldn't be happier,2021-01-27,5.0,Lead Systems Security Engineer,"Awesome community of co-workers. 
+Leadership accepts any and all input when it comes to decisions that affect the team.
+Innovative environment
+Great benefits",I have not experienced anything negative yet.
+57,Marqeta,Good product bad leadership,2021-02-21,1.0,Product Manager,Great product and platform concept,"Poor Leadership, ambiguous strategy and goals that don’t align. Lot of early employees setting direction and not necessarily in the right position fit / experience. Most employees lack industry expertise and all the employees with great experience end up leaving in a year or so. Purely a Sales driven organization. Emphasis on faster output without any quality control. Lots of operational issues."
+58,Marqeta,Great Company,2021-01-05,5.0,Lead Process Engineer,"Good Benefits, flexibility, team work, diverse",No cons at the moment
+59,Marqeta,Great company to work for,2020-12-30,5.0,Current Employee,Marqeta values it's employees and everyone is very helpful even if they belong to other teams.,Nothing major that comes to mind.
+60,Marqeta,Best Company and Culture,2020-12-04,5.0,Human Resources,"Marqeta cares so much about its employees and I feel valued every day. There is a lot of transparency with our roadmap. Marqeta is by far, the best place I have ever worked",We are growing and doing so quickly. Things move fast and sometimes it is not for everyone.
+61,Marqeta,Marqeta- an awesome company to work for!,2020-11-15,5.0,Group Product Manager,"innovation, collaboration, highly motivated team, lots of fun events, tight-knit-community",None so far. Been here only 3 months.
+62,Marqeta,Great company to work at,2020-10-22,4.0,Software Development Engineer In Test (SDET),"Good work culture
+Employee friendly
+Flexible time off","Hectic at times
+Long work hours sometimes"
+63,Marqeta,Marqeta is the best company I've ever worked at!,2020-10-05,5.0,Field Marketing & Events Associate,"1. Workplace culture is very collaborative, innovative, team-oriented
+2. Everyone is treated equally and with respect
+3. Leaders at Marqeta are approachable and care about the mental and physical well-being of their employees
+4. Marqeta is so diverse and encourages participation in external activities and issues such as LGBTQ, BLM, climate chance, community service, etc.",Marqeta is filled with smart and driven people and we work at a fast-paced. I love this about Marqeta but it's not a good fit if you're not ready to work hard and quickly get through projects.
+64,Marqeta,Great Growth,2020-10-20,4.0,IT Engineer I,Quick scaling org. Dynamic work environment*,Growing pains due to the speed of ramping
+65,Marqeta,Excited for MQ's Future - Would Recommend,2020-09-21,5.0,Anonymous Employee,"Office location in a beautiful and trendy area, monthly $250 stipend for commute/connectivity, chill and approachable CEO
+
+I can't speak for everyone, but at least with my boss and department, we strive for a work/life balance. I've learned it's not just something recruiters tell you to lure you in. It's actually attainable!","I can't think of anything specific; I've observed some overworked departments, but I feel like Finance/Engineering/Product Management are typically like that everywhere. 
+
+I remember the onboarding process being overwhelming, but I also have never had a stellar onboarding experience where everything was easy to understand."
+66,Marqeta,"High IQ/EQ organization, Market Leader, Empathetic and Human Approach",2020-09-22,5.0,Account Executive,"Support, gratuity, intellectually stimulating work, exceeding all goals together.",None to speak of after one year of tenure
+67,Marqeta,Great company to work that is revolutionizing payments,2020-09-18,5.0,BD Manager,Marqeta has tremendous upside and has really good product-market fit. I've been fortunate to have great managers that care about my personal growth and position me to succeed within my role.,"As the company grows, it's becoming more and more challenging to collaborate cross-functionally, which is leading to inefficiencies and some redundant work. There's also a culture of having a lot of meetings, which can be overwhelming at times."
+68,Marqeta,Ok place,2020-09-22,3.0,Senior Software Engineer,High growth and customer retention,"No RSU, No career growth. Middle management took much work focussed"
+69,Marqeta,Growing and Improving,2020-08-27,5.0,Senior Engineer,"Great Teams, Great Talent, friendly environment. Conscientious, progressive upper management.","You can progress and grow if you're talented at Marqeta, but our engineering management is still learning how to center empathy. The worst of this is that instead of building community, a small number of people still get by on playing politics. Their behavior is not publicly addressed. It would be great to hear the CEO, CPO or ET discuss what it means to support your fellow engineers. Interpersonal relationships matter.
+
+Managers and Principals come from other companies, and they don't realize that they are not at X company anymore. Their methods might be useful, but they don't know how to make those contributions based on the Marqeta Way and with Marqeta Values."
+70,Marqeta,Phenomenal growth playing in an interesting space to disrupt in payments,2020-08-27,5.0,Director,"While Stripe, Adyen, Braintree have done much to disrupt the Acquiring side of payments, Marqeta is still largely the first to disrupt the Issuing side and is a few years ahead of Stripe. Proof points, contracts with Uber, Square, Instacart, Affirm, Doordash, JP Morgan... any many other companies with market caps much larger than that of Marqeta.
 
 Company recognizes the need for more mature company senior leadership to get us to the next stage with the Chief Product Officer coming from Go Daddy, Chief People Officer from Pixar, Chief Financial Officer from Intuit, and Chief Marketing Officer from Mulesoft
 
@@ -215,44 +271,18 @@ Late hours/always on mentality
 Lack of brand recognition outside of payments
 
 Not all engineering teams are agile (for better and worse)"
-44,Marqeta,Growing and Improving,2020-08-27,5.0,Senior Engineer,"Great Teams, Great Talent, friendly environment. Conscientious, progressive upper management.","You can progress and grow if you're talented at Marqeta, but our engineering management is still learning how to center empathy. The worst of this is that instead of building community, a small number of people still get by on playing politics. Their behavior is not publicly addressed. It would be great to hear the CEO, CPO or ET discuss what it means to support your fellow engineers. Interpersonal relationships matter.
+71,Marqeta,Great place to work!,2020-08-04,5.0,Anonymous Employee,Marqeta is full of incredibly smart and talented people with a fun culture to match. Great benefits too!,"There are some typical growing pains of an expanding pre-IPO company, but leadership is aware of them and are transparent in the process to fix them."
+72,Marqeta,Good growth stage company,2020-08-17,4.0,Anonymous Employee,"Competitive salary, smart people, high growth startup",Doesn't ship a ton of new products
+73,Marqeta,Bring your full self to work at this FinTech rocketship!,2020-07-22,5.0,Anonymous Employee,"You can be yourself. Really. Caring leadership. Amazing business model. Great perks and benefits. If you love building, this is the place for you.","The usual late stage private company growing pains as the company transitions from startup to mature company. If you are not comfortable with change, this is a hard place to work."
+74,Marqeta,Quality organization with fabulous opportunities and potential.,2020-07-23,5.0,Manager,"2020 has already been a remarkable year for the company. Despite the many unexpected challenges to our society and economy, Marqeta is booming. New executive leadership, new business opportunities, and new positive energy from all employees make this a terrific place to work.","The company has grown so fast that some of the infrastructures to support teams and managers aren't in place, but there are efforts being made."
+75,Marqeta,"Growing pains, but they really care",2020-08-06,4.0,Current Employee,"-smart individuals 
+-free food/stocked kitchen (pre-pandemic, now everyone is WFH)
+-full support during pandemic
+-flexible work/life balance
+-other cool perks","-no company is perfect and Marqeta is no exception
 
-Managers and Principals come from other companies, and they don't realize that they are not at X company anymore. Their methods might be useful, but they don't know how to make those contributions based on the Marqeta Way and with Marqeta Values."
-45,Marqeta,Nice People,2021-09-15,4.0,Software Engineer,Everyone that works here is super nice!,Don't pay for gym memberships.
-46,Marqeta,"Fast paced, innovative, and promising",2021-02-25,5.0,Program Management,"Jason Gardner (CEO) preaches that he wants Marqeta to be where we do the best work of our lives. My initial reaction was that statement was ""CEO speak""/lip service, but looking back at my tenure at Marqeta, I realized that I had bought in. It's not difficult when the company is in hyper growth and you're surrounded by enthusiastic people.","Growing at such a rapid pace has some cons. Pay ranges vary drastically, assuming this is tied to hyper growth. Goal setting and career development can be confusing and unclear at times."
-47,Marqeta,wonderful place to work at,2021-06-24,5.0,Project Management Intern,love the place a lot,"nothing, great place to work at"
-48,Marqeta,great place to work,2021-04-05,5.0,"Manager, IT Client Services",Marqeta has done a great job sustaining and growing the business despite the pandemic. The company has pivoted to a temporarily fully remote workforce and places an emphasis on making everyone feel welcome and empowered to do their best work.,"The pace of growth is fast. At times, this exposes the need to mature some business processes so the company can successfully scale."
-49,Marqeta,Excited for MQ's Future - Would Recommend,2020-09-21,5.0,Anonymous Employee,"Office location in a beautiful and trendy area, monthly $250 stipend for commute/connectivity, chill and approachable CEO
-
-I can't speak for everyone, but at least with my boss and department, we strive for a work/life balance. I've learned it's not just something recruiters tell you to lure you in. It's actually attainable!","I can't think of anything specific; I've observed some overworked departments, but I feel like Finance/Engineering/Product Management are typically like that everywhere. 
-
-I remember the onboarding process being overwhelming, but I also have never had a stellar onboarding experience where everything was easy to understand."
-50,Marqeta,Best company I have ever worked at,2021-02-10,5.0,Marketing,"-Explosive business growth given great product market fit
--Strong executive leadership with clear strategy & vision
--Genuine company culture where employees care about building an amazing company
--Top brand customers (Square, Instacart, JPMorgan, Goldman Sachs, Affirm, Klarna etc.)
--Talented employees who support each other",-None beyond the standard growing pains that come with hyper-business growth as a business scales rapidly
-51,Marqeta,Great people,2021-08-04,4.0,Senior Manager,Amazing team and mentors. Great benefits.,Compensation is not better than industry average
-52,Marqeta,A real fintech rocketship!,2021-04-26,5.0,Group Product Manager,"- Career growth
-- Company's Potential
-- Global Presence",- Very faced paced environment leading to rapid changes
-53,Marqeta,Marqeta is the best company I've ever worked at!,2020-10-05,5.0,Field Marketing & Events Associate,"1. Workplace culture is very collaborative, innovative, team-oriented
-2. Everyone is treated equally and with respect
-3. Leaders at Marqeta are approachable and care about the mental and physical well-being of their employees
-4. Marqeta is so diverse and encourages participation in external activities and issues such as LGBTQ, BLM, climate chance, community service, etc.",Marqeta is filled with smart and driven people and we work at a fast-paced. I love this about Marqeta but it's not a good fit if you're not ready to work hard and quickly get through projects.
-54,Marqeta,Great place to work,2021-04-06,5.0,Production Support Engineer,"Great work culture, motivated people, new technology, Transparency from management",Not able to think much...
-55,Marqeta,Good place with interesting work,2021-06-21,4.0,Senior Data Engineer,"- Interesting problems to solve
-- Feels fairly stable",- Management is a bit disorganized
-56,Marqeta,Couldn't be happier,2021-01-27,5.0,Lead Systems Security Engineer,"Awesome community of co-workers. 
-Leadership accepts any and all input when it comes to decisions that affect the team.
-Innovative environment
-Great benefits",I have not experienced anything negative yet.
-57,Marqeta,Great company to work that is revolutionizing payments,2020-09-18,5.0,BD Manager,Marqeta has tremendous upside and has really good product-market fit. I've been fortunate to have great managers that care about my personal growth and position me to succeed within my role.,"As the company grows, it's becoming more and more challenging to collaborate cross-functionally, which is leading to inefficiencies and some redundant work. There's also a culture of having a lot of meetings, which can be overwhelming at times."
-58,Marqeta,Scaling Fintech,2020-06-12,5.0,Senior Leader,"Jason is the reason most people stay at Marqeta. As with most organizations, there are growing pains but Jason, his vision, his commitment to his people and his passion for payments over-shadow any negativity. 
-Marqeta hires smart, talented people. You will be challenged daily but you’ll be given the tools to find answers and succeed. 
-Marqeta really takes care of their employees!",Maybe it’s all the smart people but we have over-complicated our business. There is an opportunity to step back and confirm best practices. Long term employees need to let go of old ways and embrace the future.
-59,Marqeta,Rapidly growing company with massive opportunity ahead,2020-02-06,5.0,Marketing,"I love working at Marqeta.  The people are smart, work hard and have fun.  The office is beautiful and location is perfect.  Leadership is strong and transparent.  Unlike most companies, Marqeta has tons of product demand so acquiring new customers is not an issue.  The company is out of small startup mode and is figuring out how to scale as we quickly pass 400+ employees.  Great benefits, comp and perks such as onsite food, unlimited vacation and flexible remote working.  You get to work with amazing innovative customers including Uber, DoorDash, Square, Instacart, Affirm etc.",Highly technical product can be a challenge to learn at first.  The company is growing rapidly so it is still in the process of setting up efficient processes and structure.  Many of the executive team are new so they are still building their vision and teams.
-60,Marqeta,Experience depends highly on the team you're on,2020-07-23,4.0,Software Engineer,"If you read the poor reviews on blind app, they're for the most part true. However, I still give this place 4 stars because the culture, WLB, and the people are really good. Some things that stand out:
+despite feeling the growing pains of scaling and trying to maintain culture, there has been effort at all levels to improve the company overall. Not all companies show this type of effort and think marqeta is at least trying"
+76,Marqeta,Experience depends highly on the team you're on,2020-07-23,4.0,Software Engineer,"If you read the poor reviews on blind app, they're for the most part true. However, I still give this place 4 stars because the culture, WLB, and the people are really good. Some things that stand out:
 
 * Healthy business outlook and even rumors of an IPO
 * Culture is great and we care about our people and the community
@@ -266,13 +296,107 @@ Marqeta really takes care of their employees!",Maybe it’s all the smart people
 * Lots of favoritism going on
 
 I wouldn't recommend this to people who are mid-level engineers, but it's a great place to be if you're just starting out or only have a couple of years under your belt."
-61,Marqeta,Best Company and Culture,2020-12-04,5.0,Human Resources,"Marqeta cares so much about its employees and I feel valued every day. There is a lot of transparency with our roadmap. Marqeta is by far, the best place I have ever worked",We are growing and doing so quickly. Things move fast and sometimes it is not for everyone.
-62,Marqeta,If it seems to be good to be true....,2021-04-18,2.0,Anonymous Employee,Very smart people who are fun to work with.,"Leadership are not as ""woke"" as they seem"
-63,Marqeta,Bring your full self to work at this FinTech rocketship!,2020-07-22,5.0,Anonymous Employee,"You can be yourself. Really. Caring leadership. Amazing business model. Great perks and benefits. If you love building, this is the place for you.","The usual late stage private company growing pains as the company transitions from startup to mature company. If you are not comfortable with change, this is a hard place to work."
-64,Marqeta,Great company to work for,2020-12-30,5.0,Current Employee,Marqeta values it's employees and everyone is very helpful even if they belong to other teams.,Nothing major that comes to mind.
-65,Marqeta,Amazon experience !,2021-04-20,4.0,Senior Product Designer,Great leadership. Strong sense of community.,In the middle of maturing to a mid size company.
-66,Marqeta,"Great product, leadership and company culture",2020-04-20,5.0,Marketing Communications,"I have loved my time at Marqeta so far! The product has a great market fit and is a true leader in its category. They hire smart, driven, and talented people across all levels and employees are encouraged to take on new challenges and invest in their personal growth, which is extremely important. I appreciate how the leadership team takes action and makes improvements based on employee feedback and genuinely cares about the people at the company. It shows in the way they prioritize transparency and provide consistent updates company-wide. I have no doubt they are built to last and am proud to be apart of this team.","As a fast-growing company, there are still a  few growing pains and scaling and streamlining processes can always be improved."
-67,Marqeta,"Great business idea, but poor leadership/management and a struggling culture.",2019-08-01,2.0,Employee,"- Great market and business. 
+77,Marqeta,"Lots of positive change, great business results",2020-07-06,5.0,Anonymous Employee,"Lots of change on the executive team with some very strong new adds to the team. Investors like the business model. Great set of innovative customers. Expanding globally. Seamless transition to work-from-home during Covid, with excellent employee comms. CEO genuinely cares about the employees and Oakland.",Nothing major. E-team looks solid - they need time to get really settled.
+78,Marqeta,Great company for engineering innovation,2020-07-09,4.0,Software Engineer,"- amazing engineering managers
+- openness about technical decisions
+- exciting products with exciting problems to be solved
+- company promotes healthy life/balance","- tech leads can be hard to work with
+- visibility into pay bands could be better"
+79,Marqeta,Unstoppable,2020-06-17,5.0,Anonymous Employee,"The company is really firing on all cylinders in a way that's truly amazing to watch. What's more, the business itself continues to grow month in and month out. It's also great to see this company come together in all sorts of ways during a difficult time for the world. Feeling very proud to be part of this team.",Still a lot of wood to chop to take us to the next level.
+80,Marqeta,Scaling Fintech,2020-06-12,5.0,Senior Leader,"Jason is the reason most people stay at Marqeta. As with most organizations, there are growing pains but Jason, his vision, his commitment to his people and his passion for payments over-shadow any negativity. 
+Marqeta hires smart, talented people. You will be challenged daily but you’ll be given the tools to find answers and succeed. 
+Marqeta really takes care of their employees!",Maybe it’s all the smart people but we have over-complicated our business. There is an opportunity to step back and confirm best practices. Long term employees need to let go of old ways and embrace the future.
+81,Marqeta,Marqeta cares about its employees.,2020-05-22,5.0,Product Design,"Stellar business model, quality-driven, empathetic people, and a company that walks the walk when it comes to treating employees with respect and compassion.
+
+Highlights:
+
+- Flawless transition to remote work during COVID
+- Continuous refinement of product development practices and quality bar
+- ENCOURAGED FTO
+- Regular checkins/all-hands with company to transparently go over the state of the business
+- Employees who have each-other’s backs (even cross-functionally)",Hard to list because I truly like working here. This is a place where people come to do their best work – so know that will be the expectation.
+82,Marqeta,Toxic,2020-05-12,3.0,Anonymous Employee,Some good people still here,Executive Team listening to the wrong voice. It is time for this to be recognized.   A lot of turnover under this person. Come on  folks!
+83,Marqeta,Weak Leadership,2020-06-10,1.0,Software Engineer,"The office is in a beautiful location near Lake Merritt. The workspace is very modern with a solid snack program and free food on certain days. It's very much up to par with other, bigger software companies in the bay.",Management refuses to defend or go to bat for their employees. Upper management perpetuates a toxic work culture which encourages buck-passing and shrugging off of concerns. Companies which have this kind of culture very early on rarely recover - make a change before it's too late!
+84,Marqeta,"Lots of growing pains, but Great Company",2020-04-29,5.0,Implementation Specialist,"Great people, first rate product, amazing culture, free catered food, great benefits","Start up growing pains, documentation may be lacking, knowledge base is not scalable at this point"
+85,Marqeta,"Great product, leadership and company culture",2020-04-20,5.0,Marketing Communications,"I have loved my time at Marqeta so far! The product has a great market fit and is a true leader in its category. They hire smart, driven, and talented people across all levels and employees are encouraged to take on new challenges and invest in their personal growth, which is extremely important. I appreciate how the leadership team takes action and makes improvements based on employee feedback and genuinely cares about the people at the company. It shows in the way they prioritize transparency and provide consistent updates company-wide. I have no doubt they are built to last and am proud to be apart of this team.","As a fast-growing company, there are still a  few growing pains and scaling and streamlining processes can always be improved."
+86,Marqeta,"Great company, great culture",2020-04-03,5.0,"Director, Strategic Partner Operations","They hire the right person for the right job regardless of location, pay is competitive and benefits are great, you have a lot of autonomy and you are a voice at the table",A lot of teams are overworked because there is so much to do
+87,Marqeta,Values-driven business that is shining during a difficult time,2020-03-23,5.0,Marketing,"With COVID-19, I have been impressed with the care that the leadership has shown to adapt the work culture to difficult circumstances: serving our customers, regular communications and updates, and supporting a fully remote office now with everything from reimbursing for office equipment to virtual office hours with the CEO.","Like any business now, Marqeta will experience challenges with the onset of a recession - how will the business be resilient by shifting focus based on industry and product need?"
+88,Marqeta,Rapidly growing company with massive opportunity ahead,2020-02-06,5.0,Marketing,"I love working at Marqeta.  The people are smart, work hard and have fun.  The office is beautiful and location is perfect.  Leadership is strong and transparent.  Unlike most companies, Marqeta has tons of product demand so acquiring new customers is not an issue.  The company is out of small startup mode and is figuring out how to scale as we quickly pass 400+ employees.  Great benefits, comp and perks such as onsite food, unlimited vacation and flexible remote working.  You get to work with amazing innovative customers including Uber, DoorDash, Square, Instacart, Affirm etc.",Highly technical product can be a challenge to learn at first.  The company is growing rapidly so it is still in the process of setting up efficient processes and structure.  Many of the executive team are new so they are still building their vision and teams.
+89,Marqeta,Needs help,2020-02-20,1.0,Anonymous Employee,Company has a great product market fit,"Dubious hiring practices, Poor management, no strategy or direction, flashy headlines that appear to make a difference while underneath is just fluff, incompetent people, no workalike balance, live in fire drills constantly."
+90,Marqeta,"Incompetent, directionless and non-responsize",2020-02-13,1.0,Software Developer,A paycheck if you like stress,"low pay, growth rate means they hire people who cant manage or are capable of managing....you constantly wonder why you are getting directives from people who know nothing about development."
+91,Marqeta,OK,2020-01-11,3.0,Lead Data Engineer,"Reaosns to work for marqeta are Good, 
+Work 
+Culture
+SPACE
+LOCATION","downside of Marqeta is Management, 
+HIRING
+BENEFITS
+BONUS
+COMPENSATION"
+92,Marqeta,Just keeps getting worse,2019-12-13,1.0,Engineering Manager,"I guess the pro is the location.  I stay working here because I live in the East Bay, but I'm losing confidence in doing so much longer","Very dysfunctional. Don't believe what you read. About 9 months ago, things started to get better. But then the leader who was driving change left and now things are going back into the toilet. The execs are now writing fake Glassdoor reviews to improve the score. If you want to get overworked, under-recognized and underpaid join this company. If you want to work in a bro-culture that drops F-bombs regularly during company meetings, work here. If you want to be mugged walking around the office and have your car broken into in the parking garage, work here."
+93,Marqeta,"Good team in many ways, but the leadership team  is over their head in terms of ability",2019-10-17,2.0,Unidentified,"Really good product set historically,  but very far behind on product delivery and any innovation that will support long term success. Some truly wonderful people work here! Good intentions, caring people and it could be a fantastic culture. Fun social events, beautiful office, cool location. Aspirations for being more involved in the community are good.","The culture is intense and pockets of highly political behavior (chronic over the years) infect the team over and over again. Diversity is reportedly valued, but many struggle internally with how they are treated.  Turnover is at an all time high.
+Exec team has been a revolving door for many years and for some reason no one has ever held the CEO accountable for that and so many of the leadership and cultural issues. it all starts at the top."
+94,Marqeta,Great experience and a renewed focus,2019-10-13,5.0,Anonymous Employee,"Smart people and business model
+Really generous benefits 
+Easy to get to and from the Oakland office 
+Loads of snacks and some dogs in the office
+Remote working is easy 
+Great diversity (gender and race)",Some people are negative and complain about everything but most people just want to collaborate and help each other
+95,Marqeta,95% Amazing,2019-10-11,5.0,Senior Software Engineer,"The list of 'pros' is really long, actually.
+The basic ones are: 
+ - Our office is beautiful, wonderfully situated, easily accessible and stocked with tasty amenities.
+ - Our benefits package(s) seem reasonably good (6% 401k match, standard array of Insurance options, (including pet insurance through Trupanion, lol), three weekly catered meals, etc..).
+ - An enjoyable social aspect, including events, happy hours, team outings, and a broad array of interest-specific slack channels.
+ - A good range of coworker diversity (disclaimer: diversity can always be better) re: age, experience and history range, family-status, etc...
+ 
+The ones which hold more weight are:
+ - Working with great engineers and great managers.
+ - Marqeta is a company of consequence. Every day when I come in, I'm working on things which are blazing the way forward for how the larger payments industry operates.
+ - We have, among the tech org, a cooperative environment.
+ - I am never bored. Every day has new and exciting challenges to work on.
+ - I feel very satisfied with, and supported in, my professional growth at Marqeta. We are supported in learning new skills, approaching problems in new ways, learning new languages.","- Like many other tech companies, I feel like our hiring process is rough. On our applicants as well as on our employees.
+- Engineering objectives are too driven by the business side. While I feel like my work-life-balance is typically pretty good, I am, and the tech-org generally is, feeling increasing pressure to output."
+96,Marqeta,"So much opportunity to do great, great things",2019-10-07,5.0,Marketing,"From the moment I interviewed at Marqeta I was immediately taken aback by how smart, hard working and humble everyone was. Management is thoughtful and empathetic, focused on employee experience and self-aware to the pitfalls of high growth. A lot of really likeable people working hard together. 
+
+Payments is a hard space, and Marqeta is growing quickly. There's a sense of opportunity and possibility in front of everyone that is really exciting - global growth, product expansion, revenue up and to the right... 
+
+Put together - it's meant that my time at Marqeta has been defined by being able to attack huge problems, make real impact and make huge professional leaps in experience, and work alongside people who make me smile most days. I consider that a privilege. 
+
+Oh, and there's a lot of snacks and nice lunches and general tech company perks.","Change is a constant - and there's a lot of focus on preparing for the future and aligning at the moment. It can require patience and a willingness to trust the bigger picture and take a deep breath. 
+
+There's more things to do than you'll ever get to. Which can be stressful."
+97,Marqeta,"Hyper Growth, diverse culture",2019-10-06,5.0,Current Employee,"Marqeta is a great company on a hyper growth trajectory.  It has a very diverse employee base, and the Company is connected to the Oakland community (multiple groups have volunteered at the local food bank and refreshing to see this in the Bay Area).  Great senior leaders who engage with employees; everyone is dedicated to growing this business.  Really good perks and benefits.","Typical start up issues around scaling and focus, but a good problem to have."
+98,Marqeta,Hyper growth company with incredible talent and heart,2019-10-02,5.0,Marketing,"Located in the heart of Oakland across from Lake Merritt, there are more pros than there are cons. As at any hyper growth company at this stage, there are ups and downs. But the product is revolutionary and Jason and the E team are working tirelessly to make right any wrongs that have happened and putting strategies in place to help the company grow up past its awkward teenage years.
+
+At this company, you will find:
+- some of the most passionate and intelligent people you will come ever across
+- countless types of coffee on every floor - drip, cold brew, espresso, pour over, you name it.
+- weekly themed happy hours
+- monthly massages
+- multiple lunches per week
+- inclusivity and diversity","As with any tech company, there is a bro-culture that you need to navigate, but that is not exclusive to Marqeta."
+99,Marqeta,"Caring Leaders, dedicated employees, great product",2019-09-17,5.0,Program Manager,"The leaders at Marqeta caring deeply about the culture and community, both for our customers and the community. We are going fast which means change, but the purpose of the change is clear and needed.  They are putting in extra effort to ensure we understand the vision and priorities and are investing in more talent to ensure our success.   
+
+Some specific pros:
+- working on products that impact the world in a positive way.
+- Knowing that we have a huge opportunity ahead of us.
+- Culture matters and the company is doing more to keep it healthy
+- Pay and Benefits are competitive and better than most private companies
+- The company is becoming more open to flexible work and remote work
+- 401(k) matching and paid Paternity Leave
+- Mostly great managers and leaders","- Still growing and still evolving, which is fun for some and uncomfortable for others.
+-"
+100,Marqeta,Politics are getting in the way of progress and effectiveness,2019-09-05,2.0,Marketing,"Nice office, well funded, good location","This company has grown really fast and along this way, this has created a very siloed and political organization.  Each team is more concerned with carving out and keeping their territories over making sure the business as a whole is successful.  This creates a very stressful environment, and leaves employees burdened with treading carefully to not harm fragile egos or crossing political alliances to get their projects done.
+
+The company has underinvested and under-resourced  devops, security, customer success, risk and compliance, and quality assurance.  All things that are critical in finch for both customer trust and compliance concerns - it is a ticking time bomb waiting to explode. 
+
+The company also has a very insular mindset - not looking enough at feedback in the marketplace and customers to drive the business and decision making. The mindset is more of ""we know what's best, the competition is subpar, and we can innovate and adjust on our timeline - we are way ahead of everyone else and do not need to be concerned.""  This leads to critical feedback not being taken seriously and prioritized.
+
+Product and Revenue team priorities are not aligned at all, and the product team is so focused on marching to their own beat, they are not listening to input from the marketplace, customer, sales, or implementation teams.  This leads to a lot of distrust across teams and makes selling needlessly hard.
+
+On the whole there is a lot of distrust for marketing, and the role in the organization.  Unfortunately it is only the ""make it pretty"" department and has zero influence in the business.  That team is forced to be an order taker instead of driving the company brand, positioning, or even messaging.  It is a depressing place to be if you are of the mindset that marketing should lead and influence the business. Marketing leadership hasn't been able to take charge and lead either the team or their peers on the revenue team - leaving a very ineffective and slow moving department that can't get any initiatives done. Marketing leadership also micromanages and is bad at delegating leaving each small decision endlessly delayed by getting leadership from each marketing lead as well as the broader revenue and product teams - hampering productivity and delaying all tactics."
+101,Marqeta,Great Place to work!,2019-08-12,5.0,Operations,High on Diversity and Inclusion,Growing pains: process flow and reallignment
+102,Marqeta,"Great business idea, but poor leadership/management and a struggling culture.",2019-08-01,2.0,Employee,"- Great market and business. 
 
 - Pay/comp and benefits is as competitive as any company at its stage of growth.
 
@@ -287,142 +411,37 @@ I wouldn't recommend this to people who are mid-level engineers, but it's a grea
  - Prioritization just seems to be based on which sales prospect, existing partner or bank is yelling at us the loudest for feature requests, and changes roughly every month. Executives can't even collectively come up with a handful of shared goals or objectives.  
 
 - Culture has now impacted the product itself - there were several embarrasing (and foreseeable) service outages this year and product development has grinded to a slow place."
-68,Marqeta,Great Company,2021-01-05,5.0,Lead Process Engineer,"Good Benefits, flexibility, team work, diverse",No cons at the moment
-69,Marqeta,"Lots of positive change, great business results",2020-07-06,5.0,Anonymous Employee,"Lots of change on the executive team with some very strong new adds to the team. Investors like the business model. Great set of innovative customers. Expanding globally. Seamless transition to work-from-home during Covid, with excellent employee comms. CEO genuinely cares about the employees and Oakland.",Nothing major. E-team looks solid - they need time to get really settled.
-70,Marqeta,Good product bad leadership,2021-02-21,1.0,Product Manager,Great product and platform concept,"Poor Leadership, ambiguous strategy and goals that don’t align. Lot of early employees setting direction and not necessarily in the right position fit / experience. Most employees lack industry expertise and all the employees with great experience end up leaving in a year or so. Purely a Sales driven organization. Emphasis on faster output without any quality control. Lots of operational issues."
-71,Marqeta,"So much opportunity to do great, great things",2019-10-07,5.0,Marketing,"From the moment I interviewed at Marqeta I was immediately taken aback by how smart, hard working and humble everyone was. Management is thoughtful and empathetic, focused on employee experience and self-aware to the pitfalls of high growth. A lot of really likeable people working hard together. 
+103,Marqeta,High turnover of top talent,2019-07-19,2.0,Anonymous Employee,Despite the toxic culture there are pockets of people who stay focused on the work. They keep the company running. There are still ways to stay above the fray and gain experience so that Marqeta can slingshot you into a better opportunity.,The company is not suffering from normal turnover. Top individual contributor and managers with deep payments experience are leaving. Certain critical functions have been very understaffed for a very long time. There is a lack of leadership at the VP level and on the executive team. It's truly a Darwinism company.   There is a very active blame and shame culture that no amount of radical candor training can overcome.
+104,Marqeta,A Startup that has lost it's special sauce!,2019-08-12,1.0,Operations,"There are some still some good people there they have good perks (food, snacks, ping pong, games, and other things). Still some good teams and people that are smart there. Work-life balance is way better since they are a bigger company. Revenue numbers are good still. CEO is a nice person and talks to most people and generally seems like he cares but the company has outgrown his influence it seems.","Culture is non-existence (it's whatever your manager makes it - Good or Bad), product and engineering are all over the place. Very top-heavy and lots of leadership and management issues (politics and strange alliances). Lots of re-organizations have happened in most of the company since they kept losing or getting rid of employees for little to no reason (all levels). People who are let go are not really given a specific reason why based on data and decisions are made by people that seem to not have any data. Many good people have also left for bigger and better companies. There is a strange combination of big company executives and executives with little to no experience (very dysfunctional group from the outside). There are lots of strange factions in the company which is not allowing the company to work together and execute effectively. If your interviewing ask about this!"
+105,Marqeta,In the Verge of Turning Into Big,2019-06-28,5.0,Engineering Manager,"- amazing people
+- flexible work culture
+- diversified and interesting problems to solve
+- leadership willing to listen and push for transparency in all activities
+- bringing experienced people from outside as well as promoting people from within
+- good perks","- despite efforts from leadership, many employees don't feel like talking sensitive topics openly
+- usual pains of a rapidly growing company resulting in some departures"
+106,Marqeta,Great Potential; Immature Senior Leadership,2019-04-29,2.0,Anonymous Employee,"Great business concept
+Solid customer base
+Fun work environment
+Free Food in abundance","Much of the senior leadership team has tenure reaching back to the company's very early days as a tiny startup. These individuals are rarely questioned by their peers, and those who do suggest alternative paths to those ordained are shamed (yes - this is not an exaggeration; there is a solid culture of shame here). As the organization matures, it will need the experience and leadership of more seasoned professionals to meet its goals."
+107,Marqeta,"Great, Challenging and Fast Growing Company",2019-04-24,5.0,Software Engineer,"Free Lunch 2x per week
+Smart people
+Beautiful Office
+Interesting Work","High average age of engineers
+Still figuring out career growth"
+108,Marqeta,Highly political organization,2019-02-15,3.0,Anonymous Employee,"Flexible work environment. 
+Growing fin-tech company.","Extremely political. You may have challenges with career growth here unless you are playing the political game. Transparency and honesty is not appreciated as they say it is. “Leadership” is questionable across the board. Also, no matter how many times you go to hr about someone, if they’re in the protected group of individuals, your complaints will go unnoticed."
+109,Marqeta,"Momentum, but we are just getting started!!",2019-02-12,5.0,Anonymous Employee,"Marqeta has the best customers, top talent and an incredible culture-these are some of  the best reasons to be  a part of Marqeta. Never before have we had such momentum and, while scaling a company at this rate is simply hard work, this team can do anything. There is a consistent focus on new ways to  support  our growing team, ongoing development for our leaders and a strategic eye on the future. Best company I've worked for.","We do need more operational efficiencies and clarity around roles - as we grow and become more complex, it all the more important to truly understand what each other is accountable for. Collaborative tools are beginning to help here."
+110,Marqeta,Horrible Management,2019-02-13,2.0,,"Good snacks, catered lunch and monthly massages.",Too political. No diversity in executive team.
+111,Marqeta,Constantly growing and innovating,2018-08-28,5.0,Director,"I've been with Marqeta for over a year, and am so impressed with how often we are able to innovate.  There is no idea too small or crazy, no client too new.  We are willing to take the big risks, think outside of the typical boundaries and try new things.
 
-Payments is a hard space, and Marqeta is growing quickly. There's a sense of opportunity and possibility in front of everyone that is really exciting - global growth, product expansion, revenue up and to the right... 
+I've worked in finance for years, and honestly have felt like a number at many of the places I've worked at in the past.  At Marqeta, I'm treated as a meaningful contributor and my opinions matter.
 
-Put together - it's meant that my time at Marqeta has been defined by being able to attack huge problems, make real impact and make huge professional leaps in experience, and work alongside people who make me smile most days. I consider that a privilege. 
-
-Oh, and there's a lot of snacks and nice lunches and general tech company perks.","Change is a constant - and there's a lot of focus on preparing for the future and aligning at the moment. It can require patience and a willingness to trust the bigger picture and take a deep breath. 
-
-There's more things to do than you'll ever get to. Which can be stressful."
-72,Marqeta,Marqeta cares about its employees.,2020-05-22,5.0,Product Design,"Stellar business model, quality-driven, empathetic people, and a company that walks the walk when it comes to treating employees with respect and compassion.
-
-Highlights:
-
-- Flawless transition to remote work during COVID
-- Continuous refinement of product development practices and quality bar
-- ENCOURAGED FTO
-- Regular checkins/all-hands with company to transparently go over the state of the business
-- Employees who have each-other’s backs (even cross-functionally)",Hard to list because I truly like working here. This is a place where people come to do their best work – so know that will be the expectation.
-73,Marqeta,Marqeta- an awesome company to work for!,2020-11-15,5.0,Group Product Manager,"innovation, collaboration, highly motivated team, lots of fun events, tight-knit-community",None so far. Been here only 3 months.
-74,Marqeta,Interesting environment,2021-03-14,2.0,Partner Management,"Lots of press, momentum from clients/partners",Some Exec team members quite clueless
-75,Marqeta,Quality organization with fabulous opportunities and potential.,2020-07-23,5.0,Manager,"2020 has already been a remarkable year for the company. Despite the many unexpected challenges to our society and economy, Marqeta is booming. New executive leadership, new business opportunities, and new positive energy from all employees make this a terrific place to work.","The company has grown so fast that some of the infrastructures to support teams and managers aren't in place, but there are efforts being made."
-76,Marqeta,Unstoppable,2020-06-17,5.0,Anonymous Employee,"The company is really firing on all cylinders in a way that's truly amazing to watch. What's more, the business itself continues to grow month in and month out. It's also great to see this company come together in all sorts of ways during a difficult time for the world. Feeling very proud to be part of this team.",Still a lot of wood to chop to take us to the next level.
-77,Marqeta,"Caring Leaders, dedicated employees, great product",2019-09-17,5.0,Program Manager,"The leaders at Marqeta caring deeply about the culture and community, both for our customers and the community. We are going fast which means change, but the purpose of the change is clear and needed.  They are putting in extra effort to ensure we understand the vision and priorities and are investing in more talent to ensure our success.   
-
-Some specific pros:
-- working on products that impact the world in a positive way.
-- Knowing that we have a huge opportunity ahead of us.
-- Culture matters and the company is doing more to keep it healthy
-- Pay and Benefits are competitive and better than most private companies
-- The company is becoming more open to flexible work and remote work
-- 401(k) matching and paid Paternity Leave
-- Mostly great managers and leaders","- Still growing and still evolving, which is fun for some and uncomfortable for others.
--"
-78,Marqeta,Great place to work!,2020-08-04,5.0,Anonymous Employee,Marqeta is full of incredibly smart and talented people with a fun culture to match. Great benefits too!,"There are some typical growing pains of an expanding pre-IPO company, but leadership is aware of them and are transparent in the process to fix them."
-79,Marqeta,"Good team in many ways, but the leadership team  is over their head in terms of ability",2019-10-17,2.0,Unidentified,"Really good product set historically,  but very far behind on product delivery and any innovation that will support long term success. Some truly wonderful people work here! Good intentions, caring people and it could be a fantastic culture. Fun social events, beautiful office, cool location. Aspirations for being more involved in the community are good.","The culture is intense and pockets of highly political behavior (chronic over the years) infect the team over and over again. Diversity is reportedly valued, but many struggle internally with how they are treated.  Turnover is at an all time high.
-Exec team has been a revolving door for many years and for some reason no one has ever held the CEO accountable for that and so many of the leadership and cultural issues. it all starts at the top."
-80,Marqeta,Hyper growth company with incredible talent and heart,2019-10-02,5.0,Marketing,"Located in the heart of Oakland across from Lake Merritt, there are more pros than there are cons. As at any hyper growth company at this stage, there are ups and downs. But the product is revolutionary and Jason and the E team are working tirelessly to make right any wrongs that have happened and putting strategies in place to help the company grow up past its awkward teenage years.
-
-At this company, you will find:
-- some of the most passionate and intelligent people you will come ever across
-- countless types of coffee on every floor - drip, cold brew, espresso, pour over, you name it.
-- weekly themed happy hours
-- monthly massages
-- multiple lunches per week
-- inclusivity and diversity","As with any tech company, there is a bro-culture that you need to navigate, but that is not exclusive to Marqeta."
-81,Marqeta,"High IQ/EQ organization, Market Leader, Empathetic and Human Approach",2020-09-22,5.0,Account Executive,"Support, gratuity, intellectually stimulating work, exceeding all goals together.",None to speak of after one year of tenure
-82,Marqeta,Values-driven business that is shining during a difficult time,2020-03-23,5.0,Marketing,"With COVID-19, I have been impressed with the care that the leadership has shown to adapt the work culture to difficult circumstances: serving our customers, regular communications and updates, and supporting a fully remote office now with everything from reimbursing for office equipment to virtual office hours with the CEO.","Like any business now, Marqeta will experience challenges with the onset of a recession - how will the business be resilient by shifting focus based on industry and product need?"
-83,Marqeta,Weak Leadership,2020-06-10,1.0,Software Engineer,"The office is in a beautiful location near Lake Merritt. The workspace is very modern with a solid snack program and free food on certain days. It's very much up to par with other, bigger software companies in the bay.",Management refuses to defend or go to bat for their employees. Upper management perpetuates a toxic work culture which encourages buck-passing and shrugging off of concerns. Companies which have this kind of culture very early on rarely recover - make a change before it's too late!
-84,Marqeta,A Startup that has lost it's special sauce!,2019-08-12,1.0,Operations,"There are some still some good people there they have good perks (food, snacks, ping pong, games, and other things). Still some good teams and people that are smart there. Work-life balance is way better since they are a bigger company. Revenue numbers are good still. CEO is a nice person and talks to most people and generally seems like he cares but the company has outgrown his influence it seems.","Culture is non-existence (it's whatever your manager makes it - Good or Bad), product and engineering are all over the place. Very top-heavy and lots of leadership and management issues (politics and strange alliances). Lots of re-organizations have happened in most of the company since they kept losing or getting rid of employees for little to no reason (all levels). People who are let go are not really given a specific reason why based on data and decisions are made by people that seem to not have any data. Many good people have also left for bigger and better companies. There is a strange combination of big company executives and executives with little to no experience (very dysfunctional group from the outside). There are lots of strange factions in the company which is not allowing the company to work together and execute effectively. If your interviewing ask about this!"
-85,Marqeta,"Growing pains, but they really care",2020-08-06,4.0,Current Employee,"-smart individuals 
--free food/stocked kitchen (pre-pandemic, now everyone is WFH)
--full support during pandemic
--flexible work/life balance
--other cool perks","-no company is perfect and Marqeta is no exception
-
-despite feeling the growing pains of scaling and trying to maintain culture, there has been effort at all levels to improve the company overall. Not all companies show this type of effort and think marqeta is at least trying"
-86,Marqeta,"Lots of growing pains, but Great Company",2020-04-29,5.0,Implementation Specialist,"Great people, first rate product, amazing culture, free catered food, great benefits","Start up growing pains, documentation may be lacking, knowledge base is not scalable at this point"
-87,Marqeta,Great company for engineering innovation,2020-07-09,4.0,Software Engineer,"- amazing engineering managers
-- openness about technical decisions
-- exciting products with exciting problems to be solved
-- company promotes healthy life/balance","- tech leads can be hard to work with
-- visibility into pay bands could be better"
-88,Marqeta,Great company to work at,2020-10-22,4.0,Software Development Engineer In Test (SDET),"Good work culture
-Employee friendly
-Flexible time off","Hectic at times
-Long work hours sometimes"
-89,Marqeta,"Great company, great culture",2020-04-03,5.0,"Director, Strategic Partner Operations","They hire the right person for the right job regardless of location, pay is competitive and benefits are great, you have a lot of autonomy and you are a voice at the table",A lot of teams are overworked because there is so much to do
-90,Marqeta,Great Growth,2020-10-20,4.0,IT Engineer I,Quick scaling org. Dynamic work environment*,Growing pains due to the speed of ramping
-91,Marqeta,Ok place,2020-09-22,3.0,Senior Software Engineer,High growth and customer retention,"No RSU, No career growth. Middle management took much work focussed"
-92,Marqeta,95% Amazing,2019-10-11,5.0,Senior Software Engineer,"The list of 'pros' is really long, actually.
-The basic ones are: 
- - Our office is beautiful, wonderfully situated, easily accessible and stocked with tasty amenities.
- - Our benefits package(s) seem reasonably good (6% 401k match, standard array of Insurance options, (including pet insurance through Trupanion, lol), three weekly catered meals, etc..).
- - An enjoyable social aspect, including events, happy hours, team outings, and a broad array of interest-specific slack channels.
- - A good range of coworker diversity (disclaimer: diversity can always be better) re: age, experience and history range, family-status, etc...
- 
-The ones which hold more weight are:
- - Working with great engineers and great managers.
- - Marqeta is a company of consequence. Every day when I come in, I'm working on things which are blazing the way forward for how the larger payments industry operates.
- - We have, among the tech org, a cooperative environment.
- - I am never bored. Every day has new and exciting challenges to work on.
- - I feel very satisfied with, and supported in, my professional growth at Marqeta. We are supported in learning new skills, approaching problems in new ways, learning new languages.","- Like many other tech companies, I feel like our hiring process is rough. On our applicants as well as on our employees.
-- Engineering objectives are too driven by the business side. While I feel like my work-life-balance is typically pretty good, I am, and the tech-org generally is, feeling increasing pressure to output."
-93,Marqeta,Good growth stage company,2020-08-17,4.0,Anonymous Employee,"Competitive salary, smart people, high growth startup",Doesn't ship a ton of new products
-94,Marqeta,Toxic,2020-05-12,3.0,Anonymous Employee,Some good people still here,Executive Team listening to the wrong voice. It is time for this to be recognized.   A lot of turnover under this person. Come on  folks!
-95,Marqeta,High turnover of top talent,2019-07-19,2.0,Anonymous Employee,Despite the toxic culture there are pockets of people who stay focused on the work. They keep the company running. There are still ways to stay above the fray and gain experience so that Marqeta can slingshot you into a better opportunity.,The company is not suffering from normal turnover. Top individual contributor and managers with deep payments experience are leaving. Certain critical functions have been very understaffed for a very long time. There is a lack of leadership at the VP level and on the executive team. It's truly a Darwinism company.   There is a very active blame and shame culture that no amount of radical candor training can overcome.
-96,Marqeta,"Hyper Growth, diverse culture",2019-10-06,5.0,Current Employee,"Marqeta is a great company on a hyper growth trajectory.  It has a very diverse employee base, and the Company is connected to the Oakland community (multiple groups have volunteered at the local food bank and refreshing to see this in the Bay Area).  Great senior leaders who engage with employees; everyone is dedicated to growing this business.  Really good perks and benefits.","Typical start up issues around scaling and focus, but a good problem to have."
-97,Marqeta,Just keeps getting worse,2019-12-13,1.0,Engineering Manager,"I guess the pro is the location.  I stay working here because I live in the East Bay, but I'm losing confidence in doing so much longer","Very dysfunctional. Don't believe what you read. About 9 months ago, things started to get better. But then the leader who was driving change left and now things are going back into the toilet. The execs are now writing fake Glassdoor reviews to improve the score. If you want to get overworked, under-recognized and underpaid join this company. If you want to work in a bro-culture that drops F-bombs regularly during company meetings, work here. If you want to be mugged walking around the office and have your car broken into in the parking garage, work here."
-98,Marqeta,Great experience and a renewed focus,2019-10-13,5.0,Anonymous Employee,"Smart people and business model
-Really generous benefits 
-Easy to get to and from the Oakland office 
-Loads of snacks and some dogs in the office
-Remote working is easy 
-Great diversity (gender and race)",Some people are negative and complain about everything but most people just want to collaborate and help each other
-99,Marqeta,Needs help,2020-02-20,1.0,Anonymous Employee,Company has a great product market fit,"Dubious hiring practices, Poor management, no strategy or direction, flashy headlines that appear to make a difference while underneath is just fluff, incompetent people, no workalike balance, live in fire drills constantly."
-100,Marqeta,Politics are getting in the way of progress and effectiveness,2019-09-05,2.0,Marketing,"Nice office, well funded, good location","This company has grown really fast and along this way, this has created a very siloed and political organization.  Each team is more concerned with carving out and keeping their territories over making sure the business as a whole is successful.  This creates a very stressful environment, and leaves employees burdened with treading carefully to not harm fragile egos or crossing political alliances to get their projects done.
-
-The company has underinvested and under-resourced  devops, security, customer success, risk and compliance, and quality assurance.  All things that are critical in finch for both customer trust and compliance concerns - it is a ticking time bomb waiting to explode. 
-
-The company also has a very insular mindset - not looking enough at feedback in the marketplace and customers to drive the business and decision making. The mindset is more of ""we know what's best, the competition is subpar, and we can innovate and adjust on our timeline - we are way ahead of everyone else and do not need to be concerned.""  This leads to critical feedback not being taken seriously and prioritized.
-
-Product and Revenue team priorities are not aligned at all, and the product team is so focused on marching to their own beat, they are not listening to input from the marketplace, customer, sales, or implementation teams.  This leads to a lot of distrust across teams and makes selling needlessly hard.
-
-On the whole there is a lot of distrust for marketing, and the role in the organization.  Unfortunately it is only the ""make it pretty"" department and has zero influence in the business.  That team is forced to be an order taker instead of driving the company brand, positioning, or even messaging.  It is a depressing place to be if you are of the mindset that marketing should lead and influence the business. Marketing leadership hasn't been able to take charge and lead either the team or their peers on the revenue team - leaving a very ineffective and slow moving department that can't get any initiatives done. Marketing leadership also micromanages and is bad at delegating leaving each small decision endlessly delayed by getting leadership from each marketing lead as well as the broader revenue and product teams - hampering productivity and delaying all tactics."
-101,Marqeta,Amazing company if we can survive the politcal cancer,2018-08-07,3.0,Anonymous Employee,"- Incredibly inspiring mission. We make painfully complex payments problems simple and easy to manage, so our partners can concentrate on building the world-changing innovations they’re passionate about.
-
-- Most of the people are friendly, welcoming, supportive, and professional. Friendships you make here are likely to last decades.
-
-- The groups where leaders with experience building teams were brought in and empowered to work their magic (customer success, risk, security, data analytics, production support, etc) work incredibly well.","- A few managers are more interested in political maneuvering and advancing their own career than in doing what’s right for the company and our customers. These folks are responsible for the vast majority of friction and division in the company, but there are no checks and balances in place to reign them in. 
-
-- The inevitable frustrations that come from hyper growth are also present, but are much less of an issue than the personal politics.
-
-- A lot of lip service is given to protecting the culture, but what “the culture” is has never been defined. Each group has its own wildly different subculture, which causes unneeded culture clashes on cross-functional projects."
-102,Marqeta,"Incompetent, directionless and non-responsize",2020-02-13,1.0,Software Developer,A paycheck if you like stress,"low pay, growth rate means they hire people who cant manage or are capable of managing....you constantly wonder why you are getting directives from people who know nothing about development."
-103,Marqeta,OK,2020-01-11,3.0,Lead Data Engineer,"Reaosns to work for marqeta are Good, 
-Work 
-Culture
-SPACE
-LOCATION","downside of Marqeta is Management, 
-HIRING
-BENEFITS
-BONUS
-COMPENSATION"
-104,Marqeta,Great Place to work!,2019-08-12,5.0,Operations,High on Diversity and Inclusion,Growing pains: process flow and reallignment
-105,Marqeta,A successful startup trying to scale,2016-03-28,5.0,Anonymous Employee,"* Great people! Probably the greatest team of people I have ever worked with. There are no slackers at Marqeta.
-* Great culture. Jason Gardner (CEO) vets all hires and cares a lot about keeping Marqeta a great place to work. 
-* Company is doing well and is solving the good problems of being too successful. Scaling up the systems and so forth.
-* Catered food twice a week, it's usually pretty good.","* Not always much transparency. 
-* Not always valuing smarter ways to do things. Everyone at Marqeta works hard and so it can be difficult to propose ideas that make things more efficient because it causes change. People feel they can just put in more hours instead of slowing down.
-* Not clear how promotions or salary increases work. There is a ""flat structure"" in engineering which is cool socially but confusing in terms of career advancement.
-* No 401k match yet but understandable due to it being a startup.
-* No high scores for Marqeta on workplace diversity despite being located in Oakland."
-106,Marqeta,"Amazing growth for the company, and excellent learning opportunity",2018-08-24,5.0,Anonymous Employee,"- concise vision
+I have great respect for our execs and management team, and know that we are all doing our best to serve our clients with the most innovative, cutting edge concepts.","Like many tech startups, Marqeta has its growing pains.  If you are going to work here, you have to be willing to work.  And you have to be ready to use your voice.  The meek and timid will find themselves uncomfortable, because at Marqeta, we are seeking the bold."
+112,Marqeta,"Fun culture, smart people, great leadership",2018-08-28,5.0,Anonymous Employee,"Fun culture: Twice weekly All Hands meetings, free lunch, great benefits, fun events and activities 
+Smart people: Both high level leaders and younger/newer employees are smart, talented people who are experts in the industry and know what they're doing 
+Great leadership: Executive Team cares about employees, wants Marqeta to grow, and are overall good people who I trust to run the company",Marqeta can be slightly political
+113,Marqeta,"Amazing growth for the company, and excellent learning opportunity",2018-08-24,5.0,Anonymous Employee,"- concise vision
 - people who genuinely care
 - excellent benefits and perks
 - ideal office location in Oakland
@@ -435,13 +454,7 @@ COMPENSATION"
 - it is a rocket ship so hold on!!!","- growing fast and hiring a ton always has challenges but management is addressing this in a good way
 - we are no longer on one floor so finding folks can be challenging, then again you always have Slack
 - lots of meetings, however this is being addressed to try to bring these down and do things more without having to meet."
-107,Marqeta,Inexperienced managers and immature employees,2018-08-17,1.0,Anonymous Employee,"Nice perks, outings during work hours, catered lunch and breakfast","I was sold on growth to further my career because I didn’t have it at my previous company. I quickly realized shortly after joining it was a lie. I decided to give  the company another chance and prove my worth and I no longer want to waste my time. Instead of putting people who has the direct experience, skills, knowledge and talent to bigger projects to help grow the company, they are doing entry level to mid level work as if managers are threatened by their skills. You need to be given the opportunity and exposure to bigger projects to grow your career and that is non existence. Managers are inexperienced with no prior management skills, they were given a VP title because of their years of service while other people who works hard were let go. People who deserves to be let go are not. Some employees are closed minded and immature, many whines, complains and plays the victim making it difficult to do your job. Some complaints are just ridiculous, their feelings were hurt so management now has to fix it. People also have been promoted because they were liked by their managers not because they work hard and have the right skills. It’s surprising to see people who been here longer, worked twice as hard been overlooked because simply the manager is playing favoritism."
-108,Marqeta,Constantly growing and innovating,2018-08-28,5.0,Director,"I've been with Marqeta for over a year, and am so impressed with how often we are able to innovate.  There is no idea too small or crazy, no client too new.  We are willing to take the big risks, think outside of the typical boundaries and try new things.
-
-I've worked in finance for years, and honestly have felt like a number at many of the places I've worked at in the past.  At Marqeta, I'm treated as a meaningful contributor and my opinions matter.
-
-I have great respect for our execs and management team, and know that we are all doing our best to serve our clients with the most innovative, cutting edge concepts.","Like many tech startups, Marqeta has its growing pains.  If you are going to work here, you have to be willing to work.  And you have to be ready to use your voice.  The meek and timid will find themselves uncomfortable, because at Marqeta, we are seeking the bold."
-109,Marqeta,"Great culture, strong growth, huge potential",2018-08-23,5.0,Management,"- Great work environment - smart, dedicated, fun people.   
+114,Marqeta,"Great culture, strong growth, huge potential",2018-08-23,5.0,Management,"- Great work environment - smart, dedicated, fun people.   
 - We are in downtown Oakland in a great location that looks and feels like Oakland.  
 - Innovation - lots of companies talk about being innovators, particularly in Fintech, but we're really doing it.  
 - We work with the world's innovators (check the website) and are changing how payment cards are issued and used.  
@@ -449,8 +462,41 @@ I have great respect for our execs and management team, and know that we are all
 - CEO is great - has a well-established vision of what we're doing, creates an inclusive work environment, encourages people to do their best work, really engaged.  
 - Leadership team is getting stronger.  
 - Competitive comp package, including 401K with matching.","With rapid growth (business and employees) comes challenges.  The challenges are recognized and discussed openly, and plans are in place to address them.  These are good challenges (opportunities!) to have!"
-110,Marqeta,"Momentum, but we are just getting started!!",2019-02-12,5.0,Anonymous Employee,"Marqeta has the best customers, top talent and an incredible culture-these are some of  the best reasons to be  a part of Marqeta. Never before have we had such momentum and, while scaling a company at this rate is simply hard work, this team can do anything. There is a consistent focus on new ways to  support  our growing team, ongoing development for our leaders and a strategic eye on the future. Best company I've worked for.","We do need more operational efficiencies and clarity around roles - as we grow and become more complex, it all the more important to truly understand what each other is accountable for. Collaborative tools are beginning to help here."
-111,Marqeta,"Dream Job for Builders, Learners, Innovators, Challengers, Creators...",2017-04-19,5.0,Anonymous Employee,"-I joined Marqeta from a another Fintech company after meeting with various members of the team from top to bottom and researching the market opportunity. Marqeta sits at a very interesting merge point in Fintech, where we partner with leading disruptors in e-commerce, alternative lending, on-demand delivery, and other interesting use cases in the space. The opportunity to work across diverse sectors in a rapidly innovating space is rare, and Marqeta is leading innovation on the issuing side of payment processing that has seen little disruption in the current wave of Fintech growth. 
+115,Marqeta,Amazing company if we can survive the politcal cancer,2018-08-07,3.0,Anonymous Employee,"- Incredibly inspiring mission. We make painfully complex payments problems simple and easy to manage, so our partners can concentrate on building the world-changing innovations they’re passionate about.
+
+- Most of the people are friendly, welcoming, supportive, and professional. Friendships you make here are likely to last decades.
+
+- The groups where leaders with experience building teams were brought in and empowered to work their magic (customer success, risk, security, data analytics, production support, etc) work incredibly well.","- A few managers are more interested in political maneuvering and advancing their own career than in doing what’s right for the company and our customers. These folks are responsible for the vast majority of friction and division in the company, but there are no checks and balances in place to reign them in. 
+
+- The inevitable frustrations that come from hyper growth are also present, but are much less of an issue than the personal politics.
+
+- A lot of lip service is given to protecting the culture, but what “the culture” is has never been defined. Each group has its own wildly different subculture, which causes unneeded culture clashes on cross-functional projects."
+116,Marqeta,Lack of growth potential,2018-08-14,2.0,Anonymous Employee,"Good  pay, benefits and catered lunch. Most the people are great to work with and hard working towards the benefit of the company.",Managers need to learn to work with other teams. I have witnessed discrimination and sexism within a certain engineering team.  There's clashing sub cultures. It can be frowned upon to attend social  company events if you're on certain teams. There's little to no room to advance here. It seems additional training and conferences were looked down upon (varies by manager)
+117,Marqeta,Great opportunity to build something big,2018-08-17,4.0,Anonymous Employee,"Incredible market opportunity,  talented and caring team, visionary leadership.",Pressure from supporting business growth is exacerbated by fast but ineffective changes in headcount and organizations.
+118,Marqeta,Management - associate disconnect,2018-08-02,2.0,Anonymous Employee,"Wins are celebrated, offsites can be fun, there are a handful of upper-level folks who are genuine, funding has been secured over short-term","Can be extremely gossipy and toxic at even the highest levels, absolutely no sense of job security, hugely dependent on a core set of clients, favoritism plays a big role in advancement"
+119,Marqeta,Inexperienced managers and immature employees,2018-08-17,1.0,Anonymous Employee,"Nice perks, outings during work hours, catered lunch and breakfast","I was sold on growth to further my career because I didn’t have it at my previous company. I quickly realized shortly after joining it was a lie. I decided to give  the company another chance and prove my worth and I no longer want to waste my time. Instead of putting people who has the direct experience, skills, knowledge and talent to bigger projects to help grow the company, they are doing entry level to mid level work as if managers are threatened by their skills. You need to be given the opportunity and exposure to bigger projects to grow your career and that is non existence. Managers are inexperienced with no prior management skills, they were given a VP title because of their years of service while other people who works hard were let go. People who deserves to be let go are not. Some employees are closed minded and immature, many whines, complains and plays the victim making it difficult to do your job. Some complaints are just ridiculous, their feelings were hurt so management now has to fix it. People also have been promoted because they were liked by their managers not because they work hard and have the right skills. It’s surprising to see people who been here longer, worked twice as hard been overlooked because simply the manager is playing favoritism."
+120,Marqeta,Great company once. Now just a Good company.,2018-07-03,4.0,Operations,"-Management is reachable and typically willing to meet on anything.
+-Great healthy snacks, lunches, above average benefits 
+-Fun team members. Many share similar aspects to life.","-Management can say one thing but switch up in the next week. A bit of ego clouds decisions. They can sometimes be childish and unable to handle confrontations when someone does something wrong or not to their liking. 
+-Work-life balance can be hectic. Burnout is a common theme due to not wanting to look like a slacker while peers around put in an extra 2-3 hours a day."
+121,Marqeta,data engineer,2018-06-19,5.0,Anonymous Employee,"Great company, team to work for.","so far none, company is heading in right direction ."
+122,Marqeta,What a horrible management system,2018-06-06,1.0,Anonymous Employee,"Good pay, food is aplenty, nice people","managers lie about career opportunity timeline,  are incredibly vindictive and narcissistic, pretend to have your back. experienced verbal abuse via email from managers. VPs could care less about any regular employees."
+123,Marqeta,Did not enjoy my time there,2018-04-12,2.0,Engineer,"- Fast growing
+- Nice people
+- Approachable upper management 
+- 2 days of free lunch (although this is maybe below standard for tech companies in the Bay)","- The multiple pivots in the company's lifetime means you have employee cohorts that weren't hired for the current vision, and don't have the right skillset to execute for the future goals. 
+- The engineering talent is second-tier
+- Lack of career development
+- SO MUCH INTERNAL POLITICS
+- No 401K
+- Business model is VERY dependent on a few key partners (higher risk of failure)"
+124,Marqeta,High-growth opportunity!,2018-04-10,5.0,Anonymous Employee,Company is doing exceptionally well so every opportunity is impactful. Great location for east bay folks. Best company I've ever worked for. Awesome experience professionally and awesome people.,None at this time! It's exciting to see Marqeta take off
+125,Marqeta,"Fast paced, innovative and truly disrupting the payments space!",2018-04-05,5.0,Anonymous Employee,"The CEO is incredible, extremely down to earth and treats his employees like family no matter your title or how long you've worked here. The company is doing really well and a leader in the space which creates excitement in the workplace. It is very much a roll up your sleeves and GSD environment so if this is not reflective of your mentality do not come here.",None that come to mind.
+126,Marqeta,"Challenging and fun, but comes with your typical startup growing-pains.",2018-03-27,4.0,Anonymous Employee,"Marqeta provides a challenging environment which breeds constant growth for individuals and their careers'. Marqeta also has some really amazing people, which lends itself well to creating an awesome company-culture.  Marqeta also has an amazing CEO who is very down-to-earth and genuinely cares about his employees.",Cross-team communication needs to improve. At times it seems like the company operates in separate silos.
+127,Marqeta,Management,2018-02-13,1.0,,"Innovative fun group, lots of room for ideas.",Poor management decisions. Some positions are just a revolving door.
+128,Marqeta,Great culture & environment!,2017-09-01,5.0,Anonymous Employee,"Highly culture focused, emphasis on the team, encourages learning new things, quarterly hack weeks!",The commute up 880 N is not great.
+129,Marqeta,Great company to build a career,2017-08-10,5.0,Anonymous Employee,Very smart people. Solid product and tech leadership with great teams.,Nothing really. As close to perfect as any place could be.
+130,Marqeta,"Dream Job for Builders, Learners, Innovators, Challengers, Creators...",2017-04-19,5.0,Anonymous Employee,"-I joined Marqeta from a another Fintech company after meeting with various members of the team from top to bottom and researching the market opportunity. Marqeta sits at a very interesting merge point in Fintech, where we partner with leading disruptors in e-commerce, alternative lending, on-demand delivery, and other interesting use cases in the space. The opportunity to work across diverse sectors in a rapidly innovating space is rare, and Marqeta is leading innovation on the issuing side of payment processing that has seen little disruption in the current wave of Fintech growth. 
 
 -The team is hands-down the most experienced, knowledgeable, and driven leadership teams that I have worked with in my start-up experience. Jason, the CEO, is one of the most passionate and dedicated entrepreneurs in the space, and he genuinely cares about the business, our customers, our partners, and the people working every day to drive the company forward. This drives the culture of the organization from the top down and back up again. 
 
@@ -461,48 +507,34 @@ I have great respect for our execs and management team, and know that we are all
 -Having worked at 6 start-ups with now a full year of experience at Marqeta, I can say that I have found my dream job. Our customers love us, the team is amazing, the company is growing, the work is exciting, and our vision in the space is driving the creation of an exceptional platform and the energy of those excited about innovation in Fintech.","-Like many start-ups, it's difficult to prioritize scalability projects while also trying to get the day to day work done. Even though we're slightly late to the party, we're moving in the right direction to build the foundation to ensure that we don't slow down as we scale. 
 
 -At times, it can seem like we're too much in ""project management"" or ""task"" mode given the challenges of figuring out how to make big initiatives work. We need to keep pushing to get more strategic and elevate key thinking out of the weeds. Standardization and automation of certain tasks and efforts will support growth as we iron out the kinks."
-112,Marqeta,Highly political organization,2019-02-15,3.0,Anonymous Employee,"Flexible work environment. 
-Growing fin-tech company.","Extremely political. You may have challenges with career growth here unless you are playing the political game. Transparency and honesty is not appreciated as they say it is. “Leadership” is questionable across the board. Also, no matter how many times you go to hr about someone, if they’re in the protected group of individuals, your complaints will go unnoticed."
-113,Marqeta,Great company once. Now just a Good company.,2018-07-03,4.0,Operations,"-Management is reachable and typically willing to meet on anything.
--Great healthy snacks, lunches, above average benefits 
--Fun team members. Many share similar aspects to life.","-Management can say one thing but switch up in the next week. A bit of ego clouds decisions. They can sometimes be childish and unable to handle confrontations when someone does something wrong or not to their liking. 
--Work-life balance can be hectic. Burnout is a common theme due to not wanting to look like a slacker while peers around put in an extra 2-3 hours a day."
-114,Marqeta,"Fun culture, smart people, great leadership",2018-08-28,5.0,Anonymous Employee,"Fun culture: Twice weekly All Hands meetings, free lunch, great benefits, fun events and activities 
-Smart people: Both high level leaders and younger/newer employees are smart, talented people who are experts in the industry and know what they're doing 
-Great leadership: Executive Team cares about employees, wants Marqeta to grow, and are overall good people who I trust to run the company",Marqeta can be slightly political
-115,Marqeta,"Fast paced, innovative and truly disrupting the payments space!",2018-04-05,5.0,Anonymous Employee,"The CEO is incredible, extremely down to earth and treats his employees like family no matter your title or how long you've worked here. The company is doing really well and a leader in the space which creates excitement in the workplace. It is very much a roll up your sleeves and GSD environment so if this is not reflective of your mentality do not come here.",None that come to mind.
-116,Marqeta,In the Verge of Turning Into Big,2019-06-28,5.0,Engineering Manager,"- amazing people
-- flexible work culture
-- diversified and interesting problems to solve
-- leadership willing to listen and push for transparency in all activities
-- bringing experienced people from outside as well as promoting people from within
-- good perks","- despite efforts from leadership, many employees don't feel like talking sensitive topics openly
-- usual pains of a rapidly growing company resulting in some departures"
-117,Marqeta,Lack of growth potential,2018-08-14,2.0,Anonymous Employee,"Good  pay, benefits and catered lunch. Most the people are great to work with and hard working towards the benefit of the company.",Managers need to learn to work with other teams. I have witnessed discrimination and sexism within a certain engineering team.  There's clashing sub cultures. It can be frowned upon to attend social  company events if you're on certain teams. There's little to no room to advance here. It seems additional training and conferences were looked down upon (varies by manager)
-118,Marqeta,Management - associate disconnect,2018-08-02,2.0,Anonymous Employee,"Wins are celebrated, offsites can be fun, there are a handful of upper-level folks who are genuine, funding has been secured over short-term","Can be extremely gossipy and toxic at even the highest levels, absolutely no sense of job security, hugely dependent on a core set of clients, favoritism plays a big role in advancement"
-119,Marqeta,Did not enjoy my time there,2018-04-12,2.0,Engineer,"- Fast growing
-- Nice people
-- Approachable upper management 
-- 2 days of free lunch (although this is maybe below standard for tech companies in the Bay)","- The multiple pivots in the company's lifetime means you have employee cohorts that weren't hired for the current vision, and don't have the right skillset to execute for the future goals. 
-- The engineering talent is second-tier
-- Lack of career development
-- SO MUCH INTERNAL POLITICS
-- No 401K
-- Business model is VERY dependent on a few key partners (higher risk of failure)"
-120,Marqeta,Great Potential; Immature Senior Leadership,2019-04-29,2.0,Anonymous Employee,"Great business concept
-Solid customer base
-Fun work environment
-Free Food in abundance","Much of the senior leadership team has tenure reaching back to the company's very early days as a tiny startup. These individuals are rarely questioned by their peers, and those who do suggest alternative paths to those ordained are shamed (yes - this is not an exaggeration; there is a solid culture of shame here). As the organization matures, it will need the experience and leadership of more seasoned professionals to meet its goals."
-121,Marqeta,High-growth opportunity!,2018-04-10,5.0,Anonymous Employee,Company is doing exceptionally well so every opportunity is impactful. Great location for east bay folks. Best company I've ever worked for. Awesome experience professionally and awesome people.,None at this time! It's exciting to see Marqeta take off
-122,Marqeta,Great company to build a career,2017-08-10,5.0,Anonymous Employee,Very smart people. Solid product and tech leadership with great teams.,Nothing really. As close to perfect as any place could be.
-123,Marqeta,Great culture & environment!,2017-09-01,5.0,Anonymous Employee,"Highly culture focused, emphasis on the team, encourages learning new things, quarterly hack weeks!",The commute up 880 N is not great.
-124,Marqeta,"Challenging and fun, but comes with your typical startup growing-pains.",2018-03-27,4.0,Anonymous Employee,"Marqeta provides a challenging environment which breeds constant growth for individuals and their careers'. Marqeta also has some really amazing people, which lends itself well to creating an awesome company-culture.  Marqeta also has an amazing CEO who is very down-to-earth and genuinely cares about his employees.",Cross-team communication needs to improve. At times it seems like the company operates in separate silos.
-125,Marqeta,data engineer,2018-06-19,5.0,Anonymous Employee,"Great company, team to work for.","so far none, company is heading in right direction ."
-126,Marqeta,"Great, Challenging and Fast Growing Company",2019-04-24,5.0,Software Engineer,"Free Lunch 2x per week
-Smart people
-Beautiful Office
-Interesting Work","High average age of engineers
-Still figuring out career growth"
-127,Marqeta,What a horrible management system,2018-06-06,1.0,Anonymous Employee,"Good pay, food is aplenty, nice people","managers lie about career opportunity timeline,  are incredibly vindictive and narcissistic, pretend to have your back. experienced verbal abuse via email from managers. VPs could care less about any regular employees."
-128,Marqeta,Great opportunity to build something big,2018-08-17,4.0,Anonymous Employee,"Incredible market opportunity,  talented and caring team, visionary leadership.",Pressure from supporting business growth is exacerbated by fast but ineffective changes in headcount and organizations.
-129,Marqeta,Horrible Management,2019-02-13,2.0,,"Good snacks, catered lunch and monthly massages.",Too political. No diversity in executive team.
+131,Marqeta,A successful startup trying to scale,2016-03-28,5.0,Anonymous Employee,"* Great people! Probably the greatest team of people I have ever worked with. There are no slackers at Marqeta.
+* Great culture. Jason Gardner (CEO) vets all hires and cares a lot about keeping Marqeta a great place to work. 
+* Company is doing well and is solving the good problems of being too successful. Scaling up the systems and so forth.
+* Catered food twice a week, it's usually pretty good.","* Not always much transparency. 
+* Not always valuing smarter ways to do things. Everyone at Marqeta works hard and so it can be difficult to propose ideas that make things more efficient because it causes change. People feel they can just put in more hours instead of slowing down.
+* Not clear how promotions or salary increases work. There is a ""flat structure"" in engineering which is cool socially but confusing in terms of career advancement.
+* No 401k match yet but understandable due to it being a startup.
+* No high scores for Marqeta on workplace diversity despite being located in Oakland."
+132,Marqeta,Great company!,2016-03-15,4.0,,Lots of opportunity for growth in the business.,Located outside the city but still okay.
+133,Marqeta,Inclusive and innovative place to work,2021-10-11,5.0,Anonymous Employee,Marqeta has a proven business model in an industry ripe for innovation. Post-IPO the company has a strong foundation in place to grow for years to come. Management instills an inclusive culture and open-mindedness which helps foster personal and company growth.,The mandate to grow and put the right systems in place along the way requires some flexibility.
+134,Marqeta,Great workspace and Team,2021-09-08,5.0,Software Development Engineer In Test (SDET),"Opportunity to learn, career growth
+Good Team culture","Not a con completely, It is a Fast growing company- lot of adaptions"
+135,Marqeta,Amazing place to learn every day,2021-02-20,4.0,Customer Success Manager,"Marqeta Cares
+Company Benefits 
+Great technology 
+Good peers","Long hours
+Call with US in the evening"
+136,Marqeta,Very promising company,2021-01-22,4.0,Software Engineer,They have a solid business model,"Like every other startup, some chaos could happen."
+137,Marqeta,Immense culture that truly demonstrates people are its greatest asset,2020-07-29,5.0,Campaigns Manager,"Strong leadership team who keep you constantly informed and updated and set a clear vision that is easy to understand, inspiring and empowering.
+
+World class proposition, underpinned by leading technology and smart, motivated people right across the organisation.
+
+The company is in full growth mode and in Europe we are really starting to build momentum. It's a great close knit team and I truly feel like I both belong and that I'm playing a vital role in our journey.","Growth pains; however whilst this can be a challenge, it drives you to keep progressing and improving everyday. And being involved at this stage represents a great opportunity to learn and test muscles I haven't used previously."
+138,Marqeta,Awesome Company | Great Product | Inspiring Culture,2020-07-26,5.0,Head of Marketing,"- Autonomy 
+- World class product 
+- Passionate co-workers 
+- Strong vision and leadership",- There are no real cons - this is the best company that I've ever worked for
+139,Marqeta,A great company culture!,2020-07-26,5.0,Sales,"CEO is awesome, with a true desire to support staff, ensure a great company culture and support the wider community.
+The platform and tech. is great and investment is going into ensuring this stays the case. Lots of moving parts and nothing is perfect but the desire to provide world class APIs and tech is not doubted. 
+Colleagues are supportive and friendly. 
+Package is good.",Still some work to do on building out processes and procedures but a work in progress for sure!

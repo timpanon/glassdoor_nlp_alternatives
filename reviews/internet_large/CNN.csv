@@ -1,0 +1,1001 @@
+,company,headline,date,overall_rating,author_position,pros,cons
+0,CNN,What is news?,2022-04-04,5.0,Anonymous Employee,Lovely people and friendly atmosphere.,In a niche industry that has limitations.
+1,CNN,great workplace,2022-04-01,5.0,Anonymous Employee,great teams and great experience,salary but overall great place
+2,CNN,Salary,2022-03-24,3.0,Technician,Great starting place to work as a technician.,Need better employee salary for technicians.
+3,CNN,SO SO,2022-03-23,2.0,Broadcast Engineer,"Benefits 
+Friendly people
+Fun at times, but a lot of work.","No room to move up
+Pay not great, the name not the pay"
+4,CNN,Hierarchical,2022-03-23,2.0,Anonymous Employee,Overall a network with great reputation producing award winning news,"Depending on your position it can feel very hierachical. Traditional structure with a lot of managers and midlevel managers and everyone afraid to make decisions, always nervously looking over their shoulder to see if the big bosses in America would approve. 
+
+Opportunities given to some on-screen talent and higher position roles does not translate further down. Easy to feel stuck and prohibited from excelling."
+5,CNN,Digital Teams (not TV),2022-03-12,3.0,Principal Designer,"Lots of smart, well-meaning folks. Mission- oriented.","Slow moving. Culture really uneven. There are good people. But top down, leadership generally lacked maturity, transparency and kindness. Many decisions made for self preservation at detriment to team."
+6,CNN,Average place to work,2022-03-11,4.0,Creative Producer,good benefits provided by the company,lack of growth opportunity within the company
+7,CNN,Good,2022-03-10,4.0,Associate Producer,Great company to work at,Hard to move up in the company
+8,CNN,good,2022-03-09,5.0,Software Developer,good place to work and nice,not any issues in the place
+9,CNN,review,2022-03-09,4.0,Anonymous Employee,lots of opportunities to collaborate with other bureaus and teams,managers didn't care about career growth for team members
+10,CNN,"Stable, recession proof place to work",2022-03-07,4.0,Anonymous Employee,"Good pay, stable income, good people",The hours are atrocious and the heaviness of the content you cover can really weigh heavy on your mental health. The new CNN+ app is a bit of a mess and there’s a lot of chaos there.
+11,CNN,Great benefits,2022-03-01,5.0,Associate Producer,"Good healthcare, good PTO, great 401k match",You work more than 8 hours a day
+12,CNN,"Love to company, frustrated by HR/leadership",2022-03-01,4.0,Media Operations,Great people and product. Monday is good.,Things change very quickly and hiring people/moving people up is challenging
+13,CNN,Slow to promote,2022-02-28,3.0,Freelance Associate Producer,They are great at implementing ideas.,Not good at the promotion.
+14,CNN,Nice,2022-02-22,4.0,Production Assistant,"Challenging, great coworkers, lots of learning","Tiring, not great pay, bureaucracy"
+15,CNN,This place gave me PTSD,2022-02-22,1.0,Coordinator,Good location in central London,"Bullying, teams were way to cliquey. A lot of gaslighting"
+16,CNN,The Best Place I’ve Ever Worked,2022-02-18,5.0,Graphic Artist,"Work from home, Friendly Staff, Great new office!","The environment is constantly changing, this fast paced environment many not be for everyone"
+17,CNN,Riven with politics,2022-02-15,2.0,Journalist/Reporter,"A large, very influential market player with a global reach, and it's absolutely great to get that experience then move on to an organization that shoots straighter. Fantastic benefits and vacation packages. Nice, competent colleagues. Pay is awful at first but good if you advance.","Politics. The organization runs on national partisan politics, internal race-gender politics, including - or perhaps now predominantly - reverse discrimination politics, and clubby internal politics, often based on ethnic background. It's a mess. News is generally still high quality but comes second to political polemics."
+18,CNN,"Nepotism, back stabbing and awful culture",2022-02-11,1.0,Anonymous Employee,Got to work with some incredible reporters,"Nepotism is rife, culture protects higher ups, promise the world and deliver nothing when it comes to career development, sanctimonious editorial staff who try to spin opinions as news"
+19,CNN,Incredibly supportive management,2022-02-07,5.0,Researcher,I have excellent managers who never ask me to do something that they wouldn't.,Harder to gain technical skills for upward mobility outside of editor roles
+20,CNN,Great Company,2022-02-06,5.0,Writer,"CNN is a great company. I basically grew up working here as I started soon after graduating from college. The company invest in its employees, presumably so they can retain them. There were tons of perks: a gym in the building, health programs (they paid for you to train for and do a triathlon), company 5ks, free FitBits, free tickets to sports events, discounted tickets to various Atlanta spots like Botanical Gardens or High Museum of Art, tons of PTO.","Lack of diversity in upper management. CNN is relatively diverse among the rank and file but not so much in the upper or even mid-management. The compensation is also not that great if you start their young, as I did, and stay in the same role in the same department. Your best raises will come if you switch departments or roles (ex: writer for Domestic becomes a writer for International; writer for Domestic becomes a producer for Domestic.). If you rely on just the yearly merit-based raises, i.e, you remain a writer at Domestic for years, your raises will be paltry. They’re less than 5 percent; I believe they’re on average 2.5-3 percent. That’s barely anything and discourages loyalty to a particular role or department."
+21,CNN,All good,2022-02-03,5.0,Intern,Working alongside a team of dedicated and experienced journalists.,There are nothings at all
+22,CNN,Great,2022-02-01,5.0,Anonymous Employee,"Benefits, culture, staff, great people overall",Deadlines for projects tend to be tight
+23,CNN,"Great people, great place to work",2022-02-01,4.0,Writer,"- Management cares about your wellbeing
+- Wonderful colleagues and workplace culture
+- Gratifying/fulfilling work","- Upward mobility can be difficult (highly recommend being a strong advocate for yourself)
+- You can still find a bad boss around here occasionally
+- Some areas of the company need more emphasis on diversity especially among management"
+24,CNN,High stress,2022-01-31,3.0,Producer,"Working with brilliant colleagues, making an impact",Toxic and hostile work environment
+25,CNN,pretty good,2022-01-31,1.0,Journalist,"salary, benefits, massage parlor coupons","long hours, mean managers, low IQ coworkers"
+26,CNN,"The best in the news business, but senior leadership needs to do more to ensure a more healthy work environment.",2022-01-31,3.0,Anonymous Employee,Learned a lot. Some great people.,"Some not so great people. Long hours, overworked employees."
+27,CNN,None,2022-01-30,1.0,Journalist,"Health Insurance. 4.3★ 16 Ratings.
+Dental Insurance. 4.0★ 3 Ratings.
+Flexible Spending Account (FSA) 2.7★ 3 Ratings.
+Disability Insurance. 3.0★ 1 Rating.
+Health Care On-Site. 2.0★ 1 Rating.
+Life Insurance. 1.0★ 1 Rating.
+Vision Insurance. 2.0★ 1 Rating.",Disadvantages: CNN do not encode the position and orientation of object. Lack of ability to be spatially invariant to the input data. Lots of training data is required.17 Jul 2020
+28,CNN,Cnn+,2022-01-28,2.0,Associate Producer,Competitive salary and easy interview,The job description was not anything close to what the actual job entailed. Colleagues tend to not believe your previous experience and there are very little opportunities to grow.
+29,CNN,Management Fearful,2022-01-22,2.0,Supervising Producer,Pay is excellent for the market in journalism.,Management is fearful and feels like they are not empowered for decision-making. Decision-making very top-down.
+30,CNN,intern,2022-01-18,3.0,Programming Intern,good exposure to a wide range of industry contacts,low pay and hard working hours
+31,CNN,AT&T is chaning things,2022-01-16,3.0,Engineer,Was a good place to work,AT&T is slowly destroying the company
+32,CNN,Good brand,2022-01-14,2.0,Executive Producer,You might grow in the career,HR and Management are horrible
+33,CNN,Great Place to Work,2022-01-11,4.0,Business Administrator,"Good company culture, supportive environment, competitive pay.",Sometimes its hard to move up or change departments.
+34,CNN,solid,2022-01-10,3.0,Anonymous Employee,very nice people working there,some people are mean t
+35,CNN,Not a bad place to start your career,2022-01-04,4.0,News Desk Editor,"You get in touch with almost every branch of the editorial process, which are great networking opportunities.
+The pay is top-notch in the news business. It's not much compared to other industries, but definitely better than local stations.","Sometimes rotating shifts and crazy working hours. Be ready to work on Christmas, New Year's Eve, and/or Thanksgiving."
+36,CNN,Not great for talent and growth,2022-01-01,2.0,Content Coordinator,resources are plentiful however opportunities are not.,no creative ingenuity within the company or real cutting edge talent. Mediocre agenda based journalists all with old school approach.
+37,CNN,Journalist at CNN,2021-12-22,5.0,Journalist,Great Job and this is what I love,WHAT I feel is that it does not grieve you an opportunity to use your voice and opinipoons
+38,CNN,Salary,2021-12-17,5.0,Associate Producer,Competitive salary and flexible hours,Growth takes longer than normal
+39,CNN,CNN,2021-12-14,2.0,Senior Producer,"Good pay, great brand. When CNN is on, doing big things its exciting. Day to day can be quite dull.","Poor leadership, hyper-woke culture, no mentorship or growth ops"
+40,CNN,"Very professional, friendly and welcoming",2021-12-10,5.0,Copy Manager,"Wonderful employees, very welcoming to the new person! Exceptional training and support when you join and throughout employment there. Communication is exemplary.","Although communication was brilliant, when you first join it is a bit overwhelming if you're not used to it."
+41,CNN,Good bosses,2021-12-08,5.0,Senior Writer,Interesting work with good colleagues,long hours that around the clock
+42,CNN,Great perks,2021-11-22,4.0,Production Manager,Dynamic interactions with multiple teams,Long hours and short notice to get things done
+43,CNN,Great,2021-11-10,1.0,Project Manager,great company wow so amazing,fantastic cant believe how bad
+44,CNN,Loved CNN Atlanta!,2021-11-10,5.0,Senior Director,"Wonderful people for the most part, exciting news environment and best city in US ! Atl headquarters was wonderful!",None other than when you make too much $ there for some departments-they don’t want you there till retirement it seems. Hopefully that is changing.
+45,CNN,Im awesome,2021-11-08,5.0,REALTOR®,Love working for myself and serving others,Could use some more motivation
+46,CNN,Opportunity to meet great people and to build network as a journalist or video producer,2021-11-03,4.0,Story Researcher,You will have the best opportunity to work in a great TV shows and learn a lot.,"Very low salary for employees based in Nairobi, Kenya. They are not directly employing you but through a representative which is why there's very little transparency in how much CNN International actually agreed to pay the employees hired to work on CNN shows."
+47,CNN,"Good, fast paced place to work",2021-11-03,5.0,Production Manager,"If you do your job, you don't have to worry about keeping it. Most people have been around for 20-25 years and are satisfied.","on the flip side, leaders inhabit the same roles for years, so it can sometime be difficult to move up. Leaders sometimes have an ""old"" way of thinking and senior leadership lacks diversity - expect for the SR HR and Diversity roles."
+48,CNN,Good,2021-10-30,4.0,Tech Ops,Great vacation fun environment to work,Holidays you have to work 24 hour news cycle lots of depressing news
+49,CNN,Great place for work/life balance.,2021-10-29,4.0,Bit Engineer,"Benefits, work environment, work/life balance.",Corporate one size fits all management does not work for a company this size.
+50,CNN,Great workplace for growth,2021-10-27,5.0,Anonymous Employee,Great leaders. Lots of growth opportunities,high stress. not for people who don't like fast paced
+51,CNN,Didn't care about a lot of employees during pandemic,2021-10-18,3.0,CNN Associate Producer,"Great benefits, generally high salaries 
+Good growth in internal hiring","Pandemic ruined my opinion of the company. Top ratings in 40 years, almost no raise and no bonus. No regard for burnout and mental health. 
+Being bought by ATT hurt the company: benefits not as good, layoffs."
+52,CNN,Review,2021-10-13,4.0,Studio Operator,Opportunity to grow and learn,"Inequality between departments, especially editorial and operations"
+53,CNN,"Not terrible, not great",2021-10-12,2.0,Show Producer,"Great benefits, competitive salaries for industry","Lack of strong business organization, poor messaging from seniors, EXTREMELY siloed and very little collaboration or communication between departments or units"
+54,CNN,Good Environment of work,2021-10-09,5.0,News Reporter,Very Good Environment of works,"very Good salary and benefits, balance"
+55,CNN,It’s okayish,2021-10-08,3.0,Production Assistant,"- good salary
+-good benefits 
+-good perks","-work life balance not great 
+-can be stresssful"
+56,CNN,It's really amazing.,2021-10-05,5.0,News Reporter/Anchor,News reporting is my passion and in CNN it's my great wish to work with CNN news network.,There are not so many challenges.
+57,CNN,Lean news organization with healthy working environment,2021-10-04,4.0,TV News Producer,Colleagues are professional and adopt CNN International's brand of journalism,Smaller company compared to bigger news organizations in the Philippines
+58,CNN,Not perfect but overall great company,2021-10-01,4.0,Associate Producer,Great company if you’re doing what you’re passionate about,"Upward mobility and work life balance is sometimes tough
+
+Lack of diversity in senior roles"
+59,CNN,Terrible work environment!,2021-09-29,2.0,Producer,"Learned a lot, but with a cost!","No support. 
+Expectations from one person is not realistic 
+You leave, no one cares onto the next. A factory!"
+60,CNN,good benefits,2021-09-26,3.0,Assignment Editor,PTTO policy and leave is great. Great people,Journalists don't make good managers always without training
+61,CNN,Great work place,2021-09-23,5.0,Manager,Best company I have ever worked for. Great vibe. Very respectful atmosphere.,Vaccines are required and mandatory for all employees
+62,CNN,OK,2021-09-19,3.0,Copy Editor,"Great team, everyone cares about what they do",Poor management with few people skills
+63,CNN,Mediocrity Rises to the Top,2021-09-18,2.0,Senior Editor,"Salary
+Flexibility (depending on your manager)
+Great co-workers","Leadership is awful
+Poor retention 
+Benefits have gone downhill
+Unlimited vacation (compared to previously generous PTO policy, everyone knows UV sucks)
+Stifled creativity in favor of traffic
+Sense of urgency around matters that are not at all urgent 
+Promotions based on favoritism, not merit
+So many reorgs = low morale 
+Ugly website"
+64,CNN,Great company,2021-09-16,5.0,Analyst,"great management, takes care of employees","bumpy career path, not a lot of guidance"
+65,CNN,Working for CNN...,2021-09-16,3.0,Audio Engineer,"Great co-staff, good people to work with...",Bad upper management have made this CNN location (Los Angeles) the least utilized in the company...
+66,CNN,amazing,2021-09-15,5.0,Journalist/Reporter,"great company, pays very well","none at all, it is perfect"
+67,CNN,Exciting Company,2021-09-14,3.0,Associate Producer,Work with people from across the globe and tell powerful stories,No upward mobility and very little care for young talent
+68,CNN,Review,2021-09-13,4.0,Content Review Analyst,"Nice n welcoming, friendly n good environment",To much hours and sometimes over 50hrs
+69,CNN,"Decent internship, but slow",2021-09-13,3.0,Intern,Good experience with a team of intelligent co-workers,Very slow. Was with Fareed Zakaria GPS.
+70,CNN,It's a job,2021-09-09,3.0,Electronic Graphics Operator,I get paid to put up fonts,It's stressful job and all they care about is the producers
+71,CNN,Amazing Maternity Leave,2021-08-24,5.0,Business Coordinator,16 weeks of maternity leave.,A bit wishy washy on communication for covid return to work.
+72,CNN,Good work environment,2021-08-24,4.0,Bma,"Work environment, not really pressure, good benefits once in a year get free holiday,",If you looking room for growth this company not really provide it
+73,CNN,Interview,2021-08-19,5.0,Operations Engineer,"Very diverse, professional and great location. Set hours and opportunity for growth. Great hours and versatile schedules",There weren't many cons other than no having privacy as far as having an office. It was an open floor type seating. Not even cubicle
+74,CNN,Great Job.,2021-08-11,5.0,Master Control Operator,Amazing company. Top of the line. Hard work pays off.,There is always work to be done.
+75,CNN,Amazing!,2021-08-09,5.0,Researcher,"Staff are friendly, caring, and great to work with. Paid leaves, OT, 13th month, etc. are answered for.",None. I liked working here. Salary is low but media salaries in PH are low in general anyway.
+76,CNN,Cutting tape for live shows,2021-08-09,5.0,Associate Producer,Collaborative environment. Friendly coworkers and extensive time off. Plenty of perks and great health care options. Team building activities and great social environment.,Long hours. Sometimes days would extend past end of shift. Holidays difficult to get off due to the fact that they are not guaranteed. Environment moves very quickly and promotion not always guaranteed.
+77,CNN,just ok,2021-08-05,3.0,Tour Guide,I received really cool free stuff like shirts and food.,It could be a very judgmental workplace and no encouragement to move to WarnerMedia brands outside of CNN.
+78,CNN,A good springboard,2021-08-03,2.0,Anonymous Employee,It’s a strong brand and good to have in your resume.,Low salary but high dependency especially on mid-junior level staff. Poor work life balance and lots of office politics. Little to no opportunity for career advancement in Asia.
+79,CNN,Great,2021-08-03,5.0,Marketing,Great company i definitely enjoy the time there. Will recommend.,"Hours weren’t the best, but overall my experience at the facility was good and will recommend"
+80,CNN,Many opportunities,2021-08-03,3.0,CNN,"Despite the low salary, it is a great company to work for if you absolutely love news. There are many training opportunities that will help build your skillset.","Low pay 
+Very political
+It's difficult to get promoted even if you are qualified
+Most opportunities will go to the colleagues who have worked there much longer than you"
+81,CNN,Great,2021-08-02,5.0,Translator,all the pros you can think of,none of the cons you can think of
+82,CNN,Blah,2021-07-28,1.0,Anchor/Reporter,It’s not salt mining … parking is free,It’s close to being like salt mining
+83,CNN,Liberal crazies,2021-07-28,1.0,Production Assistant,Pay check and nice office,Very judgmental office and I felt scared disagreeing
+84,CNN,Great company to grow in journalism,2021-07-25,4.0,Anonymous Employee,"Works worlwide. Learn and grow a lot, always new opportunities in different sectors. They respect diversity and inclusion, the important journalist ethics..",Some sectors (not all) does not manage a good work life balance and in terms of hours of work
+85,CNN,My review headline,2021-07-22,3.0,Senior Engineering Manager,There were many pros to working here,I dont really have any cons.
+86,CNN,Fast paced job,2021-07-22,5.0,Manager,Great people. Great benefits. Unlimited PTO,"Very fast paced, long hours"
+87,CNN,Trade offs,2021-07-21,3.0,Anonymous Employee,Pay and benefits to an extent,Many people say there are the most internal politics here over anywhere. So bureaucratic. People aren’t friendly. Not a great work/life balance. Hypocritical.
+88,CNN,"work on long term goals, so employees know where it is headed.",2021-07-21,2.0,Anonymous Employee,No pro' to mention unfortunately,"The company needs to work on long term goals, so employees know where it is headed. The communication between the employer and employees also needs to be improved."
+89,CNN,Poor leadership,2021-07-20,1.0,Creative,"Good pension
+Good perks and benefits",Poor leadership and a toxic culture
+90,CNN,it's alright,2021-07-18,3.0,Anonymous Employee,light workload if you're overqualified,no career growth unless you're a favorite
+91,CNN,Work review,2021-07-15,5.0,Sales Invoicing Specialist,Very warm and diverse environment.,"Competitiveness within teams, which sometimes works against being team players"
+92,CNN,Job,2021-07-13,5.0,Media Coordinator,Great company to work for. Great salary and benefits,This has been the only company I've worked for. I love it here.
+93,CNN,Weekend Warriors Welcome,2021-07-12,3.0,Technical Production Manager,"Great benefits including healthcare, dental, 401k Company matches up to 6% of your contribution, discounts on mobile phone, cable, internet, and 6-8 weeks PTO once you've been with the company a certain amount of years.","Poor work/life balance, working weekends even after being with the company for decades, lack of support from management (especially if you're working on the technical side of the company), being traumatized by news coverage and then charged for therapy to recover from it."
+94,CNN,"Great Place, hard to get into",2021-07-05,5.0,Director,"Small team, very flexible, great team spirit.",Limited analytical opportunities -- mostly organizing and emailing.
+95,CNN,None,2021-07-03,5.0,Coordinator,Great working for CNN and good benefits,Can be stressful at times of breaking news
+96,CNN,Robust program and lots of responsibility,2021-06-28,4.0,Intern,"Trusted to write and pitch stories regularly, ideas are genuinely valued and appreciated, always keen on prioritising intern learning","Some teams are really small which can make things stressful, small budget means not always an opportunity to progress in the company"
+97,CNN,Good place to work,2021-06-28,5.0,Senior Producer,"Great benefits
+Good culture to move up the ladder","Long hours 
+Chaotic management shuffles at times"
+98,CNN,student,2021-06-27,4.0,Student Intern,good company love to recommend anyone,nothing to say all good
+99,CNN,It's good. Great benefits,2021-06-25,4.0,Researcher,"Job security, everyone is very nice and very flexible and understanding.",I would like to have gotten more one on one communication with my direct boss. The work also doesn't feel challenging enough at some point.
+100,CNN,Good place to work,2021-06-24,5.0,Producer,"Good resources, vacation days, insurance, etc.",Hard to find development opportunities.
+101,CNN,Great experience,2021-06-24,5.0,Anonymous Employee,Great company to work for.,Some people didn't understand the meaning of 'Business Casual dress code.
+102,CNN,Review,2021-06-18,5.0,Producer,Good company to work for,No cons working for this company.
+103,CNN,Low Pay if You're a Woman,2021-06-15,2.0,Producer,"- Good healthcare and benefits
+- Paid time off","- Male colleagues paid exponentially more
+- Utter lack of creativity 
+- Toxic work environment"
+104,CNN,Great company,2021-06-13,5.0,Production Intern,"-Got to do real-life work
+-Opportunities to get involved
+-Great Networking opportunities
+-Good money compensation","-They don't sponsor international people
+-"
+105,CNN,Lean team that takes care of South-East Asia region client,2021-06-09,2.0,Associate Sales Planner,"Was offered a pretty good salary with decent medical coverage. An array of advertising inventories to craft proposals - their own cable TV channel, online site and social media handle.","Have to work with executives that do not have a sense of urgency, only got informed of certain tasks at the very last minute. Still using outdated sales recording system instead of Salesforce, alongside TV logging system that is user-unfriendly. Bosses like to monitor user status via Slack, creepy much. Also, a platform to dump tasks that should be communicated via email. Conferences start either super early or super late due to the 13-hour difference from the US."
+106,CNN,Most competitive pay in DC,2021-06-07,3.0,Studio Technician,"Time off, good collaborative atmosphere, good direct supervisor, competitive pay","Very little work/life balance, staff was verbally abusive at times"
+107,CNN,A great career if you love to work hard,2021-06-02,4.0,Anonymous Employee,"Brand name, resources, talent, global reach",Hype and bright shiny light focused. Too much opinion vs. straight news
+108,CNN,Fine,2021-06-01,4.0,Journalist/Reporter,Benefits are reasonably good for all.,Staff welfare not a high concern.
+109,CNN,Good Place to start,2021-05-28,3.0,International Correspondent,"International environment, lots of things to learn",salaries for beginners are low
+110,CNN,CNN,2021-05-26,3.0,Manager,The company offers strong benefits.,Long hours and minimal development opportunities
+111,CNN,Great Place to work for,2021-05-26,4.0,Product Manager,"Great culture, Interesting work fast paced",Limited Resources as we were in a remote office
+112,CNN,Great place to work,2021-05-24,4.0,Reporter,"good pay, good working hours, good colleagues","unambitious and bad office location,"
+113,CNN,Probably don't work here unless in ML Ops / Analytics,2021-05-24,2.0,Data Scientist,"- Strong, global brand
+- Possible to move to HBO Max (with work)
+- Good opportunities in BI reporting (branded as data science analytics)
+- Direction of ML ops/Eng is positive","- VP-level is inexperienced and lacks direction and strategy. VPs openly talk about projects being important for them to get their next job at other companies and are looking to leave. Micromanagement is the norm.
+- Pay is average to below-average for difficulty of the work
+- The most valuable work is in analytics (branded data science) but that work is 98% BI reporting with low impact. 
+- Retention among data science is well below 50% YoY"
+114,CNN,Long working hours,2021-05-18,3.0,Account Planner,"as a leading international broadcast firm, you will have the great opportunities to work directly with government, international brand companies on their project, and drive impact in a worldwide scale.","as the organization is still TV heavy, the operation and selling style is remaining `old-school`. especially in Japan office, the long working hours, top-down office atmosphere , tons of manual works are quite stressful."
+115,CNN,good,2021-05-10,4.0,Systems Engineer,good work life balance and lots of time to stuyd,low salary and no career growth
+116,CNN,Has it's perks - but it's kind of creepy,2021-05-03,3.0,Associate Producer,Overtime / Steady pay / they give you a cell phone,Kind of creepy - everyone is dressed as if they want their chance to be on TV
+117,CNN,not that fun,2021-05-03,2.0,Therapist,working with the public and seeing growth,forgot to pay for our health insurance
+118,CNN,Manager,2021-05-02,5.0,Project Manager,Great company and great work,Not much of cons. I wish the pay was higher
+119,CNN,Awesome place to work,2021-04-30,5.0,Director of Infrastructure,"Great leadership team, awesome benefits, fantastic coworker.",None that I can think of.
+120,CNN,Good place to work,2021-04-20,5.0,Producer,Really great collaborative work culture.,It's a fast-paced work environment.
+121,CNN,Overall Great Company & Great People,2021-04-16,5.0,Technical Operation Associate,"many different pros...great company, great people, great benefits!",No cons that I can think of!
+122,CNN,Toxic work environment,2021-04-16,1.0,Senior Associate,"Notable company, good compensation, good benefits","Toxic work environment, active harassment if you don't agree with their political and social agenda. if you don't profusely agree with their views, you likely wont be around for long."
+123,CNN,Great role,2021-04-16,3.0,Technical Director,Great pay and PTO amount,"Hard to get away from work, even with the generous PTO"
+124,CNN,Its okay,2021-04-15,5.0,Marketing,good leaders in the office,low pay throughout the company
+125,CNN,Great time,2021-04-15,5.0,News Intern,Really relaxed work environment for a newsroom,Managers and editors will take a little bit too much syntactic liberty with your writing
+126,CNN,Great place to work,2021-04-12,4.0,Senior Software Engineer,"Flexible, Driven, Mission Oriented, company to work for",a lot of the corporate red tape
+127,CNN,Awesome,2021-04-08,1.0,Assistant Vice President,it got good pay a lot,it be really boring you know
+128,CNN,Researcher,2021-04-07,4.0,Researcher,Great place to work for news,"Deadlines, work life balance, schedules"
+129,CNN,Great Experience,2021-04-01,4.0,Producer,"Competitive, great work atmosphere, location and salary",Work life balance. Prepare to work hard
+130,CNN,CNN,2021-03-30,5.0,Weather Forecaster,Good job for good employees,Bad job for bad employees
+131,CNN,It sucked,2021-03-28,3.0,Counsel,At least some people were trying to make real news.,"Way too much pressure ""both sides"" it all."
+132,CNN,Great,2021-03-20,5.0,Website Editor,"Loved it, very supportive, and lots of creative opportunities","Lots of hours, but that is what I expected. Totally worth it."
+133,CNN,Odd work hours,2021-03-19,3.0,Assignment Editor,"High job variations, from technical, editorial, and social areas",Odd working hours because of time difference with the HQ office
+134,CNN,CNN,2021-03-16,4.0,Video Editor/Producer,"Great people, they are the strengh of the company .",Can't really think of any downsides.
+135,CNN,Overall pretty good place to work,2021-03-14,4.0,Mobile Engineer,"- Best compensation and PTOs
+- Flexible hours",- Very much process driven
+136,CNN,Great place to work,2021-03-11,4.0,Editorial Producer,"Friendly colleagues, great PTO, good money","Long hours, lack of diversity in upper management, not a lot of opportunities for growth"
+137,CNN,Ya boy,2021-03-10,3.0,Chief Executive Officer King Cobra,"poetry, canned tuna, concubines, donkey races",digging coal in the hot sun
+138,CNN,Great place to learn,2021-03-04,4.0,Associate Producer,Nice coworkers and opportunities to learn and contribute,Not sure how I will move up in the company
+139,CNN,Great place to work,2021-03-02,4.0,Reporter,"Manager was supportive, journalistic ethics were strong","There are politics just like everywhere else, diversity was not big when I was there"
+140,CNN,Good to learn about journalistic!,2021-03-01,3.0,Correspondent,A good place to learn about media,Blurred career path so it is hard to get promotted
+141,CNN,CNN Washington,2021-02-26,4.0,Producer II,"Great culture, good pay, good benefits",Bureaucratic processes for doing things.
+142,CNN,"Pretty decent place to work, very old fashioned",2021-02-23,4.0,Anonymous Employee,"Great benefits, annual raises and bonuses. 
+Lots of freedom to work on stories you'd like to pursue.
+Everyone is smart and friendly.
+No jerks.
+Managers really listen to you and treat you as someone they want to grow and foster.","No way to get special projects approved from early on, high value placed on seniority and years of service.
+Lots of bureaucracy and red tape.
+Pay is low for the work that is done, especially when you're hired into a position lower than the one you qualify for."
+143,CNN,Great,2021-02-23,2.0,Project Manager,"Pay, PTO,benefits love it there",No moral support but it’s ok I guess
+144,CNN,Good Experience,2021-02-22,4.0,Production Assistant,"-A lot of PTO
+-Helpful team",-Hard to move up in company
+145,CNN,"Great people, difficult post-layoffs",2021-02-22,4.0,Software Engineer,Everyone was passionate and hardworking,Mass layoffs caused sharp decline in morale and productivity
+146,CNN,Stifling,2021-02-20,1.0,Associate Editor,Pay is above average for the area.,Groupthink is rampant. There is no tolerance for anything less than the most extremely liberal viewpoint.
+147,CNN,Media Coordinator,2021-02-17,4.0,Media Coordinator,"The benefits are pretty great, especially the healthcare packages. It's not a bad company to work for at all, especially if you're looking for a place to grow within journalism. If you're entry level, this role is a great starting point because you interact with so many different groups and you'll learn the basics of news operations, news gathering and some editorial through shadowing/observations.","It's journalism so it's very competitive to get promoted. CNN doesn't necessarily backfill, so hiring from within isn't really a given. They actively recruit outside the organization, so when roles open up it's not like being an internal candidate is some kind of competitive advantage other than you being familiar with the company and it's business applications."
+148,CNN,Positive Experience,2021-02-17,4.0,Account Service Representative,Certain teams have great management and comradely,"Competitive, dog eat dog atmosphere"
+149,CNN,Great company,2021-02-16,5.0,Associate Priducer,Great benefits and leadership at CNN,Working holidays and long hours were challenging.
+150,CNN,"Great benefits, but work can get toxic",2021-02-15,3.0,Producer,"Good mentorship, great benefits, okay salary for the industry","Some staff are pushed to work for long hours, path to progression is murky"
+151,CNN,"Interesting work, but must follow trending",2021-02-13,3.0,Journalist/Reporter,"built-in audience, opportunity to report on interesting stories, great benefits and salary","you're beholden to reporting on what's trending/popular, very political focused even if that's not your beat"
+152,CNN,Average,2021-02-10,3.0,Staff Reporter,Godd bad were they gi,Type) the same to the sponge
+153,CNN,It's not the worst place to work but definitely not the best,2021-02-09,3.0,Video Editor/Producer,You get a generous PTO bank,Lack of diversity in leadership roles.
+154,CNN,Interesting,2021-02-08,3.0,Reporter,Some dedicated folks are still there who you can learn from.,It was focused more on infotainment than actual journalism.
+155,CNN,"Lack of leadership, honesty and accountability.",2021-02-08,2.0,Technical Manager,"- Benefits
+- Working with latest technologies","- A lot of talk but actions contradict. Talk about leadership, talk about culture, talk about being the best but they fall short on all of the above.
+- Management positions are filled but little to no leadership in those seats.
+- A lot of facades
+- Promote life/work balance but your life has to be your work."
+156,CNN,"Best place to settle, regardless of race, gender, religion, etc.",2021-02-05,5.0,Business Operations,"Friendly environment, almosy equality treatment for any race, gender, and religion.","Low salary, for some positions there are no career opportunity."
+157,CNN,Great attention to employee advancement.,2021-02-04,5.0,Tour Guide,CNN has a great team of incredibly friendly and amazing people. Amazing benefits for any position. Company does a great job at training and trying to advance employee's careers.,AT&T buyout has caused the culture to become more corporate.
+158,CNN,Amazing team and work culture,2021-02-03,4.0,Business Coordinator,"Very supportive team, everyone has each other's backs. Lots of opportunities for overtime. Admins are very valued and respected at CNN.","Very busy. Not easy to move around at big company, but it is possible and BA managers are VERY supportive about growth, movement and other interests within the company. Not many Cons."
+159,CNN,Good company,2021-02-02,3.0,Growth Manager,Good environment and good team,Quite busy and sometimes you can not go home earier.
+160,CNN,Working at CNN,2021-01-25,5.0,Production Assistant,"Great company benefits/perks
+Positive work environement
+Room for an opportunity.","Difficulty getting time off.
+Easy to get stuck in a position."
+161,CNN,Great professional home,2021-01-23,4.0,Associate Producer,"Super professional, great colleagues and overall amazing resources",Not much flexibility in moving between departments
+162,CNN,F dis place,2021-01-20,1.0,Anonymous Employee,N/A. Find work elsewhere. I suggest FOX.,Constantly fed lies and forced to regurgitate them to the public
+163,CNN,Good company,2021-01-20,4.0,Legal Assistant,Great benefits and great pay,Needs to be updated old school
+164,CNN,great benefits but low salary,2021-01-20,4.0,International Desk Assignment Editor,its mission driven and a feel good job,not many resources for reporting - top heavy structure
+165,CNN,Great place to work,2021-01-19,5.0,Writer/Producer,"Generous benefits, plenty of room for career progression.",No real negatives to be honest!
+166,CNN,Great Company,2021-01-19,5.0,Journalist,Very professional and great team environment,No cons come to mind
+167,CNN,??,2021-01-18,4.0,Producer,"Great benefits and PTO, fun co workers, upward mobility",Schedule can be brutal as is the norm in this business
+168,CNN,Atron,2021-01-17,4.0,Sales Coordinator,Good work ethic and work environment,Limited work progress and small company
+169,CNN,Great place to work,2021-01-17,5.0,Video Editor,"Great place to work, good culture",Have to push for creativity
+170,CNN,it's a no for me dawg,2021-01-14,2.0,Tour Guide,other than saying you worked at CNN...nothing,"worked like a dog, shady and selfish managers, diseases spread in old tiny hallways, hour long tours full of racist and rude customers, lot of unorganized loud school field trips (do not get paid enough!) back to back tours, perverted security officers go on tours with you (officers need a mental evaluation before going on these tours), BROKEN elevators, not respected by upper level employees in company when you guide tours by them, huge disconnect in communication between security and tour managers, unprofessional back office for tour guides, no help in moving on to better positions although advertised as so in hiring. complete mess of a 'department'"
+171,CNN,"Great benefits, exciting jobs",2021-01-11,4.0,TV Producer,"Great benefits, pay and time off. Good at internal growth and promotions",Can be tough hours and scheduling but you know that going in.
+172,CNN,Great,2021-01-06,5.0,Producer,Great excellent environment to work in,Busy work Great excellent environment to work in
+173,CNN,Powerful Mainstream Media,2020-12-27,4.0,Writer & News Producer,"Independent, well-known, powerful, well-being media","low salary, not many bonuses"
+174,CNN,"Great staff, poor management",2020-12-14,3.0,Producer,"People, Experience, working in the news","Appalling management, all journalists who've crept up the ladder and not professional Managers. For an organisation that's about diversity and global storytelling it's almost farcical how many white people they have on air."
+175,CNN,"Great benefits, exciting environment to work at",2020-12-11,5.0,Researcher,"working with some of the best and brightest people in the industry, hands-on work especially during big news events, competitive salary and many opportunities to move up","Difficult to unplug at times, work/life balance could be much better. Relative to the amount of hours and work done every week, pay could be better."
+176,CNN,Unique experience yet very challenging,2020-12-10,3.0,Anonymous Employee,It’s a very good global operation,"The nature of the content we handle is very violent 
+HR is outdated"
+177,CNN,Wonderful Coworkers...and that's about it.,2020-12-09,3.0,Ad Sales Assistant,It was wonderful and fun to be able to work with colleagues in Europe and the US. Onboard training was well thought out and insightful.,"I made barely minimum wage for a stressful and demanding job. There was no room for growth within the organization, management was not interested in acknowledging or rewarding value added by dedicated employees. Lack of support from upper mgmt was very demoralizing."
+178,CNN,Great!,2020-12-07,5.0,Producer,Lots of good benefits and helpful programs.,I don't have any substantial cons.
+179,CNN,About as expected,2020-12-07,3.0,Radiologist,doing work I feel good about,long hours and increasing responsibilities
+180,CNN,The world’s news leader,2020-12-05,5.0,Correspondent,Breaking news and political coverage is unparalleled globally. CNN is unafraid to spend big money to cover big stories that matter. Compassionate & supportive management team. Fact checking & is thorough and precise.,"As a correspondent, getting on the air can be a challenge if you are not covering US politics or major breaking news. This is the case at all the top networks. Strong storytelling always rises to the top, however."
+181,CNN,Receptionist,2020-12-05,5.0,Receptionist,Th e best news network to work for,No disadvantage in this company
+182,CNN,Great Place to Work,2020-12-04,4.0,Social Media Marketing Manager,Fun People to work with,Low salaries and poor benefits
+183,CNN,Love nature,2020-12-03,5.0,Director of Advancement,They have a great mission,It is so very small
+184,CNN,Great job,2020-12-01,4.0,Anonymous Employee,"Fun, exciting, hard. Semi-well paid.",None that I can think of.
+185,CNN,Good place to learn news industry,2020-11-23,3.0,Software Engineer,"Slow paced environment, you can easily done your task","Career path is not clear. You work hard, yet you cant easily step up your career."
+186,CNN,Cnn,2020-11-20,4.0,DOS,"Fast, topical, interesting, global focus",24/7 news doesn’t stop so weekends/ evenings sometimes
+187,CNN,admin,2020-11-19,5.0,Anonymous Employee,great people and benefits and things,none tjat I can think of
+188,CNN,Prodercer,2020-11-17,4.0,Producer/Photographer/Videogrpaher,"Fun, benefits, pay was decent",No Cons that I have had
+189,CNN,CNN,2020-11-12,5.0,Senior Director Sales,great company reputation great brand,"slow adapting to change , too slow at making decisions"
+190,CNN,Yes,2020-11-07,1.0,Sales Advisor,None its not a fun place to work,Liberal and bias to all
+191,CNN,Working at CNN,2020-10-28,5.0,Production Assistant,"Great place to work, & a lot of room to grow within the company.",There are pretty much no cons. It’s a great company and they treat their employees well.
+192,CNN,Good place to work,2020-10-25,5.0,Internship,Learned a lot about the tv news industry and got to watch leaders in the field work,Not a lot of assignments for the interns
+193,CNN,Excellent company and benefits,2020-10-22,5.0,Editor,You'll get hands-on news experience across a variety of topics in a fast-paced environment.,"Schedules can be difficult to deal with, though luckily, the shifts do get spread around."
+194,CNN,Wow,2020-10-20,3.0,WOW Counselor,Multifunctional dramatically passionate people in the business,Superb I must admit it was really good
+195,CNN,Great Place to Work!,2020-10-16,5.0,User Experience Developer,"Great team, company, and benefits!",No cons to comment on.
+196,CNN,It's okay,2020-10-12,4.0,Journalist,"Lenient management, relatively okay news room protocols. Everyone is civilized compared to other newsrooms in Manila.","Underpaid, overworked -- like most media jobs."
+197,CNN,Is it over yet?,2020-10-07,1.0,Lair of the Bear Staff,its over and I lived.,The daily beating and lack of food.
+198,CNN,Great company to work for,2020-10-05,5.0,Product Manager,"Great benefits, work-life balance, and rapidly-changing",Constantly restructuring and frequent layoffs
+199,CNN,awesome,2020-10-04,5.0,Senior Manager,Awesome place to work in,None to mention over here
+200,CNN,Great Place,2020-10-04,5.0,Vice President,Great place to work at,None Problems at all ever
+201,CNN,CNN Review,2020-10-02,4.0,Producer,Leading international news network. Best network for breaking news.,New AT&T ownership focuses more on ratings than news
+202,CNN,Crushed it,2020-09-18,5.0,Intern,They crush it always and siempre,They also don’t crush it at times
+203,CNN,"Can be stagnant, very siloed",2020-09-17,3.0,Show Producer,"Good benefits, strong HR department","Terrible hours if you work in news, can be very siloed and difficult to get things done. Technical processes need improvement."
+204,CNN,Hard work,2020-09-16,4.0,Associate Producer,Great benefits and time off,Tough schedules and shift changes
+205,CNN,Great opportunity to learn learn learn,2020-09-15,4.0,Anonymous Employee,Good place to learn a little bit of everything about news from control room to booking guests to digital newsgathering.,"Biggest cons would be concern about layoffs/moving out of ATL office and working holidays. IMO, tough to switch departments at a promotion level too."
+206,CNN,Intern,2020-09-03,4.0,Intern,"Good company, and nice people",Do not provide sponsorship for international people
+207,CNN,Great place to work,2020-08-30,3.0,Assistant Manager,Money is good and bennies are awesome.,Some people can be mean and not understanding .
+208,CNN,Interesting experience,2020-08-27,3.0,Regional Sales Director,"being close to key decisions-makers & brands with a strategic lookout to their needs/ access to amazing journalists, content producers / salary in management positions competitive/ flexibility in home office","lack of management vision / lack of trainings/ deficiency in the tools to work with/ reactive to market trends vs proactive / extremely ""political"" company/ buyout by ATT doesn't bring much for now / very high pacing, not necessarily due to the business but also to the industry"
+209,CNN,Brand Strategist,2020-08-13,4.0,Brand Strategist,Exposure to international editorial news production,Focused on key accounts as main driver of growth
+210,CNN,Toxic Environment,2020-08-11,3.0,Producer,"- great experience
+- working with some of the smartest people in news","- toxic work environment
+- some colleagues are anti-social narcissists
+- hr is a joke"
+211,CNN,Great Learning Experience,2020-08-11,4.0,Production Assistant,"You learn a lot.
+You get to help out with special events.","Very stressful. 
+Depending on which show you work on, you may not get much writing experience."
+212,CNN,"Times are changing, not the place it used to be!",2020-08-07,3.0,Anonymous Employee,"Work with nice people, work on cool stuff, good benefits","With the AT&T merger it is a different company, many layoffs and just ""managing people out"".   You can see a ""Youth Movement"" as well with young, sharp talent."
+213,CNN,Amazing Opportunities,2020-07-29,5.0,Producer,"Easy to grow, learn, and gain new experiences",You can't unplug if you are dedicated
+214,CNN,Alright,2020-07-27,3.0,Janitor,"Got to clean things, not bad.",Too many things to clean sometime
+215,CNN,Fantastic Company,2020-07-20,5.0,Senior Director,"Great people, amazing challenges to work on",Compensation at times under market
+216,CNN,Great for internships,2020-06-04,5.0,Intern,"Great on resume, good connections",Not every staff member liked having interns around
+217,CNN,It's okay.,2020-05-26,5.0,News Researcher,"There are a lot, actually! Good people.",A lot of cons are in place.
+218,CNN,Hypocritical culture,2020-05-21,1.0,Senior Project Manager,Diverse teams and friendly coworkers,"Support for those discriminated against who speak up is non-existent and which goes against what the company claims to represent. After losing a prior contract due to workplace bullying and discrimination by a former VP, I started at CNN thinking I would be at less risk of this type of behaviour due to the fact I had previously worked for parent company, Turner, who had a strong policy on allowing people to speak up. After my managers becoming aware of my case within 1 week I was relentlessly bullied by my boss to attempt to undermine my abilities, and within 3 weeks was fired for 'not having the right characteristics'."
+219,CNN,Good company culture and cross function efficiency,2020-05-19,4.0,Sales Planner,"Professional colleagues, efficient team structure",less growth opportunity if it is a small and stable team
+220,CNN,Know what you're in for,2020-05-13,2.0,Senior Producer,"It's CNN and there is no other organization like it
+Benefits are amazing","Its a 24/7 news channel so be expecting to work 24/7
+News is depressing"
+221,CNN,Looks great on your resume and can be an awesome opportunity for creatives.,2020-05-07,3.0,Senior Executive Assistant,"Casual attire, informal atmosphere, creative colleagues, campus vibe. Can periodically work remotely if you have that relationship with your direct manager. Some managers are genuinely invested in your future and will help you succeed.","EA base salaries are decent, but on they keep you on the low end unless you are a true negotiator and refuse to accept what's offered. Highly underpaid for workload supporting C-suite level executive's and amount of personal assistant responsibilities expected. 10-12 hour days and accessible at home after hours. Low bonus pay even when you've met or surpassed goals and done all their personal bidding. There should be special compensation for that alone other than O.T."
+222,CNN,I'm only doing this because I can't submit a salary without doing a review,2020-05-07,4.0,Software Engineer,Good place to work at,Sometimes can be annoying to work at
+223,CNN,Good experience,2020-05-06,5.0,Production Assistant,"Great work environment, beautiful building, rewarding work","Hard place to grow, upper management is not great"
+224,CNN,Business  Coordinator,2020-05-06,4.0,Senior Business Coordinator,"Good Benefits, Flexible Working hours",24/7 - Long working hours
+225,CNN,"Good company culture, pay is too low",2020-04-28,3.0,Anonymous Employee,"Great company and team culture, friendly colleagues overall",The pay is really just below market rate
+226,CNN,Hard to beat,2020-04-19,4.0,Regional Operations Manager,"Flexible Hours, Diverse Teams, Career Progression, Unbeatable Brand, Cares about Employees","Huge global company, which sometimes makes it difficult to make changes that would benefit the company. Salaries are good, but slightly lower than the average"
+227,CNN,Pretty good,2020-04-05,4.0,Reporter,"Positive work environment, room for moving up the ladder",Pay and benefits could be better
+228,CNN,Great company,2020-03-16,4.0,Master Control Operator,"Lots of vacation, good pay, good benefits","Toxic culture, micromanaging, zero work life balance, HR is a joke, management fails upwards"
+229,CNN,"Really Good Place, strong values, challenging work",2020-03-13,5.0,Senior Editor,"Solid vision, challenging work, highly productive - always a sense of accomplishment.  Among the best pay in the industry.",The schedules are very brutal.
+230,CNN,Smart,2020-03-09,5.0,Business Operations Manager,Some of the best and brightest people I have ever worked with,Sometimes can be resistant to change
+231,CNN,Good Company,2020-03-08,3.0,Anonymous Employee,Healthcare is outstanding and good.  They also offer lunch for employees.,Long hours and a lot of work.  They also allow you to take a break sometimes.
+232,CNN,Amazing company CNN Chile,2020-03-03,5.0,Journalist,"Good opportunities
+You can get a variety of experience","no cons
+maybe better salary"
+233,CNN,Stress factory,2020-02-23,1.0,Anonymous Employee,Salary and benefits are decent.,New backstabbing management since AT&T takeover.
+234,CNN,nice place to work,2020-02-14,5.0,Media Coordinator,"nice place to work, exciting job, lovely collegues","high pressure newsroom, work life balance is often difficult"
+235,CNN,It has its pluses and minuses,2020-01-28,3.0,Supervising Producer,Good Salary and benefits. There are times that it is extremely interesting work.,"Can be long hours, and all consuming concerning your personal life."
+236,CNN,Great,2020-01-24,5.0,Tour Guide,good for improving your career.,salary is not as much as you expected.
+237,CNN,Great place to work,2020-01-22,5.0,Transcription,"Flexible schedule, plus you get to work from home",Unfortunately went out of business
+238,CNN,Dynamic and exciting work- poor senior management,2020-01-21,3.0,Senior Editor,Fast paced environment which rewards the intellectually curious,Excessive stress and opaque decision making by senior management at CNNI.
+239,CNN,It's good,2020-01-12,4.0,Commercial Loan Review Officer,The benefits are good for employees,I have no complaints about CNN.
+240,CNN,Good Company,2019-12-14,2.0,Data Analyst,"Good team environment, very nice colleagues",workload is high and pay is low
+241,CNN,Not much to say,2019-12-02,3.0,Anonymous Employee,Good office mates and boss,Promotion and salary takes very long
+242,CNN,Senior Technical Consultant,2019-11-25,4.0,Anonymous Employee,Great benefits and great team working,Less investment on people's upskilling trainings.
+243,CNN,Great paid time off,2019-11-25,4.0,Producer,paid time off. plus 2 days paid off to volunteer.,sometimes to busy to take all the leave.
+244,CNN,Big Name that Underpays,2019-11-18,2.0,Specialist,"You can stay for 1-2 years for the name on your resume, if you think you'll need it. It's good when you're fresh in the field, but if you're not, choose a job that gives you better learning experience (see my Cons). If you're looking for a stable place without too much changes, this could be it too.  Medical benefits and holidays are also good.","It's a cog job that I was working in. They don't listen to the front line staff like us in terms of feedback on improving our work (they'd make a lot of corporate gestures  but they're all just show). Middle managements are just passing on commands and decisions that don't usually make sense to us. It's a problem with most large and global companies. They merit those who blindly follows, which suit some people. But if you tend to have an entrepreneurial mindset then you'd be more fulfilled and productive elsewhere. It also underpays so much, not just in my department. I had to check with my work agent for how much more I had to ask for now that I'm out."
+245,CNN,Exciting but demanding,2019-10-18,4.0,Producer,"Interesting and varied work
+Competitive vacation time and benefits",Work/Life balance is a struggle
+246,CNN,They take care of you financially and benefits wise,2019-09-30,5.0,Research Analyst,"money, work life balance, beautiful facility close to the train",there aren't many good places to eat nearby
+247,CNN,Exciting work,2019-09-18,4.0,Associate Producer,The work is exciting and fulfilling.,Extremely competitive and lack of growth opportunities.
+248,CNN,Provides a passionate career,2019-09-17,5.0,Assignment Editor,Great company to work for.,"Salary is not the greatest, but adequate."
+249,CNN,Great People If You Are In The Right Place,2019-09-09,4.0,Tech Support,"A great name to work for.  For the most part, great people working alongside you.  Opportunities within the company if you want them.  A good feeling of achievement day to day, whether supporting the machine daily or building a modern state of the art facility.  Engineering management team were excellent",Some Operations teams have chronic management problems.  More concerned about image than substance.  Senior management are more disconnected from day to day than you would expect.  Ideas from them sometimes don't jive with reality.
+250,CNN,Fast paced work environment,2019-09-04,4.0,Product Operations Manager,"- You're always learning new technologies, procedures and systems.","- I've been the victim of down-sizing numerous times, so I'm wary of working there due to mergers and acquisitions."
+251,CNN,Good place to work,2019-09-04,4.0,Writer,"National news  shop, good people, great place to live-Atlanta","Lower-end pay, could work overnights, weekends"
+252,CNN,Great entry level job!,2019-08-14,4.0,Production Assistant,"Helpful co-workers ""above"" your title, flexible, development days, lots of PTO!",Difficult to move up!
+253,CNN,Opportunity,2019-08-10,3.0,Electronic Graphics Operator,"Consistent pay, opportunity to pursue other positions within company, plenty of PTO days, good 401k packages and healthcare, beautiful workplace, latest technology available","very clickish with every team, a lot of stress and pressure to perform without error, job security is often insecure with show cancellations or layoffs, constantly understaffed-thus one person does three people's jobs."
+254,CNN,Great work/life balance,2019-07-22,3.0,Designer,"Coworkers, hours, compensation, PTO, 401K",Dated technology makes for daily frustrations
+255,CNN,Great company,2019-07-19,5.0,Product Manager,"Great management, easy to talk to and encourage your ideas.",None that I can think of for a large corporation.
+256,CNN,Good job,2019-07-18,4.0,Audience Development Manager,Inspired and motivated team that did great work,A bit of disarray around the organization
+257,CNN,Rewarding,2019-07-12,5.0,Associate Producer,"Great benefits 
+Great people
+Opportunities to work and shadow other departments","Mediocre pay 
+No company parties or galas  —would like to network with others"
+258,CNN,Not much growth,2019-07-06,3.0,Anonymous Employee,It’s really challenging and exciting for journalists looking for a break.,"Long hours, low compensation, limited benefits, and increases not regular"
+259,CNN,News Producer,2019-07-06,5.0,Anonymous Employee,Great place to learn about the broadcast industry.,"Lack of long term planning, specifically at CNN Indonesia"
+260,CNN,OK for junior employee,2019-07-01,3.0,Writer,"Interesting topics, good comraderie with peers, great location","Fast deadlines, sometimes mistakes made by management"
+261,CNN,Great Environment But It Can Be A Grind,2019-06-21,4.0,Video Editor,"The people who work there are for the most part very nice. Management cares about you. If you show you have the skills, it is a steady gig (that's more for freelancers). The work environment as a whole is very welcoming. Salary is good and benefits are great.","It is a 24 hr news network, even with other documentary and special programming, so long and weird hours do occur.  You can be easily pegged for a show/schedule that is rough for work/life balance, and it might take a while for management to be able to change that."
+262,CNN,OK,2019-06-17,3.0,News Reporter,"Good atmosphere,  wonrable  people who are not in use for business but perfusion",Good wages and allowances
+263,CNN,Progressive but neglecting  achievements & a potential for growth of lower managment,2019-06-08,4.0,Digital,Relaxed and a professional environment offering opportunities to improve/perfect your skills within a designated role.,The company seems to be focused solely on targets forgetting the need to motivate and appreciate the contributions of all levels of employees.
+264,CNN,Enjoyable,2019-06-06,4.0,Anonymous Employee,"Great benefits, good managers, overall positive","Schedule can get weird, but overall positive"
+265,CNN,Electrician,2019-05-15,5.0,Electronics Test Technician,"Positive Environment, Always took care of employees needs.  Great training environment providing school and growth to be better at the job you perform","Shift management can be done better, needs to give personnel more insight on limitations on what needs to be done, when there are problems ensure the violators are the ones who suffer the consequences, not the ones that are hard charging."
+266,CNN,Awesome job for someone looking to break into the broadcast world,2019-05-15,5.0,Anonymous Employee,"Career development available in this position, fast-paced, exciting role",I don’t have any negatives about this company.
+267,CNN,Journalism at its finest,2019-05-15,4.0,Anonymous Employee,"CNN is always working to be the best. They also take very good care of their employees as far as pay, benefits, employee appreciation, etc. Overall, it is a great place to work.","If you do not work on the money making side of the house (i.e. newsgathering, show teams, etc.), it can be harder to be noticed and/or rewarded for hard work."
+268,CNN,Great place to work and learn,2019-05-15,5.0,Marketing Communications Manager,"* Collaborative cross cultural work space
+* Tremendous learning","None as such, its a great place to work and learn"
+269,CNN,so so,2019-05-12,3.0,Assignment Editor,best for those who seeks comfort zone,sometimes it's too much nepotism
+270,CNN,Perfect for the right person,2019-05-03,3.0,Writer/Producer,"-Name recognition on resume. You’re working somewhere reputable (great for internships all the way to long term employment)
+-You’re right in the middle of news and will be in the know when it comes to local and global affairs. Feels good to be informed & know that your work is being utilized, rather than being bogged down with busy work all day.","-Association with politicization of company
+-If you work in the newsroom, you can work at any time, which to be expected but sometimes you misjudge the toll that shift work can have on you. Imagine switching from 7am-3pm to 7pm-3am. 
+-Too few flexible work arrangements for employees whose job permits remote work"
+271,CNN,Great Company,2019-05-03,5.0,News Assistant,"Really good benefits, and a competitive work environment that is constantly changing.",Highly political in terms of promotions
+272,CNN,Great Internship,2019-04-29,5.0,Anonymous Employee,"Learned a lot, got to do a lot of cool things","Can be a grueling amount of work, especially during election season"
+273,CNN,"Good company, good people",2019-04-29,4.0,Senior Business Coordinator,Benefits were solid.  Management was good.  Generally good folks all around.  Really smart people.,"I can't think of a con.  It's not a perfect place, but it's a fun stop on your career path."
+274,CNN,Supportive Workplace,2019-04-27,4.0,Business Coordinator,"Supportive, collaborative team
+Great benefits and perks
+Lots of learning to be done
+Decent work-life balance depending on your role","Change management is weak
+Decision-making seems to paralyze leadership which often affects people lower on the totem pole"
+275,CNN,"Great place to develop, grow and expand your skills.",2019-04-18,4.0,Head Writer,"There's nothing like a daily, live broadcast environment to train you to think and write on your feet.  I have seen talented colleagues rise through the ranks, and hard work is appreciated.","Working in the news doesn't always allow for much creative freedom, and the pace can be a grind...but that's the gig."
+276,CNN,Professional atmosphere,2019-04-11,4.0,Producer,Very professional atmosphere at the company.,work/life balance wasn't always in the cards.
+277,CNN,"Great Concepts, Bad Boss",2019-04-09,2.0,Specialist,"Free parking, amazing talent and knowledgeable colleagues, opportunities to learn and put into practice important industry skills. Teaches you to have a tough exterior in the face of challenges (both with people and scenarios), the company “tries.” 
+
+Best part is working with global leaders and experts like Wolf Blitzer, Christiane Amanpour, all CNN International and incredible shows like Parts Unknown, Anderson Cooper 360 and financial programs with Richard Quest. The programming for CNNI, TBS and special projects is award winning for a reason!","Far too much instability - very difficult to tell if we were being dismissed or laid off from day to day. Every day felt like a mystery regarding our employment status. 
+
+My director was the only reason I was terribly uncomfortable and kept looking for another department to go to. She didn’t have the same senior skills needed to be successful and a leader in our division. She was difficult with which to work due to her anger management issues and many people agreed. It took them years to get the courage to speak to  her about it and finally let her go. She would leave early every day to get hair cuts or work from home yet she was very inaccessible during afternoon working hours and would get angry if you called her to ask about things pertaining to work. Work from home was not an option for me during my ten years so I stayed on site upwards of 10+ hours a day as our group had a lot of work and there were only a few of us to manage it...and that took a serious toll on my weight and health.
+
+I came in at 26,000 USD so it cost me more to work there than I was getting in return. It was a labor of love for 10 years because I wasn’t paid enough to purchase  a home or pay off my student loans. I still have the same student debt that I entered the company with in early 2004. It’s not a place to make a living if you’re just out of college, it’s an extension of your studies and so you really can’t stay and make an industry impact or survive on such low wages even if you double major in relevant fields and previous experience.
+
+Working through hunger, sleeping overnight during storms and blizzards was challenging. Lots of egos to overlook. It was so bad to the point some senior management that I supported would pretend not to see me if I waved at them in the hall/courtesy hellos but would email me privately to say thanks for the hard work, etc. that same day. I don’t know what that was about. I dressed up everyday so, not sure why they seemed ashamed of the association. 
+
+It can feel like a very disrespectful environment at times but I loved my work so I stayed until drastic change took place that made it impossible to remain. I should have left sooner but I had a lot of hope. I ran out of hope and I was tired of going hungry and lack of job stability so I didn’t stay."
+278,CNN,"Great people, good benefits",2019-04-08,5.0,Producer,"Generous vacation time, good bunch of people.","No cafeteria, odd hours, work holidays"
+279,CNN,Great learning opportunity,2019-04-02,3.0,Reporter,"Great learning opportunity, Great mentoring from leaders","Low pay, Not enough training"
+280,CNN,Decent,2019-03-29,5.0,Anonymous Employee,CNN still has high editorial standards.,The pay is pretty low compared to other industries.
+281,CNN,Sales Planner,2019-03-21,4.0,Anonymous Employee,Good company reputation as a new company,Company culture not good
+282,CNN,Good company,2019-03-14,5.0,Writer,Plenty opportunity for upward mobility. Crazy hours typical of journalism if you arent on the coorporate side. Really good benefits and paid time off,24/7 365 work requirement for many ofnthe positions.
+283,CNN,Great company and coworkers,2019-03-12,4.0,Senior Producer,Work alongside the best in the business,Expect long and unpredictable hours
+284,CNN,"Great company, great benefits!",2019-02-25,5.0,Associate Producer,"For a 24/7 news network, CNN tries to make the industry more bearable with good amounts of paid time off, and great benefits.",Sometimes theres a lack of transparency with promotions.
+285,CNN,Great environment,2019-02-23,5.0,Anonymous Employee,many opportunities for growth and development,movement in development made for interesting experience
+286,CNN,Good and Bad,2019-02-20,3.0,Anonymous Employee,"Very smart, dedicated coworkers.
+Excellent benefits, great PTO from day 1.
+Great office location, easily accessible from anywhere in the city.","Growing pains because of evolution of the traditional news business; they’ve got a smart team but are not keen to let them innovate.  Many experienced and talented people have left in the past 2 years because of the clicqueyness and favoritism of middle managers. Promotions are handed out in the same manner, so some who have been with the company a long time but can’t manage themselves out of a paper bag are now people managers and it has spurred along the higher turnover rates. 
+HR managers are lackadaisical and unprofessional; that’s probably what chases away the external hires, because only the lifers are sticking around at this point."
+287,CNN,Opportunity,2019-02-14,5.0,Anonymous Employee,They tend to hire within the company,There can be a high turnover on jobs
+288,CNN,"Great peers, poor management",2019-02-09,3.0,Anonymous Employee,"You will work with people who will become like family, the company has great name recognition, and you will create news you can be proud of. CNN domestic is well-run.","CNN International is poorly run by people with no management experience. They promote based on favoritism and nepotism, not merit or quality.  Tony Maddox is running CNN International like a mobster, creating high turnover and unmotivated employees."
+289,CNN,50/50,2019-01-29,3.0,Content Producer,"Great benefits, amazing amount of PTO","Little room for advancement, little to no work-life balance"
+290,CNN,Great place to learn and grow,2019-01-24,5.0,,"- People are incredible, hardworking
+- Learn how to work at a fast, accurate pace
+- A lot of opportunities in various departments",- Can be competitive and hard to turn off from the day
+291,CNN,Smart people,2019-01-24,4.0,Anonymous Employee,"You work alongside talented and smart people.
+Great benefits - commuter, health, etc.",work-life balance could use improvement
+292,CNN,CNN Turk -,2019-01-17,5.0,World News,"Friendly environment, prestigious, good for career","stressfull place with less salary, shift work"
+293,CNN,Producer,2019-01-07,4.0,Anonymous Employee,"Great people, benefits, and company as a whole",Not a lot of work/life balance
+294,CNN,BEWARE - Your experience may vary,2019-01-02,3.0,Anonymous Employee,"The pay was very good, the PTO & benes amazing, facilities excellent, security on par with most police departments","I've been a newsroom manager for many years, but wasn't in my position at CNN. There are some AMAZING colleagues, and some managers I wouldn't hire to be an intern. 
+
+Managers are OFTEN promoted from very limited career experiences (sometimes solely at CNN), and it shows. These managers who've never worked at another news organization, are often petty, weak leaders, sometimes even after being sent to Poynter's Leadership Academy or other leadership training.
+
+Rather than look at each employee's strengths and weaknesses, management behavior largely depends on current mood, and whether the direct report is in a particular clique. I've seen MANY quality people pushed out because of a personality conflict between themselves and a direct report, when a good manager would work to resolve the issue and regain the quality work from that employee.
+
+I saw colleagues who were treated horribly for the most ridiculous reasons, often outside their control. I also saw managers give direction to all direct reports, then give opposing direction to someone whose life they simply want to make more difficult, or even to push a particular person to resign.
+
+I walked out that door with a promise...to NEVER subject myself to such an unhealthy environment again. You may end up with a good manager, but they are few in that newsroom.
+
+Don't make the mistake of thinking you can leave stressors at the door of the CNN newsroom . Work life at CNN will ABSOLUTELY bleed over into your personal life. That's an unfortunate promise I'm now qualified to make."
+295,CNN,No. Don't.,2018-12-29,2.0,Anonymous Employee,"Pay is good if you stay for long enough. Benefits are good.  The amount of PTO is insane...though,  it has to be to make up for the unpredictable work life.","A thank you instead of obsessing over the clock would be appreciated.
+You're paid for being present, not your expertise or skill.
+Work-life balance can be difficult. Schedules change frequently. While there are some truly great managers, far too many are inept, incompetent, or just petty micromanagers. 
+Certain technical areas are managed by people with no understanding of the job. As such, expectations are weird or just absurd."
+296,CNN,Inconsistent opportunities for advancement,2018-12-23,3.0,Anonymous Employee,great brand; amazing journalism training,extremely limited opps for career advancement at mid to senior level.
+297,CNN,11 Years at CNN/Turner,2018-12-18,4.0,Producer,"- a large number of PTO days
+- great benefits
+- pride in the work you produce","- the work grind can get frustrating over time
+- depending on your department, promotions can take a long time"
+298,CNN,Good position to grow,2018-12-07,5.0,Associate BIT Engineer,Good vertical movement and great engineers to learn from,work in a 24/7 shift shop
+299,CNN,Good if you love the business,2018-12-06,4.0,Anonymous Employee,"Amazing benefits, friendly company culture, lots of perks, easy to network","24/7, hard to take off, not much work-life balance"
+300,CNN,Good people,2018-12-06,5.0,Anonymous Employee,Good people.    Respected organization.,Industry in inherently in the midst of change.  Lay offs seem to to occur often.
+301,CNN,Great place to work,2018-11-28,4.0,Journalist/Reporter,An invigorating atmosphere with fast paced work,No work life balance for journalists
+302,CNN,Good place to start a career,2018-11-11,3.0,,"Friendly people, good management, good shelf.",Few opportunities to get a full-time job
+303,CNN,Freelance,2018-11-09,5.0,,Incredible company where everyone is truly valued and work together. Teams have great chemistry and help each other out.,"Departments were organized oddly and there was a lot of crossover of responsibility, however things have changed since I left."
+304,CNN,"Loved the internship, easy hiring process",2018-10-22,5.0,,"Dynamic news environment, hands-on experience",Salary is not at all competitive
+305,CNN,Senior Editor,2018-10-18,5.0,Anonymous Employee,"Exciting pace, tons of opportunities, people always willing to lend advice","A lot of those great opportunities require a ton of networking. Sometimes the network gets focused on covering one story non-stop, which gets repetitive"
+306,CNN,Good,2018-10-10,4.0,Anonymous Employee,"Vacation, pay, interesting and fun",Trump trump trump trump trump
+307,CNN,News Assistant - AVOID at all costs,2018-09-26,1.0,News Assistant,"1. Working in a breaking news environment can be exciting, although you're not very involved with the action.
+2. Having a CNN doctor at the office
+3. Great healthcare plan
+3. 100% 401k match
+4. Various discounts with car companies, phone companies, etc
+5. The diner is being renovated and will be amazing
+6. Your friends will think its cool you work at CNN, but trust me, its not...","1.  Pay - you'd make more money waiting tables. No seriously...
+2. Schedule - you work almost every holiday (I'm talking Christmas, Thanksgiving, and this isn't because you're low on the totem pole, its like this for everyone on the production side), you WILL work overnights, you WILL work weekends, you WILL work 5am shifts, you WILL lose any semblance of social life you had.
+3. Management - pretty much nonexistent. Don't ever plan on getting valuable feedback on your progress or having someone go to bat for you. I've had some terrible managers before but the incompetence of mgmt for this dept is beyond belief.
+4. No promotion track - mgmt is terrible so like I said, you're on your own. They'll promise you a 6 month/year promotion track but in reality you're looking at 2-4+ years before sniffing a promotion. Doesn't matter if you work your tail off.
+5. No training - the job is super easy and you're not doing anything sexy at all, so your delusions of grandeur will be rocked when you realize you're never going to learn anything unless you go out of your way to teach yourself.
+6. Culture - everyone is pretty much miserable from top to bottom. Its a common joke that you will have no social life and no money. In fact people wear it like a badge of honor, but personally I prefer happiness over sulking day in and day out with my coworkers.
+7. Respect - yes, you're bottom of the barrel, but you'd have a hard time finding an intro level job somewhere else that treats you this badly. Be prepared to have producers yelling ""PROMPTER!!!"" at you even when you've worked on their show for 2 years.
+
+CONCLUSION - you will advance 100x faster and learn 100x more at a local station where you are valued as a person and not another number. There are incredible people and incredible jobs at CNN/Turner, but the News Assistant job will set you back years in career development and financial stability. 
+
+This job is a glorified internship that's full time and doesn't just last a summer, it lasts as long as you wait until realizing you should leave.
+
+Nearly every NA I started with is gone and much happier because of it."
+308,CNN,Toxic environment but lots to learn,2018-09-06,3.0,Anonymous Employee,Lots of skills to learn and best in the business,Toxic environment and cut throat. Difficult to move into much more if you've been there for a while
+309,CNN,Great place to work,2018-09-04,4.0,Writer,"Great benefits: 401K plan, lots of PTO for 24/7 employees, free triathlon training program
+Also has a diverse rank-and-file staff, great work/life balance for journalists","Lack of diversity in upper management, not much room for advancement after awhile"
+310,CNN,Tour guide,2018-08-09,4.0,,Good benefits and a lot of hours,Low pay and a lot of favoritism
+311,CNN,Great Company,2018-08-07,5.0,Production Assistant,I work for the Guest Booking Department. Friendly people.  Great work/life balance. Dedicated and passionate team of people. It's a pleasure working here.,Can be stressful in breaking news situations.
+312,CNN,Good,2018-08-06,5.0,,Real good place to work.,Can be very demanding at times
+313,CNN,"Great place to work with opportunities, but lack of security",2018-07-16,4.0,Journalist/Reporter,"Flexibility, great colleagues, good location. Good work perks through Time Warner. Good relationship with those senior to me, all very friendly and approachable.","Lack of security in a freelance role. I could be dropped at anytime, and without any explanation."
+314,CNN,News Associate,2018-07-11,2.0,Anonymous Employee,"If you want to be a producer or floor manager, this is the right path for you.","Pay is crap and there are no health benefits. If you want to be a reporter, do not do this program."
+315,CNN,News video editor 2,2018-06-12,5.0,Video Editor,A cheerful co worker and good environment as a work place,Doesnt have a regular meeting on all employee
+316,CNN,Wonderful Experience!,2018-06-04,4.0,Producer,Great co-workers! Awesome benefits! Creative environment!,Some people in management (need training)
+317,CNN,Great experience,2018-06-03,4.0,,"Plenty of work to be done, never have to worry about not being able to learn new and exciting things","No paid days off, no benefits."
+318,CNN,Most trusted,2018-06-03,5.0,Anonymous Employee,"A life-changing experience, wonderful people dedicated to an important mission.","Tough to have a family and work in news, no matter how you slice it."
+319,CNN,Company will burn you out,2018-05-25,2.0,Supervising Editor,"- Time off 
+- Tuition Benefit","- 24/7 work requirement
+- Long hours"
+320,CNN,Poor management,2018-05-16,3.0,Anonymous Employee,money / location /  offices /  people / big name,poor management no training no human
+321,CNN,Operations Engineer (Internship),2018-05-12,3.0,,Great colleagues to work with and you're guaranteed to grow with the company.,There were no cons at CNN
+322,CNN,Photojournalist,2018-05-10,3.0,Photojournalist,Good pay and benefits. Good equipment.,Terrible management. Will not address long term issues because they’re too afraid to rock the boat.
+323,CNN,Great place to work!,2018-05-07,5.0,Anonymous Employee,The work atmosphere is great. The people are professional and easy to work with.  I do miss this place.  I really recommend it to anybody.,I don't really have anything bad to say. That place was my home for a very long time and honestly I don't have anything bad to say about it.
+324,CNN,CNN Digital - Product,2018-05-02,3.0,Various Roles In Product,"1) The people, with few exceptions, are great.  People within the product org are friendly, collegial, and have a good sense of humor.  They're the main reason that I stayed for as long as I did.
+2) The CNN brand is recognizable throughout the world, and carries weight on a resume (more so for journalists, but still).  And you can accuse CNN of bias, but you have to admit that the company is a big voice in the media space and plays an important role on the national stage.
+3) Once you've made it into Turner, there are lots of opportunities to move around to other brands if you wish (though it's  very dependent on your ability to network).
+4) Product moved into renovated offices at the end of 2017, and the updated space is nice and modern (more like a modern Silicon Valley office, though not as extravagant).
+5) The downtown (CNN Center) location is very convenient to reach by car (free parking), bike, or MARTA.  It's also a short walk to lots of good food destinations.
+6) Turner takes community service seriously, and allows you to take off up to 40 hours annually for volunteer activities (as long as it doesn't impact your work).  There's also a semi-annual Turner Volunteer Day, which provides staff with the option to serve the community via activities that are organized by Turner staff (they do a great job).","1) One of the most consistent, sustained complaints among Product Managers and Directors is that they feel like order takers and project managers, and that they aren't involved in defining the strategy of their products.  This is due to a lack of resources (e.g. Product Managers have to act as PMs, the Product Strategy team was dissolved years ago), expertise (e.g. CNN/Turner doesn't offer any form of strategy training), and expectations from the senior mgt team (who do not emphasize strategic thinking).
+2) Senior management (VPs & above) are just ok, at best.  Actual leadership skills are lacking or missing entirely, and there hasn't been a real vision for the Product org in years.  As a result, defined organizational goals have also been weak or entirely missing.  Missing vision and goals makes coordination throughout the ranks difficult, and creates a lot of confusion.
+3) Big, wide-ranging decisions are often made based on gut feelings, rather than relying on data and careful reasoning.  Senior leadership is replete with ego and bias, and they respond very poorly to being challenged and constructive criticism (despite preaching otherwise).
+4) CNN is not particularly innovative or proactive about its products.  Annual product roadmaps are largely defined by whatever the org didn't roll out in the previous year, copying competitors moves, reacting to Apple/Google/Facebook, or by the whims of senior management (who mostly rely on industry buzz to inform their decisions).
+5) Product has restructured every year for the past 5 years, which involved staff cuts.  The restructures occurred without much warning, and the reasons given (if they were given at all) tended to be vague and superficial (""It's a fast moving industry, so this is totally normal."")  The most recent restructuring was in February/March 2018.
+6) Mobility i very restricted and salary increases are pitiful.  Most people have been in the same roles for years, and CNN tends to hire from without rather than promote from within."
+325,CNN,Really Liked working with them,2018-04-24,5.0,Anonymous Employee,"Great business model, nice people","Long hours, a lot of competition"
+326,CNN,TRUMP TRUMP TRUMP,2018-04-12,2.0,Anonymous Employee,"World Leading Brand, Good location - central London","Unfriendly, soulless environment, Poor Management"
+327,CNN,Production Assistant,2018-04-09,4.0,Production Assistant,"Great benefits, beautiful offices, big company with many different opportunities","Stressful environment, slow upward mobility"
+328,CNN,Great Experience,2018-03-21,4.0,,Learned a lot about working in the newsroom!,Unclear avenue for advancement
+329,CNN,Content Coordinator,2018-03-19,5.0,Content Coordinator,"Creative culture allowing employees the ability to step up, learn, and innovate. You get a strong sense that if you prove yourself it won't go unnoticed. Great vacation time and benefits.",Often unconventional work schedule if working in the news department. So big sometimes it can get confusing what is what and where to go or who to contact.
+330,CNN,Anchor Producer,2018-03-01,3.0,Anonymous Employee,"engaging, great learning experience, great staff, helpful HR","work/life balance, stressful, constant shifts within departments"
+331,CNN,Marketing,2018-02-26,1.0,Marketing,it is a part of a big media ownership in Indonesia.,"poor teamwork, salary and management."
+332,CNN,Hard to grow,2018-02-21,3.0,Anonymous Employee,"Benefits, people, facility, visibility and reputation, mission","Hard to grow, hours, some management"
+333,CNN,News Assistant,2018-02-19,5.0,News Assistant,"Great work environment, plenty of opportunities, close-knit work community","Work holidays, must be willing to work late nights and early mornings"
+334,CNN,great,2018-02-15,5.0,Anonymous Employee,fun work environment and very relevant,lots of work and long hours
+335,CNN,Great!,2018-02-15,5.0,,Great place to work! Smart colleagues.,Constant ebb and flow and news can be difficult for some to keep up with.
+336,CNN,Great Benefits/Flexible Work Environment,2018-01-30,5.0,Anonymous Employee,"Great PTO and Medical Benefits including 401k employer contributions, commuter benefits, life insurance to mention a few.
+
+Most important is the work life balance options. Some folks work for home as needed others have set days the WFH. Flexible start and end hours.  It makes it easier to manage your personal life.  Of course flexibility depends  on the department you work in and the business needs.  Lot's of internal mobility.","There is more travel than I would prefer but this is specific to my role.  Also, I was informed of the travel requirements prior to my accepting the position.
+
+Too many meetings; weekly, m onthly, bi-monthly.  Sometimes I feel like I don't have time to actually get my work done."
+337,CNN,CNN full time employee review,2018-01-25,4.0,Associate Producer,"I started at CNN as an intern and have stayed with the network since. If you're hungry for opportunities and offer yourself up to various teams, there's a lot of opportunity for growth. The company rewards people who want to learn vs. those who are comfortable coasting. Of course, every team and role is different. The benefits can't be beat - healthcare coverage, gym memberships, etc. Although that might change depending on how the merger with AT&T goes.","As with any job/industry, you do have to put in your time when you're starting out, either as a freelancer or a News Associate. You'll work long, sometimes unconventional hours for little pay. That said, you'll move up quickly within your first year or two and if you hustle, doors will open."
+338,CNN,Great coworkers. Fast-paced environment,2018-01-24,4.0,Copy Editor,Great Benefits.  A good learning environment. I would highly recommend it as a place to get great experience in journalism,Choice jobs are hard to get. Company tends to try to phase out older workers for younger staff at lower wages
+339,CNN,Director,2018-01-15,3.0,Director,Great benefits.  Great group of people to work with.  Great middle management. Great employee programs.,Sr/Executive Management not on the same page.  Sr/Executuve Management two-faced - but very clever about it - beware.  HR not on your side - beware.
+340,CNN,Assignment Editor,2018-01-06,3.0,Anonymous Employee,Opportunities to work on multiple platforms for a leader in world news,Trump administration dominating our news cycle
+341,CNN,Growing Pains,2018-01-03,3.0,Senior Data Warehouse Architect,"Good work, when you find it",Good work depends on having a good manager
+342,CNN,Production Assitant,2018-01-02,2.0,,"Learning possibilities
+Great location and building","No contract positions
+Only Freelance positions available in this term"
+343,CNN,Freelance Associate Producer,2018-01-02,4.0,Anonymous Employee,"Great people, great benefits if you're full time","Long, stressful work hours which sometime conflict with personal life"
+344,CNN,Producer,2017-12-13,3.0,Producer,Competitive pay and benefits and a good corporate culture overall. The people who work at CNN are diverse compared to other media companies and most of the employees are smart and professional.,"Middle managers are TERRIBLE and HR and upper management does nothing about it. If you get stuck with the wrong boss, it can make your life a living hell."
+345,CNN,Decent Company,2017-12-11,3.0,Anonymous Employee,"Decent health benefits, Competitive salaries once you move up.",Management isn't always strong to lead
+346,CNN,good place to work,2017-12-05,4.0,Anonymous Employee,"great benefits and pay, sense of purpose","long hours, constant communication with email"
+347,CNN,Exciting work. Great benefits. Hard to move up.,2017-12-02,4.0,Producer,"It's an exciting place to work. News is always changing and CNN has resources around the world to help tell stories.
+Pay is good - much better than in local news.
+Benefits are great - healthcare, time off and 401k matching are excellent.","High stress and very demanding.
+Editorial staff puts in a lot of hours outside of work via email. 
+Management seems to like to hire from outside instead of promoting from within.  There are some internal promotions, but most come from outside CNN or from other departments within CNN.
+Career management is up to the employee. Not much mentoring and few managers will be looking out for your future. There are some supervisors/managers who try to help, but most just take care of themselves."
+348,CNN,where news is broken,2017-11-16,3.0,,"-best paid time off for news biz
+-great health options & 401k match 
+-ideal environment for breaking news junkies + self-starters","-constantly changing management & vision 
+- top heavy teams with stagnant middle management who is often disempowered
+-a disconnect between what is said and done by top leadership re: mission + values"
+349,CNN,"CNN: exciting  & dynamic work enviroment, but less job security-",2017-11-14,4.0,Senior Futures Editor,"1. CNN has a dynamic, frenetic pace, with the core activity being chasing breaking news, which is fascinating  if you like fast-paced work that forces you to learn about something new with each  unique news story.  It is a requirement that you enjoy thinking outside the box, because every news story has its own nuances and themes, which require that  you improvise a new set of tools to get accurate information from sources. There is no repetitive daily grind in this line of work. 
+2.  Great people to work with:  very smart and talented people, who love the frenetic pace of news gathering as much as you should.  No dull people looking for a quiet day need apply, and very few survive there for long.
+3. Great benefits and usually good salaries. 
+4. A great place to build a career in journalism; CNN ( still!) has great brand recognition and so it is a good springboard to other media companies.","CNN, like almost all news media organizations, is  in a long-term struggle for survival to keep subscribers and advertisers as the Internet pulls more and more eyes away from traditional news outlets. This translates into radical changes as management tries new ways to increase viewership, resulting in periodic seismic shifts in  staffing... so stay for the exciting work, but make sure you keep your resume polished and have a back-door exit plan. It used to be the case that talented employees could count on their job being permanent (barring acts of misconduct);  but that is no longer the case.  Expect periodic downsizings and elimination of special departments (i.e. CNN's science and technology unit).
+As one of my former managers helpfully suggested as my unit was being reformed and I was left without a job, ""embrace change""."
+350,CNN,Poor Work Environment,2017-11-12,1.0,Anonymous Employee,You learn a lot...and good benefits. Thats all I can think of.,"-Condescending and toxic office culture
+-No positive feedback-they only tell what you did wrong
+-Work overload-they don't care if you work long hours every week 
+-Demanding and no recognition
+-Middle management needs to do their job 
+-Salary is low"
+351,CNN,International desk editor,2017-11-11,4.0,Anonymous Employee,"the best job for any adrenaline junkie
+fast paced, breaking news environment with a need to multi-task and produce results on a deadline","very little if any movement
+poor work life balance
+unclear objectives from management"
+352,CNN,Copy boy,2017-11-03,3.0,Anonymous Employee,None that I can remember,They have their heads up there butts
+353,CNN,Deceivers,2017-10-26,1.0,Regional Sales Manager,"No pros just deceivers, really devastated now by how corrupted this news is.","Liers, Deceivers CNN should stop their business"
+354,CNN,Producer and Writer,2017-10-24,3.0,Anonymous Employee,"Good benefits 
+Decent training opportunities 
+Prestige in working for a big name 
+Easier to move around in such a big company, so opportunities to do more","-There are way too many inefficient middle managers and no way to review them or hold them accountable.
+-It's a big company so some departments can be very toxic
+-Some people at CNN do really incredible work so it's really disheartening to see CNN hiring awful pundits and paying them the big bucks in lieu of hiring more really good journalists. 
+-there are still race and gender biases in some of the hiring practices"
+355,CNN,Great company to work for.,2017-10-11,4.0,Anonymous Employee,Great resources and supportive of team.,The news never stops...which can be exhausting
+356,CNN,Paid to push fake narratives,2017-10-07,1.0,,You get paid but that's about it.  Some nice people but we are paid robots that have to do what management wants always.,You spread lies and false information to spin a fake narrative that fits an agenda.  Not good for the world.
+357,CNN,news factory,2017-10-01,3.0,Anonymous Employee,"amazing benefits!  the vacation, 401k, and health options are the best i've seen.",they are the only real option for tv in atlanta and they know it.
+358,CNN,Production Assistant,2017-09-29,5.0,Production Assistant,Great system in place for moving up in the company. Everyone is very helpful in learning more about every department. Wonderful team at CNN!,Overnight shifts and long hours.
+359,CNN,If You're Looking for  Work in Tech Ops Beware,2017-09-21,2.0,Audio Designer,SOME of your coworkers. You don't have much to work with.,"Managers, supervisors, directors. Same think everyday. very repetitive."
+360,CNN,Intern,2017-09-17,5.0,,"-Extremely high-energy atmosphere
+-Everyone is friendly and approachable
+-You feel like a valued member of the team. The internship program requires interns to work in groups to develop an idea for a program/app/resource that CNN doesn't already offer, and high-level officials — including Jeff Zucker — attended the presentations at the end of the internship. This showed me CNN not only appreciates its interns, but takes us and our ideas seriously.
+-NETWORKING. So many talented people here. I was able to schedule a one-on-one meeting with Chris Cuomo just by talking to his assistant
+-Free coffee and tea all the timeeeeee","-The excessive use of the ""Breaking News"" banner
+-The commute to the city became a little tiring, but I also wasn't willing to spend the money to live closer!"
+361,CNN,Supervisor,2017-09-13,5.0,Anonymous Employee,"Great group of people, culture is to empower employees to make decisions.  Company makes 401k matches of 133% on first 3% of contribution and 100% of second 3%.",Several third party vendor systems leave a lot to be desired.
+362,CNN,CNN Studio Tour Guide,2017-09-12,4.0,Anonymous Employee,"You are surrounded by a plethora of opportunities. You have access to multiple Turner locations and have the potential to work for a variety of departments within the TURNER brand, not just CNN. Amazing and innovative company!
+
+Stock within company
+Great benefits
+Many people have started within tours and moved on to variety of areas within the CNN/Turner company.","You have to create your own pathway out of your position. Entry level position, but there is no direct path or connection between tours and other departments within the company. 
+You could spend numerous years in tours, but it doesn't equal experience to move into other departments. 
+Not easy to transition into other departments.
+Dealing with high volumes of the general public, foreign and domestic."
+363,CNN,CNN International Management doesn't value employees,2017-09-05,2.0,Anonymous Employee,"Parent company, Turner, offers great benefits - lots of vacation time and even days off for volunteering.  Standard 401K, health, dental, vision.","CNNI management simply does not value it's employees.  They pretend to want their opinions on editorial matters, day-to-day newsroom matters, and even the future of CNNI - but it's all for show.  Middle management is just plain immature."
+364,CNN,Interesting Experience,2017-08-20,4.0,Anonymous Employee,"-great opportunities
+-kind people 
+-good environment",-not much opportunity to move up
+365,CNN,Photog,2017-08-17,2.0,Anonymous Employee,Good pay and very easy job,They lie to get people to work there
+366,CNN,Fun times While It Lasted,2017-08-17,3.0,Anonymous Employee,Great benefits and diverse environment,Tenure plays no role in job security.
+367,CNN,Depends on your career level,2017-08-10,3.0,Anonymous Employee,"Great brand, many smart and wonderful people and teachers of journalism, in fact some of the best hands on journalism and production experience you could get. At entry to producer level you will learn so much. Good pto structure.","Endemic lack of interest in or focus on promotion or retention. After producer level many stagnate for years, being passed over for opportunities by external talent. The messaging around internal promotion, development and retention is 'we don't need to', presumably because it's assumed so many people want to work there that focusing on those who do is not necessary. Also while very top management are generally wonderful, some hardcore unprofessionalism and hugely unwarranted ego are rife at the level below"
+368,CNN,Copy Editor,2017-07-27,5.0,Anonymous Employee,"CNN and HLN create environments that encourage teamwork and collaboration, but also require individual accountability. For journalists, it is a great place to work.","Well, the obvious downside to working for a 24-hour news network is that many of the jobs are not business hours. It is a sacrifice many are willing to make for the chance to have a career there."
+369,CNN,The Real,2017-07-22,3.0,Anonymous Employee,"1. Employee Benefits:
+a) 401K Match.
+b) Health, Life, Eye, Dental Insurance.
+c) Vacation Days (Paid Time Off).
+d) Employee Discounts.
+
+2. Diversity (Skilled Workers, Contractors, etc.)","1. Work Life Balance.
+
+2. High Pressure, Low Reward (Recognition).
+
+3. Lack of Diversity (Executive Level).
+
+4. Job Security.
+
+5. 24/7 work environment.
+
+6. No Holidays Off (must use vacation time).
+
+7. Condescending Office Culture."
+370,CNN,"Review from a product person, not a writer or producer",2017-07-08,3.0,Product Designer,"• People are enthusiastic in the public service they provide as a new organization
+• Good storytelling internally and externally is appreciated
+• The people that actually do the work are amazing and passionate (they just have to operate in a culture that usually doesn't have their back)
+• There is always room to go and get promoted
+• A decent company to work for as a ""resume booster""","• Leadership vision is continually stale and not innovative
+• Leadership has forgotten that news is a public service and CNN is supposed to be a technology company that distributes journalistic content
+• The C in CNN has the company and vision handcuffed to old thinking (Cable)
+• Product teams (e.g. Engineers and Product Designers) are undervalued and underutilized"
+371,CNN,production,2017-06-28,4.0,Anonymous Employee,great team support and workflow,hard to be balanced
+372,CNN,"We serve many masters, but in the end it's the story that counts, and why we do the job.",2017-06-10,4.0,Digital Producer,"Decent benefits, options for career advancement and variety. Once you're in, it's fairly easy to stay. Vacation time is also great.","So. Many. Bosses. They all have their ideas of how things should be done, and often make changes after you've killed yourself to meet deadline."
+373,CNN,Fun work environment,2017-06-03,5.0,Anonymous Employee,Fun work environment with professional coworkers.,Lot of tourists in the CNN Center
+374,CNN,Not Really News,2017-05-26,3.0,Anonymous Employee,Great people with their journalistic hearts in the right place,"they think ""This Just In""  is the same as news"
+375,CNN,Worst Place on Earth,2017-05-05,2.0,,"Branded, that's all
+Nothing else that's positive 
+Got to write 20 word","Poor on boarding.
+Bad culture.
+Colleagues not willing to help at all. You got to fish in the sea for every piece of information. 
+Work as a swear shop, 9 am to 10pm."
+376,CNN,Love this place,2017-05-02,4.0,Anonymous Employee,"the people, benefits, environment. There's plenty of training offered if you're willing to learn and put the time in.","I've noticed some folks are constantly worried about layoffs, but it's really not that bad if you're constantly learning and changing with the technology at hand. Other down side is the 24/7 news cycle... but thats pretty implied if you're going in.... everyone knows you could potentially work overnights"
+377,CNN,"Good mission, poor management",2017-04-27,3.0,Anonymous Employee,Fun and exciting news environment.,Management changes create great swings in corporate culture
+378,CNN,Best job ever.,2017-04-21,5.0,Electronic Graphics Operator,Company appreciates your work. Generous time off. No office politics/drama. Great working environment. Nice to say that you work for CNN.,"It is Possible that you might have to report on tragic stories. Sometimes, depending on world events your schedule might change at a moments notice."
+379,CNN,Digital growing at a breakneck speed,2017-04-21,3.0,,"Salary, bonuses, time off, and flexible work from home scheduling. After 3 years, you get an additional 5 days off.
+CNN is growing their digital/social teams, so there are opportunities to work with some of the best in the business.","Despite growth in digital/mobile/social, other support departments like research don't grow as quickly, and promotions come slowly. In addition, mediocre team members bring down the rest of the pack, burning out others who could advance the department."
+380,CNN,Great and well organized company,2017-04-17,4.0,Intern,"Supportive and smart coworkers, friendly environment with many opportunities for growth","Workload can be varied and inconsistent, a bit of a gap in communication between upper and lower management"
+381,CNN,review,2017-04-11,4.0,Anonymous Employee,mobility interesting dynamic journalism stability,management ruthless work long hours
+382,CNN,Writer,2017-03-28,4.0,Writer,Great benefits. You get to witness and write about history as it happens.,You have to be willing to work overnights or weekends so it's tough if you have a family.
+383,CNN,Great Company!,2017-03-27,5.0,Technical Operations Assistant,"Lots of PTO, open-door policy. Plenty of work perks.",24/7 news cycle sometimes means having inconsistent schedules.
+384,CNN,Little to complain about,2017-03-25,5.0,Associate Reporter,"CNN is full of bright, passionate people and truly incredible journalists. The company offers great benefits and, at least on my team, there is a supportive and open atmosphere that makes this place a joy to work at.","Lots of hours. It's news. It's stressful. But we are here because we love it.
+My manager was initially very poor at explaining my job requirements. I took me longer than I thought necessary to get into the swing of things."
+385,CNN,producer,2017-03-17,3.0,Anonymous Employee,exposure to dynamic world events,ever shifting priorities and a reactionary orientation towards strategic challenges
+386,CNN,"Great benefits, lousy leadership",2017-03-12,3.0,Senior Producer,"Lots of paid time off, free food, prestige.","Management hates older workers, especially if they speak their minds."
+387,CNN,Good Fast Paced Place to work,2017-03-03,4.0,Production Assistant,"good stories and topics to work on, exciting projects and fast-paced life!","If you are not a native American, sometimes you don't get a chance to move faster in the career ladder."
+388,CNN,Office Coordinator,2017-02-23,5.0,Office Coordinator,Best company to work for.,I don't see any cons with CNN
+389,CNN,Great place,2017-02-21,4.0,,"credibility, collegiality, professional staff working together to",working overnights gets draining on the body
+390,CNN,nice,2017-02-20,3.0,Anonymous Employee,it a very good place,Even though I have a hard time there
+391,CNN,Production Assistant,2017-02-19,3.0,,The benefits for full time employees are great.,There is little opportunity for growth
+392,CNN,Systems Engineer,2017-02-19,3.0,,Very relaxed environment and verteran employees,Old technology. Needs to see the future on technology
+393,CNN,VP,2017-02-14,3.0,Anonymous Employee,People are passionate and familial.,24-hour/7 day a week news cycle
+394,CNN,Gret opportunities,2017-02-12,4.0,,"Great team. very engaged internship. great cafe. good work ethic, opportunities for FT employment","not much socialisation, poor intern program in terms of meeting others"
+395,CNN,Great environment to work with really smart people,2017-02-07,4.0,Associate Producer,"Amazing benefits, laid back culture. Rewarding and fulfilling job. Opportunity to travel the world. Great feeling of being a part of a family","Super competitive. Must know someone ""in the circle"" to get promoted in many cases. Can be very corporate at times."
+396,CNN,"There are a lot of opportunities to be had, but one must be self motivated not self absorbed.",2017-02-02,4.0,Photojournalist,International travel is probably the biggest followed by exposure to the newest in video transmission technology. You're challenged creatively and logistically and technically.,There are several but I think the biggest is not valuing what individual employees bring to the group effort over time.
+397,CNN,Intern,2017-01-21,3.0,Intern,"They are very wiling to encourage interns to see different aspects of the company. Good integration with the team, and a supportive cohort of other interns.",Internships do not feel like a step towards a future career at the organization. Management can be frustrating to deal with if the intern wants additional challenges.
+398,CNN,commercial log specialist,2017-01-20,3.0,,looks good on the resume,not as glamorous as the name entails
+399,CNN,Journalist,2017-01-19,4.0,Digital Writer,Great benefits. Really smart co-workers. Lot of time off.,Crazy work schedules. Hard to advance
+400,CNN,Field producer,2017-01-18,4.0,Anonymous Employee,"Paid time off, 401k and health benefits very good",kong work schedule at times
+401,CNN,"""Most Trusted"" well..used to be at least.",2017-01-05,4.0,Floor Director,You're in cable news. It's the big time!,You're in cable news. Lost in mediocrity.
+402,CNN,"The good, the bad, and the ugly",2017-01-03,2.0,Journalist,"Best parts of working at CNN Digital:
+
+1. The work is usually interesting, and most of my colleagues were top-notch people.
+
+2. The benefits are good, especially the 401(k) match.
+
+3. Lots of paid time off.
+
+4. Great way to meet people all over the world.
+
+5. Being a part of history unfolding.","1. It's amazing how out of touch management is with the journalists. The gap is very wide. Hard to tell whether they don't know or don't care. Probably half of each.
+
+2. Threat of a layoff or reorg always hanging over your head -- though that really makes CNN like most big companies these days. Not sure that would be better anywhere else, especially anything that tries to make money off free information.
+
+3. Wildly varying workloads. Some people phone it in or don't do a lot while people with more to do than they can handle are then given even duties. I had colleagues whose eyes would literally pop and their jaws literally drop when I showed them how much work I'd do in shift.
+
+4. Related to No. 3 -- quality of your work has very little to do with how you fare at CNN. You can do top-notch journalism and be poorly thought of. You can do pretty lousy journalism and be deemed a superstar. We all know in corporate American how much office politics and being a player plays a role, but it's a crying shame how important it is there.
+ 
+5. Lousy hours. That's part of the news business that can't be changed. But given that it is, management could do more for the people who don't work 9-5, Monday-Friday. If you're not seen in meetings, it's like you aren't there and didn't do anything. I was surprised how neglected the evening and overnight workers were given that it's a 24/7/365 place."
+403,CNN,Comparison,2016-12-19,5.0,Account Manager,"globally trusted band, innovative, loyal employees","slow progression path, low salary"
+404,CNN,Senior Producer,2016-11-15,4.0,Anonymous Employee,Very professional environment.  Innovative in digital and invests in content. Family oriented.  Very good health insurance / benefits and excellent 401K options.,Not much growth opportunity for careers - people tend to stay in the same position for a very long time.  Work force lacks diversity.  The financial compensation while not the lowest in the industry could be better.
+405,CNN,"Good company, structured salary",2016-11-15,4.0,Anonymous Employee,"The company has a great name. There are loads of employee development programs, meetings, and groups to become a part of. Lots of fun events that are good for morale. Networking opportunity is there, you get out what you put in to it. A great place to start out because the experience you get is really valuable and can translate well in interviews. benefits are good. mid level management is overall impressive and understands the need for work/life balance.","Upper management does not know what they are doing for the most part. The company is so big it can pretty much survive with subpar management. You cannot negotiate your salary, you take what your offered. Difficult to move upward unless you are willing to relocate."
+406,CNN,Intern,2016-11-08,5.0,,"Supportive team members, fast paced.","The intern pay is not that great, Atlanta minimum wage."
+407,CNN,Producer,2016-11-02,3.0,Anonymous Employee,"Overall CNN is a great company to work for, and right now it has been getting great ratings.","Depending on the department you are in, your experience may not seem so great.  Currently a lot of people are looking to get out of one specific department due to very poor upper management."
+408,CNN,Intern,2016-10-22,5.0,Intern,Great experience. The company invests a lot of time in the interns. People are friendly.,Odd hours but that is to be expected.
+409,CNN,Production,2016-10-18,5.0,Producer,"Great place to work!! You can't get any better! Great pay, great benefits, and 25-28 days off a year.",People like to gossip and job can be stressful.
+410,CNN,Intern Fareed Zakaria,2016-10-11,5.0,,Great interaction with the show staff and anchors,"Lots of downtime, so sometime got stagnant and repetitive"
+411,CNN,writer/editor,2016-10-06,3.0,Senior Writer/Editor,"Vacation, prestige, opportunity to learn","Salary, culture, mobility, support, teamwork"
+412,CNN,"Great Place to work, but save your pennies to survive the inevitable layoffs:",2016-09-27,4.0,,"Great colleagues: smart, enthusiastic and committed to drive journalism into the digital age. A very dynamic environment, and an excellent, if unforgiving, school of hard knocks for journalism.","CNN is struggling to maintain its reputation as THE place to go to for news, in a new world of nearly infinite news sources. There is new senior management on the Turner/Time Warner level( CNN's parent companies) that is more interested in cost-cutting and copying major network formats than creatively developing or enlarging the formats and on-air personalities that made CNN must-watch TV in past years. Periodic layoffs that do not appear to be based on the value of the individual employee, but on meeting numbers targets for individual departments. On the newsgathering side, very bad work/life balance, but that's fine if news is what you want to do with your life."
+413,CNN,Great place to start out,2016-09-25,3.0,Anonymous Employee,"Staff has a breadth of experience to learn from
+Exposure to breaking news environments
+A desire to do good journalism","Not a lot of room for growth
+Constant ask to do more with fewer resources"
+414,CNN,An exciting place that now undergoes downsizing/reorg,2016-09-21,4.0,Producer/News Editor,Great job experience. International prestige. Top of industry reputation. Front seat to world events.,"Sigh: CNN undergoes reorg after reorg after reorg. Volatile place. Brace yourself: you could be laid off just after a few years there, even if you're a high performer."
+415,CNN,Good experience.,2016-09-20,4.0,,It was filled with great people.,I was asked to work unrealistic hours.
+416,CNN,Should have enticed old-timers to stay,2016-09-16,3.0,,"People, people, people, people, people.",Management and its philosophy. Get back to the basics. Be journalists. Do news. Let the news be the star.
+417,CNN,Great working environment,2016-09-14,4.0,,Great work place to have as the start of a career.,Downsizing cause a lot of people to lose faith in job security.
+418,CNN,"Good, solid place to work, but there are cons",2016-09-13,4.0,News Editor,"Good salary, great benefits, and there is prestige with having CNN on your resume.","Growth is mostly discouraged, just not overtly. You are encouraged to ""stay in your lane,"" thereby stifling creativity and any desire to contribute to the team, outside very strict job descriptions. Ideas are seemingly encouraged, only to be shelved because the encouragement is lip service."
+419,CNN,Fantastic.,2016-09-12,5.0,Programmer Analyst,Great work environment. Amazing people. Amazing work. Flexible time off. Fulfilling job if you are interested in anything news released.,Hours are unreliable but a social workplace makes it all manageable. Hours also depends on what show you work on so that all depends..
+420,CNN,Company culture,2016-09-12,2.0,Anonymous Employee,"- good bonuses (provided sales budget is met and you are in the sales incentive scheme)
+- brand recognition","- Highly political 
+- unfair treatment if you fall on the wrong side, especially junior staff
+- long hours"
+421,CNN,Good but not great,2016-09-07,3.0,Anonymous Employee,"Good benefits (vacation, healthcare, and 401K) and at times interesting work. Potential for positive impact is nearly limitless and President Clinton is exceptionally inspiring.","Obstacles to achieving positive impact are nearly as limitless as the potential, if not more. Senior management means well, but not effective. Majority of junior staff  have never worked anywhere else and have unrealistic expectations of what can and should be possible in career development (expectation to get promotion every year, etc.). It epitomizes the phrase ""squeaky wheel gets the grease"""
+422,CNN,good options,2016-09-05,4.0,Associate Producer,"it provides opportunity and growth if you are willing to put in the time.
+networking is possible at almost any of the levels of employment.","sometimes the extra work you put in doesn't necessarily means or translate into a reward.
+Schedules are 24/7"
+423,CNN,"Pretty good, but need lots of improvement at development",2016-08-23,4.0,Copy Editor,"Good salary & benefits 
+Mostly great people, except for a tiny minority
+Interesting work overall 
+Occasionally get to feel I've made a positive impact on the world","Talented people get stuck in dead-ends, very siloed environment, difficult to switch tracks/learn new things, one Exec even said to my face I shouldn't expect support for a promotion/move bc I'm too good at what I'm currently doing. 
+
+In the rare case of severe personnel disputes, management seems very reluctant to get involved even when it's obvious someone is being victimized. Oh, have I seen  people get away with things."
+424,CNN,Long-timer,2016-08-20,5.0,Anonymous Employee,The best place I've ever worked.,"News can be exhausting, but that's the 24/7 nature of any news business."
+425,CNN,Great experience,2016-08-07,5.0,,"Great people, incredibly interesting experience, had opportunity to meet many impressive people","Comes with the business, but there are ebbs and flows of breaking news"
+426,CNN,Do not start out at CNN!,2016-07-27,1.0,Production Assistant,Day rate pay is good.,"Absolutely no training, pretty much all the freelance producer (i.e. most of the workforce on the editorial side) are on zero hours contracts - so you are given the number of shifts you will work a few weeks in advance. The manager can take your name off the rota and effectively leave you fired - but because you are on zero hours contract there is nothing you can do about it. 
+
+When you start as a production assistant (standard entry level job after completing an internship) they throw you into the job without any training , and if you are still making mistakes afrer a few days then they take you off pay and ask you to shadow another production assistant unpaid before giving it another go. 
+
+Oh - and despite the fact production assistants compete with each other for a limited number of shifts per week, the manager insists that new production assistants are trained by existing ones, in effect asking them to train their competition. Absolute genius!
+
+I still remember when the managing director of CNN flew in on a private jet from New York (approx $20,000) to announce redundancies - in a year when CNN netted $600 million in profit! 
+
+The place is run on greed and is a disgrace.
+
+AVOID at all costs!"
+427,CNN,CNN Internship,2016-07-24,5.0,,Great company for growth and learning. On the cutting edge in production technology and reporting. Really nice people and managers.,There are no cons of working at CNN. The move to hudson yards in a few years might be stressful.
+428,CNN,Amazing,2016-07-16,4.0,Manager,There are a lot of positives to the job that i can discuss like the benefits of the job is really nice,The management of the company does not seem to care about it is employees the way they should care and that is not good
+429,CNN,Newsgathering,2016-06-24,3.0,News Editor,"cool, nice people, good environment","intense, no breaks, no thanks from senior management"
+430,CNN,CNN Heroes Intern,2016-05-30,5.0,,Nice people; amazing location; great experience,Not a lot of socializing; boring intern work
+431,CNN,Very happy here,2016-05-30,5.0,,"Good pay, benefits, time off, good overtime",They seem to do small restructuring on a fairly regular basis.
+432,CNN,Production Intern,2016-05-25,4.0,,"Fun work environment, employees challenge you for your best work in a good way, ability for upward mobility (went from intern to production assistant to amateur producer)","at times I felt like our work was being driven by what would get the most clicks and now newsworthiness, the majority of staff is stuck in the stone age, little to no embracing of modern tech"
+433,CNN,Great until they 'restructure',2016-05-23,4.0,Producer,Amazing brand to work for,Work-life balance doesn't exist.
+434,CNN,International Desk Editor,2016-05-19,4.0,,Exposure to best of TV journalism,Lack of transparency in decision makings
+435,CNN,Media Coordinator,2016-05-19,3.0,Media Coordinator,Opportunity to meet people all throughout the company.,You have to be patient for mobility.
+436,CNN,Senior Editor/Producer,2016-05-19,3.0,Anonymous Employee,Good pay and benefits.  Good amount of time off.,"Not as many opportunities to be creative.  Work schedules cover nights, weekends and holidays.  Constant threat of layoffs."
+437,CNN,Associate Producer,2016-05-17,4.0,,"Great benefits - a lot of paid time off, multiple options for health benefits.
+
+The brand carries a heavy reputation - you can use it to your advantage.
+
+You can shadow various departments and use company equipment to produce your own content - Growth and internal movement happens at a consistent rate - no two days are the same.
+
+Many internal career organizations to help shape and mold your career.","Schedules can be hectic during breaking news, work/life balance may be hard to achieve.
+
+Inside politics can affect growth opportunities."
+438,CNN,"Great workplace, passionate coworkers",2016-05-13,5.0,Associate Producer,"Great contacts for life, passionate coworkers, training available for all positions",Just freelancing is not sustainable in terms og the income you receive and the experience you get.
+439,CNN,Company is moving quickly,2016-05-13,3.0,Software Engineer,"- good benefits
+- looking for people willing to experiment
+- good team in tech group","- news moves quickly so you're working with short timelines and high stress
+- company is changing rapidly and so is the staff
+- politics is everywhere
+- industry itself is extremely competitive"
+440,CNN,Poor Management and Growing Pains,2016-05-11,2.0,Anonymous Employee,Access to some of the latest technology as well as professionals working on the bleeding edge.,"Management is abysmal. Digital has experienced a large amount of turnover and management hasn't been held accountable. I find myself trying to both get releases out the door while also having to manage the MULTIPLE managers I have to contend with on a daily basis.
+
+On top of that, the higher-ups claim that they're making an even greater investment into Digital (web/mobile), however, if they don't clean up and better organize their current managerial roster, what's the guarantee that the environment will actually improve?"
+441,CNN,Intern,2016-05-10,5.0,,Smart team with priority on growth and learning,N/A at the present time
+442,CNN,# years,2016-05-06,3.0,,"good benefits, time off standard holidays",Long hours fluctuation in work hours
+443,CNN,Great place to work,2016-05-05,5.0,Anonymous Employee,Always working with the news of the world.  Lots travel opportunities domestic and international.,Not much room for growth in IT if you are not in Atlanta or New York.
+444,CNN,Terrible management and very bureaucratic,2016-04-21,2.0,,"- Relatively good salary
+- Flexible wokring conditions including home working
+- Variety of content and stories to work on","- Bureaucracy 
+- Bullish and bad management
+- Low morale 
+- Fear of change"
+445,CNN,video editor,2016-04-21,4.0,Anonymous Employee,"CNN has a wealth of resources that employees have at their disposal. What ever the equipment or the technology, the company doesn't go the cheap route.","On a personable level, the staff can be quite clickish. Managers take care of people in their silos and others are left to fend for themselves."
+446,CNN,Executive Producer,2016-04-16,4.0,,"Autonomy for projects, challenging work in a supportive environment","Lots of office politics,company going through a lot of change."
+447,CNN,Great place,2016-04-15,5.0,Coordinator,"Best place to work, lots of growth and opportunity","I don't have any negatives, I loved working here"
+448,CNN,Great place to work,2016-04-08,2.0,Analyst,great place to learn and work. People are super friendly and dedicated,has a bad reputation with some people and is always in the spotlight
+449,CNN,CNN as a producer,2016-04-08,3.0,,"Good salary, benefits, time off","Very top heavy organization; several bosses with differing opinions weighing in on what to do, not a lot of people actually executing."
+450,CNN,Digital Producer,2016-04-06,3.0,Producer,"Salary is competitive, better than most media outlets in the southern U.S. Benefits and time off are competitive.",Frequent layoffs and top-down old school management.
+451,CNN,...thou art lukewarm...,2016-04-04,1.0,Producer,"Pardon the biblical reference. Couldn't help myself.
+I entered a previous review titled, ""Fantastic and Lousy,"" and I'm afraid I must starkly revise it based on what has been happening to former colleagues and the network's alarming metamorphosis oozing from my computer and television.  Those pros in the previous review have nearly entirely faded, and the new CNN is tumbledown. Soon the name will no longer be an asset on a CV but instead a sticky smudge you will have to explain away to future employers as they kerchief it from their fingers. Alas, the grande dame has become a madame. Think of how you would appear in the glaring daylight someday as you skulk out of her door?","The parent company, TimeWarner, is swinging the wrecking ball at the fourth estate while it cherry-picks profits out of the rubble of responsibility and moral conscience. CNN's newsrooms have fun house floors, especially if you're in the U.S. Sure, the benefits and vacation will be great, but then a trap door will open, you'll whisk down a chute, and they'll be snapped from your grasp as you sail to the pavement.
+Yes, yes, the corporate world, but really the way to run a news institution? When profits are high? When you have the power and finances to turn it into a beacon of journalistic hope for your nation, and others? Go to CNN, and your colleagues there will be unforgetable and the vast majority lovely. But management will promote their own, less deserving friends ahead of them and dismiss good, hard working people. The inanimate gaze of the chopping block in the room will taint your days with angst. And then there's Trump. The American monster CNN midwifed. Much of the U.S. media have prostituted themselves to King Bigot for clicks and ratings, but CNN has held court the most, and helped him gel a fascist movement in the United States that will delight the world for years to come. (Yes, Russell Brand, Bill Maher and John Oliver, you may have this as a gift.)"
+452,CNN,Family-like environment,2016-04-02,4.0,,I've been with the company for 4 years and I am really impressed with the professionalism. Family-like environment with opportunities to grow in your career.,"Expect to work weekends, holidays, overnights throughout your career especially if you work in production."
+453,CNN,Anchor Correspondent,2016-04-01,2.0,,"Be part of the biggest news organization, worldwide","favoritism, no matter how much you work, if you are not part of the ""inner circle"" you won't be easy to participate in special projects, be promoted or grow"
+454,CNN,"Great workers, useless management",2016-03-27,1.0,Senior Producer,"Journalists who do the real work at CNN are smart, creative and driven. They are passionate about telling great stories and getting the facts right.","Management is populated by a glut of old white men who have been at the company a very long time. They've successfully found shady corners to rule their fiefdoms from and are hands down some of the worst leaders to work for. They often give lip service to those who are looking to move up or make changes in the organization and consistently do nothing to improve the newsroom 
+
+HR (like at most companies) exists to protect the company and management and when an employee brings up harassment, or points out an abusive manager, that employee is usually the one who is punished rather than the manager. 
+
+The environment is cutthroat and nasty. Rumors abound and run rampant and hard work and real journalism isn't rewarded."
+455,CNN,In flux but was a great place to work,2016-03-14,4.0,Senior Producer,"Incredible opportunities, mostly awesome co-workers, great benefits","All consuming, increasingly bureaucratic, mission drift/ losing it's core culture as it evolves into a media conglomerate"
+456,CNN,Manager,2016-03-13,4.0,Manager,"Terrific co-workers, competitive pay and great benefits make Turner the place to work in Atlanta.  Opportunities to develop your career are in abundance.","Long hours, odd shifts and the omnipresent impact national and world news developments can make to your personal life.
+Mood is currently depressing as the threat of layoffs is palpable."
+457,CNN,Cameraman,2016-03-11,4.0,Cameraman,You get to travel everywhere for free,Your away from family a lot.
+458,CNN,Good experience,2016-03-10,5.0,,Good people to work with,Didn't really see any cons.
+459,CNN,Production Assistant,2016-03-06,5.0,,"Great people, great learning experience.","As a freelancer,  you have no fixed salary. 
+Hard to become staff."
+460,CNN,Senior Publicist,2016-03-05,5.0,Anonymous Employee,"Great, varied experience. Perfect for news junkies. A great opportunity to work with some of the best in the journalism business. A place to thrive for the right person.","The hours are at times unpredictable and long -- comparable to those who work in the newsroom. Very demanding, high-stress environment."
+461,CNN,Politics all the time,2016-02-29,3.0,Anonymous Employee,"Great brand, intelligent people, committed colleagues, influential.",Intense office politics and disputes between silos and layers. Internecine warfare. Poor evaluation systems.
+462,CNN,"Good Vacation, Little Growth",2016-02-28,4.0,Producer,The pay is competitive and the PTO is generous.  There are a lot of smart people at the company and the atmosphere is relaxed compared to other newsrooms.,There is very little room for growth--people get stuck in the same positions for many years.  Management does not encourage innovation despite it being a company goal.  Morale is low considering the influx of recent reorgs and layoffs.
+463,CNN,Account Manager,2016-02-25,3.0,Account Executive,"Vibrant working culture. Young, energetic. Lots of socialising after work.",Heady deadlines. Long hours lots of work and many demands
+464,CNN,Not all it's cracked up to be,2016-02-24,2.0,Intern,There's a lot of experience to be gained by working at such a far-reaching brand. Even the dull aspects of the job are usually important.,"This is not the glorious internship they advertise. I barely received any work to do, yet was required to be at the office 20+ hours a week. Because of this, I was made to feel like I was doing a poor job. I barely received feedback when I asked for it. Another intern in my office was always busy with important work. I felt used and wished my bosses were more honest with me."
+465,CNN,Powerful brand,2016-02-22,4.0,,"Despite of the new players in the industry, the brand is strongly recognized, admired and respected worldwide . The international correspondents are outstanding.",We are too comfortable with the popularity of the brand. We need to be more aggressive to keep up with the new demands of the industry.
+466,CNN,Not perfect but close enough,2016-02-11,5.0,Production Designer,The title may be a bit misleading. Here's the meaning. A short time after I started working there I said to myself I could retire here. The atmosphere was kind and good. The pay could be better. But the benefits were very good. The location was perfect. I enjoyed nearly every day I went to work. And when I left I was as deeply troubled as a person leaving his loving family. Frankly I didn't want to go.,"There is a Us and Them mentality between NYC and Atlanta. It's unfortunate. At a Sr level, Atlanta restricted growth and became petty when I raised the bar and/or over performed. My actions lead to a Peabody Award. Their actions where disheartening. And I truly wish the us and them was never an issue."
+467,CNN,writer/producer,2016-02-09,3.0,Writer,Great co-workers and newsroom environment,"Lack of work, lack of communication when work is available"
+468,CNN,R&D Engineer,2016-02-06,4.0,Research and Development Engineer,"friendly, colleagues are willing to knowledge transfer and vice versa",incentives are rarely given and sometimes the senior or upper management are lacking in appreciation.
+469,CNN,Broadcast Engineer,2016-02-04,3.0,Engineer,"Always new technologies happening, although implementation is often not very well planned.
+The new people tend to be ""groomed for promotion"". Good benefits.",Only new people are truly considered for promotion. The shifts can be difficult to work with.
+470,CNN,Editor/Producer,2016-01-27,1.0,Editor/Producer,"I've worked in major market post production for 20+ years, and in 2015 was lured into relocating to Atlanta at my own expense for a job as a CNN ""Editor/Producer.""  Biggest mistake of my life!  (No exaggeration.)  When Time-Warner slashed the budget in 2014, many of the senior managers were axed and replaced with newbies, who didn't have a clue about the day-to-day operations of the departments.  The result has, in many cases, been a shamefully disorganized approach to hiring new people.  After I started the job, I was forced into a role that had little to do with editing, and LESS to do with producing.  My discussions with management about this were a complete waste of time, as they were totally inflexible.  As a result, the talents for which I believed I was being hired went completely un-utilized and I was miserable.  I left after a 8 months and never looked back.  My disgust over this episode is only exceeded by my relief at being out of CNN.  Beware of this organization.  They used to have their act together.","(See ""pros.""  Everything is there.)"
+471,CNN,"Great Company to work for, but make too many departmental management changes too often",2016-01-21,4.0,Digital Media Technology,"Good atmosphere, great location, awesome people.","Too many departmental changes, with this department taking over that one and not really knowing what the other department fully does."
+472,CNN,Pretty good,2016-01-19,4.0,,"Amazing pay roll, nice people to work with","Bad owners, not enough people, very biased."
+473,CNN,"Great people, solid culture",2016-01-11,4.0,,"Great boss
+Potential for awesome opportunities","Long hours (expected)
+Not much direction in the news assistant program, but not the fault of anyone. Everyone is busy at the network focused on news."
+474,CNN,Great benefits and co-workers,2016-01-08,3.0,Senior Producer,Superb benefits and fantastic co-workers.,Leadership from the very top is flawed and too hungry for ratings. Credibility is the victim.
+475,CNN,CNN,2016-01-06,3.0,Operations,"International, varied, exciting, often important.","Too big, chasing ratings and diluting the core of the brand."
+476,CNN,Good company and perks,2015-12-15,3.0,Producer,"TONS of vacation days; honestly, your experience here varies by the network and department that you work in.","The professional culture isn't the best.  There can be a disconnect between managers and employees.  Sometimes, people take themselves and their jobs too seriously and can think very highly of themselves."
+477,CNN,CNN was a great place to work back in the day,2015-12-10,3.0,,"I spent many years at CNN. Great benefits, great co-workers, managers that cared, great growth opportunities. Now things are different, so I can't speak to it currently.","the hours. You must be passionate about the news and willing to have ""floating"" hours, stay late, come in early, etc. as necessary"
+478,CNN,Pros and Cons,2015-12-08,4.0,,"Overall a very good place to work. Great benefits, fairly competitive salaries.","Brutal hours (welcome to the news biz), Questionable advancement and promotion practices. Too much politics in some parts of the company."
+479,CNN,Working at CNN,2015-12-03,4.0,,Great benefits (health) and growth opportunities.,Inexperienced Managers who are not trained to manage direct reports.
+480,CNN,Writer,2015-11-28,5.0,,"Great place to work, helpful environment and spirited, hard-working people",None! can be a bit beuqacratic
+481,CNN,"Exciting, friendly company but slow progression",2015-11-28,4.0,,"Friendly staff, nice office environment in a great central London location. Relaxed working environment, and free coffee and tea facilities. Quarterly team drinks. Regular updates on company developments.","Slow progression, office environment is quiet. Have to put in the extra effort of building strong business relationships with influential colleagues, that said, it is one of the best companies i have had the pleasure of working for."
+482,CNN,News Assignment Editor Planning Producer,2015-11-22,5.0,Newsroom Editor,Researching and producing content for  news channel that is most watched during breaking news,Need for more staff to work on future investigative reports
+483,CNN,Manager,2015-11-21,4.0,,It is a great company to work for,It's a lot of work to complete with them.
+484,CNN,Producer,2015-11-19,4.0,Prodicer,"Good pay, ($70k+) good health benefits","Terrible hours, poor work-life balance, too many middle managers"
+485,CNN,Exciting place to work,2015-11-19,3.0,Lines Coordinator,Exciting place to work.  Every day is different.,You never know when you will be laid off.
+486,CNN,"Interesting environment, unpredictable duration of job",2015-11-19,2.0,Intern,"Got to see journalism first hand, exciting atmosphere","The pay was horrible, the interns (and cameramen) were treated like disposable objects by management. No one was sure if they would be allowed to stay or fired within the next few months."
+487,CNN,CNN,2015-11-17,2.0,,"Hands on experience producing content viewed around the world and by important people. When there is big breaking news, you can feel the impact you are having.","The good moments are few and far between. Most of your job is coordinating logistics, and when you cover stories, there is so much focus on the scariest video and most dramatic storyline. It feels like youre hurting more than youre helping."
+488,CNN,Supervisor,2015-11-15,3.0,Supervisor,"Good health, vacation benefits for all the employees",Promotion is an issue for many of the employees
+489,CNN,Intern,2015-10-20,5.0,,Great benefits and great environment.,Cons- There is none.
+490,CNN,BD,2015-10-11,4.0,,Good job with nice benefits.,You're part of a very big org.
+491,CNN,Great internship,2015-10-11,5.0,,The production staff gives interns ample opportunities to contribute ideas and meaningful work. Great people to work with.,Interns are paid at minimum wage.
+492,CNN,CNN Review,2015-10-05,4.0,Executive Assistant,"Experience in Media, Company Benefits.Intellectual stimulation.","Corporate bureaucracy, Lack of diversity, Lack of ability to listen to feedback."
+493,CNN,"Great company, great benefits, bad politics",2015-10-04,3.0,Manager,Competitive salary and awesome benefits,"Senior management, company politics"
+494,CNN,Working at CNN,2015-10-01,4.0,,"Excellent benefits, great people to work with. Good company",Some micromanagement and poor communication.
+495,CNN,Best Engineer,2015-09-28,4.0,Anonymous Employee,"- Great Benefits !!!
+- Very few good managers",Enough training is not given to all Techs.
+496,CNN,Mixed Review,2015-09-24,3.0,Writer/Producer,Great place to cut your teeth as they encourage development and support you regardless of your stage of development. there are some great managers in the building/newsroom but you can count them on one hand. it's a fun place to work for the most part; I rarely worked alongside someone I didn't like or find interesting,"upper management (in Atlanta) is either NY rejects or a part of the club that promotes their friends when the show they were on is cancelled. not sure if all newsrooms are this way, but CNN treats newsroom staff like trading cards -- just as you get comfortable, you're traded to a new show/schedule. sometimes it's a compliment, more often it's a backhanded slap in the face."
+497,CNN,Thankful for second chances,2015-09-20,3.0,Writer/Copy Editor,"Good people to work for.  Everyone is friendly and works hard.  Encourages reaching out to other department for freelance and other opportunities.  Supervisors, at least in my department, are easy to reach out and speak out with.","Always dealing with some form of uncertainty given what was gone on over the last two years.  Would like to see departments working together, rather than ignore one another."
+498,CNN,Operations Engineer,2015-09-17,4.0,Operations Engineer,Great Benefits and tons of PTO,Company changes from top down and does not involve employee even though they are the one directly impacted
+499,CNN,CNN,2015-09-07,4.0,Anonymous Employee,Best benefits in the biz!!,Not enough internal advancement
+500,CNN,Soft comfy chair that gradually ruins your posture,2015-09-07,2.0,Anonymous Employee,"Great benefits, tons of vaca allowance, good 401k, strong HR arm, lots of corporate distraction fun like volunteer days, swag giveaways and family outings...basically everything that has zero to do with the actual product.","The actual product.  15 years of inertia, apathy, and group-think at all levels have formed a bottomless tar pit for innovation."
+501,CNN,good enviroment,2015-09-02,4.0,,"very good training, smart, hardworking people, keeps you on your feet",mostly just the lack of mobility
+502,CNN,It's fine,2015-09-01,3.0,Anonymous Employee,"Great vacation policy, well known brand, access to tons of editorial resources","TOO MANY COOKS, very political, hard to move up, growth into other positions is frowned upon, new ideas and dissent are not allowed, all decisions come out of New York (but don't say that aloud, or you'll be told otherwise)"
+503,CNN,Good place to work,2015-08-31,4.0,Producer,"Excellent healthcare, excellent vacation time, good training program, fun perks and activities, nice office","Hard to move up, lack of management training, you never know when your show might get cancelled."
+504,CNN,editor producer,2015-08-27,3.0,Editor Producer Creative Services,Great benefits Great people to work with,Once great network not what it used to be
+505,CNN,Social Media Producer,2015-08-19,5.0,Social Media Producer,"News, Fast, Journalism, Global, Public Service","Politics, Deadlines, 24hr, Pressure,"
+506,CNN,Producer/Writer,2015-08-17,5.0,Anonymous Employee,"The name, the glamour, the salary. Working at CNN was a ""top place to work"" at the time. The salary was similar to the salary of a Manager at Televisa or TV Azteca.","The politics, and the fact that we where doing a full show with very limited resources. The fact that some of the management was done from Atlanta, with poor feedback on some of the realities off the country where the team was deployed."
+507,CNN,Medical Intern,2015-08-11,5.0,,Hands on experience in medical unit,some repititve (yet useful) intern duties
+508,CNN,Social media producer,2015-08-11,3.0,,Great benefits including plenty of personal time off,"No work/life balance, pay is low starting out"
+509,CNN,CNN Digital,2015-08-10,5.0,Supervising Producer,"Great benefits, Industry leader, Amazing people.",None to speak of currently.
+510,CNN,Good place to work,2015-08-09,4.0,,"Great colleagues, vast news gathering resources","Lack of direction, focus, and understanding of what brings value"
+511,CNN,Manager,2015-08-08,3.0,Manager,Camaraderie was great until recently,"Cutting too much, affecting the product."
+512,CNN,great company,2015-08-03,4.0,Anonymous Employee,great company to learn the business at.,layoffs like all other major broadcast and traditional companies
+513,CNN,Shippington & Receiving Coordinator,2015-07-28,5.0,Shipping & Receiving Coordinator,"Best Company to work for, good benefits and good management.",No Cons. Very good company to work for.
+514,CNN,Project Manager,2015-07-18,3.0,,Great Company to work for,Flakey Management teams in the south
+515,CNN,Part of the Sales Team,2015-07-08,5.0,Sales,I found a lot of room for advancement.  If you were willing to work hard they didn't care about your background (mine was not in sales.),"My immediate bosses were terrific, but upper management seemed really disconnected.  Sometimes they would send conflicting messages about something--in the same week!"
+516,CNN,CNN,2015-07-01,4.0,Anonymous Employee,Exceptionally smart people and opportunity for those who apply themselves. Exciting direction for the network- great time to be working here.,Nothing to speak of now
+517,CNN,.,2015-07-01,3.0,,Exciting and fast paces place to work. Extensive resources around the world to deliver the news. Lot of opportunities to learn from different people.,Work can be very boring and slow if it is a slow time for news. Sometimes there are not enough task for interns to do for it to be a full-time internship.
+518,CNN,CNN international,2015-06-28,3.0,,"good work environment, great colleagues, lots of travel and international exposure, lots of opportunity to try different roles","low salary, management isn't great, poor work life balance"
+519,CNN,Associate Producer,2015-06-27,4.0,,opportunity for professional growth and networking,intense work environment and bonuses never reflect work performance
+520,CNN,News Assistant,2015-06-25,3.0,Freelance News Assistant,"- Amazing Co-Workers, everyone is super helpful and a lot of employees will ask about what your goals are long-term and offer advice 
+- Great for making connections, people are really awesome about allowing you to shadow other positions (if you are proactive in asking)
+- Decent Freelance Rate (if you can get enough hours, this is totally livable)","- Tasks can get monotonous after a few months, it's mainly working teleprompter and distributing scripts/taking care of anchors 
+- Specifically as a freelancer, unless you outline your hours in the beginning, you can get some crazy hours (5am shifts, Overnights, etc.) - because management does not have to abide by the same rules as they do for their full time news assistants"
+521,CNN,"Fun, exciting place to intern",2015-06-15,4.0,,"Learned a lot about TV production
+Had major responsibilities as an intern",Not great about hiring interns after graduation
+522,CNN,Still the best ticket in town if you work in news,2015-06-09,3.0,Anonymous Employee,"Even though I never intended to have a career in news, CNN was the best place for me to learn my strengths and helped me come into my own as an all around producer.",Management didn't necessarily support the importance of work-life balance. I wish that there was more diversity on the management team.
+523,CNN,Production Assistant,2015-06-01,3.0,,"Fun, high energy, immediate responsibility","News is very stressful, hours can be tough"
+524,CNN,Assignment Desk Editor,2015-05-29,4.0,Assignment Editor I,Management treats freelancers well. While they want you available when you are needed they are respectful of other commitments.,Employees can take awhile to warm up to new blood.
+525,CNN,CNN Internship,2015-05-25,4.0,,really great intern program with training included and events for all interns,had to work long hours sometimes
+526,CNN,Great Work Enviroment,2015-05-13,4.0,Writer,Great benefits and salary is competitive and higher than other networks. There is also great opportunity to grow within the company.,As with any job in news the hours can be long and tiring but that's the price you pay to work in the number one media market for one of the biggest media companies in the world..
+527,CNN,Good place to learn the workings of a news show,2015-05-11,3.0,Intern,"The location is fantastic, the equipment is top notch. Most of the people are great and very intelligent.",Sometimes they beat a story to death oftentimes using their top notch resources which don't really add anything.
+528,CNN,working stiff,2015-05-06,2.0,Anonymous Employee,Parent Company (turner) offers great benefits,"Poor work life balance, unrealistic expectations, lack of transparency"
+529,CNN,I have a 5 year experience in my job were i have stived to success,2015-04-21,5.0,Sale Executive,Am looking at uping my experience to an intentional level and looking up a bigger challenge,Facing my bosses can some time be difficult
+530,CNN,I mixed all CNN show produced in DC over the past 19 years.,2015-04-17,2.0,Audio Designer,"Excellent benefits, smart producers, fast-paced shows",Cable television is changing quickly. Web based shows are more and more significant. The future of TV will look much different than today.
+531,CNN,Editor,2015-04-09,4.0,Anonymous Employee,"Salaries are fairly competitive, company benefits are pretty good.",There is a lack of career growth
+532,CNN,"Good place to start a career, not a good place to stay.",2015-04-06,3.0,Producer,"Exciting, dynamic, ""brand-name"" job for people looking to get a start in journalism.  Well-resourced with plenty of opportunities to try new things.",Little upward mobility past the Producer I level.  Stick around too long and your get on the list for next round of layoffs.  Job security extremely limited.  Compensation is generally lower than the broadcast networks.  Significant promotions or raises are based more on seniority than talent.
+533,CNN,Corporate strategy intern,2015-04-02,3.0,,"great company, helpful to have on resume for future jobs","company moves slowly, and not a lot of autonomy"
+534,CNN,News assistant,2015-04-02,1.0,,"ability to take on many tasks and take initiative, learn and grow if you make sure you ask for it","Worst enviornment, cut throat"
+535,CNN,News Assistant,2015-03-30,4.0,,Working at CNN is prestigious and can open a lot of doors for a young journalist.,"There are no benefits, the hours and salary are pretty tough."
+536,CNN,I worked at CNN for many years.,2015-03-27,4.0,Anonymous Employee,Great people to work with.  Great benefits. Still lots of opportunities to advance.,Struggling to adapt to the new realities of digital news. How to keep a cable audience and revenues while transitioning to an online model. 24 hour schedule can be hard on work life balance.
+537,CNN,"Not the best, lots of stagnation and little room to think outside box.",2015-03-20,1.0,Director,"Time off was good and benefits, employees were very nice as well.","Not the best, lots of stagnation and little room to think outside box. Minimal diversity and few execs who are women."
+538,CNN,It all depends on what division you're in...,2015-03-20,3.0,,"Benefits - including time off, 401K, health insurance, etc are absolutely world-class. Pay is average to slightly above average. Annual bonuses are generous.  Overall, Turner is a fantastic company.","Professional development opportunities are very hit or miss - depends on what division you're in. Some areas make it a priority, some see it as virtually unnecessary. VERY little focus on talent retention. Layoffs tend to come around every fall, some years much worse than others. VERY top-down approach. Employee input isn't really valued."
+539,CNN,CNN good place to work.,2015-03-13,5.0,News Producer,Big company with lots of opportunities.,Sometimes the company is slow to make changes.
+540,CNN,Love CNN!,2015-03-03,5.0,Intern,Worked at CNN as an intern and it was probably the best learning experience ever. The employees are extremely willing to answer questions and share their knowledge. Anyone is accessible if you aren't afraid to reach out.,"The minimum wage pay. When you move across the country to intern, you should be paid more than $7.25/hr."
+541,CNN,Terrible management but great benefits,2015-03-02,3.0,Production Assistant,Work-life balance is pretty decent for a news organization,"Their onboarding is horrible, it's a very disorganized company. No discussion between different divisions or different departments. HR and Higher ups have no idea what is going on."
+542,CNN,This company is just a mess.,2015-03-01,2.0,Assignment Editor,Decent pay once you progress to a certain level.  Good benefits,"Culture encourages the absolute worst in its employees.  Behaviors that would get you censured or fired in other positions are mandatory to advance here.  Like to treat a fellow human like a piece of crap, stab them in the back,  and scream in at someone in place of your own competence?  This is the place for you.  Also, don't plan on retiring here, you'll be removed and replaced by some kid out of college is you make too much.    And perhaps most importantly, the final product is simply terrible."
+543,CNN,Intern,2015-02-24,4.0,,"Big company, nice building, friendly supervisor, HR provided good resources","Low pay, some of the PA's and junior staff was very overworked"
+544,CNN,Senior editorial producer,2015-02-21,2.0,,great team working with shows- amazing editor,lots of turnover and change in the past year or so- no one feels their job is secure
+545,CNN,From what I heard this used to be a great company,2015-02-03,1.0,Anonymous Employee,Nice building. New York is great. Thank goodness I did not have to go to Atlanta . Right next to Central Park with all the trees and greenery.,"management is out of their minds. They like to cound beans rather than hire good people with talents, dreams, visions and competancy.  Many are just interested in the ratings, but nothing else. Maybe if they considered the workers, the heart and soul of any company, and their best asset , things could be better.  Too top down, companies work better when they are bottom up. ."
+546,CNN,"Bad Place to Work. Low Pay, Low Morale",2015-02-03,1.0,Studio Operator,Lots of time off.  Free Coffee.,"Very low pay, inept managers, and low morale.  Too committed to diversity.  Bad pay$$$.  Very Political work environment, with a lot of Ego's.  Horrible Public Relations department.  Disorganization throughout entire Management structure.  Ongoing litigation with NLRB over Union Contract over a decade old."
+547,CNN,Work there with eyes on future not on past,2015-02-02,2.0,Anonymous Employee,"Lots of opportunity to strike out on your own if you are entrepreneurial. Best journalists in the business, bar none.","Very, very chaotic. Network has not decided what it wants to be and pretty much everyone is running around without any idea what they should be doing. No concept of work/life balance. None."
+548,CNN,Interesting Organisation,2015-02-01,4.0,Strategic Planning Analyst,Some degree of  autonomy while working for a large international organisation,Strategic priorities are sometimes inconsistent
+549,CNN,"Collaborative, fast-paced news environment that drives you to be better",2015-01-06,4.0,News Assistant,"Friendly coworkers, excellent resources, name recognition, dynamic environment & innovative leadership",Can't be afraid of long & odd hours!
+550,CNN,CNN has forgotten its middle name,2015-01-05,1.0,Content Producer,"Fascinating work, great exposure, OK pay and good benefits. A good place to work for a short period of time before moving on.","High-level managers change every few years, but they all seem to have one thing in common: they impose a top-down management style where fear -- starting at the top and rolling downhill -- is the primary motivator and can create a sweatshop-like environment. The result: corners get cut in news gathering."
+551,CNN,Good to get on your resume but get out when you can.,2015-01-03,2.0,Systems Technologies,Get to play with lots of cool cutting edge technology. Great place to learn. Great benefits and a boat load of vacation.,Rampant cronyism.  Being good at your job does not get you promoted. Small bureau in DC so promotions are few and far between. Promotions are dangled to get you to perform but then promises broken. High turn over due to exactly these things. Just went through massive layoffs where valued people were let go somewhat arbitrarily.
+552,CNN,Great place to work,2014-12-30,3.0,Master Control Operator,Structured company with a great reputation and awesome benefits. Good amount of time off. Great opportunity for growth.,Get ready to play the corporate game..
+553,CNN,Very challenging but also a very rewarding place to work,2014-12-17,4.0,,Great benefits and pay and a lot of vacation time plus a great 401k,"Sometimes a lot of long hours or weekends or late nights or other shifts, depending on the job and breaking news"
+554,CNN,"Good people doing the work, but shiftless management",2014-12-13,3.0,,"Great, passionate people working the day-to-day.",Management is slow to implement anything new. Massive favortism
+555,CNN,Great turmoil,2014-12-10,3.0,Business Operations,"CNN, despite its problems, is still the go-to place for news around the world.  It is still an amazing institution to be associated with.","It is in the midst of a dramatic change, and, with that change, comes a lot of upset."
+556,CNN,Lots of changes here right now,2014-12-05,3.0,,Lots of change can mean lots of opportunity,Lots of change can mean lots of instability
+557,CNN,CNN is a good company to work for with decent benefits and job security but lower than average salaries.,2014-11-10,4.0,Manager,"Working in a broadcast field means that for the most part you do not take your work home with you. The people who work there are, for the most part, passionate about what they do and committed to making CNN the best it can be. 
+
+CNN offers generous benefits and PTO.","CNN is run in a very top down manner, meaning if someone is above you in the company hierarchy, they usually get their way regardless of whether they are making the right decision or not. This probably applies to many large companies and not just CNN. 
+
+CNN's salaries are on the low side."
+558,CNN,Great Work Experience. Horrible Work Environment.,2014-10-27,1.0,Anonymous Employee,Working for a global brand. Fast-paced Environment. Cool projects.,"Lack of interest in management for developing talent. Hostile environment if you are not a part of the ""circle"". Lack of appreciation for diversity across the board. Lack of respect for work-life balance outside of mothers. HR department does not work in favor of the employee."
+559,CNN,Working for a joke,2014-10-11,1.0,,You work along talented people.   You learn so much  from your coworkers.    Some of the hardest working people you will find,"All in a word. Managment.     Top and middle management need to be replaced
+Nepotism 
+Poor planning 
+Lack of direction 
+Wasting money 
+Emailing and meetings that serve no purpose 
+Leaders who can't lead or do
+Managers don't know the first think about tv or their departments 
+Need proper training"
+560,CNN,"Great Benefits, Low Pay, Hard to Move Up",2014-10-08,3.0,Producer,"Very generous PTO, if you're lucky to be with a group that allows you to use it.",Low pay.  Hard to move up in jobs.  Plenty of people move up based on personality and yet they have no idea what they're doing. They call and ask asinine questions like are they supposed to a mic on a live guest in the field. The company obviously thought you were qualified enough to be a field producer. You tell me.
+561,CNN,Good start to a career,2014-10-03,4.0,,"Incredible exposure, amazing people, exciting environment","Low salary for lots of work, employees undervalued, exhausting and highly stressful"
+562,CNN,Company is going downhill....FAST!,2014-09-27,2.0,Anonymous Employee,The benefits are amazing! And the people doing the work are great! These two things made it incredibly hard for me to leave.,"Management is terrible. They have no sense of what they are doing, action is mistaken for progress. Management has a heightened sense of themselves, and put meetings and email above all else, even the work. They will ask to do something different for the sake of doing something different. Rather than focusing on improving the quality of the content, the goal at CNN seems to focus more on gimmicks and being different instead of the quality of the content. Big money and sponsorships drive the content, quality isn't even thought of."
+563,CNN,Too much celebrity culture,2014-09-17,2.0,,The networking opportunities are amazing.,Celebrity Culture. The office culture is so terrible.
+564,CNN,Overall fulfilling,2014-09-15,4.0,International Desk Assignment Editor,Working with some of the best in the business,"Easy to get stuck in a place unless you continuously take own initiative to cross train, salaries not as competitive as some other networks and considering the HQ is in Atlanta, not much else to do in this city but work for Turner/CNN"
+565,CNN,Review,2014-09-07,5.0,,A great company to work for,Irregular hours and unexpected shifts
+566,CNN,Great while you are there...and then the axe falls,2014-09-05,4.0,Writer/Producer,"It's owned by Turner, which has excellent benefits. If you want to learn something, talk to your manager, then sign up for a passport, or just talk to a manager in that department and just do the job for a few days. Lots of great people work in the building, and networking opportunities are immense. It's better to be right than first - most people in the building believe that. And holding a meeting or networking at the Starbucks in the food court is the norm.","Well, take everything I said above with a grain of salt, because that's under the old management. There always were layoffs when I was there, and reorganizations, and one day your best buddy was there and then he was out. When I was let go, and someone in another dept. heard about it they took me to lunch, that's how nice folks are there. But it happens without warning, and to a lot of folks at once, and sometimes it makes no sense. The other drawbacks - its a 24/7 news operation, so who knows when you'll be working. My exec. producer appreciated the home/life balance, but the show comes first."
+567,CNN,Get Off the Sinking Ship,2014-09-02,1.0,Broadcast Engineer,"Used to love working at Turner, the people are really what make the company great. The benefits package is also quite good, despite the below average compensation.","Ever since Jeff Zucker and John Martin came aboard, this company is collapsing. Morale is the lowest I've ever seen, and it's not just in my department. They are killing Atlanta one person at a time. I hope me and my coworkers can get out before they throw us out. If you are thinking about a career here, run now before it's too late."
+568,CNN,"Decent salary and prospects, but rampant cronyism",2014-08-28,3.0,Editor,The brand-value on one's resume.,"Very much beholden to vested interests in that managing editors, section chiefs etc are often in a position to abuse their power re hiring and planning."
+569,CNN,Insane hours for little to no money.,2014-08-22,1.0,News Assistant,"If you have no useful skills but are a people person, you'll do well here.","You'll make no money, have no social life due to breaking news, and are always on call."
+570,CNN,Great company if you are on a supportive team,2014-08-01,2.0,Anonymous Employee,"Great name to have on your resume, awesome benefits, excellent training courses. Most of leadership seems to care about and look out for their employees.","Nepotism and Favoritism. Also the insane pace of workload can be a nightmare. Turner is a southern company, built on the good ol boy system and promotes their friends. If you hang out with leadership on your team, you will be promoted. If you do not, you will not. Work performance does not factor into your promotion. Friendship weighs heavier and clouds judgement of managers. They like to have their ego stroked and butts kissed. Working hard at your desk will get you no where. You have to be super energetic and enthusiastic about your work and broadcast that. This is seen as passionate. Even if you are not that type of personality you must become it to thrive here. Bad ideas will be considered if there is ""passion"" around them over great ideas. There is no work, life, balance and the pace is insanely fast. Work. life, balance only exists for management or the kiss ups. Subject matter experts are only promoted if they build a relationship with management."
+571,CNN,I loved working at CNN.,2014-07-31,4.0,Anonymous Employee,I had excellent managers and worked on several really cool projects. I was able to have a healthy balance of work and a personal life. And the benefits were good.,They didn't do a good job of hiring dead weight. It's such a big company that there are cracks in the system and people who do nothing can just stay in their same position.
+572,CNN,Great benefits...no life,2014-07-31,3.0,Producer,"CNN/Turner offer exceptional benefits including paid time off and medical/dental, life insurance, and a great 401k match.",CNN does not respect it's employees and sees them as $$$ and not as people. The work/life balance they promote only exists for upper management.
+573,CNN,Still a great place if you love the news,2014-07-30,3.0,Anonymous Employee,"Still a great place to work if you love the news--good benefits, 401K match, generous vacation.",Certainly going through a time of transition and I'd say the upper level management that I worked for was closed off and not effective at keeping employees informed. A lot of favoritism and management promoted solely for being in the right place at the right time.
+574,CNN,Great company,2014-07-16,5.0,Producer,"Best benefits, work atmosphere keeps entails you to learn A LOT. You will learn something new everyday. The people you work with are helpful, especially within your team/dept..and the good thing is that even if things are departmentalized, you work with very department.","24 hour news network means you are not guaranteed holidays, but you do get over 30 days of off-days"
+575,CNN,"Good people all around. A tight knit, professional atmosphere.",2014-07-07,5.0,Media Coordinator,Great team environment. Fun people.,Fast paced. Have to be a quick learner for many things.
+576,CNN,"Good benefits, supportive HQ",2014-07-06,4.0,Associate Producer,Company provides great diversity perks such as money to attend conferences and training. Housing is offered offered to international journalists working abroad. Lots of resources compared to smaller print and news companies so money is not a problem when on assignment.,"Company is not likely to fire an incompetent boss, despite complaints from employees. Have to put the company first if you work in an international office. No work-life balance."
+577,CNN,Disappointing,2014-06-21,3.0,Producer,Company still has a good reputation,Lack of advancement. I have never seen a job description or a career plan. HR is obstuctionist. There is a serous lack of leadership. Middle managers are yes men and women. Nobody thinks for themselves. That is considered dangerous. There is no loyalty.
+578,CNN,CNN is a well-oiled news company with new drivers at the wheel,2014-06-15,3.0,Producer,"You will never work with better journalists than the ones who work here. Their attitudes, work ethics and results are simply mind blowing.","This company is focused on the realities of changing technology and new executives, less so their employees. It is a company in flux -- it used to be obvious how employees' work supported the goals of the company, but lack of direction and less transparency from management has been a part of recent changes."
+579,CNN,A great company but...,2014-06-13,3.0,,"The CNN brand is respected by most.  Those 3 letters hold weight.  It's been a pleasure working at one of most respected names in news, breaking news namely.  The benefits are great - opportunities for self & professional development, health insurance, discount perks, screenings, swag, etc.","I would say being overworked is a common thread of working here.  Even with all the perks and opportunities offered, you may not have time to take advantage of them.  This also makes it challenging for those in certain positions to move up or around the company."
+580,CNN,It was a very challenging and rewarding job,2014-06-11,4.0,Middle Management,It used to be a respected name. At the time I had very fair bosses and a really rewarding experience. Unfortunately those people are no longer there.,It is no longer a respected news source and has been become the  laughing stock of the news industry. It is unfortunate because they used to set the bar of what the news should be.
+581,CNN,the titanic,2014-06-03,2.0,,good workers. salt of the earth folks.  good benefits.,middle management crisis.  too much metadata not enough focus on content
+582,CNN,exciting and innovative,2014-05-23,4.0,Manager,benefits were compatible or in some cases better than other television networks. encourage growth and offer many ways to improve.,"no long term planning and within the news environment, your life needs to be very flexible. Some areas are very easy to move up within the company, others are not."
+583,CNN,It was great,2014-05-12,4.0,,"Good benefits, good salary, nice peopoe","Slow, closed off culture, not innovative.. too bottom line focused"
+584,CNN,Management can't figure it out,2014-05-12,1.0,Anonymous Employee,"Great benefits - extensive time off. The ""little people"" work their butts off","Senior management can't figure out what they want the network to be. News? Scripted shows? Politics? Because they can't figure it out, they let people go. Also, everything is very ""siloed"" so each group has no idea what the other group is working on. Shows compete against each other for guests or pieces. You have to try to do everything 15 times because there is no central authority saying ""This is how we are doing it and everyone will use this guest or piece."""
+585,CNN,A company in transition,2014-04-18,3.0,Anonymous Employee,"Amazing history, tremendous brand, the mission of giving the world the news and information it needs is still there, somewhere.  Fantastic people, smart, and who generally take care of one another.  You feel like you are part of something bigger than yourself.",The company culture has changed.  Internal politics have gotten worse.  Ratings are not where they should be.  Concerns that new management seems to care less and less about taking care of employees.  Definite split between New York and Atlanta.
+586,CNN,"Good company, needs more vision",2014-04-16,3.0,,"Coworkers are smart, dedicated and want to do well. Everyone works hard and is pleasant to one another, for the most part.","The company has undergone a lot of change over the past few years, but still lacks large-scale vision for its future. Needs to improve, in risk of losing its serious, authoritative voice on news."
+587,CNN,Great learning experience,2014-04-13,4.0,Field Producer,"I was given a lot of responsibility, very quickly -- more so than I've heard one gets at other television news organizations.  The bureau in which I worked was growing fast, and anyone who showed any competence got promoted within a short time.","The flip side to the Pros -- fast growth, lots of responsibility handed out -- is that sometimes someone is given more responsibility than they're ready for.  If you have to work with someone like that, you'll find yourself picking up their slack.  But again, if you see that as an opportunity, it's not really even a Con."
+588,CNN,A great environment to work and network,2014-04-09,4.0,,The benefits and perks are competitive as is the salary.  You have the opportunity to be promoted within the organization and seek out your specialization within the industry.,"There is a culture of relationship building and networking and at times this is a positive.  However, you have to continue to be strategic of your network and at times this could be a good and bad thing depending on your alliances, well it is after all TV."
+589,CNN,Its an aircraft carrier,2014-04-08,5.0,Director,"Stable, fun challenging environment....great resources committed colleagues","Its an aircraft carrier , very slow to change course ....but quick to change captains"
+590,CNN,Satisfied,2014-04-08,4.0,Staff Reporter,"Good teamwork, talented writers and sharp editors.",This has yet to be determined.
+591,CNN,"Fantastic staff, top notch resources, hampered by poor Dept head and Exec Leadership in many cases.",2014-04-07,3.0,Operations Management,"I worked at CNN in the 1980's.  I came in near the beginning of the network, and rose thru the ranks .  I was proud of CNN and Turner Broadcasting's rise to to peak of the industry.  Great employees, generally  good to very good immediate supervisors and managers that have risen thru the ranks and are managing areas in which they once worked as staffers.   The benefits package are among the best in the business.  My CNN 401k match made me VERY  well situated for retirement early in life.  the company match is phenomenal.","CNN is struggling to re-invent itself, again.   The current president has boldly stated ""CNN Needs less news, and more shows.""  for those of us who still believe Ted Turner had it right from the start with ""News is the star"" are appalled  at some of the steps CNN is taking to try to regain Ratings Success over Journalistic Integrity.   The lip service  given to ""Life/Work Balance"" became a joke.  The company talks a good game, but the reality is something else.   That said, most CNNers have a passion for the work and relish the thrill of live news and the long hours in the short term, when needed.  That hard work and long hours is often left unappreciated by senior leadership.  Over the past couple years CNN has done a series of ""re-orgs"" of Depts.   This too often seemed to see the most senior, experienced, and well-compensated staff...pushed out.  We call it the 20, 50, 100 club.  (20 yrs, over 50, making more than 100k).  Morale is low now,  staff anxiety high, due to many factors including layoffs, and disappointing ratings."
+592,CNN,I have never worked with people so absolutely paralyzed by fear,2014-04-07,2.0,,"The other groups I worked with were actually great, when I was allowed to interact with them.","I was expected to come in, shut up and do what I was told. Was immediately prevented from implementing anything but the most basic entity possible, felt like trying to code an app from about 6-8 years ago. Was nearly last in line for making any architectural decisions and was actually laughed at for ideas which would have worked very cleanly with little maintenance.
+
+I cannot emphasize this strongly enough - if you choose work for CNN as a developer, DO NOT SPEAK UP. Do not try to do things in a more modern way or try to train people. You will be branded a troublemaker regardless of whether you are right or not. Regardless of whether you are trying to make a thing work well or not. It does not matter to them. Even if the product group you work with is fundamentally unhappy with what is being produced, it is still frowned upon for you to speak up. You will be blacklisted.
+
+All that matters in the end is checking off the right checkboxes at the right times so the project looks good on paper. Health of the app itself is not a concern. The director I was working under is now actively blocking me from other employment at Turner or CNN. Need I say more?"
+593,CNN,Poorly managed,2014-04-06,1.0,Website Editor,Salary OK. May look good on your CV when you inevitably look elswhere.,"Badly managed, divisive office politics from management."
+594,CNN,It was great,2014-04-02,4.0,Media Coordinator,"Fun culture, it is very fun","Very challenging, hard work but worth it"
+595,CNN,More about who you know than what you know.,2014-03-27,3.0,News Assistant,"Benefits are great, tons of learning opportunities if you know the right people and play the delicate balancing act of being aggressive without being overbearing.",Highly political environment that makes it difficult to move up. Being good at your job is nice but not essential. Starting pay not comparable to cost of living...even in Atlanta.
+596,CNN,"Awesome,..'till Ted left.",2014-03-20,3.0,Editor,Benefits.  Having a parking place downtown.,"Leadership is a greedy, reactionary good ol boy network.  Too many Vice Presidents. 20/50/100 rule (layoff after 20 years, 50 years old, $100k."
+597,CNN,"Company overall is great, news operations managers awful",2014-03-17,4.0,Anonymous Employee,The benefits are outstanding and the company overall takes care of you.,"Schedules are tough, managers say they care about ""work-life balance"" but in reality do not and you get penalized for trying to have a ""life"" outside of work."
+598,CNN,"Great benefits, competitive compensation, low morale at the moment",2014-03-08,4.0,Anonymous Employee,The benefits are competitive as is the salary (once you reached a certain level).  Here you have the opportunity to work with people who are dedicated and care about their jobs…they also care about their co-workers.,There are several layers in management…which leads to bottlenecking and lack of communication between departments.  Morale is pretty low right now with people concerned about whether or not they are about to lose their jobs.
+599,CNN,Great company,2014-03-04,4.0,Anonymous Employee,Amazing sense of camaraderie between coworkers.  Passionate individuals who are enthusiastic about their work and getting it done with the best results.,Somewhat difficult to move up within the company since so many people stick around for several years.
+600,CNN,Too much Bureaucracy,2014-02-21,1.0,Anonymous Employee,There are no pros at CNN,"There are so many layers of Management nothing ever gets done properly, and the chances of promotion are slim.  
+
+When I was hired at CNN it took 2 weeks to get an email address and 2.5 months before I got my first paycheck. HR and payroll didn't seem to be phased by it and didn't care that I couldn't pay my rent.  The company truly does not care about an employees life outside of work."
+601,CNN,CNN envinronment,2014-02-15,5.0,Broadcast Engineer,"Enjoyable workplace with very diverse staff, supportive management, and offers a lot of opportunity for employees to grow","Because I work in the engineering side of the news, i get a lot of calls and tasks even on my day off."
+602,CNN,The best diverse and global news company you could ever work for.,2014-02-12,5.0,Senior Graphic Designer,They celebrate diversity and they listen to the employees' needs and opinions.,The only con about the company is trying to find their voice again in the news media of opinions without siding on any bipartisan.
+603,CNN,"In IT some groups excel, some patently awful and no incentive for them to improve",2014-02-12,2.0,,"Some teams really are top notch and a genuine pleasure to work with. Experts in their fields and darned clever problem solvers. Love working with these groups, no BS. Passionate about what they do and it shows!","I do not know how some groups in IT survive when it is 100% clear to any competent developer just how bad they are. No understanding of basics like object-oriented programming, recursive functions, etc. and entire projects' worth of unusable spaghetti code. Internal feedback? ""Embarrassing."" But somehow they are left to persist because the group leads are good at CYA."
+604,CNN,great opportunity to work at a national news level.,2014-01-15,4.0,Anonymous Employee,"great benefits, great culture, competitive pay.","Long hours, upward mobility can be hindered if not in a growing department."
+605,CNN,Probably not the most unique situation.,2014-01-13,3.0,Associate Producer,"There are great benefits. Plenty of commuter/parking perks. There's an onsite health clinic, though I've never personally used, colleagues who have used it give it high marks. There are also a few programs for discounts on travel, products, services.","I think working here is like any other corporate environment... sure, there are opportunities to advance, and putting in hard work along with a little self promotion will help move you along. However, there are some folks in management, mid-management who seem to value the big talkers over people who can actually do great work. It doesn't happen all the time, but I've seen enough talented people get pushed aside because they are either not a part of the ""in"" crowd, or simply grow frustrated of the fraternity of ""oh, I know you from"" and ""you worked at one of the big three nets, you must be smart"" type folks. It can be discouraging... but at the same time, managers seem to be cycled in and out every 3/4 years, so if you stick around long enough, maybe you'll get lucky and move ahead."
+606,CNN,Good but not great,2014-01-05,3.0,Production Assistant,Most of the people that work there are great. Not only at their jobs but also as people.,"Management. There is no reason to hyperventilate about ""breaking news"" when it's just a car chase."
+607,CNN,Not the Best,2013-11-11,2.0,Administrative,"Great co-workers, nice location (that's really all I have but there's a twenty word minimum on this site so I wrote this)","Our dept head was awful- cold, not really into teamwork, hired friends from the outside.  Admin staff report to an internal group called NGBA which is a nightmare.  This group enables executives bad behavior and will write you up constantly.  They work closely with HR (another nightmare) so you're basically stuck with no advocate if your boss behaves badly."
+608,CNN,"Forget performance, all about personality at Turner",2013-10-17,2.0,,"Great perks and discounts; really solid insurance coverage, capable, compassionate coworkers who crave the ability to do their jobs well and receive recognition for it.","It's who you know, not what you know. Just be aware of that going in to Turner. Make sure you never mention anyone's incompetencies or errors because you become the trouble maker. The in-crowd can make huge errors.... errors that wind up in trade media and ridiculed on line. A less popular person, but more capable person can make a minor mistake, like misspelling a name, and get written up. But the talent can go on air unprepared or just report errors and STILL work there."
+609,CNN,Slipping down hill,2013-09-26,2.0,Senior Editor,The people that you will work with day to day are well liked and committed to the job,The mid level and senior management are lost.
+610,CNN,Great people. But it's corporate.,2013-09-09,3.0,Designer,Awesome coworkers! Very laid back environment.,No growth. Poor leadership. There's no clear definition between UI/UX design and motion design.
+611,CNN,Great job until the end when things got painful.,2013-08-28,4.0,Senior Producer,"Salaries are great, benefits are as well. You're on the front lines of every major news story in the world.","Management structure is out of control, too many cooks in the kitchen.  24/7 work cycle - holidays just don't happen."
+612,CNN,Very difficult to move departments,2013-07-13,2.0,Media Coordinator,Nice location. Nice building.  State of the art equipment.,Had a very hard time moving to a different department.  Had to work 2 jobs at the company for over a year before finally being able to make the transition.  HR and hiring managers don't take chances on internal employees.
+613,CNN,Highly professional journalism following strict standards with some of the brightest people in the business.,2013-05-28,4.0,Online Writer,"Work quality, killer benefits package, massive amounts of paid time off, 40-hour work week, good pay once you advance - even great pay.  The company is highly profitable.",Shift work. Colleagues in starting positions can be extremely inexperienced; starter positions pay extremely poorly. The company allows false perceptions about itself to stand without defending itself or setting the record straight. The reputation colors the reputation of its employees.
+614,CNN,good cnn experience last year,2013-05-18,3.0,Trainee,work ethiquite and culture and experince,salary and the management official
+615,CNN,Great company to work for with some of the smartest people in the business,2013-05-05,4.0,,"It's an industry leader with smart, dedicated and driven people. It's well-run, well-managed, with little of the backstabbing you hear about at some other media outlets.",This is the wrong place to work if you're looking to get rich. But one could say that about the industry.
+616,CNN,What has happened to us in Marketing?,2013-04-24,2.0,Producer,"Great peers. The mission of CNN is soul-fulfilling. The technical resources are amazing. The employee benefits are top notch. There are substantial perks like ""Summer Fridays"" with early closing and extra holiday days around Christmas every year.",Hard to believe our morale and work environment could plummet so much in just 2 years. From a great team with great management to a disheartened staff led by heartless and pedantic management who lack any real vision or strategy for success.
+617,CNN,Great experience,2013-04-07,4.0,Anonymous Employee,Opportunities to do substantive work and feel like you're making a difference.,Long periods of routine administrative work.
+618,CNN,Underappreciated Engineers in a Wonderful Big Media Environment,2013-04-02,3.0,Operations Engineer,"Fascinating environment, Media Insider Perks, Decent promotion rates, opportunity to learn LOTS from the broadcast world if you put the effort in, good networking available if you try.","Stil a bit of a ""good ol boys"" club, the higher you advance, especially in engineering.  The company is a very large efficient machine, in the sense that they minimize their cost of staff.  Low salaries, low raises, layoffs when they need to downsize or cancel a show.  The hours can be brutal, if you're in a 24/7 department."
+619,CNN,"Good place to work, good people, but very political",2013-04-02,4.0,Account Service Representative,"Good people, great work life balance.",Very political.  If you don't do everything exactly by the book it is tough to move up.
+620,CNN,Great people but ratings pressure is intense,2013-03-28,3.0,Senior Producer,There are some wonderful people working at CNN. They make it fun to work there.,The staff cuts have been hard. The staff has to do a lot more with much fewer than resources.
+621,CNN,professional but firendly working environment,2013-03-21,4.0,Anonymous Employee,"smart people, flexible work environment","long hours, always on call"
+622,CNN,Incredible experience in the Political Unit in CNN's Washington Bureau,2013-02-18,5.0,,Working with the best professionals at CNN. Doing important work for television programs.,"As great as a paid internship is, I wish the pay was a little more than minimum wage."
+623,CNN,Great exposure for journalists,2013-02-09,3.0,International Desk Assignment Editor,Worldwide resources and very strong brand name,No life-work balance and they don't pay well enough
+624,CNN,Working at CNN,2012-12-11,3.0,Editor,Its CNN. So there's that.,"Its very much an ""in club"" of folks there. Hard to advance."
+625,CNN,Working at CNN,2012-11-07,3.0,Anonymous Employee,"Employees believed strongly in the brand and that imbued their work every day.   It was great to work at a company that strived to walk a middle ground, esp in the now toxic, extremist environment of cable television news.","Toxic political environment, senior managers more concerned with the perpetuation of their position and perks than in the development of their businesses.  Lack of unity of vision among senior managers and very little desire for cross-pollination.  Fearful bureaucracy muzzled managers lest lawsuits be launched against company.   Disconnect between preaching and practicing what was preached."
+626,CNN,Relatively good place but hard to move up,2012-10-27,3.0,Producer,"dynamic, exciting work at times","Pay is not competitive with other networks, Hard to move up"
+627,CNN,Great place to work and gain experience.,2012-10-16,5.0,,"fast paced, great culture, access to the news","Headquartered in Atlanta, Georgia, with smaller presence in NY"
+628,CNN,Mass produced low quality is valued over high quality professional work,2012-10-03,3.0,Production Artist,Keeps a regular schedule of software and hardware upgrades.  Pays attention to advancements  in technology and tris to keep up.  Decent benefits.,"Bad hours, low pay for industry, no overtime and they often require over 40 hours/week."
+629,CNN,Researcher,2012-10-01,3.0,Anonymous Employee,CNN is a great company to work for. There's a lot of creativity and flexibility. The brand is so well known everyone flocks to CNN so you get to meet a lot of really great people and cover really great news stories.,It's hard to move up. You can hit a glass ceiling pretty quickly and that ceiling can choke out some really good talent at the bottom.
+630,CNN,CNN,2012-09-22,4.0,News Assistant,Can be a very good place to develop skills and to refine your craft. The company has a large infrastructure and could give you opportunities outside of your chosen career path.,"Because of the rapid growth of the company, many components of the business were mismanaged. The focus of the look and content of CNN changed to often. There was no clear leadership and that trickled down to most levels of CNN management."
+631,CNN,"Some political crap, but overall, OK",2012-09-20,4.0,Anonymous Employee,"Good benefits, bright co-workers (at least in my dept), meaningful work. It's still a respected organization and many people care about it deeply.","Lack of communication between divisions, top-heavy with management, sense of rudderlessness, Way too much e-mail. There's constant talk about ""One CNN,"" but little progress -- because everybody's trying to hold on to their fiefdom. That's TV for you -- lots of money, lots of ego, little sense."
+632,CNN,Great benefits...not much room for advancement in NY.,2012-09-07,4.0,Media Coordinator,CNN is a great place to work if you are in Atlanta where there are tons of opportunities for advancement and career development.,CNN NY has zero chance for job advancement.  You basically have to wait for someone to leave or die to get promoted.
+633,CNN,It is a job but has potential to be better,2012-08-29,3.0,Marketing Coordinator,"- Very Smart and talented individuals
+- Very Diverse
+- Cutting Edge Technology and free reign to shadow and learn
+- Management, when there, are genius
+- looks great on a resume","- stagnant job growth environment
+- low pay rates compared to other companies in the area because everyone wants to work for turner
+- unnecessary stress because undefined management, so you are worried about everyone
+- long hours expected even if you've done your work"
+634,CNN,"Overall, I experienced 10 great years with the company",2012-07-27,4.0,Anonymous Employee,"Benefits, Perks, Organization as a whole",Some of the middle management is terrible.  It is often a join the inner circle or be gone type of place.
+635,CNN,CNN bureau - Associate Producer,2012-07-19,5.0,,"good conditions, supportive colleagues, friendly people","fast pace, sometimes I even don't have time to have lunch"
+636,CNN,Great place to work but,2012-07-06,3.0,Anonymous Employee,You work with very smart and dedicated people.,Hard to get a promotion or move within the organization.
+637,CNN,Great,2012-06-06,5.0,Anonymous Employee,Great place to work. Looks good on a resume. Friendly co-workers and managers. Great work-life balance. Good benefits and lots of opportunities to be involved in work and community activities. Pay is good for the type of job.,not a whole lot of opportunity to move up the ladder.
+638,CNN,A great place,2012-05-08,5.0,Staff Writer,"-Really good benefits
+-Plenty of vacation/time-off
+-Great work-life balance, but plenty of opportunities to shine
+-Supportive managers
+-Great work colleagues","-Little bureaucratic at times
+-Management doesn't always do an effective job as it could of communicating new initiatives 
+-Not as much collaboration between different units within the news division"
+639,CNN,"Underwhelmed, disappointed",2012-05-07,2.0,Researcher,"The benefits. This is important, of course, but also should be de rigueur for Time Warner. Unfortunately it's a harsh tradeoff if the culture lacks otherwise....though I guess you have good medical for that ulcer, or good ""wellness support"" when you need a therapist.","Closing of research department based on external consultant study, with no communication to researchers, conversation on research vision or how future research roles could evolve. No internal address of elephant in room of future of journalism.  Undervalued conception of research as disposable process in news environment. Strange/strained/antagonistic relations between dependent departments and units. Virtually no career development (window dressing of yes, but no actual movement occurs), no mentoring, no reflection on professional standards (for this role) outside the CNN bubble. Frequent turnover, some are able to re-fit, but how and why is completely unspoken. Opaque HR processes. General hypocrisy of ""we're there for you, you have these great benefits, come out to a softball game"" but you're basically just a number. When making waves to get things done, unless you have big guns behind you, the process of change is more stressful and in this way is tacitly discouraged. Departments not interested in cultivating quality, but getting something done as quickly as possible, mistakes and all. Granted, it's a news environment, but still....Bad ratings, disgruntled employees, and general confusion about future of journalism, and ""TV Everywhere"" lead to scattered, rather than inspiring and constructive internal culture."
+640,CNN,Meh,2012-04-21,3.0,Sales Executive,"Looks great on a resume
+Benefits package is amazing - especially 401K
+Focus is on entertainment and family atmosphere - sales will come in with little to no effort","Base salary is very low comparatively
+Someone has to quit or die to move ahead
+Understanding of new media isnt there"
+641,CNN,Worth it,2012-04-04,3.0,,Great company on your resume; opportunity to learn a lot,Little work life balance; Poor management
+642,CNN,Amazing,2012-04-03,5.0,,"great working environment,  lots of careers opportunities","not really many, I think it was a great experience"
+643,CNN,It was a good experience,2012-03-19,3.0,,"Good work culture.
+Good location",The management if okay. Internal growth opportunities are not easy to find.
+644,CNN,Poor,2012-02-28,3.0,Reporter,Good brand recognition for international/breaking news.,Company gets and squeezes the most out of you and then spits you out.
+645,CNN,Good,2012-01-23,3.0,,"CNN is widely regarded as leader in the news industry and provided me with great exposure, recognition, globality, flexibility and accountability","CNN and all Turner companies provide a trampoline in the industry, but salaries and befits were not competitive in the industry or in the market"
+646,CNN,great but has it's challenges as it becomes overly corporate and NY /DC centric,2012-01-18,4.0,Director of Operations,pay and benefits improved significantly.,"lots of closed groups and silos but also plenty of challenges that present opportunities 
+too slow in making decisions or taking on new ideas"
+647,CNN,"Benefits & salary = good, opportunities for growth = not good",2012-01-17,3.0,,"-Great vacation package
+-Great 401-K package
+-Great health care package","-limited opportunities for growth
+-weak management team"
+648,CNN,A fun environment for serious content.,2012-01-03,5.0,Intern,"People are friendly (including talent), a great view from the cafeteria, networking is encouraged, some people are really willing to help. Interns are paid minimum wage. Internship orientation was good for networking with other interns.","Sometimes I felt useful, but others I felt very useless. A few of the media operations staff are intentionally very rude to interns, though many of them are quite nice."
+649,CNN,Good name cache but not the best place to work.,2011-12-29,2.0,,"name recognition, location, offices, work/life balance","Very top down, not a-lot of authority unless you are executive management"

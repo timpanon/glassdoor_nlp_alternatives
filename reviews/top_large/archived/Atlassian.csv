@@ -1,0 +1,749 @@
+,company,headline,date,overall_rating,author_position,pros,cons
+0,Atlassian,Phenomenal Culture,2022-04-04,5.0,Sales Analytics Manager,So far there hasn't been a ton of exec fire drills that you typically see at a lot of tech companies. It's a much more relaxed environment to work in. Fully flexible work situation where I can WFH full time or go into the office as I choose. Comp and benefits are fantastic.,"The distributed workforce can leave out a sense of camaraderie found in the trenches of the office, but it's a small price to pay for the benefit of WFH and not having to commute everyday."
+1,Atlassian,Best company ever?,2022-03-30,5.0,Senior Data Scientist,"I love working at Atlassian. I primarily joined for a better Work-Life balance, and it delivers on that--though I will say it might vary based on what team you are on (though generally good). The Atlassian values are embraced by everyone. You'll find support for your new ideas, and you'll be less impeded by office politics. I hope to never leave. 
+
+- Really collaborative culture
+- Strong adherence to values
+- Great support for innovation
+- Solid benefits
+- They are still newish to data science, so a lot of opportunities to contribute in a meaningful way to the business
+- You don't need a PhD to work on machine learning models here
+- Remote work is well-supported
+- Large company but still feels startup-y in many ways. You thus get the stability of a company that's not about to go under","- Funding decisions are often driven by initiatives; infrastructure work or long-term projects are often underfunded and understaffed
+- Wish they offered a stipend for remote employees to join coworking spaces
+- Less data maturity than some tech peers, so tooling or data quality may be work-in-progress
+- A lot of ""data science"" work is actually analytics--know what you're applying for
+- Still very Australia or Pacific-coast staff heavy, so east coast workers may find it annoying
+- Promotions are less quick than I'm used to"
+2,Atlassian,It's as good as they say it is!,2022-03-14,5.0,Senior Business Analyst,"Amazing supportive culture that prioritises psychological safety, transparency and constructive feedback. Senior staff are approachable and everyone truly lives by the company values. Company values come up in conversations all the time and truly lead the way with decision making. Pay is excellent and they don't glamorise overworking but encourage balance and rest.","Sometimes the openness of the company means random people will give you feedback which can seem a little scary at first, but there is good intent and all communication is encouraged to be delivered in the most productive way and not as something to tear others down. They truly do prioritise diversity and inclusion but it is definitely a male dominated company in the engineering / development teams which can be a little intimidating when you join as a woman. Everyone is really lovely though and I have not experienced or witnessed any sexist remarks. My manager has not been super hands on with setting career milestones and plans for my future development yet, so I am a little concerned of lack of trajectory in my career but it is still very early days for me so that could change in future."
+3,Atlassian,Best place I've ever worked,2022-03-31,5.0,Product Marketing Manager,"- Competitive salary, benefits, bonus, stock
+- Thoughtful work/life balance measures like ""Refresh"" days for my whole team so we can take time off without getting lots of messages while we're out. 
+- Flexibility - work from anywhere, unlimited PTO, lots of different ways of working across teams and individuals
+- Interesting projects and challenges - the company is large but many orgs are exploring exciting new things and have exciting start-up energy
+- Regular growth check-ins and opportunities to try new things
+- Lots of chances to give back through paid time off for volunteering and company donation matching","- Can be long hours, especially if you're on a global team (meeting times across Australia, Europe, India, USA can lead to 12 hour days at times) 
+- Pretty high workload, often with some degree of ambiguity - the company is growing quickly and supports lots of new ideas meaning you're often across multiple projects at once"
+4,Atlassian,"Wonderful place to work - but be ready for lots of change, growth, and a bit of chaos!",2022-02-26,5.0,People Team Member,"* Atlassian’s future is incredibly bright and the products keep getting better and better by the day
+* Pay, benefits, and the offices (once they open back up) are all excellent
+* The people are warm, caring, and the culture is dynamite","* With growth comes change. I’ve seen many cases of teams going back to a “storming” phase as lots of new team members join. I would say this is normal and natural, but not always comfortable.
+* Burnout is real, so you need to be the one to keep an eye on yourself, and speak up (and take action) if you are not in a good place."
+5,Atlassian,Atlassian is a dream company!,2022-01-27,5.0,Channel Program Manager,"Atlassian takes the cake! The salary, RSUs, and annual bonuses are top $$! The benefits are incredible from paying for health & vision insurance 100% for not only me, but my family of five! In previous jobs, a third of every check went to insurance coverages. We also are granted a week per year to volunteer and our Foundation does so much good in this world. Our founders are dedicated to diversity, growth, and being ahead of the curve. I can't say enough great things about this company and am so happy to have just celebrated my third anniversary!","While I don't truly feel like I have a con to share, I'd say since we are a young company, we figure things out as we go, which in the end is a great way to grow!"
+6,Atlassian,good company to work for,2022-04-01,5.0,Software Engineer,"work life balance
+good project
+good team
+good culture","growing pain
+distributed team make it hard to meet up"
+7,Atlassian,The Best Professional Experience I've Ever Had,2021-10-01,5.0,Program Manager,"The company is truly progressive, not just in what they said, but in their actions. Employees are encouraged to express their opinions freely, whether they are positive or critical, and regardless of whether they're in direct opposition to leadership. One of the first things I noticed about Atlassian when I was interviewing was how many people have been there for 5+ years; Ive spent the last 5 years in software and I've never seen this anywhere else. In working at Atlassian, I understand why this is - there are a lot of opportunities for growth and incredible benefits. My manager has been really supportive of me doing more of everything I enjoy and less of everything I don't enjoy. I plan on staying with Atlassian for as long as I can (10+ years). I have incredible work/life balance and this is something the company supports wholeheartedly.","Working for a company this large can be pretty confusing, especially if you're coming from a smaller compan. The size of the company is both a blessing and a burden - because of its size, there are a ton of resources; however, with so many employees across so many teams and so many locales, figuring out exactly who to speak to about specific issues can be challenging. Also, the company currently determines salaries based on the going rate for the market each employee is based in. A lot of employees have expressed criticism about this and I'm hopeful that this will change in the near future."
+8,Atlassian,Great Company w/ Lots of Opportunity,2022-03-02,5.0,Technical Support Engineer,"As an individual contributor, it feels like my work is always valued and appreciated. Company values each employee, considers your opinion, comp'd very fair, great benefits, and the list goes on. Always room for career growth, and is encouraged by Atlassian.","None really IMO. Company moves incredibly fast at times which can be overwhelming, but a good thing as well. You might be working on one project, then switched to another if the company/team/department moves in another direction. Realistically Atlassian is always looking at the bigger picture."
+9,Atlassian,Atlassian is the real deal,2022-03-06,5.0,Product Marketing Manager,"Atlassian genuinely probably one of the best companies in the world, somehow able to balance great employee experiences with a portfolio of products across various verticals. You work with some truly driven, empathetic people and you can tell they really care about the people they hire.","Atlassian is growing incredibly quickly, so you'll experience some growing pains along the way. But overall, this is a fairly minor con that is being handled well."
+10,Atlassian,Love working at Atlassian!,2022-03-18,5.0,Senior Data Scientist,"People tend to be kind and smart, the company cares about doing the right thing, and the commitment to remote work is excellent.","With the company being fully remote I haven’t met any of my team members in person, but hopefully we’ll have more offsites soon."
+11,Atlassian,Best job I've ever had,2022-01-24,5.0,Product Marketing Manager,"- Interesting projects
+- Fast pace but with emphasis on work/life balance (""creative refresh days"" and ""burnout prevention days"" that the whole department gets off in addition to plenty of holidays and unlimited PTO) 
+- Lots of freedom to take ownership of initiatives you feel passionate about
+- Regular check-ins about professional growth, learning and development
+- Really well taken care of - strong pay, lots of acknowledgement from my team about personal milestones (birthdays, weddings, graduations...etc) and lots of opportunities to bond with my team remotely
+- Great flexibility with remote vs in-office work. We can basically choose which we prefer and work from anywhere (with some restrictions)","- Growth pathway not entirely clear for PMMs
+- Things are moving and growing really quickly, which can feel a bit intense and messy at times. It helps to be comfortable with uncertainty and motivated to create process and structure where it's needed"
+12,Atlassian,Good Company,2022-02-03,5.0,FP&A,"* One of the best companies I've ever worked at. 
+* Surrounded by incredibly smart, talented, and passionate people. 
+* You will work with and learn industry-leading, bleeding edge technology. 
+* Competitive benefits. 
+* Strong brand to leave with on your resume (provided you can actually take something with you in terms of new skills or experience). 
+* This place has culture. I don't know how to put it into words, but it was there. Maybe it's because the company had its roots in uber-nerdy, tech geeks, and they stayed that way (and also took the company to what it is today!)","* Absolute grind, like a steamroller. I saw many a good employee burned out by the long hours. Finance team specifically has long hours, demanding deadlines, and will get no sympathy from anyone. I often looked around and certainly didn't see sales ops or marketing being forced into the same deadlines or workload. Finance really feels like the whipping boy of the company. Seriously, I thought ""burnout"" was a joke that weak people used as an excuse, until it came time to leave this company and I honestly thought I had lost my ability to work -- focus, energy, everything. 
+* The Bay Area office really harbors some serious nose-in-the-air liberal culture. The company takes a stand on every single issue, people in the office look down on you for using a trashcan (rather than a recycling bin or compost -- why would you even use something that can't be composted or recycled??). Upside -- it makes for really entertaining discourse when the Poland office is asked to take the same stand, when they may not necessarily harbor the same values. I just want a workplace, not a political rally."
+13,Atlassian,Big org  = big opportunities,2022-03-31,4.0,Anonymous Employee,"Emphasis on culture, remote-friendly workplace, diverse employee base, opportunities to go above and beyond and really make an impact","Scaling at an incredible rate, so will be interesting to see how the org maintains their unique culture over the coming years"
+14,Atlassian,Much better than expected,2021-10-14,5.0,Product Marketing,"Super fast-growing company; feels like a startup with big pockets and the level of investment across different programs keeps growing. 
+
+The product marketing team owns the GTM, and by that I mean truly owns it and drives it. At other companies PMM tends to be just another marketing team but here if you are a product marketer you will have broader scope and responsibilities than in other companies. 
+
+Pay is competitive, good amount of RSUs and very good flexibility to work from anywhere makes this a great place to be.","As with any big company, sometimes there's lots of red tape and different teams involved until decisions can be made. The procurement process (related to new vendor onboarding and contractors) is driven by sloths (if you have seen Zootopia, the DMV scene sums it up).
+
+Because the company is so hot, there's been a good number of middle management leaving to get executive positions at other places, but it also opens up career opportunities for other team members.
+
+Increasingly competitive market makes your work always interesting and in some cases too competitor-focused."
+15,Atlassian,Love it here,2022-03-22,5.0,Anonymous Employee,Good work life balance :),None that I can think of
+16,Atlassian,Best job I have ever had!,2022-03-15,5.0,Executive Recruiter,"-Amazing benefits
+-Empathetic approach to their employees
+-Fast/effective growing product lines
+-Incredible executives to support
+-Great leadership",Have only been with the company for 90 days and can't think of one con
+17,Atlassian,great place to work,2022-02-15,5.0,Customer Support Engineer,"- the company as a whole seems to really try to embody their core values 
+- competitive salary and benefits
+- management treats you like a person, not a machine or number","- really large company so there's lots of variation in team cultures. this is also a pro as i think there can be a good fit for most anyone in the company, it is just a matter of being able to find the team that is best for you"
+18,Atlassian,"Great benefits, great culture, competitive pay.",2022-03-17,5.0,Junior Software Engineer,"Great benefits, great culture, competitive pay.",I'm not really sure yet.
+19,Atlassian,love Atlassian,2022-03-15,5.0,Senior Content Designer,Gret people and lots of opportunity to grow,I love working here and have no cons
+20,Atlassian,Not the best if you are serious about your career,2022-02-22,2.0,Sales Representative,"Lots of perks that you would expect from a large org, work was easy.","Where to start, management in the Boston office is very bad. They do not fire ANYONE. Because of this the management team is a group that was in the right place right time and not true leaders more glorified babysitters. Talking with people that worked in the Texas office this was not the case there just in Boston. Lots of bullying happening on slack due to the bro culture that they just let happen. I would really recommend if you are someone who is serious about sales and wants to make lots of money and enjoy where you work to look elsewhere."
+21,Atlassian,Nice Place to work,2022-03-11,5.0,Software Engineer,The relaxed pace of work with fun and engaging teammates,Salary does not seem as competitive as other companies
+22,Atlassian,"Great company, great people, great pay",2022-02-08,5.0,Senior Software Engineer,"Remote work, good comp, robust dev ecosystem, very strong WLB and wellness focus","Some of our products need work, I hope our current success and growth is sustainable, it's very hard to promote here, not super diverse honestly"
+23,Atlassian,"Benefits are good, career growth it meh",2022-03-23,4.0,Product Designer,"Great company values
+Benefits are good
+Cares about global events
+Work life balance is great","Have struggled to grow in my career, a lot of manager changes in the years I've been working here"
+24,Atlassian,Sales didn’t get better than this,2022-02-19,5.0,Enterprise Advocate,Attainable targets. Amazing culture. Freedom and autonomy. There are challenges but you’re part of finding the solution and not just getting caught in the crossfire of constant changes.,No accelerators which can decentivize top performers.
+25,Atlassian,Good for now,2022-03-05,5.0,Senior Manager,"- remote
+- flexible
+- good benefits","- confusing swimlanes
+- limited mobility"
+26,Atlassian,TEAM,2022-03-02,5.0,Software Engineer,"Fantastic culture, talented engineers, great work-life balance, seamless ecosystem","overly strict promotion cycles, slow career growth"
+27,Atlassian,Amazing Company with Amazing People!,2022-02-01,5.0,Sales Leader,"Top to bottom this company is filled with smart, hard working ethical people who do their best every day to make Atlassian a great company",A lot of the processes are non standard and unique but very few people are not willing to be flexible and improve those processes.
+28,Atlassian,Great,2022-03-03,5.0,Software Engineer,Good stuff here love it,no bad stuff here its good
+29,Atlassian,Love working for Atlassian !,2022-01-14,5.0,Anonymous Employee,"Fantastic culture , innovative and growth mind set from the top down. It’s been a dream working at atlassian, they truely look after their people and put our Welbeing first. Highly recommend working here ! 
+We have great talent working on world class products!","If you are uncomfortable operating in a fast pace environment or not used to working in a high growth company where you need to take initiative and navigate ambiguity, it may not be for you."
+30,Atlassian,Needs improvement,2022-02-21,3.0,Anonymous Employee,Alot of good benefits and such,"Honestly, if this company could throw 3x as many managers as needed at something and come up with more ridiculous systems based on metrics....I don't think i've seen many companies that try so hard to create systems that just don't work. There's a massive disconnect between teams that create things for other teams. Honestly....if you aren't in support this is probably the best company ever. If you are in support? Well you already know and are already probably looking for another job."
+31,Atlassian,Greatest place to work!,2022-01-29,5.0,Junior Systems Administrator,"Atlassian is a great company. They check off everything that makes a great company. Work/life balance, amazing team, great opportunities within the company, perks, and much more.",No cons I can think of at this time
+32,Atlassian,Amazing,2022-02-25,5.0,Anonymous Employee,"Amazing pay, benefits, and allows remote work. Great management",Pay is slightly below Tier 1 pay
+33,Atlassian,Big tech pay without selling your soul,2022-02-17,5.0,Engineering Manager,"Employees are well taken care of
+Actual work/life balance 
+Not making products that suck the soul out of the world",Large companies can be bureaucratic
+34,Atlassian,Data Science - wear your gloves and use caution before you enter,2022-01-14,2.0,Senior Data Scientist,"Atlassian has chronically underinvested in analytics, so there are a lot of low hanging fruits to fix. The analysts are great teammates, I worked with many talented ICs in analytics.",Management encourages ICs to compromise data quality standards for speed. Stakeholders do not demonstrate basic competency with interpreting statistics. Too many ICs per manager means low manager support for you. Stakeholders are controlling and want to manage down to the order in which you do your project work. Team culture and cohesion is nonexistent. Org spends too much time spent touching up cosmetic OKR scores.
+35,Atlassian,No bait and switch here!,2022-01-05,5.0,Enterprise Support Engineer,"Amazing Culture
+Great benefits (Free medical/dental/vision for families!)
+Real opportunities to grow, cross-train, or explore personal projects
+A nearly closed loop of tech stacks to learn which would be applicable in any job outside the company as well","Culture shock if you're used to ""high paced"" workplaces
+If you're not very political, the opinionated folk can be jarring"
+36,Atlassian,Awesome place to work!,2022-01-24,5.0,Anonymous Employee,"- Great work life balance 
+- Intelligent, hard working employees across all teams 
+- Very much a team environment 
+- The values are truly embedded in everything you do 
+- Work with people from all over the world
+- Insane benefits",None to report on now
+37,Atlassian,Absolutely AMAZING company - Go #TEAM,2022-01-30,5.0,Senior Support Engineer,"Wonderful people, fantastic benefits, incredible perks, and the company actually backs what they say.",New hire training could use a makeover.
+38,Atlassian,Great,2022-02-10,5.0,Recruiter,"I love working here, it is great.",No cons for me to report
+39,Atlassian,Nice place to rest,2022-02-11,4.0,Anonymous Employee,"Atlassian overall has good WLB and a pretty healthy model.
+
+If you want to relax and rest for a while, great company to do so.","Things move a bit slower, and we're growing at a very fast rate leading to some inevitable growing pains. This can make promo's and projects in general move a bit slower.
+
+If you want exciting, fast-paced work, there's better places to look."
+40,Atlassian,The best company ever,2022-01-29,5.0,Senior Support Engineer,"Amazing company values, environment, salary, and benefits",Nothing is bad at the moment and I doubt that something negative will happen.
+41,Atlassian,Great company. Great products. Great people!,2021-10-01,5.0,Group Manager,"+A globally distributed, but still ""connected"", TEAM thanks to the company values and vision embodied by all Atlassians.
+
++A great 5+ year vision, with world-class leaders to ensure we attain that vision.
+
++A genuine focus on the employee that is unrivaled. I'm being supported in taking care of my whole self; I'm being stretched in ways that are making me a better professional; I'm surrounded by top talent at every level - the company focus on the right additions vs. the right fit has made this the place to be.
+
++The company - which is truly the people who work here - finds new and meaningful ways to ""refill my cup"" each day. 
+
+Simply - the best!","I'm struggling to think of many - if any - cons. I'm sure they are there, but any that have come up have been easily worked through and turned into positive experiences through teamwork, collaboration, and support."
+42,Atlassian,"Great Culture, Amazing Benefits, Humble Leadership",2021-03-07,5.0,Senior Enterprise Advocate,"The benefits are incredible. With a family of four, all healthcare benefits are paid. Atlassian works hard to make sure the employees are taken care of and it shows. They invest in programs to support the mental health of everyone and provide ways to connect with others virtually (through the Pandemic). The leaders are open to feedback and are transparent, answering the tough questions in company-wide meetings, even when it's hard. The culture has been painstakingly cultivated to include all kinds of people. As a parent of a trans child, this in particular has been inspiring to see. There is an emphasis on promotion from within, and there are opportunities to grow your skills to serve the company in new ways.","As an organization that has grown through acquisition, not all systems are integrated, which can make for a difficult experience in learning how to do your day-to-day job. Atlassian is a largely self-organized, self-driven set of software nerds (I count myself among them and don't say that as an insult), as such, it can be difficult to find a human to help you to find answers. It's written down somewhere on a Confluence page, but everything is in Confluence, and if you lack the history and navigational expertise in that platform, it can be very hard to find what you need. Support is always a ticket, but I'm never sure what kind of ticket, what help desk, etc. Be prepared to have lots of systems to learn."
+43,Atlassian,I didn't think a company like this existed,2021-11-01,5.0,Product Marketing Manager,"Atlassian is a company that cares. That sounds cheesy I know, but when it's true... it's true. Whether it's time off, contributing to organizations you care about, maternity leave, mental health, etc. Atlassian cares about its employee just as much if not more than the end result. I've worked at start-ups as well as large enterprise organizations, and by far Atlassian is the company that stands out to me as being a ""leader"". If you are looking for opportunities, challenges, great colleagues, and ways to advance your career...look no further than Atlassian.",Truly I have no cons to speak on. Atlassian is a great company and I look forward to growing with them.
+44,Atlassian,Great people!,2022-01-28,5.0,Anonymous Employee,the culture is a key reason to join and is something upheld almost everywhere in the company,not much to say here
+45,Atlassian,"Amazing People, Work and TEAM environment",2021-11-29,5.0,Member of Legal Team,"Atlassian lives the company values. One of the values is Open Company No BS so people communicate openly with purpose and kindness. Another company value is Be The Change You Seek where Atlassian's are open to hear opinions, different ways of improving and are open to diverse thought which empowers you to make Change! AMAZING SMART and KIND people, GREAT benefits, and a FUN place to work!",There are no cons to working at Atlassian.
+46,Atlassian,A genuinely great place to work,2021-09-01,5.0,Technical Sourcer,"This has been my favorite place of work in my career to date. I've had the privilege of working at some genuinely world-class organizations, and Atlassian tops them all. I can't think of another place I'd rather be riding out the absolute sh*tstorm that is the world these days than a company that's so genuinely focused on the health and wellbeing of its employees. From the ground up, it's a culture of genuine care, collaboration, team work and the understanding that YOU are more important than your work.
+
+Stock is on fire.","As comes with a company experiencing hypergrowth, the one constant is that everything is always changing. Change happens quickly and often at Atlassian, but in my 7 months here I haven't felt it once to be sloppy, heavy handed or anything besides productive."
+47,Atlassian,"Love the company, bad promotions",2022-02-21,4.0,Premier Support Engineer,Great company.  Lives by their values.,Corporate triple speak behind promotions.  140+ technical and personal questions to get promoted.
+48,Atlassian,High expectations met,2021-10-05,5.0,Business Analyst,"Great benefits, from pay to healthcare to equity. Smart and supportive team members. High focus on the onboarding experience to get employees up to speed quickly. They make an effort to listen to employees feedback and provide solutions to the problems they hear about.","Hard work! They definitely have high expectations for their employees, regardless of level and there is a certain amount of autonomy that means you need to be ready to make decisions and take action without being told to do so."
+49,Atlassian,Great Company to work for!,2021-12-14,5.0,Program Manager,"- Team Anywhere - fully remote work flexibility
+- Very competitive salary and great benefits, they have a lot of creative ways to appreciate and value their employees
+- Great onboarding experience despite of the Covid challenges and remote set up, you have resources to ask for help available immediately.
+- Culture itself everyone is welcoming and pleasant to work with.",None so far so good!
+50,Atlassian,Best Job I have had so far,2021-09-21,5.0,Senior Full Stack Engineer,"- Compensation is great (base salary, new hire equity bonus, yearly cash bonus, and yearly equity bonus)
+- People are very friendly
+- Very relaxed atmosphere
+- Unlimited PTO plus ""Disconnect Days"" (1 day per month off on top of holidays)
+- 100% remote forever with the option of going into the office occasionally ($1,000 WFH set up budget)
+- Good opportunities to grow and learn new things (yearly $250 training budget)
+- Paid extra while on-call
+- Monthy cell phone/data reimbursement","- Development process is slow moving
+- Spend more time talking about how something should be done then just doing it
+- Tech stack is rigid and not bleeding edge
+- Early and late meetings to accommodate Europe and Australia time zones"
+51,Atlassian,No Smoke and Mirrors here!,2021-12-24,5.0,Senior Recruiter,"Transparency from the top down, no ego culture and a company ethos around self improvement and growth.","As the company grows and scales so fast, ensuring we keep our rich culture and values."
+52,Atlassian,Atlassian really lives their values!,2021-08-18,5.0,Technical Account Manager,I can't say enough great things about working at Atlassian. I was a customer using their tools before joining the company. My experience helped me to land my current role on the TEAM. Yes - that's right TEAM! They are a company but more than that they are a group of teammates working on many goals together. If you're not a team player then this is not your future. Only team players need apply.,There's A LOT of content to digest here. Some historical and tons of fresh content coming in at a very fast pace. Sometimes it same seem difficult to keep up with all the new features and information about them. With a lot of tools there comes a lot of learning how to use them or provide guidance to others on using them. You've got to be organized and able to mark content for reference later.
+53,Atlassian,Best place I've worked at,2021-08-24,5.0,Senior Enterprise Engineer,"The people, the culture, the focus on ensuring everyone is supported. Without a doubt the company was founded on the idea that having a strong and supportive team is key. The tenacity and focus on always progressing and keeping at the front of technology is there as well. It's just not necessarily the first thing I'd mention as I think its secondarily important to the culture.","The company is growing and through this there are some obvious signs of moving from a smaller sized company to a bigger one. Operational processes that need rounding out, but there is eyes on. There are some painpoints due to that but nothing major."
+54,Atlassian,"Challenging work, amazing people, phenomenal benefits",2021-06-29,5.0,"Manager, Customer Success","Atlassian is a fantastic company to work for. I get to work on solving strategic problems and I am always pushed out of my comfort zone - which enables me to grow as an employee. The people here are intelligent, motivated, and truly do look out for each other. We have the tools and resources to do our job successfully. In my experience, every employee is heard, validated, and supported by their leadership and their team.
+
+The perks are out of this world. Wellness reimbursements, great insurance options, 401K matching, company swag...the list goes on. I feel very valued and appreciated here at Atlassian and it motivates me to give back to the company in constructive ways.",Change is a constant and we are always iterating. You have to be comfortable with pivots and knowing that projects may change shape halfway through. These Atlassian way of working is very unique and there's a pretty steep learning curve.
+55,Atlassian,Great Company Culture,2021-11-04,5.0,Senior Technical Recruiter,"This team sincerely lives up to its values. Having never onboarded virtually prior, I wasn't quite sure what to expect initially. As I onboarded 100% virtually I experienced noting but fully functioning tools, an extremely welcoming work culture and a highly organized group of helpful teammates.","Due to the team growing rapidly and heavy interview schedules it took a longer period of time for me to interview, however, it was certainly worth the wait."
+56,Atlassian,Good,2022-02-07,4.0,Anonymous Employee,People are open and willing to help whenever possible,There can be lots of pressure from upper level management
+57,Atlassian,"Great company, amazing benefits, keeps it as real as possible",2021-06-29,5.0,Marketing Manager,"This company makes me feel cared for. I've been here 4 years and have worked at a multitude of other companies, but this one takes the cake. From the way they treated us in pre-covid times (food, fitness, excessive off-sites, and other perks) to the way they've handled the transition during covid (extra funding for a WFH budget, mindfulness training, mental health resources for us and dependents, virtual fitness classes, extra covid PTO) - they make me feel like my person comes before my work. My boss is supportive and encouraging, and while new, has made great strides at being a great boss. My work is challenging and I have the resources and ability to make stuff happen, even not being at a senior level.","The pay is significantly lower than I could be getting elsewhere, especially with regards to the tiered system of pay for remote work aka ""Team Anywhere""."
+58,Atlassian,Incredible culture and company values,2021-10-15,5.0,Software Engineering Manager,"- Company values - they are not just words, people actually do live by them day to day
+- Team culture - depends on the team of course, but with internal mobility you should be able to find ideal spot for your desires
+- Products and business model - something that I can easily get behind","- Base pay might not be at the top level of West Coast companies, but recent stock growth makes total comp package pretty competitive"
+59,Atlassian,Excellent place to grow your career,2021-12-07,5.0,Software Engineer,"- Remote first work environment is very flexible
+- Great open company culture",- not so much in person interaction these days
+60,Atlassian,A great place to work at,2021-11-17,5.0,Senior Product Manager,"I can be myself, we are respected as individuals an human beings. Super flexible time off, work from home. Fully remote culture",Sometimes you have to pick up a call with Australia :P
+61,Atlassian,"Real, genuine people make this place special",2021-09-08,5.0,Senior Recruiter,"Atlassian cares deeply about our core values, principles and culture for our global teams. These aren't just words that are created and put on a career site somewhere. Everyone engrains these values into their everyday lives - both personally and professionally. You see if from the initial interviews, from the Leaders of the company, to how people treat one another across different teams; across different regions and countries. The people here are what truly make Atlassian an incredible place to be.",Ensuring we keep these guiding values and hiring GREAT people as we grow significantly
+62,Atlassian,Wonderful place for mentorship and growth,2021-09-20,5.0,Junior Software Engineer,"Great mentorship program to get you integrated into the company, team, and role.
+Lots of potential for growth up the ladder, learning new technologies and skills, and expanding within or outside of your role.
+Remote work friendly
+Competitive pay & equity
+Extra benefits: office stipend, wellness/exercise stipend, swag, team lunch","Highly distributed teams across various time zones makes it challenging to cross-team collaborate.
+Can't pick the team you are hired for, you are assigned a team"
+63,Atlassian,Best place I have ever worked,2021-11-18,5.0,Product Manager,"Mission driven, inclusive culture.
+Lots of autonomy.","Growing pains.
+Moving to specialized roles to support the large enterprise it has become (a con if you like start-up culture)."
+64,Atlassian,Where innovation meets autonomy meets your future happy place,2021-10-15,5.0,Technical Account Manager (TAM),"Lots of great learning opportunities 
+Strong team culture and compassion/ human element
+Vision buy-in from the whole Org and true growth opportunities","Lots of compassion yet, some individuals are afraid of delivering/ leading the charge so the ownership is passed around a lot project to project"
+65,Atlassian,"The TEAM culture is real, and it's amazing.",2021-03-04,5.0,Support Manager,"This company doesn't just talk the talk, we walk the walk. The company values are real and a ginormous part of who we are as a company. No company is perfect but this company realizes it and strives every day to do better and to be better. Collaboration, understanding, compromise, teamwork, employee support, encouragement, personal and professional growth... these are all parts of our everyday lives at Atlassian, and I'm proud to be part of this family.
+
+The Founders/CEOs actually listen and engage. You can provide constructive yet critical feedback and they engage, ask questions, lean in, and try to understand. They truly and genuinely care about their employees and it is a literal breath of fresh air.","The rate of change is whiplash fast and it can take your breath away on a regular basis. There is no such thing as ""downtime"", which can be hard if you're uncomfortable with change and/or unable to keep up with a breakneck speed of operations."
+66,Atlassian,Great place to work,2021-08-17,5.0,Senior Software Engineer,"- Live and work from anywhere. Atlassian feels like they have a real dedication to work / life balance, and supporting the happiness and wellbeing of their team.
+- Top-notch benefits and excellent compensation.
+- Although it's a large company, I've found many good opportunities to make an impact, as well as avenues for learning and growing my own skills.
+
+Honestly, just a great place to work, all around. Very happy to be an Atlassian.","Not too many downsides, to be honest. We're still in the early days of figuring out how to best support ""Team Anywhere"" remote work across the company, but definitely feels like we're moving in the right direction."
+67,Atlassian,chill but don't expect things to get done,2022-01-18,1.0,Product Manager,"- relaxed culture
+- lots of 'refresh days' time off","- not the best place for getting things done
+- a lot of slackers who go by not doing much
+- not a lot of accountability
+- late nights working with India"
+68,Atlassian,"Fantastic caliber, culture and opportunity!",2021-10-20,5.0,Head of Product Marketing,Very good leadership team. Incredible culture and caliber of folks. No politics and huge opportunity,Low enterprise maturity but that's the opportunity
+69,Atlassian,"Amazing team, culture and organization",2021-09-29,5.0,Cloud Migration Manager,"- Amazing culture and onboarding experience
+- Fantastic team members
+- Strong will to bring about change
+- Actual ""customer service""
+- Open culture, speak your mind environment","- Very skilled and motivated people - better bring your ""A"" game :)
+Not really a con but had to share something!"
+70,Atlassian,Great company that cares about its employees,2021-11-12,5.0,Anonymous Employee,True sense of company culture,Sometimes hard to keep up with constant changes
+71,Atlassian,Great experience!,2021-10-28,5.0,Loyalty Advocate,"Benefits, work life balance, compensation, freedom to do work in the way that you want to do it",Somewhat chaotic sales org because it is on the newer side but lots of innovation
+72,Atlassian,"Great culture, non-toxic, opportunity for growth",2021-08-09,5.0,Marketing,"The culture is inclusive, and collaborative. Although it is in the tech industry and we do grind, there is also work-life balance and extreme empathy and patience for needed personal time. I believe the company continues to innovate and with so many products, there is ample opportunity to grow your career or just switch products to mix it up.",The pay (base pay mostly) is not as competitive as the rest of the tech industry.
+73,Atlassian,Review,2022-01-01,4.0,Senior Software Engineer,This is good company good work life balance,Nothing that come to my mind
+74,Atlassian,love,2021-11-09,5.0,Communications,"culture 
+work life balance 
+benefits",none i can think of
+75,Atlassian,Great place to work,2021-10-30,5.0,Software Engineer,"Great culture, great values, smart colleagues and a lot to learn",Bit difficult to advance in career
+76,Atlassian,Great WLB,2021-12-27,4.0,Software Engineer,"Emphasis on work life balance
+Stock growth","Total compensation isn't the best
+Growth is slow"
+77,Atlassian,Employee centric Org,2021-10-19,5.0,Enterprise Cloud Support Engineer,"> Good onboarding plan in place for every engineer
+> Good perks
+> Team work
+> Good Cultural values",Didn't find anything that would impact
+78,Atlassian,Very Good,2021-10-18,5.0,Software Engineer,"Good culture, good WLB, everything's great","Not really any cons, I guess pay could be higher"
+79,Atlassian,"Update: New year, same old excuses",2021-05-27,3.0,Content Designer,"* Decent work-life balance
+* You mostly have the tools and resources to do your job properly
+* The company transitioned to remote well
+* People are generally polite and respectful to work with","It's been almost 3 months since my last review. During that time, Atlassian brought in 2 new content designers. They also hired or promoted 3 new content design leads. All 5 are white. The content design team is now more homogenously white than when I first joined it. Even though Atlassian transitioned to remote and new labor markets opened up, leadership is still cherry picking white people.
+
+Actions speak louder than words. It's ironic that a group of content experts don't comprehend that. You can't call yourselves woke if you deliberately sleep on POC talent. If you don't live and lead according to your values, then you never adopted those values to begin with.
+
+Original:
+
+The makeup of content design leadership is 100% white. The makeup of FTE content design team members is almost 100% white. Marketing content, Playbook content, and DevOps content teams are also almost 100% white.
+
+I've been surrounded by white content experts who understand the risk and consequences of inconsistent and deceptive messaging when it comes to their products. But they lack credibility and empathy with their diversity and inclusion messaging. For a full year, they've aggressively marketed themselves as inclusive while continuing a long pattern where only white people are hired, promoted, and meaningfully included. It's a disturbing and dangerous pattern, and I'm saddened that Glassdoor is the only outlet where it's possible for leaders to pay attention and hold themselves accountable for their gatekeeping."
+80,Atlassian,Best place to work by far,2021-10-08,5.0,Principal Support Engineer,"Awesome benefits, good wrk/life balance, competitive salaries, unlimited pto, remote work","Some toes can be stressful, but atlassian has resources to help with stress management"
+81,Atlassian,Lives up to the hype,2021-08-16,5.0,Software Engineer,"Great compensation and unparalleled benefits package
+Strong culture backed by company values
+Absolute transparency from leadership 
+Success / wins are shared (monetarily and otherwise) across the board and not just at the top levels of the company",The only downside I can think of is when I occasionally need to stay on / get back on late in the day because of a meeting with another time zone (TEAM Anywhere / remote work)
+82,Atlassian,talks the talk and walks the walk,2021-09-13,5.0,Premier Support Engineer,"Great attitudes, great opportunities, A+ team","You better bring your A+ game face because literally anything less won't cut it. Hardest job I've ever had, one of the more rewarding too."
+83,Atlassian,World Class Culture,2021-03-19,5.0,Analyst,"Hands down, the best thing about Atlassian is the the culture.
+
+People at Atlassian live by the Atlassian values and it starts from the Founders setting the tone. It's very evident that the Founders use our values as guiding principles for how they communicate with the rest of the company and how decisions are made. There is a huge amount of trust across the company for individuals to do the same.","We're growing at very fast rate - it will becoming naturally harder for us to maintain culture over time.
+
+Work life balance can be a challenge. It's not really emphasized by managers on every team. I think most individuals have to make their own efforts to create balance, which honestly should fall under a manager's responsibilities NOT on the individual."
+84,Atlassian,Great Company to work for.,2021-08-02,5.0,Program Coordinator,"Great leadership, who are in touch with the current situation of the world and keep taking a pulse on how the team is feeling and what they need.",Salaries have not been adjusted since Jan 2020 and it's hard to know if the promotion some are getting is a promotion or just a title change.
+85,Atlassian,"One of the best engineering cultures I've worked with, but there's still some corporate BS",2021-06-15,5.0,Software Engineering Manager,"I love the engineering culture here. As an very senior IC who moved into management after nearly 2 decades of saying ""I would never want to be a manager,"" it's very hard to seen having done this everywhere else, and I hope to stick around here for a good long while.
+
+We have a great team, great products, and I have a high degree of trust in senior engineering management. Our quality bar is good, and improving, and we have a really high respect for work-life balance and a really high bar for collegiality (""play as a team"" as the company values put it.) We do a lot to empower teams and individuals.","Engineering-wise, this place has done the best job of transitioning from a small company to a big one. Really the only big headache is having to deal with the geographical split, and this is going to be true at any company with our multinational footprint - it's just a little different since the main office is Sydney, not one of the US ones.
+
+I wish I could say that was the biggest issue for the rest of the company, but really every time I have a contact with a non-technical team I am reminded that it's not.
+
+Overall, we do OK at everything. Our HR, G&A, IT, etc folks are all well-meaning individuals trying to live out the company values. The company did really, really well in transitioning to remote for COVID and I know people did a tremendous amount of work to make that happen.
+
+Even so, there seems to be a big gap between the policy-making and the empowerment of people on the front lines of those departments. The policies are not ... bad... but they seem to be built around the sort of ""efficiency"" that is only _necessary_ for a company much larger than ours. They also change too often. 
+
+On their own, none of these are all that bad, but on the net I think these are hurting us in our ability to hire and retain talent, and I've seen a number of very good people leave for dumb, avoidable reasons."
+86,Atlassian,Great place to work,2021-10-14,5.0,Software Engineer,"Great benefits, WLB, stock is growing fast",Growth opportunities might be limited
+87,Atlassian,Great company to work for,2021-09-08,5.0,Enterprise Advocate,Very open company. Allows you the freedom to be yourself while working in a professional environment. Their technology truly helps companies across the world in many different ways.,Not to many cons I can truly think of.
+88,Atlassian,Amazing place to work for,2021-08-15,5.0,Software Engineer,"1. Great management
+2. Perfect work life balance
+3. Perfect benefit package
+4. Very different and great team culture
+5. Perfect teamwork
+6. Great onboarding process","1. Growing pains
+Nothing really comes to my mind. They have a very unique and different culture, not very likely found in other SF bay area tech companies."
+89,Atlassian,"Good company culture, questionable growth direction",2021-06-20,3.0,Software Engineer,"- humane employee policies (sick/maternity/COVID leave)
+- company culture promoting work-life-balance
+- engineers are generally nice people (not a toxic nor overly-competitive environment)","- increasing trend of inexperienced managers
+- lack of competitive compensation means lower-skilled senior talent
+- workforce disproportionally skewed towards newly joined employees
+- lack of new successful in-house products. Still relying on popularity and growth of Jira. Increasing number of competitive companies shadowing Confluence, Bitbucket, Jira."
+90,Atlassian,Love working here,2021-07-30,5.0,Software Engineer,Great company to work for. I started at the beginning of covid and the company has been great in ensuring my remote experience is positive. Lots of perks and benefits of working here and the culture is awesome :),No downsides really. Although one of my friends who also works here is trying to switch teams internally and that process seems a little unclear
+91,Atlassian,Fantastic Values and Culture,2021-09-13,5.0,Program Manager,Wonderful place to work - daily practice of values,"Big company, easier to get lost in a big sea."
+92,Atlassian,Enterprise Advocate (Account Executive),2021-04-15,5.0,Enterprise Advocate,"The company cares about it's employees
+Everyone in the company is very easy to work with 
+The products are stellar and our customers rely on them everyday","There is a learning curve with how to work with different teams through tickets and slack channels / leveraging Confluence if you haven't before
+It's not a typical sales role 
+There is some confusion among teams with delegation of authority and who owns what when working with a customer"
+93,Atlassian,Awesome place to work!,2021-09-02,5.0,Anonymous Employee,"True to values
+Innovative
+Team focused
+Great pay
+Flexible","Can be hard to balance the time zones because of it being a global company, but teams are very understanding and accommodating with videos utilized rather than all live meetings."
+94,Atlassian,Lots of changes but still a great place to work,2021-03-01,5.0,Talent Acquisition,"I've been at Atlassian 3 years. It has tripled in size in that time (2k employees to 6k). That kind of growth is going to mean some growing pains along the way, and even more so with the pandemic happening in this time period. Despite this, I'd still say that the core things that made me excited to join Atlassian are still very much part of the environment.
+- Opportunity to make a big impact right away
+- The company still values you as a person first and foremost (has shown this during the pandemic)
+- Personal initiative is rewarded and encouraged","-Atlassian still wants to move fast and break stuff/learn as we go, this can be complicated as a larger company compared to 3 years ago
+-lots of ambiguity in the environment (prioritization can be a challenge)"
+95,Atlassian,the Unicorn of Tech Companies,2020-08-21,5.0,Loyalty Advocate,"- fantastic group of people, both professionally and personally
+ - benefits are incredible and unmatched by any other company
+- amazing company with large goals and the ability to hit them and CEOs that actually give a crap about each employee
+- I feel very support by all my team leads and managers all the way up
+- flexibility is amazing, which makes my one con a positive, I can make up work when i need to or want to and take breaks when i need them as well
+- the ability to work from work, home, or anywhere
+- they do a fantastic job of keeping up the culture, the benefits, and making sure employees are happy and getting what they want out of their company","- work life balance definitely can depend on the team, I am pretty stretched thin most of the time
+- it can be hard to move up i the company because people stick around for so long that unless someone leaves a management positions it's already full
+- good and bad, i supposed, literally no one gets fired. This means you will have to work with people that really shouldn't be here (there are only a few, but they are around)"
+96,Atlassian,Ticket system with points as a modern form of exploitation,2021-11-11,1.0,Ruby Developer,Another good opportunity to getting a new job.,"Ticket system with points. That's awful. They're forcing developers to 'estimate' tasks, but in reality it's another form of exploitation, because your personal estimates will be considered inadequate. Take a pick between overtimes or prepare to be fired."
+97,Atlassian,Best place to work!,2021-09-07,5.0,Anonymous Employee,"Where can I start, Atlassian offers great benefits and most importantly they care about their employees.",I don't have any cons
+98,Atlassian,The job of my dreams at a great company!!,2021-08-04,5.0,Senior Recruiter,"-Positive work culture and amazing company values 
+-Great team and leadership 
+-Company growth and advancement 
+-Opportunities for professional development 
+-Work-life balance 
+-Company that truly cares about employees well being and career trajectory",There are none that I can think of at this time.
+99,Atlassian,Grateful to be here,2021-07-14,5.0,Enterprise Account Executive,"Impeccable leadership, benefits, products, etc. Atlassian reinforces its values, and fosters an inclusive, compassionate work environment. Everyone has been so supportive and welcoming. Collaboration plays a critical role in any job, and I'm blown away by the level of dedicated talent here. The list goes on and on...",There's a significant learning curve to Atlassian's inner workings / processes.
+100,Atlassian,Great Aussie Family!,2021-08-25,5.0,Anonymous Employee,"Good culture, excellent perks with health benefits, 401k match, and work from anywhere!",Can be documentation / blog heavy given the culture...however this sometimes feels like a pro too.
+101,Atlassian,Unicorn company,2021-07-02,5.0,Applications Support Engineer,"They are super caring and devoted to making the world a better place for every being. Their perks and workplace are outstanding, and you can really be yourself. Pay is good, team spirit is through the roof.",They're transitioning from mid-size company to large company and there are growing pains.
+102,Atlassian,Great culture not enough growth opportunity,2021-11-07,3.0,Anonymous Employee,"Good culture, flexibility, unlimited PTO","Not enough growth opportunities, no consistency in ratings/promos/equity refreshers/bonuses"
+103,Atlassian,Unicorn of Companies,2020-07-01,5.0,Enterprise Solution Architect,"Management through the founders are highly invested in their employees. As an example, through the COVID-19 pandemic, they have constantly reached out and forced employees to take time off to help alleviate the stress some are enduring from having to manage working from home and their families.
+
+For those that work in the office, a high functioning and desirable environment is created by providing their employees with breakfast, lunch, snacks, drinks, ice cream, and even an open bar at the end of the day. They are also plenty of mental break opportunities from board games, pool, foosball, video games and more
+
+Atlassian lives, breathes and eats their values. The values aren't just some gimmick that get referenced when people feel it is convenient. These drive all of the work and commitments that are made.
+
+From a compensation and benefits perspective, they really take care of their employees. Their unlimited vacation is truly unlimited. As an employee in my first year, I was able to have time off around the holidays with my family, spend a week with my daughter in Cancun, as well as take other days off to enjoy other time. After leaving a company where I had accrued over 5 weeks/year, I didn't find myself at the bottom just working without anytime to enjoy life. They strongly promote a work/life balance.
+
+It is for these reasons and so many more that contribute to a healthy work environment and happy employees. I work with some of the best people. I am so happy to call myself an Atlassian!","Honestly, Atlassian is so refreshing from the powerhouse corporate company from which I previously worked that I have nothing bad to say."
+104,Atlassian,Great company to work for!,2021-11-01,4.0,Software Engineer,"Great work culture and WLB
+Amazing teammates and lots to learn",Newer teams a bit disorganized
+105,Atlassian,Atlassian Review,2021-11-02,4.0,Software Engineer,Good work life balance and compensation,Slow paced work and frequent changes in upper management
+106,Atlassian,Great Opportunities,2021-08-10,5.0,Senior Data Engineer,"The company provides a great work life balance, and supports you if you want to grow in your career.",Remote work will come with a salary adjustment.
+107,Atlassian,Work Here!,2021-08-22,5.0,Technical Account Manager,Culture is a 10/10. The truly care about their employees,I honestly can’t think of any
+108,Atlassian,Grateful to Work at Atlassian,2020-11-26,5.0,Finance Director,"+ This is hands down the best company I have ever worked at. Prior to joining, I heard from everyone that Atlassian is a phenomenal place to work; in my year and a half working here, I've learned that this is undoubtedly true. 
++ Every day, I get to work with super smart, ambitious and humble people trying to shape how teams collaborate together. 
++ The company is deeply invested in living it's values and these values are used the basis for decision-making. 
++ The company is long-term focused and isn't afraid to take massive risks that may lead to near-term volatility.
++ Really thoughtful and inspiring executive team, including our co-founders, CFO and product heads.","+ The company still functions, in many ways like a startup. I personally love this about the company but for many folks, used to working in larger, more structured environments, this can be a little off-putting.
++ Tend to look externally to hire for senior positions versus look internally - would encourage executives to coach high potential talent rather than look externally."
+109,Atlassian,Authentic,2021-08-19,5.0,Anonymous Employee,Great values and authenthic and smart people.,Could be more efficient in terms of company rhythm and comms
+110,Atlassian,Support has a culture problem,2021-09-18,2.0,Senior Support Engineer,"Cool office, great health & wellness benefits, fantastic stock RSUs.","Worst support culture I've encountered...ever. Time off to get to sporting events as a parent was frowned upon. Practically no flexibility, unless you were a developer."
+111,Atlassian,terrible working conditions,2021-10-18,1.0,Programmer,"free coffee, but it's the cheapest. no pluses.","Management, humiliation, discrimination, salary, constant noise, require more than I signed the contract."
+112,Atlassian,"Great company, great people",2021-06-23,5.0,Software Engineer,"Great co-workers. A lot of smart, talented, but laid-back engineers. Great work/life balance. Good leadership, good benefits.","Average salary. Some average engineers (but still good people). Rigid, arbitrary promotion timelines. Need to be proactive to get growth opportunities."
+113,Atlassian,dont take a job here,2021-10-12,2.0,Information Security Analyst,good stock; decent pay at a minimum,promotion of insiders with nepotism
+114,Atlassian,great place to work,2021-08-05,5.0,Product Manager,good wlb. people are supportive and welcoming.,very big company. lots of process.
+115,Atlassian,Amazing Company for any level of your career!,2021-06-03,5.0,N/A,The best team I have ever worked for in my life; I was able to grow immensely over the past 3 years,Some departments don't have growth profiles which inevitably makes you hit a wall after a while but they will always help you grow with skills in the meantime until they can figure something out.
+116,Atlassian,Nice change from the status quo in tech especially in Austin.,2020-09-18,4.0,Program Manager,"There are really so many it will be hard to summarize then all here. 
+- Culture! If you are seeking a place that makes you feel cared about as an individual this is the place. In today’s times I’m grateful to be a part of the TEAM. 
+- Benefits! Even without all the office perks like snacks, food etc. You will be given so much more than those “perks” that all tech companies assume makes their benefit package and culture great. There are too many to list but here’s a few; paid health benefits for the whole family, mindfulness and well being benefits, encourage volunteer time, encouraged work/life balance. 
+- Growth! While the growth plan won’t be meticulously delivered at your feet you will be given the agency, opportunities to push yourself further without the fear of failing. They encourage everyone to do continuous learning either for your current role or the role you’d like to move to. 
+- Change! I love evolving and making changes quickly when something is not working. 
+
+I’d give 5 stars but we all recognize we can always be better and that includes our CEOs.","If you aren’t a “pick yourself up by the bootstraps” type I can see how the pace, transparency, and available content can be overwhelming on where to start and to continue. 
+
+If you don’t like continuous improvement (frequent change) you will also not fit with the culture."
+117,Atlassian,Great work life balance,2020-10-12,5.0,Customer Facing Role,"Most if not all Atlassian employees truly live the company values. Everyone works hard to make this a great place to work, with lots of places to find ""your people"" and for individuals to add to the company culture. Product and marketing teams genuinely seek to be the change you seek while still balancing periodic waves of feedback and navigating several sources of feedback from customer-facing teams.","While Atlassian is truly a wonderful place to work, I've seen people become too comfortable and stop pushing themselves to do ""the best work of their lives"". Experiences with recruiters have been hit or miss internally and externally with seemingly little incentive to progressing employees with internal mobility outside of stats by functional group. Career success and growth seems to be mostly based on the initiative and drive of the individual and their connections rather than something that is front of mind for some managers."
+118,Atlassian,Tough experience,2021-05-18,2.0,Senior Recruiter,"Collaborative coworkers, really smart people and lots of folks trying to make tech better.","Management and leadership in the people/recruiting team is entirely focused on themselves & don’t help ICs make things better. They expect you to work 12 hour days, reward you with way more work rather than advancing your career & only care about the company growing at a speed that is killing the culture. Not friendly to people with disabilities or different work styles & they’ve done nothing to improve the experiences for BIPOC. It’s incredibly hard to climb there even if you’re doing great work. They’ve grown at the expense of everyone’s sanity & work life balance and continue to do so."
+119,Atlassian,Amazing Company,2021-07-16,5.0,Anonymous Employee,Atlassian is a company that really cares about its emplyeees.,It is a fast-paced environment withits shar of ambiguity.
+120,Atlassian,Amazing Company With Amazing Values,2021-04-30,5.0,IT Software Engineer,I work with amazing/passionate people. The benefits are pretty great. There is a huge education budget! I feel good about our impact on the world. The work is interested and engaging. WFH is very flexible and higher ups really encourage taking care of yourself :),I was the only woman on my team for a while. I'm not sure what our numbers are but there's always room for diversity improvements.
+121,Atlassian,HORRIBLE  WORK LIFE BALANCE,2021-10-19,1.0,Software Engineer,good benefits and that's pretty much it,"horrible wlb, 0 personal life, management pushes to only work 24/7.
+and all this with average pay. avoid."
+122,Atlassian,Egineers there are just garbage...,2021-10-24,1.0,Senior Software Engineer,"Big company, good offices, popular product",Egineers there are just garbage...
+123,Atlassian,good,2021-07-15,5.0,Senior Director,great benefits at the job,only some teams are valued
+124,Atlassian,A peaceful life,2021-06-15,5.0,Senior IOS Engineer,"* Work life balance
+* Treated like a human
+* Good values
+* Decent to good pay",* Projects can be stop start. Not the greatest alignment between different groups
+125,Atlassian,This Department Doesn't Represent Atlassian,2021-03-15,3.0,Technical Support Engineer,Great organizational benefits! Great company with great values. Very organized and they do lots to encourage philanthropy engagement.,"They work us like dogs. Its rarely a 8-9 hour day for most. No work-life balance. Management lacks a positive attitude and all that is focused on is metrics. There is no encouragement or positive comments to employees. The founders Mike and Scott would be disappointed to see this management team not representing company values. Every time the team catches up on the queue, teammates are sent to cover other time zones or our training is canceled. It is impossible to get people trained with what they need. NO one hardly talks to anyone in the meetings. Just management telling us what more needs to be done. Not a friendly feeling with high stress and our internal surveys show it."
+126,Atlassian,Amazing company culture,2021-06-30,5.0,Site Reliability Engineer,"Great workplace, comp and benefits.",Remote first approach to work.
+127,Atlassian,"Heart in the right place, follow-through to be desired",2021-05-03,2.0,Anonymous Employee,"- Flexible work environment
+- Autonomous teams and individual workers
+- Generous benefits
+- Accessible information (sometimes to a fault)","- Leadership can parrot back but not resolve feedback nor does it engage on controversial issues
+- Direction is too diversified to gain momentum
+- The same conversations happen every year without applying learnings
+- Only the loudest gets promoted"
+128,Atlassian,Great People-First Culture,2021-06-12,5.0,Content Designer,Company truly lives its values and supports actively pursuing work-life balance.,I honestly haven’t found any to share that are true cons.
+129,Atlassian,Excellent,2021-06-10,5.0,Marketing,"Salaries were good, bonuses too, events and people wonderful","the rooms were small and noicy little bit, especially when people were making calls"
+130,Atlassian,Your experience depends on the team,2021-08-26,4.0,Anonymous Employee,Great compensation and benefits available for all,Collaboration/communication habits and culture vary SIGNIFICANTLY across different teams in different orgs
+131,Atlassian,Best place I've ever worked,2021-04-14,5.0,Cloud Support Engineer,"~ The people on my team are amazing
+~ The culture and community. 
+~I believe they care about me and my family. Y'all are the best.
+~ The work is fun and technical. 
+~ Great work-life balance","I wish the office was open, but I understand why it's not. I did have a great virtual onboarding experience though."
+132,Atlassian,The best place ever!,2021-04-15,5.0,Senior Data Scientist,"The best culture I have seen or heard anywhere. Atlassian really lives its values. Tons of energy and optimism all around. Very humble, down to earth people. I have nothing but great experience so far!","Very hierarchical. There are probably 7 levels for people managers! M3 - M10
+I wish the structure was more flat."
+133,Atlassian,IT sucks,2021-09-30,1.0,Do Not Wish to Disclose,"Share price is good
+Work from anywhere is a bonus","No vision
+Too many short term illogical plans 
+Unfruitful work assigned"
+134,Atlassian,The best place to work,2021-01-26,5.0,Data Scientist,"The company culture is the real thing. The values are important, and it's hard to find a person here who doesn't try to work according to those values. In three years, I can count on one hand the number of people I've met who I was not happy about working with. 
+
+Not only are the people nice, they are smart. They will make you better at your job. They will tell you when you are wrong, usually in the most respectful way possible. I would not love my job if I didn't work with people I like and highly respect.
+
+The business is extremely strong. Atlassian sells inexpensive, good products to millions of people on a subscription model. Even if some disaster hit, it would take a long, long time for the business to actually fail. It is one of the best positioned businesses in tech. The founders are rock solid. They seem to be very sharp but still open to others' ideas, as they should be.
+
+People are paid well. I don't believe it's the best pay, but it's certainly competitive. It would always be nice to have a number that no one else could match, but I have yet to find the company that would be as good to work for and pay the same.
+
+People are treated well. The leadership and HR teams bend over backwards to make sure people are happy. It's probably a smart business decision, but not one that you see many companies take. I don't think the perks are over the top, but I'd rather have the people running things truly care about creating a good place to work than have the best catered lunches. The perks are excellent, especially if you think outside of the Silicon Valley bubble.
+
+That's a good note to end on. Atlassian was created to be a good place to work, for Mike and Scott. As they grew, it was centered on being a good place for new people to work. To this day, employee well being is consistently prioritized, and it's a guiding principle in business decisions. That employee focus has paid off for Atlassian, in terms of finding and retaining people you want to work with.","It's a big company. At this scale, there are communication issues and some of the work is not as exciting as it might have been 10 years ago. So far, the company has done a surprising job of sticking to the original values, but it is going to continue to be a herculean task to stay on course with 5,000, then 10,000 people.
+
+The offices are giant open concepts, which look beautiful but they are difficult to work in for a lot of people. Fortunately, everyone has been able to work remotely throughout the pandemic, and many people will never be required to work full time from an office."
+135,Atlassian,Overall Pretty Good,2021-01-17,4.0,Senior Software Developer,Pretty open company and cross-team knowledge sharing and collaboration is common. No silos here. A lot of different areas of the company to work on and they're friendly to filling positions with internal candidates. Modern tech stacks and best practices used in many places means you'll stay up to date with what's industry leading. Time allocated for pet projects and innovation. Great benefits and overall culture.,"Open culture to the point of it being a con at times. Be prepared to hear all about people's personal beliefs in the workplace and not just at the proverbial water cooler. Internal developer platform constantly sending out ""breaking changes"" notices. A lot of contractors in some teams (especially a con when they build a service then get switched out by the contracting company). A lot of comfortable middle management."
+136,Atlassian,Best Company to work with,2021-05-27,5.0,Senior Site Reliability Engineer,"- Great Work Culture
+- No Premium Insurance
+- 100% vested 401k",- Exponential growing pain to maintain the quality and culture
+137,Atlassian,Great culture,2021-06-12,5.0,Senior Data Scientist,"Open culture, significant autonomy, decentralized",Flat hierarchy so limited growth opportunity
+138,Atlassian,Best company I've ever worked for!,2021-04-22,5.0,Group Manager,"Opportunities for advancement, great compensation, awesome culture, truly a company that cares about its employees.",None that I have seen so far.
+139,Atlassian,Fires workers,2021-09-19,1.0,Software Engineer,Can’t think of anything to say,Fires employees who take care of sick family members
+140,Atlassian,Amazing Company,2021-04-15,5.0,Enterprise Development Representative,"supportive co-workers, great culture, transparency, great benefits, industry leading tools, room for growth","Still building sales department, so a lot of moving parts but if you're flexible and willing to contribute to the growth, then it is the place for you"
+141,Atlassian,Great company culture but toxic team,2020-12-31,4.0,Anonymous Employee,"Atlassian offers great perks and has a great company culture, encourages open company and no bs. Most of the Atlassians with longer tenure are very open and transparent. This is a rare quality comparing other companies I've seen or previously worked for. Atlassian is definitely my top choice. Founders are awesome and truly care about employees' wellbeing. I would want to continue working for Atlassian if the company culture doesn't change.",Some of the new members joining in the recent two years are very un-Atlassian and unethical. There are a lot of dirty plays behind the scene. It's exhausting and worrisome. Not sure if I want to stay in such an environment.
+142,Atlassian,"Great culture, not product led",2019-10-22,5.0,Senior Product Manager,"+ This is the only company I know that actually lives its values. That is pretty amazing. That said, this is changing. 
++ Could be an amazing place to grow your career, they are growing rapidly and if you can ride the way, in a short time you can be moving up the proverbial ladder 
++ Australia (if you visit)","- The blogging culture - it is a culture about writing, and 'showing' something has been done. This worked really well when Atlassian was small, and works well for transparency - but it feels like it take a blog to get anything done. If its not blogged about its not real. Keep this in mind, for you to succeed here, you will need to blog and build a brand for yourself internally through it.  
+- It is not a product-led company, it is founder led company. This means the major strategy decisions are done from the top. There are exceptions to this rule, i.e. Jira Service Desk came up from a hackathon 
+- Atlassian is amazing at marketing process, playbooks, Jira etc, but they do not use it the way it was intended. Do not look at the material and think they have things figure out, if anything its worse on the inside, BUT there is ""appetite ""to improve. There is no standardization across teams, which has its pros /cons."
+143,Atlassian,"Moves slow, bogged down by old code,",2021-06-29,3.0,User Experience Designer,"good working hours, people are generally friendly and reasonable","Slow to have real change, says they're not top down but kind of are."
+144,Atlassian,Great company,2021-05-21,5.0,Program Manager,Great company and Great Values,The company is growing too fast
+145,Atlassian,"Dynamic and innovative company with amazing culture, benefits, and room for growth",2021-03-30,5.0,Senior Support Engineer,"Absolutely amazing culture, great benefits (including permanent WFH, good health insurance, RSUs, other perks), wide array of great products which lends to a bright future for Atlassian.",No downsides I can think of
+146,Atlassian,Awesome company,2021-03-01,5.0,Technical Account Manager,THis company lives their values like no other,A lot of new hires are figuring out how to live our values and are not yet fully aware of the importance of the culture. Some come with bad habits needing to be broken by old ways.
+147,Atlassian,"In the crazy world of tech, this is one of the better companies out there",2020-01-28,5.0,Product Marketing Manager,"My views are based on my experience at different tech startups to SMBs (and now Atlassian) in the Bay Area.
+
++ Culture here is generally a really positive one. The values are not just lip-service; they are lived.
++ Except for our quarterly earnings calls, I never see presentations about the bottom line. They are all about how can we do better by our customers and stakeholders. It's probably a different story in channel and field ops meetings, but as someone in marketing I find this unusual and refreshing.
++ I genuinely like pretty much everyone I come into contact with here. Great people.
++ Good work life balance. 
++ Kick-ass office with nice amenities, workout room, rooms for parents, reflection room, massage chairs, bar, etc.","- We're not afraid to pivot, which inevitably means whiplash. It's not as extreme as a startup, but it still happens. Lots of org changes.
+- I'm told our base pay is not as competitive as other companies in the valley. Between the rest of our benefits and the great work-life balance, it's enough to keep me comfortable and happy.
+- I haven't seen any blatant examples of ageism, but I have noticed that everyone on my team and most people on adjacent teams are within 10 years of each other. FWIW."
+148,Atlassian,All Around Good Vibes,2021-02-13,5.0,Analytics,"- Very intelligent and friendly people
+- Executives are relatable and do the right thing
+- Values-driven company
+- Worklife balance is what you make it
+- Openness to new ideas
+- Financially strong","- The larger the company gets, the more ""enterprisey"" it starts to feel.
+- Sometimes it feels like the company is trying to play 15 games of chess at once."
+149,Atlassian,Tons of opportunity,2021-07-20,4.0,HR- Program Manager,"Autonomy , outsized impact, kind people","management fairly inexperienced
+compensation
+no worklife balance alll global teams"
+150,Atlassian,Best Company to work for,2021-04-24,5.0,Senior Analyst,"Very great culture, Employee focused.",compensation not equal for all departments
+151,Atlassian,Amazing place to work,2021-03-16,5.0,Enterprise Development Representative,"- Work life balance
+- Fully remote (TEAM Anywhere) during covid 
+- Great benefits
+- Amazing promotional path",- Pay for Sales is a bit under the industry standard
+152,Atlassian,"Chaotic, often stressful, but an incredible company",2021-02-20,5.0,People Team Leader,So much momentum and awesome things in the pipeline. Bright future ahead and an outstanding culture.,"Priorities change, pace is sometimes frenetic, and folks get burned out."
+153,Atlassian,"Great Benefits, Not for Everyone",2021-07-08,4.0,Anonymous Employee,Generous Benefits with lots of perks.,They have a great set of values but often misapplied
+154,Atlassian,A company with hidden dark culture,2021-01-28,1.0,Anonymous Employee,"Decent benefits, latest technology, good infra , few really good employees ..","A Good company taken over by dark politics. Founders too busy growing than actually caring for things they preach. HR is the worst team and only politics are saving them, they don’t care much about people anyway. People are scared to talk to approach HR (specially India) as these are bunch of political jokers highly dangerous to deal with. India team (senior management) is terribly weak. They are busy saving their chairs rather than solving any such dark politics that is emerging. The invisible gorilla right there no one sees. Good people are suffering and people who are managing up well growing (HR busy testing politics). If you are in tech still ok but avoid joining recruitment."
+155,Atlassian,"Open, friendly, fast paced",2021-02-16,5.0,Product Manager,"1. Very open so communication is great between CEOs, execs etc
+2. Small company means everyone is doing a lot so pace is fast
+3. Lots of responsibility and independence 
+4. Very friendly co-workers","1. Perks are not as great as other top tech companies
+2. Little pay transparency"
+156,Atlassian,Best company on the planet,2021-03-29,5.0,Senior Product Marketing Manager,"Great people, work to do, work life balance, etc.",none at all here to be listed
+157,Atlassian,Amazing!,2021-02-25,5.0,Executive Assistant,"No employee contribution full health benefits 
+“Vacay your Way” PTO program
+Incredibly generous maternity/paternity leave 
+Incredible staff 
+Fully Remote work capability",Very large company sometimes it’s hard to have your voice heard
+158,Atlassian,Good,2021-07-05,4.0,Account Manager,Good company environment they have,I’m not sure what cons
+159,Atlassian,Great company with strong leadership team lead by founders,2021-03-22,5.0,Anonymous Employee,"Founder driven vision, Great benefits, Collaborative","Growing pain as the company becomes big,"
+160,Atlassian,Great Place to work,2021-02-14,5.0,Senior Site Reliability Engineer,"- Flexible working hours
+- Great team culture
+- Friendly collegues
+- No EMI for medical insurance
+- 100% vested 401k
+- Paid pager support","- 4% 401k match bit less than industry standard
+- As usual growing pains, so sometimes burst of work"
+161,Atlassian,Greatest place I have ever worked,2021-03-10,5.0,Anonymous Employee,"Open company, no BS. Highly collaborative nature, teams have excellent can-do attitudes",Increasingly becoming hyper political in the IT organization
+162,Atlassian,"Good people, hard work",2021-05-10,4.0,Intern,"Environment, coworkers were always a delight and the internship program was very helpful","Management can sometimes be too harsh for no reason, often the wrong person receives the majority of the blame"
+163,Atlassian,Living the dream,2021-03-07,5.0,Business Systems Manager,"Company is fast, growing, and fun.",Be the change you seek. You have to take the initiative to change it.
+164,Atlassian,AMAZING Company!,2020-11-16,5.0,Solutions Architect,"Atlassian practices what it preaches regarding unleashing the power of every team! I feel empowered within Atlassian to make decisions to make life better for Atlassian and our customers. Along with the amazing culture, the benefits are the best I've ever had!","We're getting larger and with size we start to see breakdowns in communication. Nothing major now, but something we need to be aware of as we get larger. We can't lose our culture as we grow :-)"
+165,Atlassian,Poor leadership,2021-02-22,1.0,Analytics,They have good training materials for new employees.,"The quantity and quality of insights from the analytics team are not impressive, analytics leadership lacks vision, they are reactive and not proactive, they do not have a seat at the table, and product and engineering teams often take decisions without waiting for analytics. I have not seen this in any other company I have worked for. In fact, in my previous company, product would not move an inch without consulting analytics. I see the opposite at Atlassian."
+166,Atlassian,Great culture,2021-03-02,5.0,Software Engineer,"Super friendly, very good work environment","Codebase is enormous on Confluence, sometimes hard to work with"
+167,Atlassian,Fantastic Job,2021-03-02,5.0,Data Engineer,The work culture is great here,No cons to be honest
+168,Atlassian,An employer with values,2021-03-05,5.0,Program Manager,"Remote work, good culture, good people.",Frequent reorgs and frustrating middle management.
+169,Atlassian,Cool place to work for,2021-03-02,5.0,Software Engineer,"Friendly work environment, good perks",Nothing much to say about the company
+170,Atlassian,Awesome place to work,2021-01-17,5.0,Software Engineer,"- Great people
+- Amazing perks
+- Challenging work
+- Fantastic work-life balance
+
+Pretty good transition to working online. Very open and honest culture and they truly care about your growth within the team.",- Things move a bit slowly
+171,Atlassian,New hires,2021-03-01,5.0,RCA Professional,Very professional workplace for all,Commute wasnt the vest for me
+172,Atlassian,Great culture,2021-02-04,5.0,Director of Finance,"Culture centered on working together as a team, transparency, and putting customers first. 
+Great benefits.","Learning to scale as enterprise-serving company, hiring at a torrid pace,"
+173,Atlassian,Do your best work on Atlassian's TEAM,2020-11-09,5.0,Tax Manager,"- Budget and tools provided for success
+- Brilliant teammates
+- Competitive pay (equity has done well)
+- Great perks, better when offices are open
+- Ethical, active founders are CEOs = not another ""evil"" corporation","- HR benchmarks for base salary are not perfect
+- Long work hours depending on time zones of your team (worldwide offices)"
+174,Atlassian,"A Tech Company Doing it the ""Right"" Way!!!",2020-09-29,5.0,Senior Program Manager,Great leadership from the Co-founders on down. Strong culture and company values that are more than just lip service. Great products and true desire to deliver value to customers. Leaders listen to feedback from external and internal sources.,Can be a bit siloed depending on your team so you need to be proactive to move outside of your world. Lots of documentation internally which is good and bad.
+175,Atlassian,Grateful for Atlassian,2021-02-09,5.0,Anonymous Employee,"team support, managerial support, amazing culture, ever evolving, learning new things every day",I don't have any cons
+176,Atlassian,90 days review,2020-10-16,5.0,Software Engineer,"- Great work-life balance (regular 40 hours, expected online collaboration between 10-4 with lunch)
+- Great benefits, matching 401K, $500 covid home equipment purchase
+- Awesome culture: feel connected with everyone+++
+- Great learning opportunities - solving interesting problems
+- Flexibility: adoption of async working style, many different career paths within the company, working from home","- Pay is not as much as FAANG
+- Sometimes feel the teams are in silo"
+177,Atlassian,"Great people, interesting work",2021-01-12,5.0,Data Engineer,"the people are great to work with, the leadership shows signs of getting better (in terms of middle managers)","not much cool tech or exciting tech here, but still growing fast"
+178,Atlassian,One of the best companies in the bay.,2021-01-27,5.0,Principal Engineer,"- Culture
+- Good team work
+- Data driven","if any, consensus based decision making can slow teams down."
+179,Atlassian,A really considerate company to work for,2020-11-06,5.0,Junior Software Engineer,"I think Atlassian really lives up to its values. Working from home has been really rough, especially for a new grad. Not to say that it is been the easiest transition, but I am really thankful for the care they have for their employees.","Work from home has been a challenge, but I think that is the case for all companies right now."
+180,Atlassian,Incredible top down culture,2021-01-11,5.0,Marketing Manager,Incredible top down culture. Strong benefits. Flexible work environment.,Scarce resourcing at times which can make it difficult to move forward with projects at a decent rate.
+181,Atlassian,Best place I have ever worked!,2021-01-22,5.0,AU Developer,"Values, Teamwork, energy, excitement, transparency, culture, doing good for the world",I have not experienced any cons.
+182,Atlassian,"Great company, but not all they claim",2021-04-02,4.0,Senior Designer,"Good culture, interesting complex problems to solve, competitive pay",Not scaling and growing gracefully as a company.
+183,Atlassian,"Not bad, not great",2021-03-26,4.0,Software Engineer,"Fully remote option, nice people, competitive salary and benefits, parental leave is 20-26 weeks long","Growing pains, too much lateral growth in product offerings with not enough resources, on-call is a pain"
+184,Atlassian,Best Ever,2020-11-30,5.0,Principal Technical Product Marketing Manager,"Atlassian is easily the most 'employee first' company I've worked at or for. They are also one of the rare companies that stays true to the values they espouse, and those values are injected into everything we do.",None at this point in time
+185,Atlassian,Company is great,2021-04-23,3.0,Integration Engineer,Smart people who are passionate about everything they do,Sometime the work hours can be long
+186,Atlassian,Awesome company,2021-01-19,5.0,Data Science Associate,"- good benefits
+- great team mates
+- very smart leaders",- growing pains with bureacracy
+187,Atlassian,"Good Culture, Everything I expected since I first interviewed",2021-01-07,5.0,Software Engineer,Everyone is caring and a team player,I can't think of any
+188,Atlassian,Amazing company,2021-01-09,5.0,Technical Support Engineer II,"Great culture, excellent benefits, amazing work/life balance",Nothing much to speak of
+189,Atlassian,Great place to grow,2020-07-20,5.0,Software Engineer,"- can make an impact as a young engineer, your opinion and ideas will be respected
+- engineers are encouraged to spend time learning new or deepening technical skills, great opportunity to grow as a more junior engineer
+- surrounded by extremely smart people
+- good work-life balance (on my team...see below)","- seems like work-life balance depends heavily on the team and management. I have colleagues on different teams who feel over-worked and burnt out, but this is not a problem on my team"
+190,Atlassian,I am so lucky that I got a job here!!!!,2020-04-15,5.0,Senior Product Manager,"Culture! Culture! Culture!
+
+In these difficult times with COVID and WFH, Atlassian shows us everyday that they are here to support us. They gave us allowance to setup home office, flexibility to deal with family and interruptions during WFH, so many online social activities, and mostly showed genuine interest in our well being and how we are doing!! I look at my friends and colleagues at other companies and I realizes everyday how lucky I am that I work at Atlassian.
+
+This same culture even exist when we are in the office but seeing how they applied during difficult times is what makes the huge difference!!
+
+Teams are open, honest, communicative. There is always someone to answer your questions and help you whenever needed.",None... it is the perfect company
+191,Atlassian,Great for new grads!,2020-11-02,5.0,Software Engineer,Excellent new grad program with structure and mentorship. Competitive pay and benefits. Genuinely nice people to work with. Great company values that actually influence your work. Fantastic work/life balance.,"Larger company, so less individual projects and responsibilities. High test coverage, so lengthy testing process for code."
+192,Atlassian,"Amazing Company, World Class Leadership, Teams Matter",2020-11-01,5.0,Anonymous Employee,"Best in class product, leadership willing to make the hard choices, customer focused, transparent",Atlassian is an amazing place to work. The team you are on can make a big difference in whether you experience all the company has to offer.
+193,Atlassian,Support culture fails to keep up with rest of company,2020-07-16,1.0,Product Support,"Overall a good company but their Customer Support and Success teams operates differently
+Good compensation and collaboration among other teams
+Positive energy and willingness to help others","Support team does not have the same culture as the rest of the company
+Support senior leadership has a “do what I say, not what makes sense” attitude that trickles down
+Does not do collaboration well, despite making the software that supports remote collaboration
+Support leadership fails to keep up with rest of the company from a behavior and teamwork standpoint
+Places roadblocks to promotion quoting “policy”, internal promotion system is slow
+Highly qualified persons are passed over for a role and end up training external hires over them despite being “prepped” for the same role
+Company has grown beyond the scale of the software they make leading to issues and workarounds that slow down productivity
+Support teams were forced remote during Covid 19, other teams had already made that choice willingly"
+194,Atlassian,Fantastic company that really cares about its employees,2020-05-18,5.0,User Experience,"- You get the feeling that the company truly cares about its workers (it was especially apparent with the COVID-19 care of the workers)
+- Open culture no bs
+- Fun flexible environment
+- You can work from home or from wherever, as long as you do your work","- Its an Australian company, so it feels at times that we work in the periphery. Which being in Silicon valley is a weird feeling to have
+- Aside from the great company culture, if you get a sucky boss or a sucky team (which happens), your experience will be sucky. Having a good team and a good manager is the key. Which sadly doesn't always happen"
+195,Atlassian,Not bad,2021-03-23,4.0,User Experience Researcher,"Work life balance, company culture","Politics, career growth opportunities are limited"
+196,Atlassian,Solid employer with heart and openness to change,2020-12-01,5.0,Marketing Manager,"Good culture, perks, smart people","slow to promote, some poor players in middle management"
+197,Atlassian,"Amazing company, amazing office",2020-08-24,5.0,User Experience Designer,"Fantastic culture--open, candid, ethical, and warm. 
+Strong leadership and mangement--I had a great manager and felt confident about the company's direction
+Empowered employees--IC are encourage to take ownership and initiative (love Ship It!)
+Great benefits and competitive comp
+The most beautiful office in Austin w/ exercise classes, great food, and fantastic amenities","Limited career growth options in Austin (depend on the role, of course)"
+198,Atlassian,Great company to be at; plenty of opportunity for internal mobility,2020-10-05,5.0,Anonymous Employee,"Great culture, company values, really talented people",Workload can be overwhelming at times
+199,Atlassian,Great company to work for,2020-11-20,5.0,Senior Software Engineer,Great culture and company values,I can't think of any cons
+200,Atlassian,Good company to work for,2021-02-24,4.0,Enterprise Data Architect,"Very good products, good compensation",Too much empowerment increases bureaucracy and delivery becomes challenging
+201,Atlassian,Core values so spicy you have to look them up for yourself (warning: strong language),2020-07-15,5.0,Solution Architect,A huge percentage of the folks at Atlassian love their jobs and this make everything easier and more fun. Plenty of autonomy and purpose.,"You actually need to be pretty good at what you do to get a job here, so for some folks it may seem like they don't spend much time ramping you up to your role."
+202,Atlassian,"Limited growth available, company weighed down by engorged middle management",2021-01-18,3.0,Senior Staff Software Engineer,"- Large reach, huge customer base
+- Minimal personal responsibility","- Poor leadership (co-CEOs is always a bad sign)
+- Largest portion of the company is middle-management
+- Disorganized ""push everything down"" management style"
+203,Atlassian,Excellent company to work for,2020-10-14,5.0,Sales Strategy and Operations Analyst,Amazing culture. Very smart and talented people. Cares about employees. Benefits are fantastic. Flexibile.,No real cons - the best company I've ever worked for.
+204,Atlassian,An organization fueled by its values and mission,2020-08-31,5.0,Non Technical Role,"Transparency of leadership, committed team atmosphere, work/life balance","Onboarding resources for non-technical employees are lacking (product training, tech lingo, etc.)"
+205,Atlassian,A year under my belt.,2020-09-15,5.0,Support Engineer,"Truly an employee-centric company! We stand behind our company 
+* Benefits
+* Employee development
+* Great workplace 
+* Volunteerism encouraged 
+* My team",I can't think of any so far.
+206,Atlassian,Good Culture and Friendly Environment,2021-01-04,4.0,Senior Software Engineer,Good Culture and Friendly Environment,Not good for introvert. You gonna be extrovert to go high up.
+207,Atlassian,Company is doing good,2020-10-08,5.0,Team Lead,Great culture and Company is growing,"Growing pains
+IT management is not great"
+208,Atlassian,Awesome Company with Great Benefits!,2020-06-22,5.0,Senior Manager,"Amazing benefits, celebrates diversity, strong leaders, and invests in employee skills development and career growth.","Rapidly growing company with high rate of change, requires adaptability and comfort with handling ambiguity."
+209,Atlassian,Great place to work,2020-10-07,5.0,Senior Support Engineer,Benefits culture team love understanding,There is a lot of change
+210,Atlassian,NA,2021-01-26,4.0,Human Resources Business Partner HRBP,great company to work for,There are not many cons
+211,Atlassian,Good,2021-01-11,4.0,JIRA Administrator,Good in overall . All good and good management,Nothing to say. all good overall with team
+212,Atlassian,Great Company... Inspiring leaders... awesome culture,2020-08-16,5.0,Solution Architect,"A company that lives its values. 
+Visionary leaders that are here for the long haul.
+Sticky ecosystem with great products.
+Talented and warm people.",Too open and democratic can make change a slow process.
+213,Atlassian,Review,2021-01-22,3.0,Sales Associate,Great employees and working environment,Not that great health benefits
+214,Atlassian,Amazing Company,2020-08-20,5.0,Software Engineer,"* Great culture
+* Great benefits
+* Interesting work
+* Lots of autonomy
+* Very flexible schedule
+* They take care of their employees",* Missing some benefits we once had in the office pre-COVID
+215,Atlassian,Searching for a company like this my entire career,2020-06-30,5.0,Talent Acquisition,"People, the TEAM focus, Remote Support, Learning opportunities and the drive to always improve processes and candidate experience.",Nothing bad to mention! I love this company and my TEAM.
+216,Atlassian,Support Team (Customer Success) does not share same values as overall company,2020-09-18,1.0,Senior Manager,"Company culture is good, maintains a collaborative spirit. Very engaging staff that is always happy to help others. CEOs seem to genuinely care about their teams, even forced the entire company to be work from home during Covid before it became the standard and declared that the choice would be the employee's in the future.
+Good benefits, 401(k) matching, decent salaries, good medical coverage","All of the cons here are related to the Support (Customer Success) teams
+Support team does not have the same culture as the rest of the company
+Support Senior Leadership has a “do what I say, not what makes sense” attitude
+Does not do collaboration well, despite making the software that supports remote collaboration
+Support leadership fails to keep up with rest of the company from a behavior and teamwork standpoint (As an example, support teams were required to be in the office over the holiday break, being the only people still in the office when everyone else was remote during that time (pre-Covid))
+Places roadblocks to promotion quoting “policy”, internal promotion system is slow
+Highly qualified persons are passed over for a role and end up training external hires over them despite being “prepped” for the same role
+Company has grown beyond the scale of the software they make leading to issues and workarounds that slow down productivity
+Support team training consists of the same materials available to customers, it's mostly reading a bunch of articles. Very little actual investment in up-skilling their technical teams
+The other reviews that call out the Jira team experience are accurate but not limited to that team
+Interview process is extremely slow and not transparent, this is uniwe to support in my experience as other teams move much more rapidly and are able to make decisions at a reasonable pace and move forward, while support lags behind consistently"
+217,Atlassian,Security @ Atlassian,2020-08-31,5.0,Principal Security Engineer,"Very helpful culture, Low stress, Interesting work","Information overload, little difference between historical information and current information."
+218,Atlassian,Atlassian is unlike any company I've ever worked for,2019-10-31,5.0,Senior Product Marketing Manager,"This company is growing so quickly, and there is a ton to do!  There are so many challenges for you to solve, some of the biggest challenges you can solve in a career.  And that makes it exciting.  But what's even better is that Atlassian really gives its employees the room to solve those tough challenges.
+
+More than any company I've ever been at, Atlassian tries really hard to take all of the pressures that might prevent you  from being effective.  From the benefits, to the food, to the healthcare, the pay, etc.  It's an amazing experience.
+
+The employees are some of the smartest people I've ever worked with, and it's an absolute pleasure to come to work every single day.
+
+Of course, this could be a ""new job honeymoon"" - but every one I talk to, who's been here for many years, feels the exact same way still.  
+
+
+Everyone is working really hard - and don't get me wrong, it's not like we're all putting in 10 hour days, every day, or anything.  But it's when we are working, we're working hard, intelligently, fast, effective, and efficient.
+
+And the best part of the business? our company values (look them up) - we live and breathe them every day.","Growing pains.  
+
+Another pro of Atlassian is we're always trying to disrupt ourselves, before our competitors do.  But, that can sometimes cause maybe some confusion, or disconnect, or have a lack of clarity - but, that's okay.  Because if we didn't do it to ourselves, our competitors would. 
+
+
+I want to address one ""con"" I've seen in other reviews - and that's the pay.  I think the pay is ""fair"" or ""average"" for the bay area.  But what you have to really look at is the total compensation (normally I wouldn't say this, but this time I do).  The free food, the free healthcare, the stocks, the health stipend, the commuter benefits, etc..."
+219,Atlassian,Could not be happier here,2020-07-01,5.0,Software Engineer,"Very competent teammates
+Company routinely demonstrates that it cares about employees
+No micro managing - I am trusted","Salary for software engineers isn't as mind bogglingly high as some FAANG companies, but it is still more than fair IMO"
+220,Atlassian,Awesome Company,2020-08-03,5.0,Channel Manager,"- Everything
+- Team mentality 
+- Solid co-CEOs and company execs
+- Benefits cannot be beat",- Nothing so far and can't complain
+221,Atlassian,"Great Company, True to Culture, Employees First even in a Pandemic",2020-07-09,5.0,Anonymous Employee,"Benefits, Competitive Compensation, 401K Match, RSUs, Bonuses, Freedom to Build, autonomy to do your job, great leadership, amazing peers",Back when we were in office parking was a bit difficult.
+222,Atlassian,Enjoying my journey!,2019-08-16,5.0,"Senior Recruiter, Design","* Thoughtful, genuine culture
+* Great visibility and open culture
+* Smart, talented people who care about what they're doing
+* Interesting work, fast-growing company, resulting challenges and opportunities that arise with scale
+* Strong values and morality underlying our decisions
+* Great benefits (fully paid medical for you + your dependents) and perks
+* Awareness of challenges, openness about them, and desire to improve and get better",* It seems like maybe we have some opportunities in our internal mobility / promotion efforts - I'm too new to feel personally affected by this but I've heard enough about it to say it may be an opportunity for improvement. My manager is personally very invested in my growth as is my TABP and I feel supported in growing with Atlassian over the long haul.
+223,Atlassian,Great company with great principles,2020-06-29,5.0,Solutions Engineer,The company lives by its 5 principles,Nothing remarkable. New companies and products are added frequently to the portfolio and this requires frequent adaptation
+224,Atlassian,Some great business processes. Some really bad managers,2020-05-25,4.0,Software Engineer,"- There are a number of very good processes set up within the company
+- Flexibility to move around teams
+- You will know how to use Agile and Jira in a proper way (it's actually a really good tool)","- My manager was not technical, knew very little about the subject and at the same time was trying to micromanage - the worst manager in my career. I'm very surprised how Atlassian could keep people like this. I have to say there are some really good managers in Atlassian though."
+225,Atlassian,"Top-Down Culture, Good Work/Life Balance",2020-05-27,2.0,Product Marketing,"Its a top down culture which can be good or bad. Personally, I prefer to be able to contribute and add value, so I will defer to the work/life balance.
+Things do get done, its a dev culture. And everyone is reasonable. Not too much structure, though like any company politics do exist.","You are either the head of the group, or the low-man on the totem pole. This is why most of the hires are right out of undergrad or with minimal experience/sophistication beyond those at the top."
+226,Atlassian,Found a home at Atlassian,2020-04-01,5.0,Event Technologist,"True to its core, Atlassian is an “open"" company that always plays as a team. Support is in abundance and from top to bottom the executive & management teams continue to make you feel like an integral part of the company’s success.",Atlassian’s company values don’t truly identify everything this company is willing to do for its employees.
+227,Atlassian,Fine company,2020-11-01,4.0,Head of Finance,Products are business critical and Jira has seemingly been universally adopted.,Company is hardly an innovation engine.
+228,Atlassian,Awesome place to work,2020-04-14,5.0,Program Manager,"- Great opportunities learn and grow
+- Supportive management
+- Great work/life balance
+- Incredible and open support during COVID",No cons stand out for me.
+229,Atlassian,They have a ways to go...,2020-05-11,3.0,Recruiter,"Great company culture, awesome benefits, founders and a mission you can believe in. The overall company itself is great. Business partners are engaged and the actual company leadership is really strong.","The recruiting team here can be brutal. Be prepared to work long hours with little resources. They don't take feedback from ICs to improve leadership or goals. Expected to just get things done with very little support from management. Incredibly hard to get promoted, very little growth focus."
+230,Atlassian,recruiter,2020-12-15,1.0,Recruiter,not to many - remote maybe,a ton - not enough words
+231,Atlassian,Awesome Company to Work For!,2020-04-14,5.0,Solutions Architect,"Great company culture, company that actually lives by its values, openness and transparency, executive leadership and managers, collaborative people and teams, flexible work schedule, people feel valued",Benefits are good but could be better
+232,Atlassian,good company to work for,2020-06-02,5.0,Support Engineer,"stock options, good work life balance",senior management decisions are not well reasoned
+233,Atlassian,Atlassian company review,2020-05-31,5.0,Senior Enterprise Architect,"Open culture, compensation, benefits, health care benefits, positive outlook",I didn't find any cons yet
+234,Atlassian,Best place to work in Austin,2020-05-22,5.0,Product Management,"culture, growth, compensation, people, rocketship",typical growing pains as it becomes a large company
+235,Atlassian,Great company to work for,2020-05-03,5.0,Software Engineer,"work life balance, good software tech, money, stock, benefit",Politics and management can be curbensome
+236,Atlassian,Bad experience with free team,2020-11-09,1.0,Senior Data Scientist,stability for the company performance,"management not organized, politics, bad work life balance for free team"
+237,Atlassian,"Great company, great products!",2020-02-03,5.0,Senior Product Manager,"Atlassian's product suite offer so many opportunities for PM's, specially as the company is investing to become cloud first & solutions oriented to meet our customer needs. The unique business model, low-touch sales, places special emphasis on building a great product, which is great for PM's.","Growing pains, like any other company."
+238,Atlassian,"Awesome Culture, Great Benefits",2020-09-14,4.0,Software Engineer,"awesome teamwork, ownership, nice perks",not latest tech or not cutting edge tech
+239,Atlassian,Love it so far,2019-09-16,5.0,BDR,"Culture. Culture is a very overarching term and some companies mix culture with giving you free beer every once and a while and some catered lunches but Atlassian is different. Yes, we do get catered lunches but the core values of the company truly guide each and every one of the employees and that's why it's been an experience of a lifetime. I'm so happy to have the opportunity to be apart of something greater and I want to build a career here, not just a job.",None so far at the moment
+240,Atlassian,Great place to work,2020-04-20,5.0,N/A,"People, Benefits, Work/life balance, etc.",Can be hard to navigate the org
+241,Atlassian,Long hard hours,2020-08-05,3.0,Software Engineer,The benefits are AMAZING! $600 fitness budget and many more fun events!,Global company with high standards; feels like a start-up
+242,Atlassian,Life Changing,2018-10-02,5.0,Software Engineer,"There's a lot of freedom in your schedule which is great as I do my best coding at night. I can work from home when I want to or go into the NYC office which is awesome to have the choice when the commute is 3 hours round trip. The NYC office always has great food and drinks available and a lot of fun events to attend including in office yoga classes, supper clubs that explore NYC, and team building events when other offices visit. Everyone who I've worked with personally has been incredibly smart and helpful, I'm consistently impressed with my colleagues. There's a lot of great resources for learning and growing as a developer including a very fair size budget to travel and go to conferences with. Not only do I get to enjoy my day to day life at work but I get to enjoy more out of life with the pay and benefits they offer including compensation for my yoga classes and bike and incredible health benefits (the best I've had in my life and I have a chronic back issue so this is a big one for me!) I agree with the company's values and have been more than encouraged to give back through donating time and money through the company to some charities doing great things. I hope to be here for a very long time to come and am excited to grow within the company. I no longer feel like I go to work, I feel like I wake up and have an opportunity to build something amazing!",There's a bit of a learning curve when coming into a large existing code base but there's a lot of resources available to help with that
+243,Atlassian,This company actually lives by the values they promote,2015-02-24,5.0,Senior Support Engineer,"If you go to the company web site you will no doubt see the ""Our Values"" section.  In most companies this is just more BS internal marketing but not at Atlassian!  I started working here in Dec 2014 and while it has only been 3 months I can say that the values they advertise are absolutely the values that they follow in the day to day operations of the company.
+
+In my 25 year career in IT I have never worked for or with a better group of people.  I love coming to work!  I love taking cases and helping our customers!
+
+Benefits:  Insurance Paid. The last time I worked for a company that paid for my health insurance completely was in 1989 - 1994!!  Vision and Dental, Paid!!!
+
+Perks:  To many to mention but catered lunches, parties, working with great people, learning and growth opportunities, subsidized parking or train, and a lot more!
+
+Need more convincing, how about profitable company for 12 years!  How about explosive growth (Austin office went from 6 or 7 transplants in spring 2014 to over 130 employees in Feb 2015!!!","None.  I love coming to work, I love the people I get to work with, I love the customers (how many support engineers can say that?)  I do make a little less than I made before but I actually take home more because of the fully paid insurance."
+244,Atlassian,Senior Software Engineer,2020-05-04,4.0,Senior Software Engineer,"Living up to its core value, one of the best employer so far in the world","All good, except it’s hiring mostly Tamilians in Bangalore office. Top management seems to ignore this favourism by managers, HR and interviewers."
+245,Atlassian,Great company,2019-10-10,5.0,Senior Software Engineer,"Atlassian is full of smart people. What you can learn is totally up to you.
+They are flexible with work from home.
+They are not slave drivers; they understand needing to tackle personal affairs in some days.
+They use modern web stack, and particular about developer productivity.","Most teams won't face that many big challenges. It is mostly routine feature addition work. So, again, it is up to the individual to take on difficult challenges."
+246,Atlassian,Feeling welcome and productive!,2019-10-14,5.0,IT Business Systems Analyst,"- Competitive salary, total compensation
+- Best company culture of any company I've been at thus far
+- Extremely understanding coworkers/flexible working schedule
+- Founders/CEOs are very open, great leaders to follow!
+- Encouraged to explore roles/projects outside of job title
+- Can see the impact on the company in my work, objectives and results are clearly identified",- Current high-growth phase can translate to demanding and high amount of work
+247,Atlassian,Excellent workplace where everyone is driven by the same values and passion,2019-09-17,5.0,Engineering Manager,"The company actively has extremely interesting distributed systems and front-end work at scale, seeks transparency, encourages openness, fosters broad responsibilities and cross-team communication, and especially strives to avoid hiring toxic personalities that aren't team players.",The company is grown massively in the last 1 year. Everyone needs to be comfortable with and adapt to changes frequently. I guess the interesting work and booming stock are accompanied by some rising entropy as well.
+248,Atlassian,Challenging in all the right ways; awesome people.,2015-02-27,5.0,Anonymous Employee,"- The people are great; the company pays a lot of attention to hiring human beings and not just skill sets.
+- Minimal politics and BS; people are free to speak their minds about...everything.
+- I'm trusted to do my job; I have enormous flexibility over where/when/how I work. 
+- The company and its values really mean something to the vast majority of employees - as a whole, people believe in Atlassian, our values, and the products we make. Sounds cheesy, but shoot... it's nice to care. 
+- Very, very little email. 
+- Great benefits package, competitive salary, lots of office perks.","- It's occasionally overwhelming to have a constant stream of opinions from everyone, including people who lack full context and are speaking up anyway.
+- It's easy to work too much/too hard, because there's just an enormous amount of work that needs to be done and things move at a fast pace. You have to set boundaries (and you can).  
+- The sheer volume of information/communication shared in the company in a day is mind-boggling. If you try to keep up with it, you'll drown. You have to find the right volume and channels and make peace with ignoring the rest."
+249,Atlassian,Best company i've worked until now,2020-04-29,4.0,Frontend Engineer,"Respects its workers
+Have better side benefits
+Working with products that are used by huge community","Promotion system is poor.
+Your bonus are paid 1 year after you gain them."
+250,Atlassian,"So much going for the company but the management is terrible, so I am looking and you should not look here",2020-01-10,3.0,CSS,"stock price , teammates, benefits",management management management - they just can't get it together so anyone who is good leaves at both the IC to Management level
+251,Atlassian,A large company mentality trying to be a startup,2019-09-10,2.0,Support Engineer,The company will provide you resources as needed to get the job done. Large kitchens and tons of perks.,"Because the company thrives on data, it even uses it to micromanage. New managers have little to no understanding of the products their team supports making review time more of a tutorial for the manager.  Town halls are not required to attend, but you need to find a booth or conference room if you don't have the luxury of setting work down for 30minutes a week."
+252,Atlassian,Fantastic place for a Salesperson,2019-09-03,5.0,Sales,Atlassian is an open company focused on doing what is best for the customer. Great products & support to service our customers well.,"The no-negotiation on pricing & terms is often hard to work with, and the contracts are very pro-customer which helps."
+253,Atlassian,Hipchat SRE Review,2017-03-26,5.0,Senior Site Reliability Engineer,"It's a small, close-knit team with a mix of projects we handle independently and collaboratively across a large space.
+
+Our team lead knows that his role is to make the team reliable and available.  That empowers the engineers to do the same for the services with which we are working.  Those services make Hipchat function.
+
+You will never cease to find a new technology challenge to learn.  There is half a floor of software engineers you're working with day to day.  Everyone of them are working to deliver new features or services, and you're working with them from an SRE perspective.  That means you have to learn  as fast as they do...all of them.
+
+If you are unhappy with something, speak up.  Management will listen.  It may be a slow process to effect change, but you can effect change if you are persistent enough.","This is not a job for the faint of heart.  This is a job for someone who loves learning constantly, who has the self confidence to work as an independent operator or as part of the team in a group effort.
+
+SRE within Atlassian is only a couple years old.  In a way this is a con since there's a long road ahead to get to where we want to be.  But if you read this and felt inspired...well...I have to ask why you haven't applied yet.
+
+There is tons of technical debt to be paid down."
+254,Atlassian,Genuinely great place to work,2019-07-31,5.0,Marketing Manager,"Really do care about people, work/life balance achievable, company has done very well and is poised to continue to do so. Balanced decision-making and long-term perspective.","Depending on team/situation, some people feel like it can be hard to move up or grow"
+255,Atlassian,Excellent company to work with,2019-09-16,5.0,Senior Technical Business Systems Analyst,"- Work life balance
+- competitive pay
+- opportunity to create an impact
+- benefits
+- culture","- global teams
+- need more guidance and mentoring during the initial few weeks."
+256,Atlassian,the Special Forces of support,2019-07-31,5.0,Premier Support Technician,"high-tech, challenging, interesting, great team, great environment, nothing we can't handle as a team","challenging, at times overwhelming, high degree of complication in the issues you are troubleshooting"
+257,Atlassian,Good company without too much of a work/life balance,2020-01-07,3.0,Software Engineer,"* Clear value proposition
+* Not a startup
+* Positive cash flow","* Work Life Balance isn't OK - standups are at 9 (Statuspage), won't work if you have kids and need to commute from East Bay"
+258,Atlassian,"Flexible, Forward-Thinking Org with a Steep Learning Curve",2019-08-06,5.0,Program Manager,"Pro-active employees, terrific values that are put into practice, friendly and flexible teammates, stellar benefits package","Lots of systems and ways of working; takes a long time to get ""up to speed"" but teammates are very patient"
+259,Atlassian,Best challenge I've had,2019-07-16,5.0,Senior Team Lead,"- You'll be challenged daily 
+- You'll work with high caliber talent
+- You can have a big impact
+- There's lot's of room for growth
+- All the perks of Silicon Valley",- If you have to work with folks in other geo's you'll have to define boundaries for yourself
+260,Atlassian,"If you have a soul and would like to retain it, move along",2014-04-28,2.0,Anonymous Employee,"There are many genuinely good-hearted, helpful, well-intentioned people who believe and live the stated company values, which is no small feat considering Atlassian's size. 
+
+Thought leadership, when shared, is generally good quality and a source of pride.","Cosign many of the points made by the January 2 reviewer: Atlassian is great at bringing in motivated, quality talent and letting those folks languish. There is limited opportunity for upward mobility, and where it is present, your options are to work for a brand-new manager promoted out of seniority (hit or miss), or a transplant from a traditional enterprise software company whose cultural-fit section of the interview must have gotten cut short (sure miss). 
+
+The HR team (I refuse to call them Talent, since they clearly do not see employees as such) is among the least reliable/responsive I've ever seen. To call them tone-deaf would be an understatement. Valid complaints around gender discrimination and hostile work environment are brushed off; the constant refrain of ""look at the perks we offer"" to questions around pay scale was once funny and is now just insulting. What perks?"
+261,Atlassian,Worst job of my life.,2014-11-12,2.0,Customer Advocate,"The company itself has some strong points, hence the 2 stars and not a 1 star rating. They have the kind of fun atmosphere you would expect from SF tech companies, beer in the kitchen and ping pong competitions at lunch, free lunches and paid volunteer opportunities.","But on the flip side, they lack a level of professionalism that one might hope for at any job. I don't mean the stuffy suit and tie feeling of large corporations or financial institutions, rather a sense of leadership and respect that helps careers to grow and smart talented people to stick around. I left because the particular team I was on had fired their manager and spent months in meetings that devolved into screaming and swearing on a regular basis to try and tackle the issue of how to handle the workload. There was no consensus on the correct approach and no strong leaders to step in and implement any judgement or experiential foresight. But in the time since I have left, I've known many others to also take the leap to new and exciting opportunities and each time, I have heard them talk of the bitterness of their departure in the same ways in which I felt when I left. Atlassian is just not the top company it portrays itself to be.  Two thumbs down."
+262,Atlassian,World-class Experience!,2017-08-29,5.0,Marketing,"At Atlassian I sometimes hear my co-workers say that they are ""doing some of the best work of their lives."" I truly believe this, and have experienced it myself. The company has a remarkably distinct and powerfully positive culture, and the leadership teams truly lives the values. Here's what I enjoy the most:
+
+- Values driven culture, no BS, and inspiring mission
+- High trust environment where I feel empowered 
+- Frequent, high-quality communication (weekly company meetings)
+- Incredible growth with kick-ass products
+- Great lunches, snacks, and events","Global footprint  (US, Australia, Europe) makes working across timezones a bit tricky at times."
+263,Atlassian,A potentially great company going through growing pains,2014-11-15,2.0,Anonymous Employee,"Atlassian, like a lot of the other SF bay area startups, has a lot of great perks – fun atmosphere, great office, stocked drinks, and food. They also have a lot of dedicated and smart people working there that makes coming into work fun. Besides the ubiquity of JIRA, I first heard about the company from a TED Talk several years ago (Dan Pink on Motivation – look it up, it's good) and wanted to work there ever since.","In a way, I felt like I was the victim of a bait and switch, and it seems like this is because it's a big company acting like a small startup. I interviewed for one role, and was offered something else, which I had accepted thinking that it would be just as good and similar. What I had found was a team going through transition – people leaving and management being replaced, and a project starting to come apart at the seams. To be honest, I should have asked more about the role before accepting it.
+
+Atlassian is going through growing pains, just as much as any other successful company in the SF bay area. You can gather this by also looking at the Cons of other reviews (even positive ones) – lack of career development, seemingly disorganized management., etc."
+264,Atlassian,"Great company: opportunity, people, talent and culture",2018-09-01,5.0,Anonymous Employee,"I'm a mid-career engineering manager with experience at a couple of startups and several of the big tech companies (Google, Adobe, Microsoft). Atlassian has talent as good as the best of those companies (e.g. Google) and has done a better job of keeping a collaborative culture.  The scale (currently ~3500) is large enough that there are a range of interesting projects and there is plenty of opportunity for career growth, but the company hasn't yet started to feel like a big company.  Very little beaucracy, and no BS.  On that last point, it's really been a great experience working for an Australian company -- there's an honesty and freshness that permeates the company culture that I haven't seen in any of the silicon valley companies.","For more senior folks, timezones may be a challenge -- there are several engineering teams that are split between Sydney and the Bay area."
+265,Atlassian,Amazing company culture.,2019-07-22,5.0,Marketing,The company promotes growth and development  of individuals and encourages a one of a kinda company culture,no cons ! This is truly the greatest place to work!
+266,Atlassian,This place is amazing down to it's core.,2019-06-12,5.0,Senior Recruiter,"* Amazing team with a great atmosphere of camaraderie and mutual support
+* Organizational growth mindset, willing to acknowledge what is broken and to work toward fixing it with a positive attitude
+* Numerous established growth paths (and plenty of opportunity to craft your own)
+* Perks on perks on perks - and competitive performance based compensation
+* Open company NO bullsh*t. Transparency, access to information, and a noticeable absence of red tape.
+* Be the change you seek. We're encouraged to voice our opinions,  share ideas, and work toward implementing them,","It makes readers skeptical if I say ""none"" so I'll work toward coming up with a few ... but I'm seriously having to dig deep here!
+* We document EVERYTHING and don't keep it up to date, so it's easy to accidentally work off old or outdated information
+* Things move incredibly fast, and as a newhire, it can be a bit of drinking through a firehose to keep up"
+267,Atlassian,"Generally good company, but avoid Bitbucket like the plague!",2018-09-01,2.0,Anonymous Employee,"* Good benefits - usual for a tech company: subsidized lunches, decent health cover, snacks
+* Some great people at the worker level","This review is mostly about the Bitbucket section of Atlassian.
+
+* Like in most big companies,  there are are good and bad divisions.  One of the bad ones is Bitbucket.  Stay far away!
+
+ * The culture has become toxic.  There are a lot of unhappy staff.  Morale is very low.  In the past it was a lot better, but now the division no longer cares about preserving the culture that made the company great, or following the ""Atlassian values"".
+
+* This division has a lot of issues with management.  They couldn't hire any engineering team managers for a long time.  A lot of the ones they ended up with are terrible.  There's been nearly a 100% turn over in product management.  And two senior division managers recently left.
+
+* Pay is below market rates.  In the past, the work culture and people were meant to make up for that.
+
+* Microsoft recently bought Github, the major competitor to Bitbucket.  Bitbucket is already a distant second in market share.  Bitbucket won't be able to compete against Microsoft's money and resources.
+
+* San Francisco offices are in a sketchy area - multiple staff members have been robbed, assaulted, or harassed going to/from work or at lunch."
+268,Atlassian,"Great culture, but that's not everything sometimes...",2015-09-09,4.0,Project Manager,Great culture! Great benefits! Great people! No Politics! Great Founders! Great location & office! Flexible schedules!,"Not enough praise. Too many critics. Too much open talk about women in tech and sexuality in the workplace than is needed, creates an uncomfortable place to talk about your opinion. Culture is not everything. Nobody is really on the same page. So many different things, and some alike, happening at the time and teams and even people within the same team are not aligned. Too much information on CAC and not clean to be able to sort and know what is accurate and/or what is important. The global aspect is hard to adjust when your team is throughout 4-5 different offices on complete opposite time zones. There is a lack of communication, which is hard to believe when everything is on CAC, but it's not easy to digest. People tend to use EAC as the method communication and forgot how valuable face to face meeting are and how effective they are. Along the lines of communication, setting expectations is the lack of and often times can you bite you in the but, but that might just be my team because I actually don't think that aligns with our company values."
+269,Atlassian,Amazing work/life balance. Great work,2019-07-02,5.0,Marketing Manager,"Amazing leadership - my direct supervisor is here to help me succeed
+Fantastic perks - food, vacation, benefits, emergency childcare coverage
+Work/Life balance - time off when I need it for whatever reason, without guilt
+Great work - I love what I do and that I'm supported to go out on a whim and try new things without risk",Work can be slow - because it's an open company there can sometimes be too many people that need/want to be included in a project and it takes longer than needed

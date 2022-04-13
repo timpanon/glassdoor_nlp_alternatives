@@ -1,0 +1,945 @@
+,company,headline,date,overall_rating,author_position,pros,cons
+0,Texas Instruments,Okay,2022-04-02,5.0,Machine Specialist,"Nice coworkers
+Get to have 3-4 days off 
+Overtime pay
+Yearly bonus","Management
+No room for getting better position unless you know people in the higher ups"
+1,Texas Instruments,Overtime Pay for non-exempt hourly employees is calculated and paid by the day,2022-03-04,4.0,Equipment Technician,"Okay, let's get into the weeds shall we? Compressed work week (CWW) shifts, which command your presence for 12.5 hours (1 hour is an unpaid 1 hour lunch), the employee is paid 8 hours straight-time and 3.5 hours at time and a half - each day! CWW shifts have a bi-monthly pay period so one week consists of 3 days and the next is 4 days. Each day consisting of 12.5 hours physically present and 11.5 of those hours being calculated for payroll. Therefore, one week has 24 straight-time and 10.5 over-time hours and the second week has 29.5 straight-time hours with 16.5 over-time hours. Remember to calculate correctly! Although each day is calculated for over-time, the second week reaches it's 40-hour limit on the 4th day after only 5.5 hours so the 5 hours remaining on the 4th day is all over-time not just the 3.5 hours as calculated in the days previous. Also, night shift employees enjoy a 15% differential which is factored in so that straight-time is equal to 1.15 times their base-rate and over-time is calculated at 1.725 times their base-rate! Absolutely delicious!","Unable to find where Texas Employment law is requiring Texas Instruments to pay their employees in this manner. Therefore, this payment structure could all fade at any given time."
+2,Texas Instruments,Manufacturing clean room production lead,2022-03-29,5.0,Shift Leader,Texas Instruments work environment great with diversity inclusion and lots of opportunities within the company for advancement.,The 12hr shifts are very long and takes awhile to adapt on a compressed schedule. Requires an extreme amount of dedication.
+3,Texas Instruments,Good place to start your career,2022-04-04,3.0,Applications Engineer,"Exciting projects to learn from, good rotation programs,","Too much politics, bureaucracy. Management don't know what their doing, Confined to your role: apps do apps, marketing focused on marketing, validation in lab, bored doing the same tests."
+4,Texas Instruments,Good Opportunities for Meaningful Projects & Continuous Learning Mindset,2022-02-28,5.0,Applications Engineer,Learning & growth championed within role; flexibility of each day being different in scope and content; interface with engineering customers & develop breadth across various applications; exposure to various industry software and tools; better understanding of product design through understanding integrated circuit specs/performance  ,Flexibility of each day differing in content can be daunting when a problem or important need arises; some workflows can be isolating or require a lot of study/research
+5,Texas Instruments,Good Company,2022-03-27,4.0,Manufacturing Technician,"The work was easy, in a clean room, temperature-controlled environment. Most of the managers were decent and caring and kept the heat from rolling downhill so you could concentrate on the task at hand.","TI was an ok company to work for. The pay was good, raises were not, benefits were good. The work was easy, in a clean room, temperature-controlled environment. Most of the managers were decent and caring and kept the heat from rolling downhill so you could concentrate on the task at hand."
+6,Texas Instruments,Great place to work (at least on the IT side),2022-03-25,5.0,Software Developer,"RTO
+Great feedback
+Great culture
+Work on a lot of different things","Not on the bleeding edge of technology
+Dont offer remote work opportunities"
+7,Texas Instruments,Great work life balance,2022-03-24,5.0,Account Manager,Work-life balance is respected by management,Management likes to overload with work so it can be stressful to get everything done in a day
+8,Texas Instruments,A bellwether company,2022-03-26,5.0,Anonymous Employee,"Competitive work environment
+Culture of winning
+Ethical; winning ethically",Family and friends believe we build calculators
+9,Texas Instruments,Good Company,2022-03-21,4.0,Applications Engineer,They care about their employees and try to ensure that everyone has the support they need. Joining as a NCG you will learn a lot and gain valuable experience rather quickly.,Employee turnover is quite high. We find ourselves unable to keep good people which can make the job very difficult and hectic sometimes. I often find myself as the only person left on my team and feel that I have no real peers.
+10,Texas Instruments,Fantastic environment,2022-03-01,5.0,Anonymous Employee,"Flexible work hours, even pre-pandemic. Great work/life balance. Challenging work. Opportunity for growth. Fulfilling work. Great engagement from leaders. Wonderful, beautiful campus with on-site amenities like a cafe, coffee shop and gym. Truly the best leaders I’ve ever worked with; they are empathetic and trustworthy.","Because of the technology we support, there can be a big learning curve which can feel daunting but there’s a great support system in place to help anyone encountering roadblocks."
+11,Texas Instruments,Environment,2022-04-04,3.0,Technician,Profit sharing benefits were good,The management style didn't work out well for me
+12,Texas Instruments,TI,2022-04-04,4.0,Engineer,Very very flexible work hours,I can’t think of anything
+13,Texas Instruments,Proceed with caution,2022-02-07,1.0,Manufacturing Specialist,The only good thing about this company is the bonus.,"Management that will get paid hand over fist for doing half the work you do. If you apply here be ready to work yourself to the bone. I walk 12 miles a night, never get a chance to sit down, and am constantly exhausted trying to uphold the work amount that is put on me. The people who have been here for years all have knee problems, back problems, carpel tunnel- you name it they’ve got it- all due to the forced amount of work and never ending walking. The schedule may seem nice, but if you work nights (for that nice 15% pay raise) you basically don’t have a weekend. You’re spent trying to recover what hell you’ve put your body through the past four days you’ve worked. No one in management cares, you’re nothing but a walking number and no matter how much strain you put yourself through to get your numbers up, it still isn’t enough. Please, beware. Work some place that doesn’t frown upon you for having to take 10 minutes out of your 12 hour shift to use the restroom."
+14,Texas Instruments,Great place to start,2022-03-23,4.0,Product Marketing Engineer,"TI is a great place to start, everyone goes through the rotation programs. Most people leave within 5 years for better pay and promotions elsewhere. Many smart engineers that you will come across at the company.","Hard to get recognized in such a big company, upward mobility is not so easy. Average person is working at least 45-50 hrs a week."
+15,Texas Instruments,"Great place to grow your skills, just don’t think you’ll get a reference",2022-02-03,2.0,Software Engineer IGNITE,Great place to grow your skillset in whatever it is you’re working on. I had the opportunity to work on a ton of high impact projects and lay the foundation for several major initiatives in manufacturing and customer engagement,Work life balance & support after deciding to leave the company. I worked very diligently to make sure nothing was left unknown to the team before leaving so I could have a good reference. My old boss went completely silent a few months after I left. Others who I worked with said they may not be able to represent me as a TI employee. Major red flags.
+16,Texas Instruments,Deep Technical Knowledge,2022-03-31,4.0,Process Engineer,deeply technical industry with lots of opportunities to learn,spend more in training resources to increase onboarding ramp rate
+17,Texas Instruments,Superb company,2022-03-16,5.0,Anonymous Employee,"Great culture, great benefits, great people",Nothing that sticks out at all
+18,Texas Instruments,Great,2022-03-15,5.0,Software Engineer,Pays well for the dallas area.,Work 100 hour weeks occasionally
+19,Texas Instruments,Unlucky With Team,2022-03-09,2.0,Test Engineer,"Lots of great hard working people at TI, good benefits.",Just was unlucky with the team I was on. I had to go in the lab at night and my coworker who reviewed me would go in during the day. He thought I didn't work hard enough because he didn't physically see me in the lab often due to us going in at different times. I pulled 60-80 hour weeks but it was my word against the word of a coworker of the manger's of 20+ years.
+20,Texas Instruments,A company where you’re just a number! They hope the lowest.,2022-03-16,1.0,Equipment Engineering Technician,There are no pros for this company unless you’re moving from Samsung.,"Tool to technician ratio. Dishonest hiring strategies. Pay. Environment. Work life balance.
+
+At this company, there are a number of technicians with the same years of experience, same tool set experience, and even coming from the exact same position at the same company at the same time that make drastically different hourly pay. We are talking 12+ dollars an hour difference! This is because one asked for a low number thinking that is typical pay for the industry and the other asked high. I work with a guy on night shift that makes 28 an hour while his friend is making 40 an hour with less experience for the same exact position. Management and HR openly accept people at low amounts and then question why they leave later. This is bad business imo. My discussion with my supervisors while attempting to “retain” me included them factoring in my night shift differential as my pay. They use this to compare against a higher hourly day shift position and act as if this is why your pay is what it is. A night shift differential is given because NOBODY wants night shift and you are missing out on time with your family so they pay you an extra amount based on that aspect. IT IS NOT TO MAKE THE SAME HOURLY AS A DAYSHIFT EQUIVALENT POSITION WHILE WORKING NIGHTS! Do yourself a favor and go to a company that will pay you what you’re worth and not just what you say the minimum you’ll accept is. There are much better options and much better environments to spend your days at! Check Broadcom and Qorvo first before landing here. Don’t short yourself while performing more work than you would at almost any other company."
+21,Texas Instruments,Great Safe Place to Work,2022-03-08,5.0,Software Developer,Easy and good work-life balance,Pay could be a bit better
+22,Texas Instruments,Good starting company,2022-03-27,4.0,Analog Design Engineer,People are really smart and you will learn a lot,Pay is not competitive. Work life balance is not that good for the pay
+23,Texas Instruments,Good pay,2022-03-28,4.0,Equipment Technician,"Great people, Relaxed environment, Freedom","Pushes liberal agenda
+Poor training opportunities"
+24,Texas Instruments,Collaborative Environment,2022-01-03,5.0,Packaging Engineer,"Collaborative and relaxed work environment. Everyone is on a first-name basis. Flexible work schedule - great for parents. Pay and time bank are competitive. Benefits like donation match, adoption assistance, discounts, concierge, and 401K match are competitive, as well. Annual profit-sharing bonus is incredibly competitive and gives employees further ownership of their work. At TI, ethics are a priority, which makes me proud to work here.","Health insurance is lacking, but I suspect that owes to a majority of employees who would prefer lower premiums than good coverage and lower deductions. That's great for those who don't need to use their insurance much. Not so great for employees who do. The Health Savings Account does help offset this concern, though."
+25,Texas Instruments,"Overall, a decent experience",2022-03-16,4.0,Product Marketing Engineer,"The pay is great, lots of bonuses, and lots of PTO","They won't allow you to be fully remote and move despite a large group of jobs could be remote. Personally, my manager did a terrible job managing people and the job can be really stressful depending on your team."
+26,Texas Instruments,Good company,2022-02-10,5.0,Field Applications Engineer,"I have learned more in my last 4 months than 4 years of college. The rotation program is hardcore, and is designed to have you learn all analog and sales fundamentals in six months.",Rotation for FAEs is extremely difficult. Many late nights and stressful projects. They really push you as an engineer and as a person
+27,Texas Instruments,Mixed experience,2022-03-15,3.0,Human Resources Administrator,"Great benefits, generous time off, and 20% profit sharing. Coworkers are great.","Upper management will step on anyone to get ahead in their own career. Managers give special treatment to other managers / VP's. Keep employee's who don't do their job, yet let go emploee's who broke a mask rule."
+28,Texas Instruments,High Stress/High-ish Reward,2022-03-14,4.0,Manufacturing Supervisor,Pay is good especially if you work the Night Shift.,"Very stressful with Management's demands/expectations. 
+Specialists are of low quality hence the job is mostly just a high paying babysitting role but it gets old after awhile."
+29,Texas Instruments,Texas Instruments,2022-03-01,5.0,Product and Test Engineering Rotation Program,"Good pay, good benefits, profit sharing, Stock",no cons so far for this job
+30,Texas Instruments,Best Company for Analog,2022-02-25,5.0,Product/Test Engineering Manager,Great ethics. Nice profit sharing. Technical work culture.,Not many opportunities in upper management for Test and Product managers.
+31,Texas Instruments,N/A,2022-03-23,4.0,Anonymous Employee,Great bonuses at the beginning of the year,Cycling through managers every couple of years
+32,Texas Instruments,"Overall decent company and benefits, some areas need improvements",2022-02-10,3.0,Systems Engineer,"Decent company and decent benefits. Good mentoring from the experienced, but rapidly shrinking experienced workforce. Most managers are understanding of work life balance. Good profit sharing maxing out at 20% for the last few years. Discounted employee stock options with 15% discount. 4% 401k company match. Best chance for promotion is in managerial ladder. Big company with many groups makes it easy to move around while maintaining benefits, learning different roles and functions, and obtaining experience. Each group can have very different work environment and culture. Work tends to be highly involved with local offices and customers in China, India, and Europe. Good set of company values. Large field group with prescence in many countries. Lately taking some efforts to improve diversity in upper management and technical ladder. Some managers are very good and do not micromanage their direct reports.","Some really awful managers that somehow maintain their position through the years. Little diversity in technical ladder with big emphasis on design engineers. Hard to get promoted in the technical ladder. Extreme cost cutting on employee computers, software, and IT departments, while company pays for a lot of customer visits and travel. High push for security and locking down computer resources that gets in the way of doing your job. Very old lab equipment with very long process for any capital expenses. Mostly hiring new college graduates. Most innovation is just incremental, not given much latitude to experiment. Due to large number of new college graduates, experienced workers spend a lot of time training new employees. Most new college graduates do not stay more than 5 years, so experienced engineers are constantly training people. Prepare for many early morning and late evening meetings due to working with co-workers in China and India. Centralized labs facilities are very noisy, crowded benches, small or no monitors, and difficult to concentrate. Some open office areas deter collaboration rather than foster it due to distracting noise. Management highly focused on short term gains rather than more involved and well thought long term plans. For example, big push to sell what we have and have very short design cycles were features are removed, instead of trying to understand why a device does not sell and spend the time to make a better device. Most employee career focus is just for new college graduates, so experienced workers tend to stall and leave the company. Your salary growth is highly dependent on your initial hiring salary. Hard to catch up if you fail to negotiate a good salary or we’re hired close to a recession. You might find yourself a few years down the road earning less than a new college graduate a few years down the road. Texas locations suffer from personnel that have highly partisan views that does not favor science and regard for facts. Little diversity at upper management that has seen some advances in the last few years. Some filed personnel are not very technical and act as salesmen."
+33,Texas Instruments,Great,2022-02-12,5.0,Engineer,Quality company to work for. Lots of opportunities to grow and move as long as you have solid foundation and good work ethic.,Catching up to be competitive in terms of tech incentives/salaries/solutions.
+34,Texas Instruments,Good,2022-02-21,5.0,Anonymous Employee,"Good benefits, nice leadership, flexible schedule.",Location is a little too far from my house.
+35,Texas Instruments,PROCESS ENGINEER TECHNICIAN W\TI,2021-10-18,4.0,Process Engineer Technician,"Being employed with TI gives a sense of security because once hired full-time your job is safe. The benefits are good and Team members are allowed to put aside up to 4% of their salary and TEXAS INSTRUMENTS will match 50% of it. TI also offers annual bonus (profit sharing) at a max of 20% . base Pay of a Process Engineer Technician working with company over 15 years 53,580.80 per year","Raises are low, may find yourself working a part-time job due to inflation, TI doesn't give raises that will match inflation or increase your salary to align with inflation. Profit sharing does help but you have to wait a year before getting the bonus only to find you're using it to pay off debt accumulated the prior year. Constantly on the grind and the morale is not that great. Merit pay to employees that may excel in their current positions is non-existent."
+36,Texas Instruments,Great company,2022-02-19,5.0,Anonymous Employee,Great work culture. Established market and products,Mixed signal products are more analog focused than digital
+37,Texas Instruments,General reviews,2022-02-20,5.0,Analog Design Engineer,Work and life balance is g,Salary could be medium among industry.
+38,Texas Instruments,Good Company,2022-03-16,4.0,Engineering Manager,A well run company with a lot of opportunities.,Expected to be available 24x7 and unforgiving timelines when missed
+39,Texas Instruments,"Great, respectable place to work",2021-11-10,4.0,Test Engineer,"Culture has good values and hard working people
+Work is interesting and you meet a lot of talented, smart individuals
+They are very accepting of all races, cultures, orientations, backgrounds and they are always researching ways to be even better.","Hard to move up from individual contributor, there just aren't a lot of spots to fill unless you play the political game (drink the koolaid)
+The compensation seems to be lagging as of late. They sort of force you to either feel comfortable with your salary or consider what else is out there. They will always give you just enough meat on the bone to make you feel like it's worth staying, and that's even for a above average performer"
+40,Texas Instruments,Not a positive environment long term,2022-03-07,2.0,Anonymous Employee,Many different opportunities across different functions,The leadership of the company are continually focused on how quickly they can get revenue with as little people as possible. Is not a positive place for someone with a family.
+41,Texas Instruments,"Good for career start, not for long term",2022-03-07,3.0,Anonymous Employee,"Lots of teams, good for ncg",Upper management has no vision. They rely on ideas generated at base level and hold you accountable if ideas don’t work. Company culture has declined in recent past
+42,Texas Instruments,FA Engineer,2022-02-16,5.0,Failure Analysis Engineer,"independent schedule, good pay, low stress environment, hands on.","low visibility, not much upward mobility"
+43,Texas Instruments,Excellent company to work for,2022-02-09,5.0,Anonymous Employee,"Everyone willing to help and plenty of problems to solve
+Strong financials
+Excellent benefits",Plenty of work to go around. Treat it as con or pro.
+44,Texas Instruments,Great Company,2022-02-11,5.0,Analog IC Designer,"Love it here, great team and very helpful to develop your career. Very competitive compensation.","None, TI Santa Clara knows how to work."
+45,Texas Instruments,Great Company!,2022-01-26,5.0,Process Engineering Technician,Manager is flexible and supportive. Opportunities to learn and grow are encouraged. Benefits are great. Excellent experience so far.,Onboarding a little disorganized. No introduction to or meetings with Peer Trainer until the second week. Manager did a lot of what Peer Trainer should have in initial days.
+46,Texas Instruments,company review,2022-02-15,5.0,Design Manager,Great place to work for a long time,no cons to report here
+47,Texas Instruments,Texas Instruments,2022-02-16,5.0,Product Engineer,"Work Environment, Training, Cooperation, Ethics","Lack of Visionary Leadership, average compensation"
+48,Texas Instruments,Good Company,2022-02-14,5.0,Technical Sales Representative,Great exposure early on to deep sales,There are a lot of parts
+49,Texas Instruments,Is it worth it?,2022-03-09,4.0,Janitor,"-The building is relatively easy to clean
+-Not very many complaints about the cleaning
+-Training isn't hard at all",-Lots of cleaning for small pay
+50,Texas Instruments,Company Review,2022-03-14,4.0,Anonymous Employee,The company has great products.,The company has big company culture.
+51,Texas Instruments,"Solid, stable company with great culture",2022-02-04,5.0,Customer Quality Manager,"Stable, diverse, competitive, well defined direction, strong leadership, diverse career path opportunities",Can be lean on staffing which burns people out
+52,Texas Instruments,Not a bad place to work,2022-01-26,5.0,Manufacturing Specialist,"Benefits are amazing: 401(k), Stock Discount, 3-4 days off a week.
+Also, Profit sharing is 20% of your annual salary (assuming the company does well).",Managers/Supervisors tend to micro-manager too much.
+53,Texas Instruments,"TI, excellent for long term employment",2022-02-03,5.0,Senior Engineer,"Very flexible work life balance.
+Top performers recognized and rewarded. 
+Great training opportunities.",Competing with top talent for top pay and bonuses.
+54,Texas Instruments,Review,2022-01-29,5.0,Test and Product Engineer,"Flexibility, Freedom to make decisions, very good pay, 20% profit sharing, very good environment to work","Follower of technology, Stressful job"
+55,Texas Instruments,Ok place,2022-03-08,3.0,Anonymous Employee,"Work from home opportunities, global","No growth opportunities, favoritism, backwards mentality"
+56,Texas Instruments,Good  company while still employed,2021-11-17,5.0,Software Design Engineer,"Good company, good working environment, and good people around to work with.
+
+Can learn different technology depending on the business group you are in.","Core development of new stack, or new tech happen mainly in India or Dallas so if you happen to not in those area, your work will be mainly inheritance work from those main sites.
+
+Schedule can be hectic. 
+
+People are leaving but with no replacement coming in, and you are left with more work to support more products
+
+Very hard to get into Tech ladder if you don't know how to sell yourself or if you're only executing your tasks and not trying to do any extra activities.
+
+Seeing your work being moved to India can be depressing"
+57,Texas Instruments,Good,2022-02-11,5.0,Administrative Assistant,Good place to work. Fun,Nothing. I like working here
+58,Texas Instruments,PME Rotation Program,2022-03-05,4.0,Product Marketing Engineer,"Lots of guidance and learning opportunities, chances to explore, and room to pivot.",Hard to find opportunities to ramp up
+59,Texas Instruments,"Great company, even better people",2022-01-18,5.0,Digital Marketing Program Manager,"You will work with some of the brightest people at TI, and the work is challenging. Great benefits and perks.",Large organizations with re-orgs that can make a big impact on your team or role.
+60,Texas Instruments,4 stars,2022-03-03,4.0,Customer Quality Engineer,"stable, flexible, fair, good profit sharing at 20% for past 5 years",vaccine required and weekly nasal swab required if you have religious exemption
+61,Texas Instruments,Great place!,2022-02-03,5.0,Accountant,"Great benefits, great people, decent pay.",Type A Personalities everywhere. A lot of attrition.
+62,Texas Instruments,TI,2022-03-08,3.0,Pricing Manager,Good benefits and work perks.,Some teams can be very workaholic.
+63,Texas Instruments,y,2022-03-07,3.0,Senior Applications Engineer,"profit sharing, insurance, people, flexibility","work life balance (lack thereof), very technical"
+64,Texas Instruments,Not what they advertise,2021-09-19,2.0,Engineer,Pays is competitive and they are large enough that it is easy to move between organization and take on different roles,"This company has lost it's integrity over time. It is middle management heavy and the culture is top down. Individual contributors are there not to bring different perspectives and have ownership, but rather to do what is mandated by the senior leadership team. If you are looking for a place where you are valued as more than just a tool who takes inputs and performs the requested function, this is no longer the company to be at."
+65,Texas Instruments,Great place to work,2022-01-24,5.0,Test Engineer,"Strong pay and benefits
+Profit sharing 
+Non volatile industry 
+Very profitable company
+Good working environment","International communication, cooperation required to do job"
+66,Texas Instruments,Doing a lot of great things,2022-01-18,4.0,Accountant,"Awesome employees, everyone is willing to help, great pay, a lot of learning and growth opportunities.",The need to hire more accountants. Many accountants have left and not been replaced so many people are doing 2 peoples work for no extra pay. It’s not short term because I have seen this the entire time I have been here. It makes work life balance tough.
+67,Texas Instruments,Stable company,2022-01-26,5.0,Technical Sales Representative,"Products are solid, and organization foundations are strong",Retention rate is high in sales org
+68,Texas Instruments,very nice,2021-12-07,5.0,Programmer,Working at was a fine job that was enjoyable but working until 3 am was a pain and the salary was not worth it. Working 9 hour shifts until 3 am with little tips happened all to often.,Ok place to work could be a little more for their employees. I feel it's a little underpaid for the amount of work we do. We are super short handed all the time and managers are running 3 or 4 positions.
+69,Texas Instruments,Overworked,2022-01-23,2.0,Engineer,"Stable company, decent pay and very good profit sharing if the company does well.","Very short staffed and over worked. Treated like you should be so thankful you work for them. Lackluster pay, which has caused a large portion of the company to seek employment elsewhere. Locally (Maine) there are many other tech companies around that offer better pay and benefits"
+70,Texas Instruments,Test engineer,2022-02-20,4.0,Test Engineer,Good people and major focus on college development,"Long hours, late night meetings
+Not a lot of job growth"
+71,Texas Instruments,Great company,2022-01-20,5.0,Process and Equipment Engineer,"Good culture, benefits, opportunities, and salary.",No major cons of note.
+72,Texas Instruments,Perfect Semiconductor company with a great life-work balance,2022-01-15,5.0,Senior Design Manager,Perfect Semiconductor company with a great life-work balance,Relatively low to average compensation
+73,Texas Instruments,Great Team Culture,2022-01-02,5.0,Software Development Manager,"Follow open door policy. Can talk to anyone regardless of position and most people are happy to help
+Do help with career moves within company as needed",Not on cutting edge of many technologies.
+74,Texas Instruments,"Great company, clique based eployees",2022-02-22,4.0,Manufacturing Specialist,"compressed schedule, competitive pay, Annual profit sharing","Capped raises, High stress environment"
+75,Texas Instruments,Great,2022-01-19,5.0,Software Engineer,Pay people good stuff alot,Not a lot liked everything
+76,Texas Instruments,Good company,2022-02-21,4.0,Senior Analog Design Engineer,Lot of scope to learn,below average pay and doesn't encourage remote work
+77,Texas Instruments,SCT Night shift -VOLT,2022-01-11,5.0,Manufacturing Specialist,3 days off and 4 days off,"Volt 
+1 year to get converted to Tier"
+78,Texas Instruments,Work Life Balance can be a problem,2022-02-10,3.0,Senior Analog Design Engineer,Great benefits. Profit sharing. Best analog processes bar none. Best EDA group bar none.,Job can sometimes take over your life. There is a cost to work here.
+79,Texas Instruments,Great,2022-01-13,5.0,Clerk,great place to work daily,I hate the traffic to work
+80,Texas Instruments,Amazing work culture,2022-01-04,5.0,Industrial Engineer,"-amazing work culture, highly collaborative environment
+-ERGs
+-mentoring/training provided
+-professional development opportunities
+-they genuinely care about work-life balance",There are no cons in working here.
+81,Texas Instruments,Good,2022-01-09,5.0,Internship,None of the the things are bad,Everything is very nice and good
+82,Texas Instruments,Good work life balance,2022-01-04,5.0,Process Integration Engineer,"Nice leader team
+Good paid days off
+Good work life balance","Unsteady work load
+Bad medical insurance policy"
+83,Texas Instruments,Digital Marketing Intern - Texas Instruments,2021-08-13,4.0,Digital Marketing Intern,"Good pay and benefits
+Tiers are extremely smart and friendly
+Get to work on a diverse set of projects
+Learn a lot about the business
+Get to meet C-level leaders
+Very informal/flexible work environment
+0 micromanaging 
+You get to make your schedule
+No need to clock in/ clock out
+You own your projects
+Projects you work on are high priority to TI stakeholders","Little guidance, they expect you to hit the ground running even as an intern. They want people to figure things out by themselves by asking lots and lots of questions. Leaders are highly critical when giving feedback on presentations. 
+If you are curious that is good, but if you aren't, you will not be successful nor get a full-time offer. 
+Expect interns to have a strategic mindset when most employees developed that mindset with years of work experience."
+84,Texas Instruments,Stable company but old technology,2022-02-12,4.0,Systems Engineer,Good people to work with. Honest and ethical.,Long work hours. Not a competitive salary.
+85,Texas Instruments,Good Company,2022-01-14,4.0,Product Engineer,Great coworkers and good benefits,Too many metrics coming down from high up that don't make sense for every team. Need to hire more people. Multiple people left during the pandemic and we haven't been able to replace any of them but have been expected to do the same amount of work. People are facing burn out.
+86,Texas Instruments,Great Profit Sharing,2021-12-31,5.0,Equipment Technician,Profit sharing bonus and wages.,high insurance prices compared to other semiconductor companies.
+87,Texas Instruments,Not too bad,2022-01-12,4.0,Production Associate,"The pay is decent, you get 3 hours of OT each day, and you work a compressed shift. They recently added more paid holidays and more paid time off.","Management doesn't listen and constantly changes things. Also, supervisors constantly change. It's hard to move up; they want operators to act like Leads without Lead pay."
+88,Texas Instruments,Interesting place,2022-02-04,3.0,Software Design Engineer,Excellent coworkers and challenging projects.,There were many layoffs. If you were on a project that was cut you were out.
+89,Texas Instruments,Slow and Steady,2022-01-19,4.0,Texas Instruments,Company pushes you to perform and has high expectations. Sales teams are always asked what we can do better. Strong leadership with a good sense of direction,Mixed management based on location. Typical large company pace and median/average salary compared to market
+90,Texas Instruments,Great place,2021-12-29,5.0,Account Manager,Great management and work environment.,I don’t have any complaints.
+91,Texas Instruments,Great Employer,2021-12-28,5.0,Customer Quality Manager,Great employer to work for,Nothing can be considered as Cons
+92,Texas Instruments,You would be a good fit if you are Narcissistic and step on others to beat top 10 bottom ten,2021-07-25,3.0,Systems Engineer,"Pay scale is high but prepare to work 12 hour days some holidays and weekends for it. You get to screw and gaslight your colleagues to destroy their progress on projects so you stay in the top ten. Then they are in bottom ten and get fired (Jack W. old GE tactic, worked great for GE didn't it?)",Your colleagues are trying to screw you too so you will have to work extra hard just to stay in the game and get the information you need to accomplish tour work goals (Extending and working the weekend gets you ahead). This game makes the long hours necessary so you can acquire the information you may need to advance the project. Remember you must stay in the Top ten!
+93,Texas Instruments,Stable but flat,2022-02-04,3.0,Electrical Engineer,longevity is very common and learning opportunity is great,pay is mediocre and upward mobility is political
+94,Texas Instruments,Rating,2021-12-21,5.0,Customer Service Representative,have a job that pays bills,commute in Austin is the worst
+95,Texas Instruments,Technicians Work Here Too,2021-12-21,3.0,Technician,Good pay if you're fortunate enough.,"If you are non bachelor degreed, growth is limited and your experience is not valued. In all cases, those who work in the fabs work the hardest."
+96,Texas Instruments,n/a,2022-02-04,2.0,IT Director,Always stay busy and travel opportunities,High pressure and demands. Unrealistic expectations.
+97,Texas Instruments,Good Opportunities and Benefits,2021-12-28,4.0,Product Engineer,"- Good opportunities for career growth
+- Good benefits
+- Good management if you are in the right team
+- Company investing in expanding manufacturing capability","Typical items related to large corporations
+- Night meetings or calls depending on your team's location (India, china, etc.)
+- Management can be an issue depending on the team you are on
+- May take some time for old habits/process to change"
+98,Texas Instruments,Not encouraging growth,2022-01-27,2.0,Member Of Technical Staff,"Financially stable, good life - work balance",After 3-4 years gets very boring. Not many people try to understand technical topics
+99,Texas Instruments,New Revenue over savings,2021-12-20,2.0,Product Engineer,They pay better than most,"The culture was toxic. I left after I was left to feel that I was in danger of a layoff, then end of year reviews came and Just Kidding! You were top 3 on the team, we were in a crunch so we made you fear for your livelihood for several months so we could get more out of you! Great work!"
+100,Texas Instruments,HR,2022-02-01,3.0,Human Resources Business Partner HRBP,Great Work-life balance and Nice Benefits,"Culture can be challenging at times
+Policies are subjective"
+101,Texas Instruments,Good company with excellent benefits,2021-12-14,5.0,Design Engineer,Excellent profit sharing bonus in recent years,take too long time for a promotion
+102,Texas Instruments,Great company`,2021-12-16,5.0,Purchasing Manager,Strong company in semiconductor industry. Stable.,There are no cons I can think of
+103,Texas Instruments,Traditional Corp Finance Role,2022-01-26,3.0,Financial Analyst,"Perks, profit sharing, PTO, etc.",Typical corp politics to advancement. Poor management.
+104,Texas Instruments,good company,2021-12-17,5.0,Engineer,good company to work for,the company has no cons
+105,Texas Instruments,Good company,2022-01-29,4.0,Applications Engineer,lots of training and resource to learn,not competitive on compensation for employees
+106,Texas Instruments,Clear ownership,2022-01-14,3.0,Manufacturing Supervisor,Very clear division of responsibilities. Very good response of all groups in support of manufacturing effort. Ample redundant tools and support. Shared rewards (profit-sharing).,"Supervisors bear an enormous level of responsibility, high level of stress."
+107,Texas Instruments,N/a,2021-12-15,5.0,Equipment Technician,"Great work hours
+Decent pay
+Great environment",Can be labor intensive at times
+108,Texas Instruments,Former Employee,2022-01-26,4.0,Anonymous Employee,"Employee Friendly
+Good people
+Experienced folks
+Multiple positions to work
+Various locations","Politics
+Management can be harsh and insensitive sometimes"
+109,Texas Instruments,Decent starting point,2022-01-25,3.0,Manufacturing Quality Engineer,"Fast ramp, great teammates, able to learn outside the role",engineers may not get paid enough
+110,Texas Instruments,TI HR intern,2022-01-20,4.0,Human Resources Intern,"-Great exposure to the HR field
+-Great feedback
+-Loved the buddy system
+-Flexible",-Project supervisors could be trained better on how to help an intern.
+111,Texas Instruments,Good Place to work,2022-01-24,4.0,Process Engineer,Good place to work with good work environment.,Pay not at par to market.
+112,Texas Instruments,Middle of the road,2022-01-26,4.0,Senior Buyer/Planner,Work schedule is pretty flexible,Pay rate is somewhat main stream
+113,Texas Instruments,Great!,2021-12-13,5.0,Anonymous Employee,Awesome environment and culture here!,I can not think of any.
+114,Texas Instruments,Texas Instruments Calculator Button Pusher,2022-01-20,3.0,Graphic Designer,Pushing buttons all day long,All the day and all of the night working working no end in sight
+115,Texas Instruments,Good,2022-01-28,4.0,Procurement Specialist,"Challenging projects, good work-life balance",Maybe too much business process
+116,Texas Instruments,Nice,2021-12-09,5.0,Software Engineer,Awesome cool greatful definitive nice,Boring too much work annoying
+117,Texas Instruments,"Though Texas Instruments has good management, you are expected to work 50 hours",2021-08-25,4.0,Custodian,"Though Texas Instruments is beginning to recognize the importance of diversifying its staff with English (Market Communications) and MBA (management) degrees, it is still very much a company of engineers run by engineers. There is good and bad to this, although since I'm an engineer, I mostly loved it.
+
+The company is filled with smart people. Everyone is expected to do their part, but not expected to work ridiculous hours (50 on average for salaried employees.) Pay is good. You will be comfortable, although you won't get rich unless you make it into upper management.","It is quite a company of engineers run by engineers. There is good and bad to this, although since I'm an engineer, I mostly loved it Everyone is expected to do their part, but not expected to work ridiculous hours (50 on average for salaried employees.) Pay is good. You will be comfortable, although you won't get rich unless you make it into upper management."
+118,Texas Instruments,Great place to learn,2021-11-29,5.0,Validation Engineer,Good for college grads to learn about EE fundamentals.,Slow to get promoted unless you're exceptionally outstanding
+119,Texas Instruments,"Not Great, Not Bad. Satisfied.",2022-01-17,4.0,Electrical Design Engineer,"Pay, bonuses, very challenging projects, responsibilities, good people.",Schedules can be ruff at times.
+120,Texas Instruments,Good place to work,2022-01-07,4.0,Anonymous Employee,"Many challenging projects, company has high level of integrity.",Work environment can be high pressure and stressful
+121,Texas Instruments,Okay for first full time,2021-12-20,3.0,Software Engineer,"Benefits
+Profit sharing guaranteed
+Occasional RSU for performance",RSUs vest 100% in four years rather than incrementally like other companies. Why do this if they want to keep new hires? Pay is already below average. Feels like they're playing me with a carrot on a stick.
+122,Texas Instruments,Subpar,2022-01-19,2.0,Financial Analyst,"Profit Sharing
+Work / Life Balance","Lateral Mobility
+Poor Management
+Sub-par Raises
+Complete imbalance of work load"
+123,Texas Instruments,Great work ethics/people and passion,2021-10-26,5.0,Anonymous Employee,I love the people I work with. A team oriented culture of doing the right thing and a passion for making things happen is what I love most.,"Some times the work can pile up, so you have to know how to set boundaries, expectations, and prioritize."
+124,Texas Instruments,Not for me,2022-01-18,3.0,Field Applications Engineer,<30 hours per week after awhile,"Stagnant culture, no feedback mechanism, stuck"
+125,Texas Instruments,competitive work environment,2022-01-11,4.0,Field Applications Engineer,Has so many path within the org you can grow and choose from,Hard to have work life balance
+126,Texas Instruments,Great Place to Work,2021-10-24,5.0,Administrative Assistant,I truly enjoyed my time there and wish I'd been able to stay had it not been for going back to school.,Being a part-timer possibly caused them to not invest as much training as full timers.
+127,Texas Instruments,Good money  but can be stressful at times,2022-01-04,4.0,Manufacturing Engineer,"Good pay and profit sharing.
+Good people to work with.","Can be demanding and stressful at times.
+The usual big corporate job pitfalls."
+128,Texas Instruments,"Great company, fast paced environment",2021-10-20,5.0,Anonymous Employee,I’ve learned so much working for this company. It’s a fast paced environment which I think is what has allowed me to grow quickly. Plenty of opportunities to move up,"Big company, so can be a disadvantage or an advantage depending on the way you look at it"
+129,Texas Instruments,New Company,2021-11-24,5.0,Supervisor,Absolutely amazing and honored to be the first supervisor,Haven’t found any cons with employment
+130,Texas Instruments,Great company,2021-11-20,5.0,Manufacturing Supervisor,A little traditional but good place to work with excellent benefits,Slow promotion and little upward movement at times
+131,Texas Instruments,Good culture,2022-01-12,4.0,Accountant,"Flexible, good training, varies roles","Work loads unbalanced, constantly training new people"
+132,Texas Instruments,Great work experience,2021-11-15,5.0,Design Verification Engineer,Very nice people and so helpful when I first joined the team,Haven’t got anything in my mind yet
+133,Texas Instruments,Vgb,2021-11-23,5.0,IT Manager,Great company to work for,"Long hours a week, sometimes"
+134,Texas Instruments,SoC verification Engineer,2022-01-06,4.0,Design Verification Engineer,Good work culture in team.,multiple projects are handled at a time by one team
+135,Texas Instruments,Best employer,2022-01-04,4.0,Technical Program Manager,Good bonus and medical benefits,Stress in work place and lack of team work in some cases.
+136,Texas Instruments,good place to work,2022-01-05,4.0,Process Integration Engineer,"good people, culture, low living cost",weather in dallas is not very good
+137,Texas Instruments,Good job,2021-11-11,5.0,Anonymous Employee,Great benefits and great work life balance,Never really getting a break
+138,Texas Instruments,Great Company,2021-10-12,5.0,FAE ENGINEER,"Salary, benefits, training, ethics, flexibility","Spread sheet oriented
+Geography, you may not be able to find a position where you like, however as opportunities come around no resistance to moving"
+139,Texas Instruments,"Decent first job, would recommend pursuing better",2021-08-21,3.0,Applications Developer,"The company is very ethical and most people are friendly. If you have no internship experience, this is a good place to start.","The experience as a software developer is iffy - be prepared to support terribly maintained legacy apps with little support for innovation or internal opportunities for furthering your career. If you accept a position at TI, I would recommend working on personal projects in the meantime to build your portfolio for your second job, because you may not get the experience needed or desired there."
+140,Texas Instruments,Good company,2021-12-31,4.0,Senior Software Engineer,Perfect team and working atmosphere.,"Stopped investing in to RnD, tris to reuse old design."
+141,Texas Instruments,Management only cares about themselves,2022-01-14,1.0,Equipment Technician,Performance does not matter. If can brown nose your promoted. No accountability. No training or advancement program.,Don't know how to distribute resources appropriately.
+142,Texas Instruments,TI culture,2021-09-15,5.0,Equipment Engineer,Profit sharing is not guaranteed but can be as high as 20%.,Manufacturing can be relentless. It’s a 24/7/365 operation and you can get burnt out.
+143,Texas Instruments,Love it!,2021-11-08,5.0,Equipment Engineer,Great boss and coworkers. Love working here!,No cons at this point
+144,Texas Instruments,"Fair, flexible, strong value",2021-11-01,5.0,Production Planner,"Innovative, proven track record, strong financials","Super busy since the pandemic started in 2020, occasional long hours."
+145,Texas Instruments,TI is great,2021-11-05,5.0,Anonymous Employee,Great work environment and flexible management,Work life balance not always ideal
+146,Texas Instruments,review,2021-11-06,5.0,Software Engineer,very good benefits for employees,tought work life balance here
+147,Texas Instruments,Great company,2021-10-27,5.0,Ergonomic Specialist,Flexible work schedule and great benefits,Large company so it’s hard to get to know the people on site
+148,Texas Instruments,"Good culture, standard pay and benefit",2021-12-24,4.0,Packaging Engineer,"Good culture, standard pay and benefit",medium pay in the industry
+149,Texas Instruments,Great company ....but,2021-08-23,5.0,Human Resources-Manager Und Human Resources Business Partner,Pay and Benefits. challenging work.,"in HR, the downside was management at the top. they were promoted early and not in keeping with TI's excellent reputation. I believe most of the worst were terminated, but not before they caused considerable damage. this could be a past problem by now."
+150,Texas Instruments,Great,2021-10-29,5.0,Contract Manager,Great work life balance and benefits,Growth for further promotions and more money
+151,Texas Instruments,Great company but compensation can be higher,2021-12-09,3.0,Product Engineer,"Dependent on team, can be ok work life balance",New hires seem to be making as much as veteran members so compensation can be improved
+152,Texas Instruments,Great for acquisitions,2021-11-07,4.0,Engineer,Texas Instruments has been very accepting of our Micron fab in Lehi and has made a lot of concessions to make employees happy.,"Doesn't seem like the type of innovation that we've been used to and I worry that there will be a lot of red tape, but haven't been part of the company long enough to know."
+153,Texas Instruments,i had to do a review,2021-11-25,3.0,Senior Design Verification Engineer,"I get to build things from the ground up
+lots of room to grow","TI makes mouth noises about caring about work-life balance, but when it comes to it, programs are not resourced appropriately to allow for it to happen"
+154,Texas Instruments,Good Company to work,2021-10-18,5.0,Data Engineer,Lots to learn and grow in the company,Lot of work and time required to get going
+155,Texas Instruments,Overall a good stable company to work for,2021-11-05,3.0,Product Marketing Manager,They have an amazing profit sharing program.,I have mixed feelings. I worked for several different teams at TI over my tenure and had very different experience depending on the team. I ultimately left because I really disliked my boss's micromanaging style however I had had a much better experience on previous teams.
+156,Texas Instruments,Gratitude to the People,2021-11-30,4.0,Facilities Engineer,"Appreciated the resources and opportunities to achieve and grow.
+Appreciated the employee development planning and tracking.","No place is perfect. 
+You get in and fit in, and do your best."
+157,Texas Instruments,Best Places to Work as an ECE,2021-08-01,5.0,Test Engineer,"The team atmosphere is probably the best part. There is always someone willing to go out of their way to help you when you need it. I moved all the way across the country not knowing anyone and within a month, my team has made me feel like I've known them for years and lived in Tucson my whole life.",Things can move kind of slow at times but that's to be expected from a large company.
+158,Texas Instruments,Great Place,2021-12-15,3.0,Manager,Good mgmt that cares about employee,Nothing bad here to write about
+159,Texas Instruments,TI program managment,2021-10-11,5.0,Senior Program Manager,"- stability
+- opportunity
+- attention to business","- aggressive cost control
+- can be difficult to maintain work-life balance"
+160,Texas Instruments,Good job,2021-12-13,4.0,Engineering Technician,"Overtime, profit sharing and decent pay",most work done at night
+161,Texas Instruments,Great Company,2021-10-13,5.0,Anonymous Employee,Really cares about thier employees.,"Some positions have no career path, although most do."
+162,Texas Instruments,Great Pay,2021-08-20,5.0,Engineering Supervisor,"Performance pay- Annual increases
+Experienced team- engineers and technicians 
+Room for advancement- new manufacturing plants opening 
+Established company- profitable company and product line
+Great benefits- profit sharing, vacation, 401k",Very political and good ole boy system. The biggest issue is the disconnect from management to what actually happens on the product floor.
+163,Texas Instruments,TI Review,2021-10-14,5.0,Analog Design Engineer,"remote, interesting, relax, good culture",was not given much work
+164,Texas Instruments,Overall very positive but old tech,2021-12-06,4.0,Software Developer,"Culture, people, work life balance",Old technology stack and compensation
+165,Texas Instruments,Intern Salary,2021-10-07,5.0,Internship,"Very good company, very good place to work.",Has no cons in my opinion
+166,Texas Instruments,poor training,2021-12-01,2.0,Equipment Technician,Good atmosphere as far as coworkers,"not enough support from higher ups, could improve training, give up easily on new hires."
+167,Texas Instruments,Texas Instruments,2021-08-18,5.0,Manufacturing Specialist,"Alot to learn if interested in the semi conductor manufacturing.
+
+Exposure to semi conductor manufacturing tools and processes. 
+
+Great work schedule flexibility 
+
+Safety first with T.I","Ok Salary
+Fast paced manufacturing environment and can get stressful
+
+long work days and tedious task
+
+Company may offer tuition reimbursement if qualifications and requirements are met else you would have to pay back"
+168,Texas Instruments,HR Rep,2021-10-04,5.0,Anonymous Employee,Good with benefits and stuff,Texas is a red state
+169,Texas Instruments,Semi Conductor,2021-12-05,4.0,Engineering,The pay and location is good,It is a very competitive job
+170,Texas Instruments,Great launching pad or career job,2021-11-20,4.0,Civil Engineer In Training,"-excellent work pace and quality of life
+-schedule is set and can be rewarding
+-easy to learn job","-a lot of walking 
+-mindless work
+-can get burned out"
+171,Texas Instruments,Good experience,2021-12-03,4.0,Process Engineer Intern,Good experience working as an intern,Some work was very time consuming
+172,Texas Instruments,Great company to grow with,2021-09-20,5.0,Semiconductor Packaging Engineer,Excellent environment with talented staff,Very large company so roles can be less diverse than a startup company
+173,Texas Instruments,Interview,2021-09-28,5.0,Wafer Fab Technician,"Beautiful place, excellent job opportunities",I'm not working yet there
+174,Texas Instruments,Digital designer salary in TI,2021-08-15,5.0,Digital Designer,"Easy job, not so tired, has good team members. Easy to communicate, flexible time schedule as long as tasks are finished.","Salary is a little bit low, and not sure how is the chance to learn now things. Worked remotely, not sure about the working environment"
+175,Texas Instruments,Good Company,2021-09-28,5.0,Financial Analyst,"Flexible work hours, good people",Tried to make me get vaxxed
+176,Texas Instruments,Great company,2021-08-07,5.0,Quality Engineer,"Good pay + Profit sharing
+They are also very concerned with retention. If you are not happy in your current role, they want to find you a better fit.","Not totally transparent when it comes to promotion requirements. 
+They also dont really hire experienced people, they prefer the ""just graduated"" people."
+177,Texas Instruments,Good place to work,2021-09-24,5.0,Applications Engineer,"Good team, 4% 401k match, good benefits",Some managers are pretty useless
+178,Texas Instruments,Great Environment,2021-09-27,5.0,Anonymous Employee,Amazing culture that encourages internal growth,"No cons, a great company"
+179,Texas Instruments,good mcp,2021-09-28,5.0,Customer Service Advisor,good good good godo good,no major issues for me
+180,Texas Instruments,review,2021-11-21,4.0,Systems Engineer,"steady company, good working environment and culture",less adventurous in terms of technology areas of investment
+181,Texas Instruments,Great company,2021-08-19,5.0,Executive Administrative Assistant,Great management and willing to help you learn more about the company. Great Culture. Competitive pay and benefits. Diversity and Inclusion.,I truly have no cons for working at Texas Instruments. I truly believe that the management cares for their employees.
+182,Texas Instruments,Great Starter Company,2021-11-20,4.0,Analyst,"Friendly people
+Good starting pay
+Decent work/life balance","Slow to grow salary
+Not as competitive long term"
+183,Texas Instruments,Motivating workplace,2021-09-18,5.0,Analog Design Engineer,"Highly professional
+Clear technical and leadership ladders",Work pressure at times can be larger than usual
+184,Texas Instruments,Managed from the Top,2021-10-16,4.0,Senior Applications Engineer II,Get to work with many talented coworkers and many project opportunities.,"Overwhelming at times, big organization and reorgs seem to conflict with goals"
+185,Texas Instruments,GOOD,2021-09-21,5.0,Credit Analyst,to be honest it was good,I liked mostly everything about my job
+186,Texas Instruments,Great company!,2021-07-29,5.0,Sales Associate,"Great company, ethical business, good people, I was proud of my time there. The addition of LinkedIn Learning library in recent years was an added benefit to already strong benefits.",I didn't find many cons. That you have to populate 20 words in this field is a little constricting. These are tough times in the semiconductor industry.
+187,Texas Instruments,Yes,2021-09-21,5.0,Machine Operator,Benefits are good 👍🏾 overtime,Same thing every day of week
+188,Texas Instruments,Hit or Miss,2021-10-20,3.0,Product Marketing Engineer,Stable company where you can expect good time off benefits and insurance.,"Resourcing is a challenge.
+Who your boss is and what organization you are in will greatly determine your work life balance."
+189,Texas Instruments,DevOps Work,2021-11-16,3.0,Software Engineer,Great environment and people to work with,On-call rotation can be cumbersome
+190,Texas Instruments,Review,2021-11-13,4.0,Equipment Technician,Just started not too long ago. Not too bad.,Wish they gave me more hours.
+191,Texas Instruments,Great Company,2021-05-29,5.0,Mixed Signal Design Engineer,"Health benefits and vacation policies are good, work environment is mostly collaborative and helpful, people are very bright and curious and enjoy their work. Company pivoted well amidst covid-19 pandemic and treated employee well-being as a priority.","Only cons are to be expected with large companies, culture is less agile and consequently less exciting than a start-up, for example."
+192,Texas Instruments,"Used to be great, now ok",2021-10-22,3.0,Exchange Administrator,"Flexible hours and results-oriented, stock purchase plan.",Firing everyone who doesn't have the Covid vax
+193,Texas Instruments,Work Life Balance,2021-11-05,4.0,Anonymous Employee,"Good work-life balance.
+Good profit sharing bonus.
+Flexibility to work on what you like.",Not so competitive base pay and RSU options
+194,Texas Instruments,Great company,2021-08-02,5.0,Validation Engineer,"Lots of training, lots of management support, good hours, great benefits, there is a subsidized gym as well.","Hours aren’t always good, a lot of the important trainings have moved online due to covid, which isn’t great."
+195,Texas Instruments,Digital Marketing Internship at TI,2021-10-03,4.0,Digital Marketing Intern,"Great work culture and environment
+Good benefits","A lot of people take PTO unexpectedly, meaning you have to figure out by yourself how to move forward with your projects."
+196,Texas Instruments,Nice place to work if you don't like rush,2021-10-25,4.0,Anonymous Employee,"Flexibility, amazing people to work with",Slow paced environment sometimes you hit a dead end and need to wait until something new comes up.
+197,Texas Instruments,Great company to work for,2021-11-03,4.0,Manufacturing Manager,Good pay and great management team.,Work hours are not ideal for the family life.
+198,Texas Instruments,"If you love big machines, you'll love TI",2021-07-20,4.0,Principal Applications Engineer,Amazing manufacturing. Large sales force and global reach. Solid benefits. Rich Templeton is a good CEO and human being.,TI has become a manufacturing company. Innovation within the product line is challenging. Constant turnover in the sales force means relational capital is hard to obtain with customers.
+199,Texas Instruments,Great company,2021-09-01,5.0,Software Engineer,Everything is a great thing at TI,No cons so far just long shifts
+200,Texas Instruments,Stable,2021-07-01,4.0,Electrical Engineer,"Stable job. Pandemic had little to no effect on layoffs, pay, and raises - that's how stable. Very difficult to be let go, lots of room for mobility (upward or lateral), so many opportunities in one company and it's not super hard to move around. Several sites around the US and the world.
+The people are generally friendly and helpful.
+The company is more ethical than you'd expect such a big company to be.","More bloated than it could be. Lots of bureaucracy and forms to fill out.
+Management wants to reduce headcount as a measure of efficiency which often leads to worse efficiency. For example tech writers are laid off which means engineers spend lots of time fighting with XML to make datasheets and other documentation."
+201,Texas Instruments,Review,2021-08-30,5.0,Analog Design Engineer,"Good to learn new stuff
+Friendly environment
+Good WLB",Pay is not so good at the area
+202,Texas Instruments,Solid company,2021-08-24,5.0,Manager,Been successful at what they do and a large company offers more internal opportunities,Large companies can become impersonal
+203,Texas Instruments,The salary for a PME at TI,2021-08-23,5.0,Product Marketing Manager,TI takes really good care of their employees.,TI is strict on pre-established rules.
+204,Texas Instruments,Solid All Round,2021-01-17,5.0,Design Verification Intern,"Many different roles in many different product lines. Can easily influence work-life balance depending on what teams you want to transfer to in the long term. Many older employees are not ""company men/women"" who think work is their life. Many cite that pay and compensation is appropriately tied to productivity, accomplishments, and job market shifts. Message was the same over two different internships and through coworkers, managers, and executives.
+
+For new hires with multiple job offers, TI's Dallas based salaries and compensation closely mirror most major California tech companies after factoring taxes and cost of living, though what you personally value in location and work life balance between your options is up to you.","Some minor bureaucratic issues that come with a large engineering organization, but nothing major. Workload and time commitment can vary drastically depending on what product line and role you are in, though this is as much a pro as a con given the ability to apply to internal roles fairly easily every two years or so."
+205,Texas Instruments,awesome place to work,2021-08-24,5.0,Analog Design Engineer,"very collaborative company, everyone works for the team",not applicable. I don;t have any complaints!
+206,Texas Instruments,Training isn’t pleasant,2021-09-10,1.0,Product Marketing Engineer,Many systems to learn from,Be ready to jump into customer meetings 60 days into the job. I internally moved from the quality organization into a PME role and expectations vs reality weren’t realistic at all.
+207,Texas Instruments,Nice Place to work,2021-10-14,4.0,Equipment Technician,Very laid back work environment. Great people to work with.,The company is kind of management heavy.
+208,Texas Instruments,TI Good Company to Work For,2021-10-24,4.0,Engineer,"Strong engineering and quality culture.
+Also, strong diversity and ethics.
+Food growth.",Older technologies to support analog.
+209,Texas Instruments,Good company for new grads,2021-10-24,3.0,Product Engineer,Opportunities to learn new things and benefits are great.,Not much of a work-life balance and progression.
+210,Texas Instruments,Fair company,2021-10-09,3.0,Applications Engineer,"Lots of employee get together events 
+Groups are small and easy to work together",Most of the technical managers are incompetent. The employees really carry the managers.
+211,Texas Instruments,Overall okay experience,2021-10-21,1.0,Product Engineer,"People, Environment, Culture, Fast-paced, Living in Dallas","Salary, Poor Management, Fab system is 1980's"
+212,Texas Instruments,Great company & culture,2021-08-05,5.0,Sales Operations,People are highly talented and personable. Management cares development of talent. Excellent work life balance,Can be sometimes engineering heavy in preference of talent
+213,Texas Instruments,Great company,2021-08-23,5.0,Anonymous Employee,Awesome people and products and technology,Too many responsibilities for given role
+214,Texas Instruments,Supply Chain Analyst,2021-10-28,4.0,Supply Chain Analyst,"- Challenging
+- Supportive management
+- Diverse",- Can be very demanding
+215,Texas Instruments,Many Opportunities to Move around,2021-10-15,4.0,Operations Manager,"Diverse workforce, challenging work, different roles to try",High Demand Manufacturing environment & 24 Hour support
+216,Texas Instruments,TI,2021-10-25,4.0,Senior Software Engineer,"Talented people, good location, good salary.","No working remote options, not socially responsible."
+217,Texas Instruments,Good,2021-10-16,4.0,Anonymous Employee,"Great learning opportunities
+Good senior management & overall company leadership","Very much an efficiency machine, so your contribution may feel insignificant"
+218,Texas Instruments,it's okay,2021-10-19,2.0,Electrical Design Engineer,nice people to work with. good place to learn as a new grad.,pay is below industrial average.
+219,Texas Instruments,Good,2021-08-17,5.0,Field Applications Engineer,Texas Instrument is a good comapany,There is no comment here
+220,Texas Instruments,Dream Job,2021-07-04,5.0,Digital Design Engineer,"- Dynamic work environment
+- Flexibility in tasks
+- Cutting edge technology
+- Great pay and benefits
+- Interesting assignments",- I have not found any cons
+221,Texas Instruments,Horrible,2021-09-25,1.0,Manufacturing Specialist,"temperature controlled environment, 3-4 consecutive days off","long hours, constantly on feet, low pay (especially for long term employees vs newly hired for the same job), health insurance premium increases barely covered with yearly pay raise, over worked, short staffed, unrealistic attendance policy for manufacturing, potential exposure to hazardous chemicals in/on work environment, make you wear a mask for 12 hours like a slave"
+222,Texas Instruments,Traditional management,2021-09-10,3.0,Analog Design Manager,Large corporation provides access to many licenses and design tools.,"Corporate Environment. Traditional management may be missing opportunities by reducing remote design centers and requiring a centralized prescence. As many technology companies embrace distance/remote and flexible work schedules, talent can be lured elsewhere."
+223,Texas Instruments,N/a,2021-10-16,2.0,Anonymous Employee,Pro is that there is good pay,Cons is that there is poor management
+224,Texas Instruments,Okay company,2021-10-17,4.0,Design Verification Engineer,work life balance is good,TI = tiny income. words.
+225,Texas Instruments,"Cutting edge, fun and diverse working place",2021-06-26,5.0,Senior ASIC Design Engineer,"Open, collaborative and amicable atmosphere. Good pay. Working with very experienced and very smart engineers.",Most of the company focus is analog. Limited opportunities for inhouse digital design development. Mostly focused on 3rd party IP and SoC integration.
+226,Texas Instruments,How much can you put up with for top pay?,2021-09-23,1.0,Anonymous Employee,"Great pay and benefits, better than I've seen anywhere else.","Authoritarian leadership makes it challenging to work here. Competition amongst employees is encouraged rather than teamwork. Employees are ranked against each other, which leads to a lot of back stabbing."
+227,Texas Instruments,Depends on your team,2021-06-22,4.0,Test Engineer,Ramp-up & training is great. It's all planned out and feels like an extension of college (in a good way). Projects are interesting & your peers are VERY helpful. They really do want you to succeed. Easy to move groups if you don't like what you're doing,"Project-based scheduling. Some days you can work without stress, other days you can be staying late at the lab or working weekends (though usually, your manager will compensate you for it)
+Management can be hit or miss, if your manager is a political boot licker you're screwed.
+Hard to move up the ladder past manager of a team."
+228,Texas Instruments,engineer,2021-10-11,4.0,Engineer,Good company to work with,No cons as of now
+229,Texas Instruments,Good place to work but could be excellent,2021-09-17,4.0,Anonymous Employee,"Chill environment, nice people, open door policy, free work phones, job security, good pay and annual profit sharing benefits",Out of date policies and old way of thinking
+230,Texas Instruments,Not bad very good,2021-04-06,5.0,Truck Driver,I love my job and I want to work to pay my bills to make myself happy whenever I'm working pay salary I'm always happy buy things for myself and my family I love working I'm singing,Have not started working yet but I don't think that will be a challenge because when you love your job you'll be happy working
+231,Texas Instruments,nice atmosphere,2021-10-11,4.0,RD Engineer,great people to work with,older technologz and also newer technologies
+232,Texas Instruments,Great Company,2021-07-22,5.0,Applications Engineer,TI is a well structured company,"just like any fortune 500, red tap is a the norm"
+233,Texas Instruments,Good place to learn,2021-09-21,4.0,Anonymous Employee,It is a good place to learn. Extremely fast paced with a lot of breadth-wise learning,work life balance goes for a toss sometimes
+234,Texas Instruments,Working for Texas Instruments,2021-06-14,5.0,Anonymous Employee,"Benefits are good, company culture is good, everyone is willing to help each other and everyone is willing to learn.",You have to me ready to get calls over the weekend or at night as the FABs run 24/7.
+235,Texas Instruments,Loved it,2021-10-04,4.0,Manufacturing Technician,A great place to work,Pay could have been better
+236,Texas Instruments,Needs Higher Pay,2021-08-17,4.0,Manufacturing Specialist,"Profit Sharing bonuses in February, work-life balance with the shift schedule, great health insurance and 401k plans, discount on stock etc.",This pay is way too low. The work is fun but in my opinion this is not a livable wage and I have tow jobs because it's so low
+237,Texas Instruments,God Place to Learn,2021-07-11,5.0,Equipment Engineer,"Good place to learn, good pay",can be a beuracratic place to work for
+238,Texas Instruments,Great company to work for,2021-07-13,5.0,Systems Engineer,Good work life balance and great people,Benefits not competitive with other tech companies
+239,Texas Instruments,TI,2021-10-02,3.0,Principal customer quality Engineer,Benefits and bonuses and stocks.,"Too controlled, one single minded, military style"
+240,Texas Instruments,Great place to work and grow!,2021-09-14,4.0,Director,Great team culture and high team accountability.,Long hours - easy to become unbalanced if you don’t set personal boundaries in place.
+241,Texas Instruments,Great Company,2021-07-16,5.0,Applications Engineer,"Great feedback on projects, good management",THe weather is very hot at the headquarters
+242,Texas Instruments,Company to avoid,2021-10-09,1.0,Engineer,It provides necessary technical infrastructure.,"You are worthless unless you are an analog designer. No innovative products. Sales oriented company, not an engineering one."
+243,Texas Instruments,"Great place to work, has become very political in the last 5 years",2021-08-26,3.0,IT Manager,"- Work/life balance, good compensation, great place to spend the first 5 years of career","Political, ageism, racism, gender bias"
+244,Texas Instruments,Solid company,2021-09-28,4.0,General Manager,"Stable
+Profitable
+Good customer base
+Broad product portfolio","Old school
+Lack of vision
+Need management update"
+245,Texas Instruments,Great culture and financial benefits,2021-06-28,5.0,Electrical Design Engineer,"Excellent stock compensation and profit sharing, competitive salary",Old school thinking in regards to remote employment
+246,Texas Instruments,Good,2021-08-13,3.0,Cloud Support Associate,Pay is not that great and growing is pretty like who knows the big guys and believe me its difficult atimes to climb the ladder,"Nice work ethics
+Holiday 
+Vacation times , health insurance, work ethnic is not bad because it's a professional environment.
+Great hospitality during holidays too"
+247,Texas Instruments,Innovative &  smart management,2021-05-14,5.0,Engineer,"Diverse, innovative, with a good hold in the market. Cares about their employees. Senior Management has positioned company well in current market. This company will be around for 100 years.",High pressure. High turnover at lower levels.
+248,Texas Instruments,"Great, Big Company",2021-07-26,4.0,Validation Engineer,"Lots of opportunities within the company. They also have great people, and a solid company financially with lots of great benefits.","There was often a lack of communication at all levels of the company. At the team level, people did not not what management was doing, and there are so many different procedures, metrics, etc. its difficult to know what's going on."
+249,Texas Instruments,Love it!,2021-07-13,5.0,Global Recruiter,Great company culture and very diverse.,Little to no room for advancement.
+250,Texas Instruments,TI,2021-09-29,2.0,Anonymous Employee,"Good salary, nice people, decent work",Should be interested in semiconductors
+251,Texas Instruments,Good company / frustrating environment,2021-08-25,4.0,Manager,"Nice life balance, friendly culture. A good place to gain experience.","Considering the industry and the company's level of success, TI often seems stingy. Opportunities for real career growth are limited."
+252,Texas Instruments,Good Exp,2021-07-11,5.0,Analog Design Engineer,Overall good for beginners in my opinion,No cons in my opinion
+253,Texas Instruments,Great place to work,2021-07-07,5.0,Anonymous Employee,"Excellent place to work
+Talent is recognized",No specific cons working in texas instruments
+254,Texas Instruments,Great people,2021-06-23,5.0,Project Manager,"Amazing culture and people, incredible industry and freedom to dig deeper in areas of interest.",Very flat organization with little space for people management opportunities.
+255,Texas Instruments,Always changing,2021-04-28,4.0,Validation Engineer,There are always projects and challenges for anyone to step up to.,The main focus of the company is to appease the share holders. We are run by businessmen incentivized to push our stock price. There is always the chance to they will just cut your team rather than move or fix bad leadership.
+256,Texas Instruments,Good place to start your career,2021-09-10,4.0,EDA Engineer,Good management and interesting work.,"Hectic work, might have to work weekends during the peak time."
+257,Texas Instruments,Good Company,2021-06-28,3.0,Production Specialist,"Excellent benefits and helpful HR department, secured location, and amazing opportunities within the company while working as a contractor.","Toxic work environment, backstabbing coworkers, unprofessionalism at an all time high. Very disrespectful to female coworkers and young aspiring production specialists/students. Long and excessive hours, for very little pay."
+258,Texas Instruments,Great Company all around,2021-06-24,5.0,Finance Analyst,Genuine in their promises to employees.,Operations churn is difficult. This is expected due to the high demand though.
+259,Texas Instruments,Very welcoming,2021-07-06,5.0,Intern,good work environment and work ethic,not as many benefits for intern
+260,Texas Instruments,Very well,2021-07-07,5.0,Devops Engineer,Great Establishment and Environment Workplace,"Early to bed, early to rise"
+261,Texas Instruments,Great company,2021-07-07,5.0,Accountant,Culture work life balance flexibility,There are really no cons
+262,Texas Instruments,PE role,2021-06-29,5.0,Product Engineer,"Great Company , Great People and Great Environment to work !",Nothing to be put down.
+263,Texas Instruments,Great place to work,2021-06-15,5.0,Validation Engineer,"Great people, good pay, very honest and ethical company I'm proud to be a part of.",Pay is great but could always be better
+264,Texas Instruments,Great company for learning,2021-07-02,5.0,Engineer,Very knowledgeable world wide technical community,You have to be mobile
+265,Texas Instruments,Great products,2021-09-15,3.0,Validation Engineer,"Engineers, products are good to work with","Leadership, very very high turnover"
+266,Texas Instruments,Good,2021-09-17,4.0,Field Technician Supervisor,It’s good and valuable work,"Busy, I have to do work"
+267,Texas Instruments,A company headed in the right direction,2021-04-08,5.0,Finance Manager,"Fantastic to build start a career, but also a place to stay","Can be competitive. Highly driven people and results are expected. I suppose this can be considered a Pro as well, depending on your view. Performance is expected"
+268,Texas Instruments,More like a cult than corporation!,2020-08-12,1.0,Anonymous Employee,"If you are a young engineer who is okay with spending the first 5 years of your career working your butt off with your head down and your mouth closed this is a great company for you.  Also, if you are a white male you will love it here.  Everything here is designed and set up for your success.  Everyone else will struggle to progress and grow.",The insurance benefits are horrible for new employees.  All they offer is a HSA program that doesn't cover hardly anything.  I had my annual checkup recently and did the blood work that my doctor recommends every year.  The bill for this with TI's HSA program was over $600.  I am thankful that i am healthy and do not have any health concerns.  There is no way I can afford to have any health issues if my annual checkup and blood work cost that much.
+269,Texas Instruments,Great people but lots of bureaucracy,2021-08-11,3.0,Product Marketing Manager,"Smart, friendly people who work hard. Good pay. Improving vacation plans. Flexibility to move positions.",Lots of bureaucracy and conformance to processes. This is frustrating when it runs counter to common sense in many instances.
+270,Texas Instruments,TI,2021-06-25,5.0,Program Management Office Manager,"Reputable Company, highly ethical and great supply chain",High pressure environment. Growth opportunities limited
+271,Texas Instruments,Great place to work,2021-06-24,5.0,Field Applications Engineer,"Flexible work hours and location
+friendly people",Stressful environment but interesting work
+272,Texas Instruments,All-around excellent,2021-05-24,5.0,Applications Engineer,"Great company, great people, great work, great management. I've had the opportunity to work on a lot of interesting projects with increasing responsibility and influence.",I've had a hard time with work-life balance.
+273,Texas Instruments,Horrible,2021-08-22,2.0,Pit Crew Member,"Pays well, offers overtime, used to be great.",requires covid vaccine. does not care about employees. firing hundreds of people for not wanting to be vaccinated.
+274,Texas Instruments,Great company,2021-04-12,5.0,Industrial Engineer,"This is a really good company to work for if you are just starting your career.
+It is a really collaborative environment, family-oriented, it offers a lot of growth opportunities, good benefits.
+
+Definitely a challenging place to work at but with lots of support and mentorship","work-life balance
+high-pressure environment (if you enjoy this type of working, this should not be a con.)"
+275,Texas Instruments,Good learning opportunity. WLB depends on group. Mine is awful.,2021-08-11,3.0,Mixed Signal Design Verification Engineer,"Stable, nice people, learning opportunity",Pay is peanuts. More of a training company if you eventually want to earn more for your work.
+276,Texas Instruments,A manufacturing company,2021-07-19,3.0,Anonymous Employee,"Stable
+Predictable
+Decent pay
+Industry leader
+Benefits and profit sharing","Growth is pre-determined and not transparent
+Innovation is only important in manufacturing and product design; nowhere else is innovation prioritized
+Employees outside of engineering are viewed as less critical
+Diversity is mostly successful at lower levels, not in the upper mgmt and executive levels"
+277,Texas Instruments,Generally OK,2021-08-29,3.0,IT PM,"Good pay and benefits, long tenure",Politics and managing up is the focus
+278,Texas Instruments,Love my job,2021-02-26,5.0,Product Marketing Engineer,"Day-to-day has a lot of variation
+Engaging work, meaningful impact
+Almost all manager are engineers, so very rarely are managers incompetent
+Flexible environment - I have two teammates working overseas right now because of COVID-19 because they wanted to just go home for a bit","Standards / Expectations are high - Do well or your life sucks
+Almost all managers are engineers, so they aren't all great managers"
+279,Texas Instruments,God place to start,2021-08-13,3.0,Analog Design Engineer,Good place to begin your analog design engineering career. You ll learn a lot,Archaic systems and rigid leadership style. Opportunities for devt not widespread
+280,Texas Instruments,Disappointed with management,2021-05-24,2.0,Digital Design Engineer,Big company and mature process/procedures.,Lots of people left the team (8-9) due to lack of direction and bad management. Overworked with a non competitive salary in the Bay area and I personally faced sexism on my team so beware... also got pushed more into a test/validation role then the design role I signed up for. Wasn't able to transfer teams even though I requested multiple times when talking to HR and even though it's a big company they couldn't find another team for me which was suspicious....
+281,Texas Instruments,Micromanagement,2021-08-09,1.0,Packaging,"Flexible time, California location, average benefits, good company excluding middle managers, cafeteria, nice buildings, solid company, better managements in its Dallas location","Micromanagement, middle managers are quite rude most of the time, no career development, stress full environment caused by some managers"
+282,Texas Instruments,"High pressure, sometimes rewarding",2021-07-12,3.0,Engineer,"Many great technical people who all work hard to achieve goals, and excellent profit sharing","Frequent management changes, lots of pressure to meet (sometimes) unrealistic goals"
+283,Texas Instruments,Work-Life Balance is a Challenge,2021-04-28,5.0,Process Engineer,"Job stability, Intelligent Peers, High-tech work","24/7 work requirements, upper management that doesn't understand personal needs"
+284,Texas Instruments,Great company,2021-05-28,5.0,Design Manager,Technology is amazing along with great co workers,Big company. Moves relatively slowly.
+285,Texas Instruments,Great company,2021-06-05,5.0,Product Engineer,Nice culture and stable company,A lot of old people
+286,Texas Instruments,Great benefits - no upward movement,2021-08-18,3.0,Manufacturing Specialist,TI offers great medical benefits,There is no upward movement
+287,Texas Instruments,Very interesting technologies,2021-05-25,5.0,Systems Engineer,A lot of good challenges,Not good at retain talent
+288,Texas Instruments,Great company,2021-05-03,5.0,Systems Engineer,very stable and well organized company. can get things done effectively from top to bottom.,"a little bit busy , but it is well paid through profit sharing and other incentives."
+289,Texas Instruments,no,2021-06-01,5.0,Shift Supervisor,best place to work in Dallas,no cons about Texas instrument
+290,Texas Instruments,Profit Sharing about @ 20% but lower base pay,2021-07-15,4.0,Process Engineer,"Last 5-6 years at max 20% profit sharing 
+Great fab to fab information BKM sharing and collaboration 
+Great insurance and benefits",Not the best paying company
+291,Texas Instruments,Great place to work,2021-05-20,5.0,Transportation Analyst,Stable company with good outlook,It's a large company which can make some things challenging
+292,Texas Instruments,Good Company!,2021-05-28,5.0,Systems Engineer,Good Benefits and good work environment,Some troubles communicating with HR
+293,Texas Instruments,Great so far!,2021-07-19,4.0,Photo Engineer,It’s very lax in terms of work if you’re salaried wise they let you do anything as long as “work” is being done.,The price of housing in the area is outrageous.
+294,Texas Instruments,Good Opportunity to Learn and Grow,2021-05-07,5.0,Marketing,"Growth Opportunities, Travel, Team Collaboration, Always a path to higher or new positions",None I can think of at the moment
+295,Texas Instruments,Good work environment,2021-05-21,5.0,FAE,"Salary, Dynamic company, competitive portfolio","Challenging job, Poor career opportunities in small offices"
+296,Texas Instruments,Good place to work,2021-05-12,5.0,Equipment Technician,A lot of opportunities for horizontal movement,Employees are overstretched in some fabs
+297,Texas Instruments,Toxic Culture,2021-08-24,1.0,IT Analyst II,decent benefits and nice office.,"Horrible company culture, execs don't care about employees and high turnover makes it difficult for existing employees. Currently looking for new opportunities."
+298,Texas Instruments,Test,2021-05-19,5.0,Test Engineer,Good work culture and environment,None. I don’t see any thing
+299,Texas Instruments,Great place to work,2021-04-20,5.0,Test Engineer,Brilliant people tackling tough problems,Employee development needs more work
+300,Texas Instruments,Applications Engineer,2021-08-01,4.0,Electrical Engineer,"Structured environment, workspace encourages speaking up.","Long hours, pay does not seem high enough."
+301,Texas Instruments,Great company to start career,2021-04-28,5.0,Analog IC Design Engineer,Excellent work environment and great for learning at the start of career,Below par with other companies with compensation
+302,Texas Instruments,Engineer,2021-08-03,4.0,RF Engineer,"Good salary, good bonus and benefit",Too many layers management and politics
+303,Texas Instruments,Great place to work,2021-04-13,5.0,PMO Director,"Solid company, Diverse workplace, Flexible environment","Very traditional. 
+Not as structured as far as development plans are concerned, you have to feel your own way around."
+304,Texas Instruments,Good place to work,2021-04-30,5.0,"Senior Buyer, Procurement",Focused on individual development; great benefits,Pay not on par with other local employers
+305,Texas Instruments,Good,2021-07-09,4.0,Sales Associate,Good opportunity to lean and grow,Pay increases are limited. Many product lines to serve
+306,Texas Instruments,Good job,2021-07-23,3.0,Product Marketing Engineer,"Good pay and benefits, supportive team","Too busy, working around the clock, not efficient"
+307,Texas Instruments,Texas Instruments is a great company to work for. Great learning culture.,2021-03-15,5.0,Customer Quality Engineer,"Benefits, work from home, rotation program",Might be pidgeon-holed to a certain job if one doesn’t not inquire or take on more responsibilities.
+308,Texas Instruments,"IT professional, awesome place!!",2021-02-12,5.0,Storage Administrator,"Loved working here, great work life balance, the IT team and leadership are awesome. Everybody was professional and the work environment was friendly, stress level was low and everything was very organized. best place I have ever worked for. I am very proud of TI",There are no cons of working here
+309,Texas Instruments,Great work life balance,2021-07-21,4.0,Deign Engineer (Smts),Great for work life balance,Growth can take long time
+310,Texas Instruments,Good company,2021-07-20,4.0,Anonymous Employee,"Benefits, coworkers and work life schedule.","Employment overturns, short staffed, frequent layoffs."
+311,Texas Instruments,Solid environment,2021-04-15,5.0,Desktop Support,"Easy to work with users
+Comfortable work space
+Great communications with management","Deployments sometimes get mis leading
+Parking can be a pain"
+312,Texas Instruments,Good company to work,2021-04-21,5.0,Engineering Manager,High salary work life balance,Bad management no overtime pay
+313,Texas Instruments,Toxic culture,2021-06-12,1.0,Communications Director,"The people you work with - smart, ambitious, care about their community","The company culture is insular and toxic; there is a strong bias toward new college grads and against experienced hires. External experience is not considered true experience, even if it is extensive. Also, HR does not back up or support managers."
+314,Texas Instruments,Easy,2021-04-23,5.0,Technician,Money money money money noney,Elworkersworkers workers workers workersworkwrs as of u
+315,Texas Instruments,Good,2021-04-20,5.0,Cleaning Technician,"Nice location, no stress, huge money","All are good, I was so happy"
+316,Texas Instruments,Great place to start working at,2021-03-30,5.0,ACCESS Program,"Really good pay with a big profit sharing check and health benefits
+Amazing work life balance",Hard to climb the ladder
+317,Texas Instruments,Best consultant scholastic for everyone especially statistics,2021-04-10,5.0,Managing Director,Customer service best advice  hard working,Charts Graphs Peer pressure reviews
+318,Texas Instruments,Career Development,2021-04-11,5.0,Procurement Specialist,Lots of opportunities for growth and trainings.,Limited management positions available to move up to.
+319,Texas Instruments,Wonderful place to work,2021-02-08,5.0,Communications Project Manager,Flexible environment that allows you to prioritize family and life responsibilities. Huge emphasis on professional development. Amazing culture with clear value on the individual and encouraging them to bring their full selves to work. Wonderful diversity and inclusion initiatives supported by leadership. Profit sharing.,Sometimes seasons of long hours. But worth it.
+320,Texas Instruments,The Walmart of Semiconductors,2021-05-10,2.0,Design Engineer,"Stable company at a macro level. Good business fundamentals. Ample opportunity to try many roles, though always to satisfy a “business need”. Great for a new college grad to start.",Not a place to be if you think outside the box. Pay is not market competitive and work culture is political.
+321,Texas Instruments,TI Review,2021-04-16,5.0,Product Engineer,Friendly surrounding and great diversity,"No Cons, No Cons, No Cons"
+322,Texas Instruments,Product Market Engineering,2021-03-11,5.0,Anonymous Employee,"Experienced peers 
+Robust rotation program 
+Open door policy
+Friendly","Time zone differences across global teams 
+Not the most structured onboarding process"
+323,Texas Instruments,Good place to work,2021-03-31,5.0,Analog Design Engineer,Great learning experience at the company,Perks are not as much as competitors
+324,Texas Instruments,"Great company for experience, Very conservative",2021-02-27,4.0,Internal Auditor,"TI is a great company overall, solid work experience. Management believes in employee rotations to different business units and functions, so this is a great way to gain experience and grow.","quite a conservative organization though that has started to change, and pay is on the low side. well known nickname for TI= Tiny Income."
+325,Texas Instruments,"Steady job, opportunity for movement, very ""grassroots"" and tends to be a ""yes, man"" company",2020-03-09,4.0,Systems Engineering Manager,"TI is an ethical company that expects those standards to be met at every level. Although one may think it'd be a conservative company, they are really do value having people from diverse backgrounds and are regularly ranked highly for women, LGBTQ+, and minorities. There is also a lot of movement both vertically and laterally within the company, with open door policies that make it easy for employees to learn about other roles. People are usually very willing to help and teach when asked which make it a great environment to learn.","TI tends to be a ""yes, man"" company where it is hard to voice a dissenting opinion to your manager. You are expected to say yes, which does mean that people are willing to attempt to find and answer but also means it can be pretty stifling for creativity. It is also a very lean company where money isn't spent on superfluous perks (but on the other side, that means that they have plenty to donate back to the community and also means there is profit sharing for the employees). Lastly, TI expects a lot of grassroots movements to happen and this can be a significant disconnect when it comes to management and individual contributors. The mindset from management can be, ""that's fine, you're welcome to start/do something if you'd like, but do it on your own time"" and it doesn't necessarily mean you'll get a lot of support."
+326,Texas Instruments,Good olace to work,2021-04-07,5.0,Manufacturing Associate,Best money sharing policy ever,"Too much work, it might get stressfull"
+327,Texas Instruments,Great place to work,2021-04-07,5.0,Anonymous Employee,"Collegial environment, smart people, strong ethics",Can be very political and bureaucratic
+328,Texas Instruments,Best,2021-04-11,5.0,Analog Design Engineer,Best place to work in Analog,Need to love what you do
+329,Texas Instruments,"Great stock, if you don't get layed off",2021-05-24,2.0,Systems Engineer,"smart people, great stock performance","massive layoffs every couple of years, as you get older you will eventually be on the list more than likely"
+330,Texas Instruments,Great benefits and pay,2021-06-17,4.0,Program Manager,Great pay and benefits. Working with some of the best engineers in the semiconductor industry,Busy. Not the best work life balance
+331,Texas Instruments,Great culture and focus on innovation,2021-03-25,5.0,Systems Engineer,"Opportunities to learn and grow, innovative and supportive culture",Opportunities slim outside the HQ
+332,Texas Instruments,Great place! Great people!,2021-02-03,5.0,Anonymous Employee,"There is a lot of room for growth. With the intern, rotational programs, most of the talent is ""homegrown"".","There aren't a whole lot of downsides. Perhaps the worst of it is the holiday schedule- only the major ones, not Presidents' Day, Columbus Day etc.."
+333,Texas Instruments,Limited growth,2021-06-20,4.0,Design Engineer,Good learning culture with quality work life balance,"With multiple rounds reductions, very few opportunities for growth."
+334,Texas Instruments,Overall very good but it can be stressful at times,2020-12-07,4.0,Manufacturing Process/Equipment Engineering,"Pay is good. They hired me out of college in 2018 for 75k in Dallas, TX.
+Depending on how the company does for a given year you are eligible for 0-20% of your salary as a bonus.
+Work culture is pretty nice","Depending on the factory you work in, and your role, it can be stressful at times and have long hours. TI makes most of their money on the enginuity of their manufacturing engineers. A vast majority of the tools are old. The engineers are taught to get every once of life from their machines. That isn't necessarily a con, but that is the mindset the company has."
+335,Texas Instruments,"Great company to work for, limited choices on career decisions though",2021-02-09,4.0,Access Rotation Program,"Great work/life balance, profit sharing is a great benefit. In my experiences, all of my managers/directors that I worked for have been fantastic.",My biggest issue with being a part of the ACCESS rotation program is the limited input you get into what your next rotations are. A common complaint I heard from other coworkers in the program was that they were getting places into rotations they did not want. Even top performers did not get very much say in what team/function they were placed into for their next rotation.
+336,Texas Instruments,"Great Place, great culture",2021-02-17,5.0,Technical Sales,"They hire very dedicated, hardworking people. They are lean, but profitable. TI expects everyone to do their part to contribute to the success of the company.",None I can think of.
+337,Texas Instruments,Love being here,2021-02-04,5.0,Human Resources,"Fair, equitable, inclusive, charitable, and consistent. After working for several different organizations I’ve finally found the company that I’d like to retire from.","Since I’m required to list something, I’d like to see more definitive career pathing."
+338,Texas Instruments,Good company but it is all about who at top likes you,2021-02-20,3.0,Finance Manager,"Pay is great
+Profit sharing
+Equity purchase plan","Always a headcount struggle
+If you are a minority other than black and Hispanics, you are in trouble as you can never reach top due to glass ceiling"
+339,Texas Instruments,TI Continues To Improve Its Mighty Legacy,2019-10-04,5.0,Software Engineer,"TI has a challenging but worthwhile environment. There are very smart people that work here but they don't show it. They're mostly native Texans. Humble and grateful people. There's a reason the average TIer lasts 15 years here - because they make it hard to leave. The company has great benefits that are competitive. It's a fortune 200 company and you get exactly what'd you expect and more. There are great leaders at TI, especially the ones at the very top. TI does diversity right, too. They don't just diversify on race like some of the other silicon valley type companies, but a many different attributes. Politics and bureaucratic incompetence just doesn't get in the way of your work or the companies mission, unlike some companies. With all of the extracurriculars that TI has, there is opportunity to make gen-u-ine friends here","If you don't like Texas you probably don't belong at TI. As a matter of fact you probably don't belong in Texas. Please, just stay in California. Depending on where you live, the commute can be pretty bad. The DFW area in particular is getting crowded so there's not much you can do about it. Again, stay in California. While there is a lot of mobility at TI, it doesn't always translate to a significant increase in salary. You have to understand that working in IT at TI means you are fundamentally supporting the business, so you won't be on the cutting edge of technology necessarily. Of course that does have its perks, but you'll have to decide for yourself if that's desirable. In my opinion it's hard to beat."
+340,Texas Instruments,Great Company,2021-03-22,5.0,Senior Manager,This is a good place to work,No cons to report really
+341,Texas Instruments,Great,2021-03-20,5.0,Self Employed,Great company to work for; great people,Not really any; great training great pay
+342,Texas Instruments,Good clean place to work,2021-06-07,3.0,Manufacturing Technician,"Clean , good pay, good employees there","Weak management, employees taking advantage and being allowed to do so"
+343,Texas Instruments,Great Company,2021-02-04,5.0,SMTS,Strong corporate focus on ethics and community involvement driven from CEO on down. Excellent handling of the COVID crisis and emphasis on employees health and safety.,"High stress, high demand work environment commensurate with the semiconductor industry competitive marketplace."
+344,Texas Instruments,Employment Experience,2021-06-22,2.0,Principal Product Engineer,Chance to learn new information,Not lot of growth opportunities
+345,Texas Instruments,Good pay & benefits,2021-05-25,4.0,Principal Software Architect,"Good pay & benefits
+Diversified businesses - leading to job stability
+Opportunities to learn","Conservative culture. Lack of innovation and risk taking.
+Little differentiation between low and high performers."
+346,Texas Instruments,Great Work/Life Balance,2021-03-08,5.0,Test Engineer,Good work life balance compared to other companies,Provide Less RSUs compared to other companies
+347,Texas Instruments,Engineer,2021-03-20,5.0,Senior Software Engineer,"Fun, great, nice, very cool","None, it is okay now"
+348,Texas Instruments,Stable company,2021-06-11,4.0,Business Analyst,Flexible work schedule and great coworkers,Rushing projects just to meet a deadline
+349,Texas Instruments,Highly advanced and focused semiconductor manufacturer,2021-02-26,5.0,Applications Engineer,Excellent company with lots of brilliant engineers,They reshuffle the organization too often
+350,Texas Instruments,Great,2021-03-18,5.0,Senior Accountant,"Benefits, Culture, Work life balance","Growth, Experience, Comp, Big Company"
+351,Texas Instruments,Good healthcare benefits.,2021-05-30,3.0,Engineering Program Manager,"Good healthcare benefits, company-wide profit sharing plan.","Headquarters in Texas, seems unwilling to pay bay area salaries to hire experience."
+352,Texas Instruments,"Reputable company, treats employees well, good environment, good pay, good benefits, good values",2021-01-28,5.0,Anonymous Employee,"Good pay & benefits
+Flexible
+Good side-to-side mobility within company","Moving up is a bit challenging, but career development is good in case you ever get to feeling stuck"
+353,Texas Instruments,"Good people, but not a great place if you have experience",2021-04-05,3.0,Director,"Met great people, global environment so lots of opportunity to learn and grow culturally","Very focused on new college hires and youth in general. Once you pass 45, all opportunities for advancement dry up"
+354,Texas Instruments,Great company,2021-02-15,5.0,Human Resources,Great company. Opportunity to move around within the company. Good benefits and profit-sharing program is awesome.,Can be hard to figure out as an experienced hire
+355,Texas Instruments,"So far, so good.",2021-04-20,4.0,Test Engineer,"Good pay compared to other companies in the area. 
+Good balance of work and life.
+Managers are generally easy to work with.
+Company seems to be willing to make moves if you are not happy with current role.",Lots of forms and 'bureaucratic' hoops involved.
+356,Texas Instruments,Great Place to work,2021-02-22,5.0,Supply Chain Rotational Program,"Friendly team mates, willing to help you succeed",You have to be driven and work your way up
+357,Texas Instruments,"Great working environment, skilled engineers, business-driven",2020-10-26,5.0,Product Marketing Engineer,"The people at TI are all very skilled and social engineers, making it easy to connect and learn new things from different groups. Sharing and team communication is encouraged, and each product line works hard to deliver strong quarterly results. 
+
+Visibility even at such a large company is completely possible with the right motivation and mindset for pursuing excellance.","Somewhat dated backend systems for managing HR data, business analytics etc. coupled with a restrictive web storefront make it frustrating to innovate with bleeding edge principles."
+358,Texas Instruments,Great company,2021-05-24,4.0,Chemical Operator,Very stable job environment and really food benifut,12hr Compressed shift might be difficult for some
+359,Texas Instruments,Great company to work for,2021-02-22,5.0,Product Marketing Engineer,Stock benefits are great after long time at the company.,Losing experienced employees to competition.
+360,Texas Instruments,Analog Circuit Design,2021-02-25,5.0,Analog Design Engineer,Very Conducive Work Environment and community based culture,"None, its a great place to work"
+361,Texas Instruments,Good but boring,2021-05-05,4.0,Applications Engineer,"Pay, people, experience, exposure, room for growth",Applications work is very support intensive. Too much time fixing other people's systems and very very little time developing/creating a system of your own.
+362,Texas Instruments,Great Company for New College Grads,2021-03-10,4.0,Field Applications Engineer,"- Great training through applications rotation programs out of undergrad
+- Large company with a wide variety of different roles and opportunities
+- Decent benefits, nice to have ESPP","- Compensation was very low after being transferred from rotation program to San Francisco Bay Area (this may not be as big of a deal for moving to other locations)
+- Lot of meetings reporting updates to management"
+363,Texas Instruments,Great company,2021-03-02,5.0,Facilities Engineer,Great company and great benefits,None that I can think of.
+364,Texas Instruments,Sales Dev,2021-02-26,5.0,Sales Associate,none its horrible to work here.,not the best workplace everyday
+365,Texas Instruments,Short on staff,2021-05-04,3.0,Manufacturing Maintenance Specialist,Pay and benefits are good. There is room for advancement.,Current employees must compensate for staff gaps while trying to train new hires. There is high turnover rate.
+366,Texas Instruments,where you want to work,2020-11-20,5.0,Facilities Manager,"This is a money machine. lot of work you get to wear many hats.
+culture is world wide mix of the best EE and chip makers on this planet.","65 to 80 hour work week never ending cycle of work.
+But were ever you work in USA. the base salary job will work you 65 ish hours a week."
+367,Texas Instruments,Great Company,2021-02-10,5.0,Operation Analyst,They have met their 20% profit sharing in back to back years,Transitioning to working from home was not organized
+368,Texas Instruments,Good Place to work,2021-05-19,4.0,Manufacturing Specialist,"Off days. Decent pay, relaxed environment",Some of the supervisors are a headache. Long hours.
+369,Texas Instruments,Equipment Engineering Technician,2021-04-18,3.0,Equipment Technician,"Benefits are OK, insurance is great.",No growth opportunity. New college grads hired for most management roles.
+370,Texas Instruments,Best,2021-02-24,5.0,Field Applications Engineer,"Work/life Balance, Competitive Pay, Good company culture",I honestly don’t have any
+371,Texas Instruments,A great place to work,2021-02-14,5.0,Project Manager,Great team and work environment,Unclear fluctuations or heave project work and very light
+372,Texas Instruments,Honest and fair employer,2021-05-19,4.0,Specialist,Work schedule 3 and a half days a week,You will work on holidays
+373,Texas Instruments,Great long term prospects for TI,2021-02-11,5.0,Senior IT Architect,Flexible work schedule. Travel opportunities.,"Evening meetings, high pressure projects, middle management bureaucracy."
+374,Texas Instruments,Product manager,2021-02-19,5.0,Product Manager,Great experience working here at TI,Steady growth in salary per year
+375,Texas Instruments,"Great Culture, But Overworked",2021-01-15,3.0,Strategic Business Planner,"Great culture, workload is manageable depending on which business/role you are in. Profit sharing is great, but largely replaces cash stock bonus except for management.","Some jobs, like business planning, are a beating. They refuse to have excess headcount during the lean times which means you are slammed during an increase in demand. Open positions take months to fill and everyone else has to pick up the slack."
+376,Texas Instruments,Great company to start a career at,2021-01-15,5.0,Anonymous Employee,"Great culture, compensation, and work environment. Plenty of room to move around and up in the company.",There seems to be a disconnect between supervisors and their employees.
+377,Texas Instruments,great company,2021-02-19,5.0,Seller Support Associate,good ppl and great friends,gours were very long and hard
+378,Texas Instruments,Still working,2021-02-10,5.0,Quality Engineer,World class ethics! Above reproach,No place is perfect.. biggest con is self induced stress.
+379,Texas Instruments,Salary,2021-05-08,4.0,Finance Manager,Great ethical company with high potential growth,Work Life balance sometimes off but company is working on it.
+380,Texas Instruments,Good salary for now,2021-05-08,2.0,Customer Service Agent,At least I have a job,It can pay more than 12 dollars an hour
+381,Texas Instruments,Great company,2021-01-26,5.0,Software Engineer,Great growth opportunities and many departments you can move between for all kinds of experience,Not many I can think of
+382,Texas Instruments,Good,2021-02-06,5.0,Electrical Engineer,"good learning experience, people are patient",not much cons I can think of now...
+383,Texas Instruments,TMG Rotational Engineer,2021-01-18,5.0,Manufacturing Engineer,Great company benefits and tuition reimbursement. Seems to be a company that really looks after employees.,None that I have seen so far
+384,Texas Instruments,"Good overall strategy, chaotic atmosphere",2021-04-18,3.0,Director Finance & Operations,"Great financial performance for investors, good foe employees exposed to equity.","Constant change and pressure, and questionable talent management."
+385,Texas Instruments,Well managed,2021-05-04,4.0,Real Estate Agent,"Good work hours/work life balance
+Opportunities for advancement
+Stable company","Work can be stressful at times
+Competitive work environment
+Some politics"
+386,Texas Instruments,"good people, good company",2021-01-30,5.0,Engineering Manager,"teams helping each other to succeed, diverse tech",lost some of the best people
+387,Texas Instruments,Solid Engineering Role,2021-05-06,4.0,Validation Engineer II,Work with competent people and on interesting technology,Lab equipment is a little outdated
+388,Texas Instruments,Decent place to launch career,2021-04-02,4.0,Systems Manager,"Some good, technically brilliant groups in Dallas.",Most of the deep technical work has moved overseas. Mainly Apps and marketing left in Dallas.
+389,Texas Instruments,Overall good place to start the career,2021-01-28,5.0,Analog Design Engineer,"Good people, good working enviroment.",Old-fashion ways of doing things.
+390,Texas Instruments,Great Company!!,2021-01-13,5.0,Facility Engineer,Very balanced and focused on employee benefit and improvement,Texas is main headquarters so biggest way to go up corporate is relocating there.
+391,Texas Instruments,Salary,2021-02-01,5.0,Product Engineer,"Great work culture, effective leadership",None that I can think of
+392,Texas Instruments,not bad,2021-05-08,3.0,Director IT,time off is rather good,bad upper management for sure
+393,Texas Instruments,Great place to work,2021-04-30,4.0,Demand Manager,Great team environment and open door policy,Headcount resources are usually thin
+394,Texas Instruments,Great job,2021-01-15,5.0,IT Consultant,Great experience with lot of knowledge and expertise,Team work is not organized and need to be fixed
+395,Texas Instruments,Great Place to Work,2021-01-13,5.0,Product Marketing Engineer,I interned for product marketing and loved the work and people,Hard to move up in the field
+396,Texas Instruments,Great company,2021-03-25,4.0,Design Verification Engineer,It is a solid company. They take care of people and have profit sharing,Like being treated like a resource?
+397,Texas Instruments,Good Place,2021-01-21,5.0,Applications Engineer,"Smart People, Interesting Projects, supportive teammates","Bureaucracy, Late Night calls with the field, otherwise great"
+398,Texas Instruments,Great Company To Work For,2021-01-20,5.0,Management,Has a very strong values and ethics,Nothing specific at this time
+399,Texas Instruments,Great company to work for. Great benefits package.,2020-12-01,5.0,Applications Developer,Great benefits. Lots of smart people that are willing to mentor junior employees.,I honestly cannot think of any cons. I had a great experience working here.
+400,Texas Instruments,Excellent company,2021-01-17,5.0,Product Engineer,"Amazing WLB, great mentorship, and interesting work","Larger company, can be hard to stand out"
+401,Texas Instruments,"Good place, can be some work at times",2021-04-05,4.0,Product Marketing Engineer,"Pay is competitive, profit sharing is good","Depending on your team, you may have last minute deadlines put on you."
+402,Texas Instruments,Ok company,2021-04-30,3.0,Senior FSE,Company car and tools provided,Management choices not the best
+403,Texas Instruments,Mostly good,2021-04-27,3.0,Business Analyst,"Good compensation
+Good new hire employee network",Work culture depends on your team
+404,Texas Instruments,Challenging work,2021-04-29,3.0,Global Rotational Development Program,Good exposure to various projects,Very political to move up
+405,Texas Instruments,Good Company - Marginal Advancement Opportunities,2020-11-25,4.0,Product Launch Manager,"- Benefits and salary
+- Work-life balance
+- Collaborative team environment","Employees working in remote locations outside of Dallas, TX have limited advancement opportunities. Also, for many jobs, if you don't have a EE degree, you won't be considered for advancement, even if you work in a non-technical field."
+406,Texas Instruments,good place to work,2021-04-09,4.0,Manager,"good pay, lots of opportunities to learn","large organization, and all the complexity and politics that go with that."
+407,Texas Instruments,Review,2021-01-07,5.0,Project Manager,good pay easy work great people,time goes slow and work can be tedious
+408,Texas Instruments,Good job if you love OT,2021-03-22,3.0,Manufacturing Maintenance Technician,"Health insurance
+ Profit sharing
+Pays overtime if you work more than 8 hours in a day","Long hours
+Hard on your health
+Communication from engineers need to be a lot better"
+409,Texas Instruments,Great Place to Work,2021-01-10,5.0,Software Engineer,"Benefits, Work-Life Balance, Quality of work","Older Technologies, Slow to change"
+410,Texas Instruments,Good company,2021-01-10,5.0,Administrative Assistant,*Lots of run for growth,*the office were I worked was very welcoming
+411,Texas Instruments,Job,2021-01-07,5.0,Manufacturing Specialist,"Good 401k,health Insurance and paid time off at Texas Instruments",Hours of working can be tough
+412,Texas Instruments,Fantastic to work,2021-01-02,5.0,Test Manager,Flexible work hours and friendly,Growth is really limited since no other semiconductor companies in Dallas
+413,Texas Instruments,WORK HERE,2021-04-15,4.0,Customer Service Manager,work enviornment and the atmosphere,young people and too loud
+414,Texas Instruments,Good Place to Work,2021-02-14,4.0,Equipment Engineering Technician,It was a great stepping stone for a 19 year old. TI is a great place to learn about Semiconductor Manufacturing.,Boss would meanly treat said 19 year old like their own kid. Very unprofessional.
+415,Texas Instruments,Great,2021-04-13,3.0,Scrum Master,Learn a lot from management,Mobility is tough but managers are fair
+416,Texas Instruments,Company Review,2021-04-04,3.0,Product Marketing Engineer,Good as a first job,Low salary and not as competitive with other Bay Area companies
+417,Texas Instruments,Remote internship,2021-04-09,4.0,Product Marketing Engineer Intern,Very flexible and understanding amidst pandemic,Didn’t get full experience expected
+418,Texas Instruments,I love TI,2020-12-29,5.0,Project Manager,"great place to work, great people",Its a big corporate monster
+419,Texas Instruments,Great place to work with Work-life balance,2021-01-19,4.0,Digital Engineer,"With long history of leading company in semiconductor industry, TI has technical strength in Analog circuits and one of the best world wide sale forces.","Just one big player in Dallas area so, there is not much attractive to young generation engineers. Company culture is respectful to individual but, could be boring to some people."
+420,Texas Instruments,TI TE/ PR rotational program,2021-03-28,3.0,Product Engineer,"flexible hours, nice work place, good 401K","not many benefits, no free food/ lunch/ coffee"
+421,Texas Instruments,Solid company,2020-12-11,5.0,Human Resources Business Partner,"Growth opportunities, challenging yet rewarding, real chance to make a difference.",Sometimes the politics of business got in the way.
+422,Texas Instruments,Excellent Entry Level Job for New Graduates,2021-03-01,4.0,Field Applications Engineer,"Wealth of information across several different fields of engineering, tons of resources to improve your engineering skills and business acumen",Experience can vary rotation program to rotation program
+423,Texas Instruments,Good experience,2021-04-04,3.0,Senior Scientist,The people are nice there.,Not clear career improvement for new graduates.
+424,Texas Instruments,Good Company,2021-04-02,3.0,Analog Design Engineer,Great company and good learning opportunity,Work- life balance could have been better
+425,Texas Instruments,Great company to work for,2020-12-07,5.0,Applications Engineer,Work life culture. Experience of employees. Broad range of roles to work.,Clarity of management and career path
+426,Texas Instruments,To many bosses,2021-04-04,3.0,EE Tech III,"Pay good, and good benefits",Very low to no raises
+427,Texas Instruments,Recent IT Employee,2021-03-17,3.0,IT Project Manager,Work-life balance is great and you'll get the opportunity to work on some really cool things.,Work enviroment is too political
+428,Texas Instruments,Positive,2020-12-20,5.0,Manager,Great work and rewarding experience,"None, challenging every day with new programs"
+429,Texas Instruments,Pretty great company to start at,2021-03-03,4.0,Design Verification Engineer,Great company to start at. Lots of other engineers to learn from. Committed to development/growth.,Work-life balance seems to be trending more towards work.
+430,Texas Instruments,Have fun while making an impact,2020-12-02,5.0,Business Manager,Strong values across the organization,Many re-orgs affecting processes and people
+431,Texas Instruments,IC development,2021-03-19,4.0,Senior Design Manager,"Good benefits, High tech, and Many opportunities",Very big company which can be ok for some
+432,Texas Instruments,Amazing Career!`,2020-12-14,5.0,Failure Analysis Engineer,"- Flexible schedule
+- Hands on
+- Technical","Nothing really, love the job"
+433,Texas Instruments,Great place,2020-12-06,5.0,Information Technology,Great pay and hours for all,None that I can think of
+434,Texas Instruments,Great company with solid benefits,2020-12-02,5.0,Financial Analyst,"Great benefits, interesting work, nice people","Pay is average, nothing really bad"
+435,Texas Instruments,"Great work life balance, resources needed to grow there.",2020-11-05,5.0,Verification and Validation Engineer,Great care given to family values and well balanced work load.,Internally all the teams work as separate business almost against each other
+436,Texas Instruments,Top Notch Operation and People,2021-02-13,4.0,Marketing Director,You won't find a better run company and this is a huge competitive advantage.,Highly fragmented organizational structure limits growth in areas like marketing and business development.
+437,Texas Instruments,Work Experience,2020-11-30,5.0,Test Engineer,Nice place to work. Very good work culture,None that I can think of
+438,Texas Instruments,Design engineer Intern at Ti Shanghai,2020-11-03,5.0,Analog Design Engineer Intern,Friendly and knowledgeable people. You also have some degree of flexibility in work.,The pay could be better. Location is ok but not very convenient.
+439,Texas Instruments,Great Company and Learning Environment,2020-11-02,5.0,Electrical Engineer,"Excellent learning while doing environment
+Very encouraging atmosphere
+Large company, can find your place",Limited advancement opportunities for longer careers
+440,Texas Instruments,Decent Training Grounds; Terrible Management and Compensation,2021-01-28,3.0,Senior Electrical Engineer II,Experience was great; peers are great to work with!,"Stressful, low pay, and management makes difficult/terrible decisions without consulting their teams."
+441,Texas Instruments,It's a wonderful work place.,2021-03-01,4.0,Engineer,it is a good work place for especially enthusiastic young engineers.,Good salary but no benefits.
+442,Texas Instruments,review,2021-04-16,1.0,Machine Operator,The employees are very nice and helpful,Not very patient when you are learning a new machine
+443,Texas Instruments,Nice place to work,2021-02-20,4.0,Operations Manager,Nice safe solid employment with lots going on,Difficult to rise to the top echelons of the company without insider connections
+444,Texas Instruments,Great place to work with top notch engineers,2020-11-12,5.0,Embedded Software Engineer,"Good working environment, top notch talent, good benefits.",None that I can think of
+445,Texas Instruments,Great company to work for,2020-10-08,5.0,Engineering,Very positive working environment. Most people I work with are smart and cooperative.,"Some positions require working with global teams, so you will need to handle different time zones. This may not be suitable for everyone."
+446,Texas Instruments,Great Company,2021-03-02,4.0,Event Planner,"Great benefits, flexible, family oriented company",Not a lot of room for growth within the department
+447,Texas Instruments,good company,2020-11-20,5.0,IT Specialist,higher than average pay. Its a good company.,I have nothing bad to say.
+448,Texas Instruments,Overall,2021-03-10,4.0,Design Engineer,Good work and life balance,Slow progress in product definition.
+449,Texas Instruments,Great pay,2021-02-24,4.0,Administrative Assistant,Pay -- It helps to cover my expenses.,Not enough hours -- I'd like to be hired full-time.
+450,Texas Instruments,"Good upper management and business direction, sub-par salary",2021-02-15,4.0,Field Applications Engineer,Culture of mentorship and learning,"Uncompetitive salary, middle management can change business direction on a whim"
+451,Texas Instruments,Good compensation bad work environment,2021-03-01,2.0,Equipment & Process Engineer,Good compensation and good benefits,Disrespectful work environment and bad work/life balance
+452,Texas Instruments,Great company to work for,2021-02-14,4.0,Global IT Manager,"Professional and respectful culture 
+Is a responsible corporate citizen
+Promotes diversity from the top",Work Life balance not that great
+453,Texas Instruments,Overall a good company to work for,2020-12-18,4.0,Applications Engineer,"Good high-level management, good strategy, good values, decent benefits, decent compensation",Too structured (too many prescribed meetings and reviews- everything follows a play book). Low-level management culture is not great (influenced by cultural background of these managers).
+454,Texas Instruments,great place to work,2020-10-26,5.0,IT Technician,"lots of challenging problems, very smart people",there is a lot of politics involved in the hiring process
+455,Texas Instruments,Great company with great people,2020-08-08,5.0,Finance Analyst,"-People are great, love what they do and always willing to help out
+-Challenging and fast paced environment makes every day different 
+-awesome culture that encourages work-life balance, community outreach, etc.","If you want to move up quick and have a fancy title, this isn't the place for you. Fairly flat organization with lots of horizontal movement and slower vertical movement"
+456,Texas Instruments,Great place to work!,2020-10-26,5.0,Equipment Engineering Technician,- Great working culture with supportive Management team,I have not seen anything that I can mention here
+457,Texas Instruments,Good Place to Work,2020-08-12,5.0,Anonymous Employee,"Good people, flexible work hours, casual atmosphere. No real complaints.",Work can be stressful. It's a competitive environment in the sense that everyone is very capable so it can be hard to stand out.
+458,Texas Instruments,Great Place to Work!,2020-10-16,5.0,Electrical Engineer,Management and compensation were great motivators to work here.,The location was not in the state I would have preferred to live.
+459,Texas Instruments,Highest profitability in analog semiconductor companies,2020-10-13,5.0,Product Line Manager,Flexible in transitioning in different roles as long as carrying out with solid performance,Highly experienced individually could be more valued
+460,Texas Instruments,Structured company with financial stability,2021-02-05,4.0,Product Engineering Manager,"Structured work process
+Financially stable
+Winning culture","Very tight with funds
+Lots of red tape"
+461,Texas Instruments,Overall good,2021-01-26,4.0,Human Resources Intern,Definitely a great place to get your feet wet in HR,"Don't provide the best training, but rely on experience based learning instead"
+462,Texas Instruments,good area and working staff behavior,2021-02-09,3.0,Researcher,good area and working staff behavior,i have nothing for cons
+463,Texas Instruments,Good people and pay but stressful environment,2021-01-29,4.0,Production Planning Analyst,"Patient, intelligent people and pay is above average",Fast paced environment that can be stressful
+464,Texas Instruments,easy but boring job,2021-02-10,4.0,Test Technician,easy easy easy easy easy,Boring boring boring boring boring
+465,Texas Instruments,Nearly zero growth after 4 yrs,2021-01-24,3.0,Smart Techie,Wide variety of things to learn,Does not allow to take risks - very monotonic
+466,Texas Instruments,Good Work/Life  Balance,2021-02-01,4.0,Accounting Assistant,Good work life balance; great employees/friends; profit sharing,"Pay, employee growth, not much left"
+467,Texas Instruments,FAE Review,2021-01-20,4.0,Field Applications Engineer,Huge diversity of work. Being able to solve customer problems,Too much of an emphasis on sales and not much emphasis on engineering.
+468,Texas Instruments,Decent Company,2021-01-25,3.0,Supply Chain,"Mostly a good group of people.
+Healthy company.
+Decent benefits.","Not always people oriented but this comes down to some individuals, not all."
+469,Texas Instruments,Good company,2021-02-05,4.0,Analog Design Engineer,"Profit sharing, great place to learn.","Big company, there is no stock grants"
+470,Texas Instruments,fast paced company,2021-01-19,4.0,Systems Engineer Manager,"very driven company, move fast. good results",a lot of metrics and scorecard. Some managers don't care about people as much
+471,Texas Instruments,Product Marketing for business unit,2021-01-28,3.0,Product Marketing,"Great stocks, great training, decent pay",only specific types of people succeed at TI
+472,Texas Instruments,They'll chew you up and spit you out,2020-12-31,1.0,Analog Design Engineer,"Learning opportunities
+Good people in the rank and file","Work/life balance
+Zero loyalty to hard working, talented engineers
+Constant reorgs and turnover
+Spends countless engineering hours saving a few one time costs
+Extreme focus on cost control"
+473,Texas Instruments,Ti,2020-10-23,5.0,Desktop Support Technician,Great company to work for,I have Nothing bad to say.
+474,Texas Instruments,Great company,2020-09-29,5.0,Product Engineer,Profit sharing has been maxed out since I joined in 2016,Big company so hard to keep up if you are new
+475,Texas Instruments,Good place to start,2019-10-30,2.0,Equipment Technician,"Medical, Dental, Time off, Educational Benefits, Profit Sharing, ESPP, HSA, FSA, 401(k), Roth, pay raises tend to keep up with inflation (but not exceed it).","Toxic workplace culture (if I can't look better by doing a better job then I'll make you look worse), technicians are treated like second class citizens, attrition is high, TI outsources it's operator jobs out to a company called Volt who then hire extremely sketchy people who usually only last for a few months before quitting or getting fired because they are treated lower than dirt, the 12 hour shifts are a horror to your body/feet/back (they claim you're getting overtime every day, but they're just averaging your time to pay you less when you decide to take any PTO and when they give you profit sharing), if you don't brown nose then you're not going to be promoted, and if you are promoted the process is extremely slow, middle management gets cycled out regularly and it creates an environment conducive to ignoring the management all together because they'll be gone soon enough anyway, the engineers and technicians rarely see eye-to-eye as each has their own agenda even though they are supposed to work as a team, and most importantly: Don't ever go to HR for any reason whatsoever.  You've been warned."
+476,Texas Instruments,Solid Company,2021-02-04,3.0,Technical Sales Engineer,Such great pay and benefits,Just the typical bureaucratic stuff
+477,Texas Instruments,salary,2021-01-30,3.0,Software Engineer,good salary for the job i am doing,"hard working, long hours and presure"
+478,Texas Instruments,"Ethical, innovative company",2020-10-08,5.0,Finance Analyst,"Trust, development, innovative, opportunity to try different functions",Typical large company slow processes
+479,Texas Instruments,.,2021-01-27,4.0,Technical Program Manager,Work life balance. Good people,Low compensation. Lay offs. Only choice in Dallas
+480,Texas Instruments,Review,2021-01-28,3.0,Pricing Analyst,Decent job. Good hour. Easy work.,Work is boring for the most part
+481,Texas Instruments,Overall good company,2020-12-11,4.0,Field Applications Engineer,"Challenging and fast paced work, prevents you from getting bored. Handled COVID very well",A little too much politics. Metrics are always changing and too dynamic to catch up to.
+482,Texas Instruments,Embedded Software Engineer,2021-01-24,4.0,Embedded Software Engineer,"good place to work, atmosphere",to much politics within the company
+483,Texas Instruments,"Heavy politics, poor management and engineers",2020-12-16,1.0,Senior Process Engineer,pay above the average considering the workload,"heavy politics at all levels, no way to stay away from it, people do bad things to get benefits for themselves
+poor management with little technical knowledge
+incapable engineers(good engineers left, only poor ones stay because they can't find a job at somewhere else)
+some race bias are around"
+484,Texas Instruments,Great Place to Work if You Have a Good Boss,2020-06-04,3.0,Equipment Engineer,"Lots of flexibility to choose projects and propose improvements. Fast paced, challenging environment. Progressive company that values it's employees. Company has driven improvements in managerial training and personal development. They provide great profit sharing (usually 20% of your base pay depending on the year) and bonuses.","HR is under supported and doesn't seem to truly care about the employees. In my latest role, I didn't meet my HR rep for over a year-and-a-half. Because of this, a bad boss or co-worker could ruin your experience here. The building you work in will also have a huge determination in the quality of your experience. Many office spaces are severely outdated and truly depressing to work in and the managerial culture is very different from building to building."
+485,Texas Instruments,Manufacturer,2021-01-22,4.0,Manufacturing Specialist,short work weeks & better working conditions.,"constant work, never any downtime."
+486,Texas Instruments,Eng review,2021-01-22,4.0,Software Engineer,Excellent workplace to grow in career.,"Long hours of work, micromanagement"
+487,Texas Instruments,Excellent work environment,2020-10-02,5.0,Business Development Executive,Challenging work and excellent work environment,no cons no cons no cons
+488,Texas Instruments,Great overall place to work,2020-09-13,5.0,Applications Engineer,"Great work environment, management wants to see you succeed",Experience working here depends heavily on the team you are in
+489,Texas Instruments,Good,2021-01-27,2.0,Assistant Manager,Good location easy way out,Bad food office is good
+490,Texas Instruments,Great company and culture.,2020-09-30,5.0,Product Marketing Engineer,"Good 401k
+Great Healthcare 
+Great Vacation",Not too much to say here.
+491,Texas Instruments,TI Summer Internship,2020-09-30,5.0,Product Engineer,They are really nice to their interns.,The work was occasionally tedious.
+492,Texas Instruments,Poor Work/Life Balance,2021-01-15,2.0,Manufacturing Engineer,profit sharing and okay health insurance,pay is not commensurate with the level of work
+493,Texas Instruments,Good company to work,2020-09-28,5.0,Software Engineer,"Good management, high pay and good benefit",not easy to work remotely
+494,Texas Instruments,New hire review,2021-01-09,4.0,Product Development Engineer,Great benefits package for full time employees.,Care about the company comes first over the employee.
+495,Texas Instruments,Good place,2021-01-19,4.0,Financial Analyst,"Fair compensation
+Fair Opportunities
+Decent Work Life Balance","Can get repetitive
+Questionable Manager Behaviors"
+496,Texas Instruments,"Ethically Sound, Good people,  Result driven, Process oriented",2020-09-23,4.0,Field Applications Engineer,"The quality of people at TI is one of the most positive reasons to work for this company. Everyone wants you to succeed and learn, and is willing to assist in that endeavor.","Very process oriented and with regards to technology development they would definitely be classified as a follower. This level of risk aversion keeps PFO high, but ultimately can feel like it causes stagnation."
+497,Texas Instruments,Good work life balance,2021-01-15,4.0,Software Engineer,Good work life balance overall,Not much room for advancement
+498,Texas Instruments,Great Company,2020-09-30,5.0,Information Technology Rotation Program,They're culture is very great!,I don't see any downsides.
+499,Texas Instruments,TI Management is very un professional,2021-02-28,1.0,Facilities Operator,They had a nice parking lot,there are too many to list
+500,Texas Instruments,Love it at TI,2020-09-23,5.0,Sales,Ability to move up in company,Do not have any cons
+501,Texas Instruments,Great company,2020-09-11,5.0,Hardware Design Engineer,Welcomes diversity and has open dialogues,Too traditional and most times doesn’t offer a challenging work environment.
+502,Texas Instruments,"Really great work life balance, very nice people and very positive and encouraging environment",2020-08-11,5.0,Design Engineer,"Really good pay, lot of opportunities for growth, overall very satisfactory.",There is no downside of working at TI.
+503,Texas Instruments,Bankrupt,2021-01-12,2.0,President,"Close to home, easy drive","Greedy upper management, poor values"
+504,Texas Instruments,Great Company,2020-09-03,5.0,Equipment Engineer,"Great Culture, Pay, Benefits, opportunities for advancement","Closed Minded Management, very conservative"
+505,Texas Instruments,Test Manager,2020-09-13,5.0,Test Manager,Good company to work for.,No cons for TI as such
+506,Texas Instruments,Good growth,2020-12-10,4.0,Engineer,"1. good training program
+2. good pay
+3. good working environment, coworkers are friendly
+4. good technology driven company",1. elder people may not be preferred.
+507,Texas Instruments,Great place to work,2020-08-19,5.0,Product Marketing Engineer,The atmosphere and people are the best part of TI. Everyone is so welcoming and hardworking.,Not the most interesting products
+508,Texas Instruments,Good job,2020-09-09,5.0,Access Rotation Program,"Great, stable company to work for",Hard to move up in F&o
+509,Texas Instruments,TI Germantown MD,2020-12-08,4.0,Software Test Automation Engineer,"Good pay and benefits.
+Various development opportunities in a big company.","TI is a hardware/Si company, not a place for software development."
+510,Texas Instruments,No career ownership and pay suppression in IT rotation program,2020-08-02,2.0,Applications Developer,Relaxed environment and work life balance,No career growth. Continuously get pay suppression and you absolutely have no choice in what you career will be. You are at the mercy of management of what position they place you in and have no control or input as to positions you will be placed in
+511,Texas Instruments,Great benefits,2020-12-25,4.0,Project Manager,"Benefits, flexibility and compensation model",Management is not consistent enough
+512,Texas Instruments,"Stable business, good time off but poor work life balance",2020-11-04,3.0,Product Engineer,"Stable business, good time off policy, profit sharing up to 20%, good benefits","Poor work life balance, does not hire before need arises, training could be more effective"
+513,Texas Instruments,Nice place to work,2020-08-17,5.0,Manager,"Great teammates, good benefits, great culture",None to think of really
+514,Texas Instruments,Good company but difficult to move up,2020-11-04,4.0,Manufacturing Specialist,Great benefits and pay rate (overtime/holiday pay),"Difficult to move up, management is NOT interested in grooming you for a promotion"
+515,Texas Instruments,TI is a great company for young engineers & recent college graduates,2020-11-10,3.0,Senior Program Manager,"Good working environment, and long term technical track",Large chunks of the company are not growing which tends to limit growth opportunities over time.
+516,Texas Instruments,Great experience for new graduates,2020-08-20,5.0,Systems Engineer,Great company great culture great learning experience,I didn’t find any cons
+517,Texas Instruments,Good Place to work,2020-12-09,4.0,Product Engineer,Good work like balance and culture,Can get lost in the large company environment
+518,Texas Instruments,Good company,2020-07-24,5.0,Software Design Engineer,Great place to work. Lots of smart people to work with and they can help you when you need,The personal development goal planning each year can be daunting
+519,Texas Instruments,Stable Engineering Company,2020-11-14,4.0,Engineering Director,Been around forever turns in max profit sharing year after year. Not going away,Not quite up to modern employment standards but still a great place to work
+520,Texas Instruments,Challenging but rewarding,2020-05-06,5.0,Quality Assurance Engineer,"Great compensation and benefits. Collaborative teams, the help is there if you need it and you’ll probably need it.","Quite challenging at times, really pushes you to learn and adapt. You may get thrown in over your head but there are people who back you and are willing to help you learn and grow."
+521,Texas Instruments,Great place to work,2020-08-17,5.0,Anonymous Employee,Greate place to work here,I have no concerns here
+522,Texas Instruments,"Stability and good benefits, average culture",2020-09-03,3.0,Senior Validation Engineer,"Stability and long life employer that can stomach bad times. Benefits are great. Depending on the team you have, achievements take you a long way.",Depends on the supervisor you get. There are good ones and terrible ones. I got lucky and found a good one.
+523,Texas Instruments,Noooo,2021-02-05,1.0,Sales Associate/Cashier,Money money money money money,Time time time time time
+524,Texas Instruments,"Not bad if ""just a job.""",2020-09-01,3.0,Engineer,"Reasonable pay, reasonably steady work. Not bad if you treat it as ""just a job.""","Focus on ""shareholder value"" and aggressively exiting markets that aren't profitable enough can leave you wondering if your product's next. It drives the passionate away. It's hard to keep up with analog's PFO on the processor side of the biz."
+525,Texas Instruments,good company,2020-11-25,4.0,FAE ENGINEER,many resources support you learning if you want,huge organization. You’re Just a Number
+526,Texas Instruments,company review,2020-11-07,4.0,Systems Engineer,"organized, clear goal, good execution, good platform to learn and grow. The management team is very supportive as well.",work load is very high
+527,Texas Instruments,Texas instruments good and bad,2020-11-10,3.0,Technician,"Good money, good insurance, compressed work schedule","Compressed schedule, Dumb bosses, work is not rewording, awarding for sleeping on job"
+528,Texas Instruments,Solid Company,2020-11-17,4.0,Business Analyst,"Great benefits, smart, experienced coworkers. Great work life balance",Some coworkers were complacent. Slow-paced due to red tape
+529,Texas Instruments,good,2020-08-06,5.0,Test Engineer,relaxed nice comfortable laid back fun,Nothing is really bad about it
+530,Texas Instruments,Stable company,2020-07-20,5.0,Mechanical Designer Engineer,"Stable company, great benefits and work life balance","No growth, they don’t value employees that much"
+531,Texas Instruments,Good,2020-11-23,4.0,Process Integration Engineer,"Good culture, value , work/life balance",Limited Investment on new technology
+532,Texas Instruments,rating,2020-11-16,2.0,Project Manager,none to enter at this time,"esp, rsu, rewards, work life"
+533,Texas Instruments,TI,2020-11-01,4.0,Senior Account Manager,"Wide product range, well respected in the industry",Mgmt will drive you nuts
+534,Texas Instruments,TI,2020-11-10,4.0,Sales Engineer,Great training and employee benefits,Limited upside mobility for young ambitious professionals
+535,Texas Instruments,great company,2020-11-11,4.0,Process Engineer,"great company, diversity and inclusion",career opportunity could be better
+536,Texas Instruments,Great culture and benefits,2020-07-03,5.0,Anonymous Employee,CEO is one of the best,Heavy process/Little flexibility in how to do your job
+537,Texas Instruments,SBE Accountant,2020-10-27,4.0,Accountant,Learn a lot about the business,Career mobility can be challenging if you dont have manager support
+538,Texas Instruments,Great Benefits,2020-10-14,4.0,Business Planner,Great benefits and team culture,"long hours and many night calls in operations
+very flat organization so not easy to move up (F&O)"
+539,Texas Instruments,Great Company to Work for,2020-04-06,5.0,Product Design Manager,Great benefits and salary.  Great place to learn engineering.  Never a dull moment.  Always challenging.,"Large corporation with lots of re-orgs.  Seems that mgmt is more focussed on downsizing employees, and political positioning, versus attacking competition and creating great products."
+540,Texas Instruments,Good culture and learning atmosphere,2020-06-23,5.0,Engineer,Good work life balance dynamics,pay increment is too slow
+541,Texas Instruments,TI,2020-10-18,3.0,Customer Operations Representative,"Good company for job stability, nice people",Comp is not good compared to other companies
+542,Texas Instruments,Good Company,2020-06-16,5.0,Maintenance Specialist,You get good pay and good benefits.,You have to work long hours.
+543,Texas Instruments,"Great job, pretty good company",2020-05-22,5.0,Equipment Technician,"Pay, interesting work, good people.","Top heavy management structure, schedule, night work."
+544,Texas Instruments,Thanks Ti,2020-10-06,4.0,Analog Design Engineer,"Stable place to work, near DART.","Office is not great, and no downtown option in Dallas."
+545,Texas Instruments,Enjoyed Working Here,2020-06-09,5.0,Administrative Coordinator,Great people and lots of training.,None really. This is a great company.
+546,Texas Instruments,Nice place to work,2020-10-04,4.0,Account Manager,Benefits are good enough for living,None cant think of any right now
+547,Texas Instruments,good,2020-10-09,4.0,Systems Engineer,They know what they are doing,they can be harsh with internship interviews
+548,Texas Instruments,Do not work for this company,2020-09-26,3.0,Sales Representative,The benefits and the bonus money,Don’t care about there employees
+549,Texas Instruments,good,2020-10-03,3.0,Software Engineer,good company to work for. nice environment.,not high comp for entry level engineers
+550,Texas Instruments,"Well paid, lots of change",2020-08-07,4.0,Sales,"Pay is good, can get paid a lot of bonus for small revenue 
+Benefits, including profit sharing 
+Management try very hard to help","Flat structure means not much opportunity for next level
+Job titles are low for the responsibility"
+551,Texas Instruments,Good Company,2020-09-26,4.0,Senior Software Engineer,"Good pay and benefits
+flexible work schedule",Doesn't value software as highly as other companies
+552,Texas Instruments,"Dynamic, challenging, and fast paced work environment",2020-02-13,5.0,Anonymous Employee,"Well run and very ethical company.  Dynamic, fast paced work environment with endless challenges to overcome and great opportunities for development and growth.  Company is fast to make changes to continuously improve.",This is a metrics based company so need to get used to driving metrics and comprehending how these behaviors will lead to results.
+553,Texas Instruments,TI,2020-11-09,1.0,Software Engineer,"Great benefits
+Great location in Texas",Poor Leadership and finally left since my direct manager was not making the work enjoyable anymore
+554,Texas Instruments,Equipment Engineer,2020-09-23,4.0,Equipment Engineer,Pay is good. Management is good.,Business outlook is good. No real complaints.
+555,Texas Instruments,Great Place to work,2020-05-16,5.0,Product Marketing Engineer,"Good pay, flexible work schedules, self-directed work",Promotions are difficult to come by
+556,Texas Instruments,Good work life balance,2020-09-16,4.0,Electronic Engineer,Good benefit and well established company,Not much on job training
+557,Texas Instruments,Great while it lasted,2020-08-06,4.0,Software Engineer,"Great people, great work-life balance, the work is exactly what my Computer Engineering degree prepared me for.",Laid off satellite sites totaling 200 employees during COVID-19.
+558,Texas Instruments,Great Experience,2020-06-10,4.0,Sales & Operations Planning Manager,"Spent 32 years at TI, with mostly great experiences. Was able to work on lots of amazing programs and initiatives.","Lots of work, but to advance up the ladder you really need to find great mentors who are vested in your success."
+559,Texas Instruments,"Solid, Conservative Company",2019-10-08,5.0,Facilities Engineer,"Strong corporate leadership, business model, and ethics culture in the teams I interacted with. Competitive benefits for salaried employees, profit sharing up to 20%.",Some WWF engineering teams are lean to the point of individual burnout. Few opportunities for meaningful promotion within WWF. Facilities and Manufacturing Engineers are on call and will frequently be asked to work outside of normal hours.
+560,Texas Instruments,"Easy work, redundant",2020-08-05,3.0,Manufacturing Associate,Overtime availability and benefits profit sharing,No incentive to learn or produce better output
+561,Texas Instruments,Very nice company to work for,2020-09-03,4.0,Anonymous Employee,"Good benefits, helpful people, learning",I can’t think of any
+562,Texas Instruments,There is a process for everything,2020-09-02,3.0,Field Applications Engineer,Great technology and broad product portfolio,Internal processes can be overbearing
+563,Texas Instruments,Pays well but very bureaucratic and corporate,2020-07-11,3.0,Marketing Manager,"Great coworkers, good pay, well developed product portfolio","Draconian emphasis on burdensome processes, upper management abstraction from what’s really going on, promotion of folks who toe the line rather than think independently"
+564,Texas Instruments,Not for go getters,2020-08-07,3.0,Packaging Engineer,- Steady paycheck in a stable company,"- Lack of vertical growth opportunities
+- Coworkers hoard information and care too much about who gets credit"
+565,Texas Instruments,Texas Instruments Review,2020-08-27,4.0,Software Engineer,"Great work environment , good salary compensation","Type of work, projects duration"
+566,Texas Instruments,Interesting experience,2020-05-26,1.0,Semiconductor Device Engineer,"Open door policy, challenging work, work-life balance, meeting people from all over the world, fair salary","Ethics and values are largely ignored. Majorities are always right, while minorities are always wrong. Personal advantage is more important than the benefit for the company. Little management support. The benefits of diversity are largely ignored due to ignorance, intolerance and arrogance. Too many incompetent supervisors and Tech Ladder title holders on all levels. Growing micromanagement and increasing bureaucracy. Performance does not matter."
+567,Texas Instruments,Great Company,2020-08-20,4.0,Manager,Love working here - lots of great people,Wish I had more geographic options
+568,Texas Instruments,Good company for new grads.,2020-08-20,3.0,Analog Design Engineer,"Profit Sharing, CEO, Good Technical Exposure","Huge Organization, Salary, Less hikes."
+569,Texas Instruments,"Lots of opportunity, high ethical standards",2019-07-31,5.0,Quality Manager,I have worked in a number of roles at TI over more than 20 years.  I like that TI encourages employees to move around and do different jobs.  You get the benefit if of changing jobs while not losing seniority.  I also appreciate that our current CEO has very high ethical standards and expects this behaviour throughout the organization.,"This is not peculiar to TI but lots of companies - long tenured employees can find it difficult to change jobs are try new things.  It would be nice to try one more job before I retire but few groups are willing to take an older employee.  But, like I said, this is not peculiar to TI."
+570,Texas Instruments,..,2020-08-21,2.0,Anonymous Employee,a huge amount of job stability,long hours and a ton of micromanagement
+571,Texas Instruments,Good company to work for,2020-02-07,4.0,Finance Manager,"Great environment
+Smart colleagues
+Encourages to try new roles","Need to constantly move around in different roles
+Sometimes you end up in situation where your managers are not very finance savvy due to movement
+Not very flexible work environment - very old school as to have people always be at their desk. They are trying to work on it but progress very slow. Working parents who like to be involved with their kids are struggling."
+572,Texas Instruments,Applications Engineer review,2020-08-15,4.0,Applications Engineer,Get to work on challenging projects,Increasing amount of metrics tracking
+573,Texas Instruments,Innovation at its best,2020-04-01,5.0,Analog Design Engineer,"Work culture, Innovation, Work-life balance, Opportunities",Not paying attention to Artificial Intelligence
+574,Texas Instruments,Best for Starting Career,2020-08-05,3.0,Applications Engineer,"profit share, work/life balance, stock purchase plan","old school culture, dated benefits, low pay"
+575,Texas Instruments,Worst experience ever had,2020-10-07,1.0,Software Engineer,"Fair benefits, can not find more",Lots of politics and discrimination
+576,Texas Instruments,Good place to work,2020-07-12,4.0,Senior Software Applications Engineer,"A lots of talented people to work with, industry leading products, well work and life balance","Attrition, bureaucracy and little room for promotion"
+577,Texas Instruments,Great Job,2020-04-07,5.0,Maintenance Technician,Good Pay and Benefits,Long shifts and overtime at times
+578,Texas Instruments,Frustratingly lower employee compensation,2020-08-31,1.0,Engineer,Start up culture so plenty of opportunity to learn,"Low salary, lowest compensation ,talented engineers keep leaving the company ... that sums up Bay Area TI"
+579,Texas Instruments,TI is an excellent company to work for.,2020-07-16,4.0,Senior Digital Design Engineer,"Excellent in benefits, equal opportunity, diversity, ethics.",Work/life balance is dependent on department/manager.
+580,Texas Instruments,New College Grads May Need to Reconsider..,2019-10-23,2.0,Engineer,"Great benefits, 401k, stock. Profit share & good Relo/Sign-on bonus. Great rotational programs.","Lifers can be toxic. They expect you to be experts in the field 3 months in. Communication can be poor and deadlines may not be communicated to you properly. A lot of engineers seem to come in at 6am and leave at 7pm. It is frowned upon if you leave at the ""normal"" 8 hours. Rumors of <20% retention rate of new hires."
+581,Texas Instruments,Great place to work,2020-01-22,5.0,Manufacturing Technician,Excellent benefits.  Great pay. Shift bonuses. Lots of time off.  Loved the time bank system.,They stopped the payroll deduct store for tickets and gifts.
+582,Texas Instruments,Good company,2020-07-23,4.0,Engineer,"Friendly people, love the office",Work life balance is not great
+583,Texas Instruments,Good culture,2020-01-06,5.0,Systems Engineer,"I like the company culture. We're easy going and fun to work at. Generally speaking, you can achieve a good work life balance, but in understaffed groups you will work more than average.","Big company bureaucracy, there is an inside politic system."
+584,Texas Instruments,Great Company,2020-03-04,5.0,Digital Design Engineer,"Great people, great environment and work culture",Cant think of any
+585,Texas Instruments,Good Company to Work for,2020-07-08,4.0,Accounting Assistant,"Profit Sharing, Time Bank, Great People","There are none, that come to mind."
+586,Texas Instruments,Excellent place to work,2020-07-16,4.0,Software Engineer,"Good work environment, friendly people",Remote sites are being eliminated
+587,Texas Instruments,good,2020-07-10,4.0,Anonymous Employee,good portfolio of technologies and a lot of learning,not really a market leader
+588,Texas Instruments,My experience,2020-07-06,4.0,Marketing,Great execution. Well-managed company. Decent pay.,Little autonomy. Boring industry. Old-school culture.
+589,Texas Instruments,N/A,2020-06-15,4.0,Senior Analog Mixed Signal Design Engineer,Plenty of opportunities and challenges. Never gets bored,Runs very thin on headcount. Be prepared to be always working
+590,Texas Instruments,Great people,2020-01-17,5.0,Human Resources,Challenging work and they are not afraid to take risks on people and give upward opportunities,Will take as much as you will give. Short on resources
+591,Texas Instruments,Woderful environment,2020-02-19,5.0,Human Resources Assistant,"Great benefits, flexbility, profit share",None that I can think of
+592,Texas Instruments,Great place to work,2020-05-07,4.0,Senior Test Engineer,"- Good work life balance, one of the better employers in DFW area.",- Career advancement not very starightforward. You need to understand the system & start playing the game early on.
+593,Texas Instruments,Good place to work,2020-06-09,4.0,Product Marketing Engineer,So many great resources for support,Large corporation with some hurdles to overcome for simple tasks
+594,Texas Instruments,Great,2020-06-15,4.0,Validation Engineer,"Friendly, bright people, professional. satisfying, established company","Stiff management, tedious work, lots of workplace politics"
+595,Texas Instruments,Great Schedule,2020-05-23,4.0,Production Specialist,"Good benefits, pay is decent",Long work hours can get tiresome at times
+596,Texas Instruments,pretty good,2020-06-05,4.0,Applications Engineering Intern,"good pay
+smart people that want you to succeed",sometimes the work can get repetitive after a few
+597,Texas Instruments,Good Place to Start,2020-06-09,4.0,Process Engineer,"Competitive Pay, great opportunities, and good career flexibility","High Speed, bad work/life balance"
+598,Texas Instruments,Furnace operator,2019-10-26,5.0,Anonymous Employee,Day shift schedule was nice 7-7 with 3 on 4 off rotating schedule. High morale in small work groups. Loved my job there. Benefits and pay are pretty good and 401k.,"Hard to get on straight into TI, had to go through a different agency and takes years to get on full time."
+599,Texas Instruments,good company,2020-06-02,4.0,Manufacturing Specialist,"work / life balance
+Pay is good",Theres Not really any cons
+600,Texas Instruments,Company Review,2020-05-22,4.0,Test Engineering Manager,"Very open company, you can talk to anybody","Too big for a company, competition is hard"
+601,Texas Instruments,good company,2020-05-12,4.0,Verification Design Engineer,"great benefits, profit sharing, decently exciting projects",some manager can mask their lack of skills and get away with it
+602,Texas Instruments,Good Pay,2020-05-28,4.0,Accounting Co-op,Good pay for an intern,poor management for internship program
+603,Texas Instruments,"Only intern here. Gaslighting, breadcrumb culture.",2019-09-04,3.0,Product Marketing Engineer,"You will have a great experience as an intern and rotator and possibly for the first year or so after your deploy to your full-time role. When I started, we had a 2-week orientation and really got to bond with both PME and Sales rotators. That bond is something that made TI feel like a family to me and not just a place to work. (They've since gotten rid of that culture) My peers were and still are some of my best friends. 
+
+There's lots of growth in  corporate behavior, work ethic, communication skills, and presentation skills that can transfer well to other companies.  
+
+The PME role allows for domestic and international travel (unless they cut that out too now), which is fun but a lot of work. 
+
+They have a lot of training opportunities that are of no cost to the employee that many employees do not take advantage of.  I highly recommend taking these courses, even if that means taking a day from work to do so. 
+
+The only jobs I recommend at TI are HR and Digital Marketing.","PAY / PROMOTIONS  / WORK-LIFE BALANCE
+Starting pay is great but over the years, the raises are not competitive. They pay you less and work you more than other companies. I have not heard of a single person unhappy with their decision to leave TI. 
+
+The culture of the managers is to make you feel like you should be GRATEFUL for the breadcrumb raises and to not even ask for more. They make you believe that the typical annual inflation raise (that every other company offers) is a merit-based raise. It's actually very, very difficult to get a true raise, bonus, or RSU. They don't openly talk about the fact that there even is such a thing as a mid-year raise to be considered for. Other companies give you shares when you start, an annual inflation raise, AND a true merit-based raise. And other companies have a better work-life balance. TI will say they do, but when you start working 10-14 hour days, you'll understand it's just words.  This gaslighting behavior is one of the biggest reasons I left and never want to go back. It's a toxic culture. 
+
+Managers across the board have fallen short on promises made to employees whether they're raises, bonuses, RSUs, or promotions. Promotion methods are very unclear. While there are some great managers, there are a good number of bad managers that seem to be in that position because they're pals with upper management. Even when many, many people leave TI or leave the group to escape that manager, that doesn't register with HR or they don't care.  This is not a good place for upward mobility. 
+
+TECHNOLOGY
+TI is not longer an innovative company. They're never going to be at the forefront of technology. They're followers and it's not that exciting. 
+
+ROTATION PROGRAMS
+The rotation programs were one of the biggest reasons I recommended joining TI but now they've cut so much from the programs that you don't get the benefits from them. They seem to play the role of temps during their rotation: cheap labor to do menial tasks that product lines don't have the time to do. If you get a good manager, you'll learn and grow a lot. But most of the time, rotators are treated this way.  Also they got rid of the pay bump you get when you deploy to your full-time role. 
+
+SALES / FIELD ROLES
+They're turning the TSR role more into a data-entry role and the FAE is taking on both responsibilities. I do not recommend joining TI if you want to go into a TSR or FAE role. 
+
+PRODUCT MARKETING ENGINEER
+This is a made-up role by TI (or maybe ADI, who pays more) that combines the responsibilities of a Business Development Manager and a Product Marketing Manager while paying you one salary for 2 roles. It's also difficult to translate this role to other companies. Most other companies have never heard of a ""Product Marketing Engineer"".  While this role is fun with strategy and all the travel, it doesn't help a lot with becoming an expect as a BDM or as a PMM. It may not be a great move for your career unless you want to stay with TI. 
+
+TI knows they're the main company to be at in Dallas as a EE and they treat their employees accordingly."
+604,Texas Instruments,There are no actual engineers or leadership here,2020-03-11,2.0,Manufacturing Process Engineer,"Flexible work hours
+Relatively good PTO","Poor management with multiple conflicting priorities, lacks vision. 
+Positions assigned without regards to experiance or technical/social aptitude.
+Non quantitative measures of employee performance.
+Preaches innovation, but only accepts the most derivative solutions to problems."
+605,Texas Instruments,Stable company,2020-05-22,4.0,Analog Design Engineer,Leader in analog with fabs,Doesn't have much growth potential
+606,Texas Instruments,Okay,2020-05-22,3.0,Counselor,Good PAid Time Off. Good opportunities,Bad management. Management silos. No overtime
+607,Texas Instruments,Amazing culture,2019-12-14,5.0,Technical Sales Representative,Consistent company culture and values across the globe,Not enough recognition outside of the industry
+608,Texas Instruments,"Unique work experience, long hours, low wages",2019-08-08,3.0,Production Specialist,"Profit sharing, 3 on 3 off-4 on 4 off, overtime every shift, night differential, fascinating work environment unlike any other you will work in, unique personalities, VERY safety orientated.","Low wages, no real upward mobility, under-staffed & low quality employees due to low wages and low unemployment rate, long 12 hour shifts (I feel bad for the night-shift folks), have to start for a useless contract company (Volt) for sometime before becoming a full TI employee."
+609,Texas Instruments,My perspective,2020-04-09,4.0,Analog Design Engineer,Work-life balance is respected.,Could be collaborating with someone who know nothing about what you do.
+610,Texas Instruments,Fab Engineering,2020-03-02,3.0,Process Engineer,"Always difficult problems to solve, fast-paced environment working within a state of the art fab.",constant weekend and evening work due to 24/7 manufacturing operations.
+611,Texas Instruments,Good company to work for right out of college,2020-03-15,3.0,Field Applications Engineer,New hires are pushed with challenging assignments,Disorganization can lead to much unnecessary stress on NCGs
+612,Texas Instruments,Lots of opportunity and variety in products,2020-03-09,4.0,Systems Manager,"Good benefits, insurance and vacation. Great place for individual contributors.","Sometimes political, middle management roles are brutal"
+613,Texas Instruments,Great company,2019-11-09,5.0,Product Marketing Engineer,Great work environment and city,small salary increases and long promotions
+614,Texas Instruments,Great Company,2019-10-21,5.0,Business Development Manager,Amazing culture and great people.,Lower pay than other competitors
+615,Texas Instruments,Great Company,2020-02-17,4.0,Financial Analyst,Great salary and good bonus. Great work/life balance.,Such a large company that it would take 10 years to get promoted
+616,Texas Instruments,Great experience for new college grads,2019-08-29,5.0,Applications Engineer,great work culture and good exposure to upper management instantly. ability to move up and down the tech ladder quickly,pay is not as competitive as other tech companies
+617,Texas Instruments,I am the manager of commissions,2020-02-03,4.0,Commissions Manager,Profit sharing was a huge retention tool.,The company sucks at developing young managers.
+618,Texas Instruments,great company to learn,2020-02-29,4.0,Anonymous Employee,flexible working hours and work from home.,less extra curricular activities .
+619,Texas Instruments,"Great Team, Great Work Environment",2019-09-11,5.0,Verification Design Engineer,Always something new to learn from doing work on the project  and working with others,Management might find difficulty organizing teams properly
+620,Texas Instruments,Great place,2019-10-02,5.0,Architectural Drafter,People were great and the company was great and family environment,Management was bad and very lazy
+621,Texas Instruments,Good company,2020-03-08,3.0,Anonymous Employee,Good at training design engineers,salary not very competitive imo
+622,Texas Instruments,Great place to work,2019-10-02,5.0,Systems Engineer,"Great company culture
+Good work-life balance
+Competitive salary
+Cutting edge technology",There is nothing special to mention.
+623,Texas Instruments,Good Company with Its Own Issues,2019-07-22,3.0,Field Team Member,"An impressive operations strategy and execution has led to fantastic company profits. Employee pay reflects that, especially those with equity. Lots of opportunity to move geographically and TI will try to hold onto good employees who need to move for personal reasons. If you want to travel, you can travel in the right role to your heart’s content. You’ll work with good people from all over the world. The work is generally interesting with opportunities to learn new things.","Feedback from the bottom is, at best, not really encouraged and, at worst, actively discouraged. There is no mechanism for holding managers accountable to their employees beyond creating an HR issue or the employee going head-to-head with their own manager (which is toxic to anyone who touches it). Employee annual pay reviews happen behind closed doors with no employee input. (You have five years of good-excellent reviews, but this year had a poor review because your boss is going through a divorce and can’t separate personal issues from work? Too bad, no one in management asks why a good employee turned bad, you just have to suck it up.) There is no company culture to prioritize managers actively communicating to employees to make sure they don’t get surprised by a bad end-of-year review. Employee development is solely up to the discretion of the manager as it’s not a mandatory part of the TI management culture."
+624,Texas Instruments,Great Place to work.,2019-12-07,4.0,Process Engineering Technician,Multiple opportunities for learning new skills.  TI supports self-improvement thru interpersonal and cultural courses.,"Among hundreds of other employees, forced to retire prior to 50yrs of age.  Did not receive pension after 25+yrs of service."
+625,Texas Instruments,Poor pay for the amount of work,2019-08-19,2.0,Verification Design Engineer,Vacation Policy is flexible. Decent Profit Sharing.,"Low Salary. Work here for 4 years and find out that new college graduate make as much as you do.  They try to take advantage of you as much as they can. 
+
+Even though it's a big company growth opportunity is actually limited. They have a hiring freeze and make you do all the work with little reward."
+626,Texas Instruments,"""Great company""",2020-02-05,4.0,Analog Engineer,good work experience and surrounding,Not a leader in cutting-edge technology
+627,Texas Instruments,Marketing Manager,2020-01-20,4.0,,Excellent opportunity here to learn and mature into a solid marketing individual,prefer to stick to the process
+628,Texas Instruments,Working in DFAB at Texas Instruments,2020-03-10,1.0,Manufacturing Specialist,choice of shifts to accommodate personal life.,"Not much to do with actual manufacturing. Mostly pushing  loaded carts, scanning, loading and unloading."
+629,Texas Instruments,Good place to work,2019-12-27,4.0,Anonymous Employee,"Pay, responsibility, diversity, work/life balance",Old company. Bureaucracy can be overwhelming sometimes. Ideas flow from management to engineering sometimes instead of the other way around.
+630,Texas Instruments,Good company but less chance to be noticed,2019-12-11,4.0,Systems Engineer,Big company has good base pay  and health insurance. Green card support is good.,Not easy go get promoted. Not easy to increase salary. No stock.
+631,Texas Instruments,Work on manufacturing line,2019-08-05,5.0,Manufacturing Engineer,"Setting up assembly lines so a lot of scope for learning, developing skill sets",Not as technologically advanced as Bay Area companies
+632,Texas Instruments,Well structured,2019-09-05,5.0,Technical Sales Representative,"Well structured, and good pay",Can feel micro managed at times
+633,Texas Instruments,Great company to start at,2019-07-20,5.0,Manufacturing Specialist,"Independent work, decent pay, available overtime, friendly and welcoming staff","Takes a long time to advance, management is not always in touch with the manufacturing staff"
+634,Texas Instruments,"Pay is good, work is hard",2020-01-06,4.0,Manager,"TI pays well, generous PTO.",Stressful environment. Some are outright racist.
+635,Texas Instruments,Depends,2019-11-06,3.0,Engineering,"Company says the right things.
+Benefits are good.","Company sweeps things under the rug.
+Satisfaction is manager dependent.
+Perception is more important than truth.
+Employees are ranked against each other for raises/bonuses.  This doesn't encourage teamwork."
+636,Texas Instruments,Process Engineer,2019-08-04,5.0,Process Engineer,Great work life balance.  Secure company.,There are times when you have to do repetitive monotonous work
+637,Texas Instruments,It was the most knowledgable interview I have ever had!,2019-07-13,5.0,Medical Assistant,Benefits and the family oriented enviroment provided,Location was further than I expected
+638,Texas Instruments,"Conservative, steady company which lacks an innovative spirit",2016-10-27,3.0,Systems Engineer,"* TI's greatest asset is its people.
+
+* Very large company, enabling a curious mind to dabble in a number of different areas over the course of a career.
+
+* Solid compensation and benefits
+
+* Finally getting serious about renovating the campus.","* Since it's the only major semiconductor company in North Texas, a lot of people stick around for decades.  They are called lifers.  This prevents young, ambitious talent from growing into leadership roles.  Not all lifers are bad.  A lot have great ideas and a wealth of knowledge.  But, there are some lifers that are dead weight and need to be removed to make way for fresh ideas.
+
+* Politics and Bureaucracy.  It's a big company, so it comes with the territory.  But, the combination of the two tends to stifle innovative and creative ideas from ever taking root.
+
+* ""Old Boy Network"": some of the lifers mentioned above have escaped layoffs and have landed cushy roles via the network.  They always seem to be one step ahead of strategic shifts and the fallout that ensues.  Governing philosophy of these types is to hire capable people below them to do all the work, which frees them up to travel the globe on the company's dime.
+
+* Lack of Innovation and Entrepreneurial Thinking.  Upper management is dominated by sales and marketing types.  Primarily a formulaic, sales-driven approach to things, which is odd for a historically innovative technology company.  Not enough engineering thought leaders in upper management, which leads to a lack of inspirational engineering leadership throughout the company."
+639,Texas Instruments,Overall TI is a good place to work at but the company's focous is constantly changing.,2008-08-14,3.0,Design Engineer,"TI offers a relaxed environment for employees. A lot of resources are available for employees to accomplish their requires tasks and also to advance their career. Training is encouraged by management. The company employs some of the brightest engineers in the world. This creates a good learning environment. Most design facilities are located in Dallas Texas. A low cost of living place compared of most other high tech places. In general, TI is very competitive when it comes to compensation. TI does business in multiple area, therefore, there are multiple large design organizations. Not all design groups are the same, some are great to work with others are not.","TI in general has an old school culture that is resistive to change. Some of the design groups still prioritize seniority above performance when it comes to advancement.  This is not the norm across the company, but it does exist.  As a result of this old school culture, many of the engineers being promoted are not great example for their team in terms of performance and knowledge.  No all design groups are like this, some of the newer groups working on newer technologies are more in tune with the current culture which values performance and contribution more than seniority. In addition, management in general are very risk averse. Even when the results of change are obvious in terms of increased productivity, management are hesitant to change current ways of doing things."
