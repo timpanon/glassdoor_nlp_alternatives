@@ -6,3 +6,4 @@ __pycache__
 archive/
 models/
 glassdoor-review-scraper/
+glove.6B.50d.txt
