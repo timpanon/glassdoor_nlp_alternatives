@@ -10,7 +10,7 @@ In this project, I analyze glassdoor review data on a subset of firms in the alt
 This analysis could be useful for anyone with an interest in better understanding employee sentiment in the alternative assets industry. 
 
 ## Data 
-The data was extracted from csv files, containing review information for different companies. 
+The [data](https://github.com/timpanon/glassdoor_nlp_alternatives/tree/master/glassdoor-review-scraper) was extracted from csv files, containing review information for different companies. 
 
 In order to actually retrieve the data from each company, I wrote a web scraping tool to grab reviews from individual Glassdoor pages. This was significantly more labor intensive than interacting with an API. Full code can found [here](https://github.com/timpanon/glassdoor_nlp_alternatives/tree/master/glassdoor-review-scraper).
 
@@ -22,11 +22,11 @@ In order to actually retrieve the data from each company, I wrote a web scraping
 
 ## Results
 - Glassdoor Reviews are more likely to be written in Q1  
-![reviews by month](./pictures/reviews_by_month.png)
+![reviews by month](./plots/reviews_by_month.png)
 - Average Glassdoor review scores tend to change year by year for individual companies but have been relatively similar for the past few years when looking at all companies
-![average scores per year](./pictures/reviews_by_year_all_firms.png)
+![average scores per year](./plots/reviews_by_year_all_firms.png)
 - Employee priorities may have changed since the pandemic. Prior to the pandemic, office location was a more significant factor. Since then, other values such as work/life balance, job security, and being part of an inclusive culture seem to be more important.
-![bigrams matrix](./pictures/bigrams_matrix.png)
+![bigrams matrix](./plots/bigrams_matrix.png)
 - Employees from different departments rated their firms differently, indicating that some functions feel more or less valued. It may be worth digging into this further.
 - Top rated firms appear to have less hierarchical environments, have put resources into creating environments that are welcoming for employees through benefits and perks and have hired and retained smart, collaborative talent 
 - Lower rated companies have done poorly in creating inclusive work cultures and are plagued by politics, long hours, and cutthroat environments. 
@@ -50,7 +50,7 @@ For more information, contact [Nick Timpano](mailto:nick.timpano@gmail.com)
 ## Repo Structure 
 
 ```
-├── pictures/
+├── plots/
 ├── reviews/
 ├── quits.csv
 ├── investment_links.csv
