@@ -8,3 +8,7 @@ models/
 glassdoor-review-scraper/
 glove.6B.50d.txt
 reviews_finance.pickle
+pictures/
+pickle/
+checkpoint/
+chromedriver.exe
