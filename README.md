@@ -4,15 +4,15 @@
 ## Overview 
 The alternative assets industry is often regarded as being fairly tight-lipped about firm performance, but information about company culture can be just as self-contained.  
 
-In this project, I analyze glassdoor review data on a subset of firms in the alternative assets industry in order to better understand the current state of employee happiness in this space, and what aspects of a company/role employees value. To do so, I first gather the data by using a scraping tool (more details [here](https://github.com/timpanon/glassdoor_nlp_alternatives/tree/master/glassdoor-review-scraper)) and then proceeded to conduct EDA and several natural language processing techniques to draw out insights on employee values and sentiment. I sought to understand what qualities of a company and role employees in this industry value most. 
+In this project, I analyze glassdoor review data on a subset of firms in the alternative assets industry in order to better understand the current state of employee happiness in this space, and what aspects of a company/role employees value. To do so, I first gather the data by using a scraping tool (more details [here](https://github.com/timpanon/glassdoor_nlp_alternatives/blob/master/glassdoor_review_scraper.ipynb)) and then proceeded to conduct EDA and several natural language processing techniques to draw out insights on employee values and sentiment. I sought to understand what qualities of a company and role employees in this industry value most. 
 
 #### Audience 
 This analysis could be useful for anyone with an interest in better understanding employee sentiment in the alternative assets industry. 
 
 ## Data 
-The [data](https://github.com/timpanon/glassdoor_nlp_alternatives/tree/master/glassdoor-review-scraper) was extracted from csv files, containing review information for different companies. 
+The [data](https://github.com/timpanon/glassdoor_nlp_alternatives/tree/master/reviews) was extracted from csv files, containing review information for different companies. 
 
-In order to actually retrieve the data from each company, I wrote a web scraping tool to grab reviews from individual Glassdoor pages. This was significantly more labor intensive than interacting with an API. Full code can found [here](https://github.com/timpanon/glassdoor_nlp_alternatives/tree/master/glassdoor-review-scraper).
+In order to actually retrieve the data from each company, I wrote a web scraping tool to grab reviews from individual Glassdoor pages. This was significantly more labor intensive than interacting with an API. Full code can found [here](https://github.com/timpanon/glassdoor_nlp_alternatives/blob/master/glassdoor_review_scraper.ipynb).
 
 ## Methods/Techniques 
 - EDA 
